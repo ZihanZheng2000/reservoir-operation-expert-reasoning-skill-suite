@@ -1,0 +1,795 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        1
+      ]
+    ],
+    "date-time": "2026-09-01T11:17:31Z",
+    "timestamp": 1788261451141,
+    "version": "build-2803163510"
+  },
+  "reference-count": 43,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2016,
+            9,
+            1
+          ]
+        ],
+        "date-time": "2016-09-01T00:00:00Z",
+        "timestamp": 1472688000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51309104"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51309104"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51239004"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51239004"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51190094"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51190094"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2016,
+        9
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2016.06.015",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2016,
+        6,
+        25
+      ]
+    ],
+    "date-time": "2016-06-25T23:47:13Z",
+    "timestamp": 1466898433000
+  },
+  "page": "712-726",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 107,
+  "special_numbering": "C",
+  "title": [
+    "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation"
+  ],
+  "prefix": "10.1016",
+  "volume": "540",
+  "author": [
+    {
+      "given": "Lu",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vijay P.",
+      "family": "Singh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Weiwei",
+      "family": "Lu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Junhong",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jianzhong",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shenglian",
+      "family": "Guo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1016/j.insmatheco.2007.02.001",
+      "article-title": "Pair-copula constructions of multiple dependence",
+      "volume": "44",
+      "author": "Aas",
+      "year": "2009",
+      "journal-title": "Insur. Math. Econ."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "72",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000088",
+      "article-title": "Decision support system for optimizing reservoir operations using ensemble streamflow predictions",
+      "volume": "137",
+      "author": "Alemu",
+      "year": "2011",
+      "journal-title": "J. Water Res. Plann. – ASCE"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "2299",
+      "DOI": "10.5194/hess-13-2299-2009",
+      "article-title": "Copula based multisite model for daily precipitation",
+      "volume": "13",
+      "author": "Bárdossy",
+      "year": "2009",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/j.jhydrol.2011.11.042",
+      "article-title": "Hydro-economic assessment of hydrological forecasting systems",
+      "volume": "416",
+      "author": "Boucher",
+      "year": "2012",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1080/713666155",
+      "article-title": "Dependence structures for multivariate high-frequency data in finance",
+      "volume": "3",
+      "author": "Breymann",
+      "year": "2003",
+      "journal-title": "Quant. Finance"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "369",
+      "DOI": "10.1016/j.jhydrol.2015.05.018",
+      "article-title": "Copula-based method for multisite monthly and daily streamflow simulation",
+      "volume": "528",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "3–4",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "480",
+      "DOI": "10.1016/j.jhydrol.2010.05.032",
+      "article-title": "A daily stochastic weather generator for preserving low-frequency of climate variability",
+      "volume": "388",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "797",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000697",
+      "article-title": "Drought analysis using copulas",
+      "volume": "18",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "1264",
+      "DOI": "10.1080/02626667.2010.520564",
+      "article-title": "A new seasonal design flood method based on bivariate joint distribution of flood magnitude and date of occurrence",
+      "volume": "55",
+      "author": "Chen",
+      "year": "2010",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "742",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000504",
+      "article-title": "Flood coincidence risk analysis using multivariate copula functions",
+      "volume": "17",
+      "author": "Chen",
+      "year": "2012",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "1591",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000714",
+      "article-title": "Measure of correlation between river flows using the copula-entropy method",
+      "volume": "18",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "621",
+      "DOI": "10.1016/j.jhydrol.2015.07.003",
+      "article-title": "An objective method for partitioning the entire flood season into multiple sub-seasons",
+      "volume": "528",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1016/j.jhydrol.2014.11.053",
+      "article-title": "Real-time error correction method combined with combination flood forecasting technique for improving the accuracy of flood forecasting",
+      "volume": "521",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "D2",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "40",
+      "DOI": "10.1029/2002JD002534",
+      "article-title": "A generalized Pareto intensity duration model of storm rainfall exploiting 2-copulas",
+      "volume": "108",
+      "author": "De Michele",
+      "year": "2003",
+      "journal-title": "J. Geophys. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1111/j.1751-5823.2005.tb00254.x",
+      "article-title": "The t copula and related copulas",
+      "volume": "73",
+      "author": "Demarta",
+      "year": "2005",
+      "journal-title": "Int. Stat. Rev."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1111/j.1751-5823.2005.tb00254.x",
+      "article-title": "The t copula and related copulas",
+      "volume": "73",
+      "author": "Demarta",
+      "year": "2005",
+      "journal-title": "Int. Stat. Rev."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0085",
+      "author": "European Commission"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "537",
+      "DOI": "10.2166/hydro.2011.055",
+      "article-title": "Computational decision analysis for flood risk management in an uncertain future",
+      "volume": "14",
+      "author": "Harvey",
+      "year": "2011",
+      "journal-title": "J. Hydroinform."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "7139",
+      "DOI": "10.1002/wrcr.20523",
+      "article-title": "Modeling multisite streamflow dependence with maximum entropy copula",
+      "volume": "49",
+      "author": "Hao",
+      "year": "2013",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "17",
+      "DOI": "10.1080/07408179408966604",
+      "article-title": "Modeling the evolution of demand forecasts with application to safety stock analysis in production distribution systems",
+      "volume": "26",
+      "author": "Heath",
+      "year": "1994",
+      "journal-title": "IIE Trans."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "782",
+      "DOI": "10.1016/j.matcom.2010.07.005",
+      "article-title": "t-Copula generation for control variates",
+      "volume": "81",
+      "author": "Hörmann",
+      "year": "2010",
+      "journal-title": "Math Comput. Simulat."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "130",
+      "DOI": "10.1109/TGRS.2003.818341",
+      "article-title": "Sensitivity analyses of satellite rainfall retrieval and sampling error on flood prediction uncertainty",
+      "volume": "42",
+      "author": "Hossain",
+      "year": "2004",
+      "journal-title": "IEEE Trans. Geosci. Remote Sens."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1016/S0022-1694(02)00106-3",
+      "article-title": "Bayesian system for probabilistic river stage forecasting",
+      "volume": "268",
+      "author": "Krzysztofowicz",
+      "year": "2002",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.2166/nh.2011.085",
+      "article-title": "Copula-based stochastic simulation of hydrological data applied to Nile River flows",
+      "volume": "42",
+      "author": "Lee",
+      "year": "2011",
+      "journal-title": "Hydrol. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "210",
+      "DOI": "10.1016/j.jhydrol.2010.06.044",
+      "article-title": "Evaluation of the subjective factors of the GLUE method and comparison with the formal Bayesian method in uncertainty assessment of hydrological models",
+      "volume": "390",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1016/j.jhydrol.2014.04.012",
+      "article-title": "Parameter uncertainty analysis of reservoir operating rules based on implicit stochastic optimization",
+      "volume": "514",
+      "author": "Liu",
+      "year": "2014",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "W00B08",
+      "DOI": "10.1029/2008WR006897",
+      "article-title": "Estimating the uncertainty of hydrologic forecasts: a statistical approach",
+      "volume": "44",
+      "author": "Montanari",
+      "year": "2008",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "1593",
+      "DOI": "10.1175/BAMS-86-11-1593",
+      "article-title": "Flood risk, uncertainty, and scientific information for decision making: lessons from an interdisciplinary project",
+      "volume": "86",
+      "author": "Morss",
+      "year": "2005",
+      "journal-title": "Bull. Amer. Meteor. Soc."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "WR011649",
+      "DOI": "10.1029/2011WR011649",
+      "article-title": "Flood forecast errors and ensemble spread – a case study",
+      "volume": "48",
+      "author": "Nester",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0180",
+      "author": "Pham"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "795",
+      "DOI": "10.5194/hess-17-795-2013",
+      "article-title": "A Bayesian joint probability post-processor for reducing errors and quantifying uncertainty in monthly streamflow predictions",
+      "volume": "17",
+      "author": "Pokhrel",
+      "year": "2013",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "161",
+      "DOI": "10.5194/nhess-8-161-2008",
+      "article-title": "Verification of operational quantitative discharge forecast (QDF) for a regional warning system – the AMPHORE case studies in the upper Po River",
+      "volume": "8",
+      "author": "Rabuffetti",
+      "year": "2008",
+      "journal-title": "Nat. Hazards Earth Syst. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "W10531",
+      "DOI": "10.1029/2009WR008933",
+      "article-title": "A formal likelihood function for parameter and predictive inference of hydrologic models with correlated, heteroscedastic, and non-Gaussian errors",
+      "volume": "46",
+      "author": "Schoups",
+      "year": "2010",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "795",
+      "DOI": "10.1007/s11269-005-9008-9",
+      "article-title": "Fitting drought duration and severity with two-dimensional copulas",
+      "volume": "20",
+      "author": "Shiau",
+      "year": "2006",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0205",
+      "volume": "vol. 24",
+      "author": "Smith",
+      "year": "1998"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1016/j.jhydrol.2004.07.011",
+      "article-title": "Hybrid moving block bootstrap for stochastic simulation of multi-site multi-season streamflows",
+      "volume": "302",
+      "author": "Srinivas",
+      "year": "2005",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "433",
+      "DOI": "10.1007/BF02427928",
+      "article-title": "Incorporating inflow uncertainty into risk assessment for reservoir operation",
+      "volume": "11",
+      "author": "Xu",
+      "year": "1997",
+      "journal-title": "Stoch. Hydrol. Hydraul."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1007/s00477-013-0756-4",
+      "article-title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+      "volume": "28",
+      "author": "Yan",
+      "year": "2014",
+      "journal-title": "Stoch. Environ. Res. Risk A"
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.18637/jss.v021.i04",
+      "article-title": "Enjoy the joy of copulas: with a package copula",
+      "volume": "21",
+      "author": "Yan",
+      "year": "2007",
+      "journal-title": "J. Stat. Softw."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "1389",
+      "DOI": "10.1007/s11069-014-1385-z",
+      "article-title": "Determination of the distribution of flood forecasting error",
+      "volume": "1",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "150",
+      "DOI": "10.1061/(ASCE)1084-0699(2006)11:2(150)",
+      "article-title": "Bivariate flood frequency analysi using the copula method",
+      "volume": "11",
+      "author": "Zhang",
+      "year": "2006",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2016.06.015_b0260",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.advwatres.2013.03.008",
+      "article-title": "Generalized martingale model of the uncertainty evolution of streamflow forecasts",
+      "volume": "57",
+      "author": "Zhao",
+      "year": "2013",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2016.06.015_b0265",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1016/j.advwatres.2011.01.004",
+      "article-title": "Effect of streamflow forecast uncertainty on real-time reservoir operation",
+      "volume": "34",
+      "author": "Zhao",
+      "year": "2011",
+      "journal-title": "Adv. Water Resour."
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169416303663?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169416303663?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2019,
+        11,
+        1
+      ]
+    ],
+    "date-time": "2019-11-01T10:23:00Z",
+    "timestamp": 1572603780000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169416303663"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2016,
+        9
+      ]
+    ]
+  },
+  "references-count": 43,
+  "alternative-id": [
+    "S0022169416303663"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2016.06.015",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2016,
+        9
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2016.06.015",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2016 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

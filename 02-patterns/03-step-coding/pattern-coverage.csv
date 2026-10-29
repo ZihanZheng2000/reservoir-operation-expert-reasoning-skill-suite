@@ -1,0 +1,21 @@
+﻿pattern_id,layer,pattern_name,papers_any_match,papers_primary,steps_with_match,primary_matches,secondary_matches
+EP01,E,Prepare reservoir-operation data and baseline rules,33,31,38,36,2
+EP02,E,Develop and verify flood and reservoir inflow forecasts,33,24,50,34,16
+EP03,E,Model operational uncertainty and generate possible scenarios,36,31,85,62,23
+EP04,E,Model reservoir and downstream flood responses under uncertainty,37,29,59,37,22
+EP05,E,Calculate operating safety bounds and check feasibility,25,12,40,18,22
+EP06,E,Solve for candidate operating plans and rule parameters,36,36,66,56,10
+EP07,E,"Calculate risks, losses, and benefits of candidate operating plans",39,28,68,45,23
+EP08,E,Organize evaluation criteria and select operating alternatives,11,7,25,18,7
+EP09,E,Translate operating results into staged actions and rolling updates,28,20,45,30,15
+EP10,E,Compare and test reservoir operating policies,49,42,90,70,20
+EP11,E,"Conduct operational consultation, pilot implementation, and rule revision",2,2,7,7,0
+RP01,R,Diagnose limitations of existing reservoir operating rules under flooding risk,18,16,19,16,3
+RP02,R,Identify uncertainties that affect flood risk and reservoir operation decisions,35,31,73,57,16
+RP03,R,Judge forecast reliability and timing for reservoir flood-operation decisions,25,18,41,20,21
+RP04,R,Justify reservoir and downstream flood risk and acceptable safety limits,45,37,79,52,27
+RP05,R,Judge physical and operational feasibility of reservoir adjustments,25,16,40,19,21
+RP06,R,Frame reservoir operating trade-offs and selection principles,40,33,84,56,28
+RP07,R,Consider adaptive reservoir operation across flood-event stages,25,16,40,24,16
+RP08,R,Select model representation and solution methods,26,26,38,38,0
+RP09,R,Judge evidence and applicability for reservoir operation adjustments,44,38,87,62,25

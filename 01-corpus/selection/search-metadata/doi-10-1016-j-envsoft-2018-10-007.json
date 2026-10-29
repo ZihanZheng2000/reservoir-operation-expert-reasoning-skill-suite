@@ -1,0 +1,736 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2026-08-21T12:02:50Z",
+    "timestamp": 1787313770424,
+    "version": "build-2736575974"
+  },
+  "reference-count": 37,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2019-01-01T00:00:00Z",
+        "timestamp": 1546300800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            1,
+            1
+          ]
+        ],
+        "date-time": "2019-01-01T00:00:00Z",
+        "timestamp": 1546300800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "name": "National Key R&D Program of China, China",
+      "award": [
+        "2017YFC0405606"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017YFC0405606"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China, China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51579068"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51579068"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "Fundamental Research Funds for the Central Universities, China",
+      "award": [
+        "2018B18214"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2018B18214"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of Jiangsu Province, China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "BK20180509"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "BK20180509"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "China Postdoctoral Science Foundation, China",
+      "award": [
+        "2017M621612"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017M621612"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Postdoctoral Science Foundation of Jiangsu Province, China",
+      "award": [
+        "2018K127C"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2018K127C"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Environmental Modelling &amp; Software"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.envsoft.2018.10.007",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        26
+      ]
+    ],
+    "date-time": "2018-10-26T18:21:34Z",
+    "timestamp": 1540578094000
+  },
+  "page": "409-420",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 89,
+  "special_numbering": "C",
+  "title": [
+    "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network"
+  ],
+  "prefix": "10.1016",
+  "volume": "111",
+  "author": [
+    {
+      "given": "Juan",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ping-An",
+      "family": "Zhong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ru",
+      "family": "An",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Feilin",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bin",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib1",
+      "doi-asserted-by": "crossref",
+      "first-page": "W07544",
+      "DOI": "10.1029/2009WR008848",
+      "article-title": "Participatory development of a Bayesian network model for catchment-based water resource management",
+      "volume": "46",
+      "author": "Chan",
+      "year": "2010",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib2",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib3",
+      "series-title": "Bayesian Networks and BayesiaLab: a Practical Introduction for Researchers",
+      "author": "Conrady",
+      "year": "2015"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib4",
+      "first-page": "235",
+      "article-title": "Learning Gaussian networks",
+      "author": "Dan",
+      "year": "1994",
+      "journal-title": "Uncertainty Proceedings"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib5",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1016/j.ress.2012.04.007",
+      "article-title": "Uncertainty analysis of river flooding and dam failure risks using local sensitivity computations",
+      "volume": "107",
+      "author": "Delenne",
+      "year": "2012",
+      "journal-title": "Reliab. Eng. Syst. Saf."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.envsoft.2018.10.007_bib6",
+      "doi-asserted-by": "crossref",
+      "first-page": "1949",
+      "DOI": "10.1007/s11431-010-3124-3",
+      "article-title": "Risk analysis of flood control operation mode with forecast information based on a combination of risk sources",
+      "volume": "53",
+      "author": "Diao",
+      "year": "2010",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib7",
+      "series-title": "Federal Guidelines for Dam Safety Risk Management, Rep. FEMA P-1025",
+      "author": "Federal Emergency Management Agency (FEMA)",
+      "year": "2015"
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2018.10.007_bib8",
+      "doi-asserted-by": "crossref",
+      "first-page": "929",
+      "DOI": "10.1007/s10596-013-9365-z",
+      "article-title": "Non-parametric bayesian networks for parameter estimation in reservoir simulation: a graphical take on the ensemble Kalman filter (part I)",
+      "volume": "17",
+      "author": "Hanea",
+      "year": "2013",
+      "journal-title": "Comput. Geosci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib9",
+      "series-title": "Hydrological Risk Analysis in Inter-basin Water Transfer Projects Based on Bayesian Networks",
+      "author": "He",
+      "year": "2012"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2018.10.007_bib10",
+      "doi-asserted-by": "crossref",
+      "first-page": "35",
+      "DOI": "10.1007/s00477-010-0435-7",
+      "article-title": "Evaluation of dam overtopping probability induced by flood and wind",
+      "volume": "25",
+      "author": "Hsu",
+      "year": "2010",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2018.10.007_bib37",
+      "doi-asserted-by": "crossref",
+      "first-page": "349",
+      "DOI": "10.1080/02626669809492131",
+      "article-title": "Application of stochastic differential equations in risk assessment for flood releases",
+      "volume": "43",
+      "author": "Jiang",
+      "year": "1998",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2018.10.007_bib11",
+      "doi-asserted-by": "crossref",
+      "first-page": "769",
+      "DOI": "10.1007/s00477-012-0608-7",
+      "article-title": "Estimation of uncertainty sources in the projections of Lithuanian river runoff",
+      "volume": "27",
+      "author": "Kriauciuniene",
+      "year": "2013",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2018.10.007_bib12",
+      "doi-asserted-by": "crossref",
+      "first-page": "1275",
+      "DOI": "10.1016/j.ssci.2012.01.007",
+      "article-title": "Research on flood risk analysis and evaluation method based on variable fuzzy sets and information diffusion",
+      "volume": "50",
+      "author": "Li",
+      "year": "2012",
+      "journal-title": "Saf. Sci."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib13",
+      "series-title": "The Application of Dynamic Bayesian Networks in Hydrologic Forecast",
+      "author": "Li",
+      "year": "2009"
+    },
+    {
+      "issue": "1–2",
+      "key": "10.1016/j.envsoft.2018.10.007_bib14",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.envsoft.2018.10.007_bib15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1420",
+      "DOI": "10.1016/j.envsoft.2009.06.008",
+      "article-title": "Developing monthly operating rules for a cascade system of reservoirs: application of Bayesian networks",
+      "volume": "24",
+      "author": "Malekmohammadi",
+      "year": "2009",
+      "journal-title": "Environ. Model. Software"
+    },
+    {
+      "issue": "130",
+      "key": "10.1016/j.envsoft.2018.10.007_bib16",
+      "doi-asserted-by": "crossref",
+      "first-page": "232",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:3(232)",
+      "article-title": "Sensitivity analysis of a water-quality model using Latin Hypercube Sampling",
+      "volume": "3",
+      "author": "Manache",
+      "year": "2004",
+      "journal-title": "J. Water Resour. Plann. Manag."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.envsoft.2018.10.007_bib17",
+      "doi-asserted-by": "crossref",
+      "first-page": "734",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000362",
+      "article-title": "Composite risk assessment for the sacramento – san joaquin delta levee system",
+      "volume": "140",
+      "author": "Mcanally",
+      "year": "2014",
+      "journal-title": "J. Water Resour. Plann. Manag."
+    },
+    {
+      "issue": "132",
+      "key": "10.1016/j.envsoft.2018.10.007_bib18",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1016/0022-1694(92)90177-W",
+      "article-title": "An improved first-order reliability approach for assessing uncertainties in hydrologic modeling",
+      "author": "Melching",
+      "year": "1992",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2018.10.007_bib19",
+      "doi-asserted-by": "crossref",
+      "first-page": "238",
+      "DOI": "10.1016/j.envsoft.2008.06.007",
+      "article-title": "Developing real time operating rules for trading discharge permits in rivers: application of Bayesian networks",
+      "volume": "24",
+      "author": "Mesbah",
+      "year": "2009",
+      "journal-title": "Environ. Model. Software"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib20",
+      "series-title": "Standard for Hydrological Information and Hydrological Forecasting, Rep. SL250-2000",
+      "author": "Ministry of Water Resources (MWR)",
+      "year": "2000"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib21",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1016/j.jhydrol.2012.11.038",
+      "article-title": "Dynamic Bayesian networks as a decision support tool for assessing climate change impacts on highly stressed groundwater systems",
+      "volume": "479",
+      "author": "Molina",
+      "year": "2013",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib22",
+      "series-title": "14th Conference on Uncertainty in Artificial Intelligence, Madison, WI, USA, 24 - 26 Jul 1998",
+      "first-page": "404",
+      "article-title": "A multivariate discretization method for learning Bayesian networks from mixed data",
+      "author": "Monti",
+      "year": "1998"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.envsoft.2018.10.007_bib23",
+      "doi-asserted-by": "crossref",
+      "first-page": "8107",
+      "DOI": "10.1002/2014WR015600",
+      "article-title": "Spatially implemented Bayesian network model to assess environmental impacts of water management",
+      "volume": "50",
+      "author": "Morrison",
+      "year": "2014",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib24",
+      "series-title": "Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference",
+      "author": "Pearl",
+      "year": "1988"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib25",
+      "first-page": "489",
+      "article-title": "Structural reliability under combined random load sequences",
+      "volume": "9",
+      "author": "Rudiger",
+      "year": "1977",
+      "journal-title": "Comput. Struct."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.envsoft.2018.10.007_bib26",
+      "doi-asserted-by": "crossref",
+      "first-page": "833",
+      "DOI": "10.1029/WR017i004p00833",
+      "article-title": "Risk model for flood levee design",
+      "volume": "17",
+      "author": "Tung",
+      "year": "1981",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.envsoft.2018.10.007_bib27",
+      "doi-asserted-by": "crossref",
+      "first-page": "583",
+      "DOI": "10.1007/s00477-013-0774-2",
+      "article-title": "Assessment of design rainfall uncertainty for hydrologic engineering applications in Hong Kong",
+      "volume": "28",
+      "author": "Tung",
+      "year": "2013",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.envsoft.2018.10.007_bib28",
+      "first-page": "1079",
+      "article-title": "Rethinking risk analysis: the risks of risk analysis in water issues as the case, Human and Ecological Risk Assessment",
+      "volume": "15",
+      "author": "Wang",
+      "year": "2009",
+      "journal-title": "Int. J."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib29",
+      "doi-asserted-by": "crossref",
+      "first-page": "W02409",
+      "DOI": "10.1029/2006WR005419",
+      "article-title": "A Bayesian network approach to knowledge integration and representation of farm irrigation: 1. Model development",
+      "volume": "45",
+      "author": "Wang",
+      "year": "2009",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib30",
+      "doi-asserted-by": "crossref",
+      "first-page": "26",
+      "DOI": "10.1016/j.ecolmodel.2012.07.008",
+      "article-title": "Mining monitored data for decision-making with a Bayesian network model",
+      "volume": "249",
+      "author": "Williams",
+      "year": "2013",
+      "journal-title": "Ecol. Model."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.envsoft.2018.10.007_bib31",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.1007/s11069-010-9653-z",
+      "article-title": "Risk analysis for flood-control structure under consideration of uncertainties in design flood",
+      "volume": "58",
+      "author": "Wu",
+      "year": "2011",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib32",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1016/j.advwatres.2016.10.022",
+      "article-title": "A hybrid Bayesian network approach for trade-offs between environmental flows and agricultural water using dynamic discretization",
+      "volume": "110",
+      "author": "Xue",
+      "year": "2016",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.envsoft.2018.10.007_bib33",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1007/s00477-013-0756-4",
+      "article-title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+      "volume": "28",
+      "author": "Yan",
+      "year": "2014",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib34",
+      "series-title": "Paper Presented at International Conference on Machine Learning and Cybernetics",
+      "article-title": "Construction and application of bayesian networks in flood decision supporting system",
+      "author": "Zhang",
+      "year": "2002"
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib35",
+      "doi-asserted-by": "crossref",
+      "first-page": "274",
+      "DOI": "10.1016/j.jhydrol.2016.06.030",
+      "article-title": "An optimization based sampling approach for multiple metrics uncertainty analysis using generalized likelihood uncertainty estimation",
+      "volume": "540",
+      "author": "Zhou",
+      "year": "2016",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.envsoft.2018.10.007_bib36",
+      "doi-asserted-by": "crossref",
+      "first-page": "236",
+      "DOI": "10.1016/j.envsoft.2017.11.032",
+      "article-title": "Multi-criteria group decision making under uncertainty: application in reservoir flood control operation",
+      "volume": "100",
+      "author": "Zhu",
+      "year": "2018",
+      "journal-title": "Environ. Model. Software"
+    }
+  ],
+  "container-title": [
+    "Environmental Modelling &amp; Software"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1364815218301191?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S1364815218301191?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        23
+      ]
+    ],
+    "date-time": "2025-10-23T22:56:50Z",
+    "timestamp": 1761260210000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1364815218301191"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  },
+  "references-count": 37,
+  "alternative-id": [
+    "S1364815218301191"
+  ],
+  "URL": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+  "relation": {},
+  "ISSN": [
+    "1364-8152"
+  ],
+  "issn-type": [
+    {
+      "value": "1364-8152",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        1
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Environmental Modelling & Software",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2018 Published by Elsevier Ltd.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

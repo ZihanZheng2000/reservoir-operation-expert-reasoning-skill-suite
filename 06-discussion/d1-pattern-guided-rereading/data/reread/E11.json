@@ -1,0 +1,25 @@
+{
+  "paper": "E11",
+  "patterns": {
+    "RP01": {"present": true, "small": ["RP01-A", "RP01-B", "RP01-D"], "quote": "Nevertheless, most real-world flood events are significantly smaller than the design magnitude; fixing the pre-storm regulating water level at FLWL may be too conservative.", "where": "Section 2.1, p.3"},
+    "RP02": {"present": true, "small": ["RP02-A", "RP02-F", "RP02-G"], "quote": "For a given forecast skill Cp, the forecast uncertainty level, σε2, can be therefore derived from Equation (3).", "where": "Section 2.2.1, p.5"},
+    "RP03": {"present": true, "small": ["RP03-D", "RP03-G"], "quote": "Once the forecast product performs abnormally, this strategy should be terminated immediately, and reservoir water level must be lowered to the designed FLWL on safety grounds.", "where": "Section 4.2, p.17"},
+    "RP04": {"present": true, "small": ["RP04-A", "RP04-B", "RP04-D", "RP04-E"], "quote": "we may define a dynamic design-flood probability P′des (in terms of exceedance probability of forecast error for each incoming flood) as a new flood control standard, thereby spreading the tiny flood control risk to each flood.", "where": "Section 2.2.2, p.5"},
+    "RP05": {"present": true, "small": ["RP05-A", "RP05-B", "RP05-C"], "quote": "the limit operation water level is bounded by reservoir pre-release capacity, forecast skill, forecast lead-time for pre-release operation, and the magnitude of the design flood.", "where": "Section 4.1, p.17"},
+    "RP06": {"present": true, "small": ["RP06-A", "RP06-C"], "quote": "maximizing the excess reservoir storage during the flood season for economic benefits as well as ensure flood control safety by suitably relaxing the FLWL.", "where": "Section 1, p.2"},
+    "RP07": {"present": true, "small": ["RP07-A", "RP07-B", "RP07-E"], "quote": "The flood-control operation can be split into three periods depending on the occurrence of the flood event: pre-release period, storm-control period, non-storm period.", "where": "Section 2.1, p.3"},
+    "RP08": {"present": true, "small": ["RP08-A", "RP08-B"], "quote": "Focusing on large reservoirs that are unaffected by intraday (e.g., hourly) peak flow fluctuations, this study explores the possibility of flood-control operation based on the forecasts of maximum period flood volume.", "where": "Section 2, p.3"},
+    "RP09": {"present": true, "small": ["RP09-A", "RP09-B", "RP09-C", "RP09-D", "RP09-E"], "quote": "Note that this method is only applicable to reservoirs whose sizes are large enough to retain flood-peaks.", "where": "Section 3, p.8"},
+    "EP01": {"present": true, "small": ["EP01-A", "EP01-B", "EP01-D"], "quote": "Using the observed daily inflow records from the year 1882 to 2007 at Yichang hydrologic station, four sets of statistics for maximum daily flow (m3/s) and maximum 1, 2, 3 and 5 day flood volumes", "where": "Section 3.2, p.9"},
+    "EP02": {"present": false},
+    "EP03": {"present": true, "small": ["EP03-A", "EP03-C", "EP03-D", "EP03-G"], "quote": "After simulation with 40,000 repetitions (10,000 times each period flow, i.e., maximum 1 day, 2 day, 3 day, and 5 day flood volumes), we have 10,000 sets of simulated floods", "where": "Section 3.2.1, p.10"},
+    "EP04": {"present": true, "small": ["EP04-A"], "quote": "Regulating flood with the maximum safety release, the solid lines in Figure 3 show the reservoir storage processes within the storm-control period under three flood shape types.", "where": "Section 2.2.2, p.7"},
+    "EP05": {"present": true, "small": ["EP05-A", "EP05-B"], "quote": "To ensure flood control safety, reservoir pre-storm regulating water level should not be higher than this D-PSLts", "where": "Section 2.2.2, p.7"},
+    "EP06": {"present": true, "small": ["EP06-A"], "quote": "Define the minimum value in {D-PSL1 d, D-PSL2 d, D-PSL3 d, D-PSL5 d} as the chosen D-PSL.", "where": "Section 2.2.2, Step 7, p.7"},
+    "EP09": {"present": false},
+    "EP07": {"present": true, "small": ["EP07-A"], "quote": "However, this kind of probability for each flood event is less than P′des, which is usually as small as 1% to 0.01%.", "where": "Section 2.2.3, p.8"},
+    "EP08": {"present": false},
+    "EP10": {"present": true, "small": ["EP10-A", "EP10-C", "EP10-D"], "quote": "the chosen D-PSL under zero-forecast-skill conditions is 144.89 m, which is fairly close to the TGR designed FLWL 145 m.", "where": "Section 3.2.2, p.13"},
+    "EP11": {"present": false}
+  }
+}

@@ -1,0 +1,1075 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        1
+      ]
+    ],
+    "date-time": "2026-07-01T22:49:38Z",
+    "timestamp": 1782946178207,
+    "version": "3.54.5"
+  },
+  "reference-count": 56,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            18
+          ]
+        ],
+        "date-time": "2022-02-18T00:00:00Z",
+        "timestamp": 1645142400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            2,
+            18
+          ]
+        ],
+        "date-time": "2022-02-18T00:00:00Z",
+        "timestamp": 1645142400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51909010"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51909010"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51925902"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51925902"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012226",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "DUT20RC(3)019"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "DUT20RC(3)019"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012226",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Five severe floods occurred in the Yangtze River Basin, China, between July and August 2020, and the Three Gorges Reservoir (TGR) located in the middle Yangtze River experienced the highest inflow since construction. The world’s largest cascade-reservoir group, which counts for 22 cascade reservoirs in the upper Yangtze River, cooperated in real time to control floods. The cooperation prevented evacuation of 600,000 people and extensive inundations of farmlands and aquacultural areas. In addition, no water spillage occurred during the flood control period, resulting in a world-record annual output of the TGR hydropower station. This work describes decision making challenges in the cooperation of super large reservoir groups based on a case-study, controlling the 4th and 5th floods (from Aug-14 to Aug-22), the efforts of technicians, multi-departments, and the state, and reflects on these. To realize the full potential of reservoir operation for the Yangtze River Basin and other basins with large reservoir groups globally, we suggest: (i) improve flood forecast accuracy with a long leading time; (ii) strengthen and further develop ongoing research on reservoir group cooperation; and (iii) improve and implement institutional mechanisms for coordinated operation of large reservoir groups.</jats:p>",
+  "DOI": "10.1038/s41598-022-06801-8",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        18
+      ]
+    ],
+    "date-time": "2022-02-18T11:24:46Z",
+    "timestamp": 1645183486000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 23,
+  "title": [
+    "Realizing the full reservoir operation potential during the 2020 Yangtze river floods"
+  ],
+  "prefix": "10.1038",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Hairong",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yanhong",
+      "family": "Dou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lei",
+      "family": "Ye",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chi",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Huaming",
+      "family": "Yao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhengfeng",
+      "family": "Bao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Zhengyang",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yongqiang",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yukai",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Shuang",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mengfei",
+      "family": "Xie",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jiang",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chao",
+      "family": "Shi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yufeng",
+      "family": "Ren",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Dongjie",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Biqiong",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yufan",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "6801_CR1",
+      "unstructured": "International Federation of Red Cross and Red Crescent Societies. World Disasters Report. (2020)."
+    },
+    {
+      "issue": "4",
+      "key": "6801_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "660",
+      "DOI": "10.20965/jdr.2018.p0660",
+      "volume": "13",
+      "author": "K Someya",
+      "year": "2018",
+      "unstructured": "Someya, K. Collaborative and adaptive dam operation for flood control. J. Disaster Res. 13(4), 660–667 (2018).",
+      "journal-title": "J. Disaster Res."
+    },
+    {
+      "key": "6801_CR3",
+      "doi-asserted-by": "publisher",
+      "first-page": "9224",
+      "DOI": "10.1029/2017WR022149",
+      "volume": "54",
+      "author": "KG Wheeler",
+      "year": "2018",
+      "unstructured": "Wheeler, K. G. et al. Exploring cooperative transboundary river management strategies for the Eastern Nile Basin. Water Resour. Res. 54, 9224–9254. https://doi.org/10.1029/2017WR022149 (2018).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6801_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "124013",
+      "DOI": "10.1088/1748-9326/abc4fe",
+      "volume": "15",
+      "author": "H Li",
+      "year": "2020",
+      "unstructured": "Li, H., Liu, P., Guo, S., Cheng, L. & Yin, J. Climatic control of upper Yangtze River flood hazard diminished by reservoir groups. Environ. Res. Lett. 15, 124013 (2020).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "6801_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "904",
+      "DOI": "10.1029/2017WR022090",
+      "volume": "55",
+      "author": "J Chang",
+      "year": "2019",
+      "unstructured": "Chang, J. et al. Reservoir operations to mitigate drought effects with a hedging policy triggered by the drought prevention limiting water level. Water Resour. Res. 55, 904–922. https://doi.org/10.1029/2017WR022090 (2019).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6801_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001110",
+      "volume": "145",
+      "author": "J Li",
+      "year": "2019",
+      "unstructured": "Li, J., Zhong, P., Yang, M. & Zhu, F. Dynamic and intelligent modeling methods for joint operation of a flood control system. J. Water Resour. Plan. Manag. 145, 1–12 (2019).",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "6801_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "1042",
+      "DOI": "10.1016/j.jhydrol.2014.08.036",
+      "volume": "519",
+      "author": "J Chang",
+      "year": "2014",
+      "unstructured": "Chang, J., Meng, X., Wang, Z., Wang, X. & Huang, Q. Optimized cascade reservoir operation considering ice flood control and power generation. J. Hydrol. 519, 1042–1051 (2014).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1155/2020/8858322",
+      "volume": "2020",
+      "author": "P Yuan",
+      "year": "2020",
+      "unstructured": "Yuan, P., Wang, P. & Zhao, Y. Novel model for manoeuvrability of ships advancing in landslide-generated tsunamis. Adv. Civil. Eng. 2020, 1–15 (2020).",
+      "journal-title": "Adv. Civil. Eng."
+    },
+    {
+      "key": "6801_CR9",
+      "volume-title": "Dams and Development: A New Framework for Decision-Making: The Report of the World Commission on Dams",
+      "author": "World Commission on Dams",
+      "year": "2000",
+      "unstructured": "World Commission on Dams. Dams and Development: A New Framework for Decision-Making: The Report of the World Commission on Dams (Earthscan Publications Ltd., 2000)."
+    },
+    {
+      "key": "6801_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "2171",
+      "DOI": "10.1007/s11269-015-0934-x",
+      "volume": "29",
+      "author": "C Li",
+      "year": "2015",
+      "unstructured": "Li, C., Zhou, J., Ouyang, S., Wang, C. & Liu, Y. Water resources optimal allocation based on large-scale reservoirs in the upper reaches of Yangtze river. Water Resour. Manag. 29, 2171–2187. https://doi.org/10.1007/s11269-015-0934-x (2015).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6801_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "11",
+      "DOI": "10.2166/nh.2013.391",
+      "volume": "46",
+      "author": "B Jia",
+      "year": "2015",
+      "unstructured": "Jia, B., Zhong, P., Wan, X., Xu, B. & Chen, J. Decomposition-coordination model of reservoir group and flood storage basin for real-time flood control operation. Hydrol. Res. 46, 11–25. https://doi.org/10.2166/nh.2013.391 (2015).",
+      "journal-title": "Hydrol. Res."
+    },
+    {
+      "key": "6801_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "543",
+      "DOI": "10.1016/j.jhydrol.2019.03.055",
+      "volume": "572",
+      "author": "X Meng",
+      "year": "2019",
+      "unstructured": "Meng, X., Chang, J., Wang, X., Wang, Y. & Wang, Z. Flood control operation coupled with risk assessment for cascade reservoirs. J. Hydrol. 572, 543–555 (2019).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "4480",
+      "DOI": "10.1016/j.apm.2014.02.030",
+      "volume": "38",
+      "author": "Y He",
+      "year": "2014",
+      "unstructured": "He, Y., Xu, Q., Yang, S. & Liao, L. Reservoir flood control operation based on chaotic particle swarm optimization algorithm. Appl. Math. Model. 38, 4480–4492 (2014).",
+      "journal-title": "Appl. Math. Model."
+    },
+    {
+      "key": "6801_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "43",
+      "DOI": "10.1038/nature09364",
+      "volume": "467",
+      "author": "S Piao",
+      "year": "2010",
+      "unstructured": "Piao, S. et al. The impacts of climate change on water resources and agriculture in China. Nature 467, 43–51 (2010).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "6801_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1382",
+      "DOI": "10.1126/science.1183188",
+      "volume": "328",
+      "author": "WW Immerzeel",
+      "year": "2010",
+      "unstructured": "Immerzeel, W. W., van Beek, L. P. H. & Bierkens, M. F. P. Climate change will affect the asian water towers. Science 328, 1382–1385 (2010).",
+      "journal-title": "Science"
+    },
+    {
+      "key": "6801_CR16",
+      "first-page": "1",
+      "volume": "2020",
+      "author": "Y Geng",
+      "year": "2020",
+      "unstructured": "Geng, Y., Wei, Z., Zhang, H. & Maimaituerxun, M. Analysis and prediction of the coupling coordination relationship between tourism and air environment: Yangtze river economic zone in china as example. Discret. Dyn. Nat. Soc. 2020, 1–15 (2020).",
+      "journal-title": "Discret. Dyn. Nat. Soc."
+    },
+    {
+      "key": "6801_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "158",
+      "DOI": "10.1016/j.landusepol.2018.12.007",
+      "volume": "82",
+      "author": "C Xia",
+      "year": "2019",
+      "unstructured": "Xia, C., Zhang, A., Wang, H., Zhang, B. & Zhang, Y. Bidirectional urban flows in rapidly urbanizing metropolitan areas and their macro and micro impacts on urban growth: A case study of the Yangtze River middle reaches megalopolis, China. Land Use Policy 82, 158–168 (2019).",
+      "journal-title": "Land Use Policy"
+    },
+    {
+      "key": "6801_CR18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.7927/H4F47M65",
+      "author": "Gridded Population of the World",
+      "year": "2018",
+      "unstructured": "Gridded Population of the World. Version 4 (GPWv4): Population density adjusted to match 2015 revision UN WPP country totals, revision 11. Cent. Int. Earth Sci. Inf. Netw. https://doi.org/10.7927/H4F47M65 (2018).",
+      "journal-title": "Cent. Int. Earth Sci. Inf. Netw."
+    },
+    {
+      "key": "6801_CR19",
+      "doi-asserted-by": "publisher",
+      "first-page": "1625",
+      "DOI": "10.1002/hyp.11515",
+      "volume": "32",
+      "author": "S Zhang",
+      "year": "2018",
+      "unstructured": "Zhang, S., Jing, Z., Li, W., Yi, Y. & Zhao, Y. Study of the flood control scheduling scheme for the Three Gorges Reservoir in a catastrophic flood. Hydrol. Process. 32, 1625–1634 (2018).",
+      "journal-title": "Hydrol. Process."
+    },
+    {
+      "key": "6801_CR20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/w10091250",
+      "author": "C Zhou",
+      "year": "2018",
+      "unstructured": "Zhou, C. et al. Optimal operation of cascade reservoirs for flood control of multiple areas downstream: A case study in the Upper Yangtze River Basin. Water https://doi.org/10.3390/w10091250 (2018).",
+      "journal-title": "Water"
+    },
+    {
+      "key": "6801_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/S11430-020-9699-8",
+      "volume": "64",
+      "author": "J Xia",
+      "year": "2020",
+      "unstructured": "Xia, J. & Chen, J. A new era of flood control strategies from the perspective of managing the 2020 Yangtze River flood. Sci. China Earth Sci. 64, 1–9. https://doi.org/10.1007/S11430-020-9699-8 (2020).",
+      "journal-title": "Sci. China Earth Sci."
+    },
+    {
+      "key": "6801_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "13026",
+      "DOI": "10.1029/2019JD030758",
+      "volume": "124",
+      "author": "Z Li",
+      "year": "2019",
+      "unstructured": "Li, Z. et al. East Asian study of tropospheric aerosols and their impact on regional clouds, precipitation, and climate (EAST-AIRCPC). J. Geophys. Res. Atmos. 124, 13026–13054 (2019).",
+      "journal-title": "J. Geophys. Res. Atmos."
+    },
+    {
+      "key": "6801_CR23",
+      "first-page": "1",
+      "volume": "9",
+      "author": "Y Zhang",
+      "year": "2021",
+      "unstructured": "Zhang, Y. et al. Changes in flood regime of the upper Yangtze river. Front. Earth Sci. 9, 1–13 (2021).",
+      "journal-title": "Front. Earth Sci."
+    },
+    {
+      "key": "6801_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1073/pnas.2022255118",
+      "volume": "118",
+      "author": "Z Zhou",
+      "year": "2021",
+      "unstructured": "Zhou, Z., Xie, S. & Zhang, R. Historic Yangtze flooding of 2020 tied to extreme Indian Ocean conditions. Proc. Natl. Acad. Sci. U. S. A. 118, 1–7 (2021).",
+      "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+    },
+    {
+      "key": "6801_CR25",
+      "first-page": "100038",
+      "volume": "1",
+      "author": "K Wei",
+      "year": "2020",
+      "unstructured": "Wei, K. et al. Reflections on the Catastrophic 2020 Yangtze River Basin Flooding in Southern China. Innovation 1, 100038 (2020).",
+      "journal-title": "Innovation"
+    },
+    {
+      "key": "6801_CR26",
+      "first-page": "85",
+      "volume": "35",
+      "author": "J Li",
+      "year": "2020",
+      "unstructured": "Li, J., Yu, J. L. & Hou, Y. Flood encounter analysis of main and tributary of the upper Yangtze river based on improved set pair situation ordering method. J. Catastrophol. 35, 85–92 (2020).",
+      "journal-title": "J. Catastrophol."
+    },
+    {
+      "key": "6801_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "1168",
+      "DOI": "10.1016/j.renene.2018.08.072",
+      "volume": "131",
+      "author": "P Chu",
+      "year": "2019",
+      "unstructured": "Chu, P., Liu, P. & Pan, H. Prospects of hydropower industry in the Yangtze River Basin: China’s green energy choice. Renew. Energy 131, 1168–1185 (2019).",
+      "journal-title": "Renew. Energy"
+    },
+    {
+      "key": "6801_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "67",
+      "DOI": "10.1016/j.habitatint.2017.03.012",
+      "volume": "63",
+      "author": "C Wu",
+      "year": "2017",
+      "unstructured": "Wu, C., Wei, Y. D., Huang, X. & Chen, B. Economic transition, spatial development and urban land use efficiency in the Yangtze River Delta, China. Habitat Int. 63, 67–78 (2017).",
+      "journal-title": "Habitat Int."
+    },
+    {
+      "key": "6801_CR29",
+      "first-page": "10",
+      "volume": "20",
+      "author": "G Zhamg",
+      "year": "2003",
+      "unstructured": "Zhamg, G., Quan, X., Yu, B. & Zhang, Y. Optimal daily operation model and algorithm for There Gorges cascade hydropower plants. J. Yangtze River Sci. Res. Inst. 20, 10–12 (2003).",
+      "journal-title": "J. Yangtze River Sci. Res. Inst."
+    },
+    {
+      "key": "6801_CR30",
+      "doi-asserted-by": "publisher",
+      "first-page": "693",
+      "DOI": "10.1016/j.energy.2018.06.083",
+      "volume": "158",
+      "author": "Z Jiang",
+      "year": "2018",
+      "unstructured": "Jiang, Z., Li, R., Li, A. & Ji, C. Runoff forecast uncertainty considered load adjustment model of cascade hydropower stations and its application. Energy 158, 693–708 (2018).",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "6801_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "1698",
+      "DOI": "10.1109/59.544630",
+      "volume": "11",
+      "author": "N Tufegdzic",
+      "year": "1996",
+      "unstructured": "Tufegdzic, N., Frowd, R. J. & Stadlin, W. O. A Coordinated approach for real-time short term. IEEE Trans. Power Syst. 11, 1698–1704 (1996).",
+      "journal-title": "IEEE Trans. Power Syst."
+    },
+    {
+      "key": "6801_CR32",
+      "doi-asserted-by": "publisher",
+      "first-page": "105267",
+      "DOI": "10.1016/j.enggeo.2019.105267",
+      "volume": "261",
+      "author": "H Tang",
+      "year": "2019",
+      "unstructured": "Tang, H., Wasowski, J. & Juang, C. H. Geohazards in the three Gorges Reservoir Area, China: Lessons learned from decades of research. Eng. Geol. 261, 105267 (2019).",
+      "journal-title": "Eng. Geol."
+    },
+    {
+      "key": "6801_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "283",
+      "DOI": "10.4028/www.scientific.net/AMR.739.283",
+      "volume": "739",
+      "author": "L Wu",
+      "year": "2013",
+      "unstructured": "Wu, L. & Wang, Z. Three Gorges reservoir water level fluctuation influents on the stability of the slope ’ s analysis. Adv. Mater. Res. 739, 283–286 (2013).",
+      "journal-title": "Adv. Mater. Res."
+    },
+    {
+      "key": "6801_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "1951",
+      "DOI": "10.1007/s11269-020-02537-0",
+      "volume": "34",
+      "author": "Y Chen",
+      "year": "2020",
+      "unstructured": "Chen, Y., Hu, Z., Liu, Q. & Chen, S. Evolutionary game analysis of tripartite cooperation strategy under mixed development environment of cascade hydropower stations. Water Resour. Manag. 34, 1951–1970 (2020).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6801_CR35",
+      "unstructured": "Ruoting, W. Three Gorges dam sets new world record of power generation in 2020. State-owned Assets Supervision and Administration Commission of the State Council http://en.sasac.gov.cn/2021/01/05/c_6354.htm (2021)."
+    },
+    {
+      "key": "6801_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "161",
+      "DOI": "10.1016/j.jhydrol.2016.02.044",
+      "volume": "536",
+      "author": "KS Kasiviswanathan",
+      "year": "2016",
+      "unstructured": "Kasiviswanathan, K. S., He, J., Sudheer, K. P. & Tay, J. Potential application of wavelet neural network ensemble to forecast streamflow for flood management. J. Hydrol. 536, 161–173 (2016).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1007/s12665-019-8392-z",
+      "volume": "78",
+      "author": "H Jiang",
+      "year": "2019",
+      "unstructured": "Jiang, H. et al. Hydrological characteristic-based methodology for dividing flood seasons: an empirical analysis from China. Environ. Earth Sci. 78, 1–9 (2019).",
+      "journal-title": "Environ. Earth Sci."
+    },
+    {
+      "key": "6801_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "1045",
+      "DOI": "10.1016/j.jhydrol.2015.05.055",
+      "volume": "527",
+      "author": "P Liu",
+      "year": "2015",
+      "unstructured": "Liu, P. et al. Optimal design of seasonal flood limited water levels and its application for the Three Gorges Reservoir. J. Hydrol. 527, 1045–1053 (2015).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR39",
+      "doi-asserted-by": "publisher",
+      "first-page": "05018003",
+      "DOI": "10.1061/(ASCE)NH.1527-6996.0000282",
+      "volume": "19",
+      "author": "Q Ran",
+      "year": "2018",
+      "unstructured": "Ran, Q. et al. Evaluation of quantitative precipitation predictions by ECMWF, CMA, and UKMO for flood forecasting: Application to two basins in China. Nat. Hazards Rev. 19, 05018003 (2018).",
+      "journal-title": "Nat. Hazards Rev."
+    },
+    {
+      "key": "6801_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "volume": "143",
+      "author": "Y Zhou",
+      "year": "2018",
+      "unstructured": "Zhou, Y., Guo, S., Chang, F. J., Liu, P. & Chen, A. B. Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs. Energy 143, 785–796 (2018).",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "6801_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "248",
+      "DOI": "10.1016/j.jhydrol.2014.07.029",
+      "volume": "519",
+      "author": "Y Zhou",
+      "year": "2014",
+      "unstructured": "Zhou, Y., Guo, S., Liu, P. & Xu, C. Joint operation and dynamic control of flood limiting water levels for mixed cascade reservoir systems. J. Hydrol. 519, 248–257 (2014).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "143",
+      "DOI": "10.1007/s11269-016-1515-3",
+      "volume": "31",
+      "author": "Q Tan",
+      "year": "2017",
+      "unstructured": "Tan, Q. et al. The dynamic control bound of flood limited water level considering capacity compensation regulation and flood spatial pattern uncertainty. Water Resour. Manag. 31, 143–158 (2017).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6801_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "3629",
+      "DOI": "10.1007/s11269-018-2010-9",
+      "volume": "32",
+      "author": "Z Shen",
+      "year": "2018",
+      "unstructured": "Shen, Z. et al. Deriving optimal operating rules of a multi-reservoir system considering incremental multi-agent benefit allocation. Water Resour. Manag. 32, 3629–3645 (2018).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6801_CR44",
+      "doi-asserted-by": "publisher",
+      "first-page": "1963",
+      "DOI": "10.1002/2016WR019452",
+      "volume": "53",
+      "author": "W Ding",
+      "year": "2017",
+      "unstructured": "Ding, W., Zhang, C., Cai, X., Li, Y. & Zhou, H. Multiobjective hedging rules for flood water conservation. Water Resour. Res. 53, 1963–1981 (2017).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6801_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "volume": "51",
+      "author": "W Ding",
+      "year": "2015",
+      "unstructured": "Ding, W. et al. An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk. Water Resour. Res. 51, 4702–4726 (2015).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6801_CR46",
+      "doi-asserted-by": "publisher",
+      "first-page": "257",
+      "DOI": "10.1016/j.jhydrol.2019.04.048",
+      "volume": "574",
+      "author": "M Feng",
+      "year": "2019",
+      "unstructured": "Feng, M. et al. Adapting reservoir operations to the nexus across water supply, power generation, and environment systems: An explanatory tool for policy makers. J. Hydrol. 574, 257–275 (2019).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR47",
+      "first-page": "63",
+      "volume": "5",
+      "author": "D Liu",
+      "year": "2012",
+      "unstructured": "Liu, D., Wang, H. W., Qi, C. & Wang, J. ORECOS: An open and rational emergency command organization structure under extreme natural disasters based on China’s national conditions. Disaster Adv. 5, 63–73 (2012).",
+      "journal-title": "Disaster Adv."
+    },
+    {
+      "key": "6801_CR48",
+      "unstructured": "China’s Yangtze River Protection Law enters force. China Global Television Network (2021) https://news.cgtn.com/news/2021-03-01/China-s-Yangtze-River-Protection-Law-enters-force-YgXESiyNmo/index.html."
+    },
+    {
+      "key": "6801_CR49",
+      "doi-asserted-by": "publisher",
+      "first-page": "126062",
+      "DOI": "10.1016/j.jhydrol.2021.126062",
+      "volume": "595",
+      "author": "Z Feng",
+      "year": "2021",
+      "unstructured": "Feng, Z., Niu, W., Tang, Z., Xu, Y. & Zhang, H. Evolutionary artificial intelligence model via cooperation search algorithm and extreme learning machine for multiple scales nonstationary hydrological time series prediction. J. Hydrol. 595, 126062 (2021).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "635",
+      "DOI": "10.1007/s00703-017-0542-9",
+      "volume": "130",
+      "author": "J Zhou",
+      "year": "2018",
+      "unstructured": "Zhou, J., Zhang, H., Zhang, J. & Zeng, X. WRF model for precipitation simulation and its application in real-time flood forecasting in the Jinshajiang River Basin. Meteorol. Atmos. Phys. 130, 635–647 (2018).",
+      "journal-title": "Meteorol. Atmos. Phys."
+    },
+    {
+      "key": "6801_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "51",
+      "DOI": "10.1016/j.jhydrol.2019.01.009",
+      "volume": "570",
+      "author": "Z Jiang",
+      "year": "2019",
+      "unstructured": "Jiang, Z., Wu, W., Qin, H., Hu, D. & Zhang, H. Optimization of fuzzy membership function of runo ff forecasting error based on the optimal closeness. J. Hydrol. 570, 51–61 (2019).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "124627",
+      "DOI": "10.1016/j.jhydrol.2020.124627",
+      "volume": "583",
+      "author": "Z Feng",
+      "year": "2020",
+      "unstructured": "Feng, Z. et al. Monthly runo ff time series prediction by variational mode decomposition and support vector machine based on quantum-behaved particle swarm optimization. J. Hydrol. 583, 124627 (2020).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6801_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "119960",
+      "DOI": "10.1016/j.energy.2021.119960",
+      "volume": "222",
+      "author": "Z He",
+      "year": "2021",
+      "unstructured": "He, Z., Wang, C., Wang, Y., Wei, B. & Zhou, J. Dynamic programming with successive approximation and relaxation strategy for long-term joint power generation scheduling of large-scale hydropower station group. Energy 222, 119960 (2021).",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "6801_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "1210",
+      "DOI": "10.1016/j.energy.2019.07.066",
+      "volume": "185",
+      "author": "Z He",
+      "year": "2019",
+      "unstructured": "He, Z., Zhou, J., Xie, M., Jia, B. & Bao, Z. Study on guaranteed output constraints in the long term joint optimal scheduling for the hydropower station group. Energy 185, 1210–1224 (2019).",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "6801_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "3814",
+      "DOI": "10.3390/en12203814",
+      "volume": "12",
+      "author": "Y Liu",
+      "year": "2019",
+      "unstructured": "Liu, Y. et al. Optimization of energy storage operation chart of cascade reservoirs with multi-year regulating reservoir. Energies 12, 3814 (2019).",
+      "journal-title": "Energies"
+    },
+    {
+      "key": "6801_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "123949",
+      "DOI": "10.1016/j.jhydrol.2019.123949",
+      "volume": "577",
+      "author": "Z Jiang",
+      "year": "2019",
+      "unstructured": "Jiang, Z., Liu, P., Ji, C., Zhang, H. & Chen, Y. Ecological fl ow considered multi-objective storage energy operation chart optimization of large-scale mixed reservoirs. J. Hydrol. 577, 123949 (2019).",
+      "journal-title": "J. Hydrol."
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06801-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06801-8",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06801-8.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        24
+      ]
+    ],
+    "date-time": "2022-11-24T23:14:46Z",
+    "timestamp": 1669331686000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-022-06801-8"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        18
+      ]
+    ]
+  },
+  "references-count": 56,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "6801"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-022-06801-8",
+  "relation": {},
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        2,
+        18
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "18 August 2021",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "2 February 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "18 February 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "2822"
+}

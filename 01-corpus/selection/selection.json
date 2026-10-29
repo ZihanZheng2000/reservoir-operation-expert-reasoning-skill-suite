@@ -1,0 +1,1979 @@
+[
+  {
+    "id": "E01",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2010.07.011",
+    "title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2010,
+      9
+    ],
+    "year": 2010,
+    "authors": "Xiang Li; Shenglian Guo; Pan Liu; Guiya Chen",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2010.07.011",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169410004245?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169410004245?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E02",
+    "split": "extraction",
+    "doi": "10.1002/2017wr021480",
+    "title": "Real-Time Optimal Flood Control Decision Making and Risk Propagation Under Multiple Uncertainties",
+    "journal": "Water Resources Research",
+    "year": 2017,
+    "publication_date_parts": [
+      2017,
+      12,
+      4
+    ],
+    "authors": "Feilin Zhu; Ping-An Zhong; Yimeng Sun; William W.-G. Yeh",
+    "topic": "risk_analysis",
+    "metadata_source": "publisher_page_and_downloaded_pdf",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1002/2017WR021480",
+    "abstract": "Multiple uncertainties exist in the optimal ﬂood control decision-making process, presenting\nrisks involving ﬂood control decisions. This paper deﬁnes the main steps in optimal ﬂood control decision\nmaking that constitute the Forecast-Optimization-Decision Making (FODM) chain. We propose a framework\nfor supporting optimal ﬂood control decision making under multiple uncertainties and evaluate risk propa-\ngation along the FODM chain from a holistic perspective. To deal with uncertainties, we employ stochastic\nmodels at each link of the FODM chain. We generate synthetic ensemble ﬂood forecasts via the martingale\nmodel of forecast evolution. We then establish a multiobjective stochastic programming with recourse\nmodel for optimal ﬂood control operation. The Pareto front under uncertainty is derived via the constraint\nmethod coupled with a two-step process. We propose a novel SMAA-TOPSIS model for stochastic multicrite-\nria decision making. Then we propose the risk assessment model, the risk of decision-making errors and\nrank uncertainty degree to quantify the risk propagation process along the FODM chain. We conduct\nnumerical experiments to investigate the effects of ﬂood forecast uncertainty on optimal ﬂood control deci-\nsion making and risk propagation. We apply the proposed methodology to a ﬂood control system in the\nDaduhe River basin in China. The results indicate that the proposed method can provide valuable risk infor-\nmation in each link of the FODM chain and enable risk-informed decisions with higher reliability.",
+    "local_source": null,
+    "prior_exposure": "replacement_screened_by_title_and_abstract; no_pattern_extraction_in_current_run",
+    "eligibility": "title_abstract_topic_screen_passed; fulltext_methods_quality_not_assessed",
+    "retrieved_date": "2026-09-15",
+    "imported_date": "2026-09-15",
+    "status": "pdf_verified",
+    "file": "papers\\extraction\\E02.pdf",
+    "access_kind": "user_download_import",
+    "acquired_from": "D:\\Downloads\\Water Resources Research - 2017 - Zhu - Real‐Time Optimal Flood Control Decision Making and Risk Propagation Under Multiple.pdf",
+    "version": "user_downloaded_publisher_pdf_identity_checked",
+    "license": "user_supplied_access; redistribution_not_assessed",
+    "selection_reason": "多重不确定性下的实时防洪调度、预报—优化—决策及风险传播；替换主题关联不足的原 E02。",
+    "pdf_check": {
+      "pages": 20,
+      "doi_found_first_two_pages": true,
+      "sha256": "605b5ff99d1f0fa2527711dab882bb5f564662798e4b90e6824c04d5177604b1",
+      "text_characters_all_pages": 80936,
+      "pages_with_extractable_text": 20
+    }
+  },
+  {
+    "id": "E03",
+    "split": "extraction",
+    "doi": "10.1002/2015wr017127",
+    "title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2015,
+      6
+    ],
+    "year": 2015,
+    "authors": "Wei Ding; Chi Zhang; Yong Peng; Ruijie Zeng; Huicheng Zhou; Ximing Cai",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1002/2015wr017127",
+    "crossref_links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015WR017127",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015WR017127",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract\n                  This paper addresses how much flood water can be conserved for use after the flood season through the operation of reservoir by taking into account the residual flood control capacity (the difference between flood conveyance capacity and the expected inflow in a lead time). A two‐stage model for dynamic control of the flood‐limited water level (the maximum allowed water level during the flood season, DC‐FLWL) is established considering forecast uncertainty and acceptable flood risk. It is found that DC‐FLWL is applicable when the reservoir inflow ranges from small to medium levels of the historical records, while both forecast uncertainty and acceptable risk in the downstream affect the feasible space of DC‐FLWL. As forecast uncertainty increases (under a given risk level) or as acceptable risk level decreases (under a given forecast uncertainty level), the minimum required safety margin for flood control increases, and the chance for DC‐FLWL decreases. The derived hedging rules from the modeling framework illustrate either the dominant role of water conservation or flood control or the trade‐off between the two objectives under different levels of forecast uncertainty and acceptable risk. These rules may provide useful guidelines for conserving water from flood, especially in the area with heavy water stress. The analysis is illustrated via a case study with a real‐world reservoir in northeastern China.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E04",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2016.06.015",
+    "title": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2016,
+      9
+    ],
+    "year": 2016,
+    "authors": "Lu Chen; Vijay P. Singh; Weiwei Lu; Junhong Zhang; Jianzhong Zhou; Shenglian Guo",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2016.06.015",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169416303663?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169416303663?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E05",
+    "split": "extraction",
+    "doi": "10.1002/2016wr019452",
+    "title": "Multiobjective hedging rules for flood water conservation",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2017,
+      3
+    ],
+    "year": 2017,
+    "authors": "Wei Ding; Chi Zhang; Ximing Cai; Yu Li; Huicheng Zhou",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1002/2016wr019452",
+    "crossref_links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2016WR019452",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016WR019452",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract\n                  Flood water conservation can be beneficial for water uses especially in areas with water stress but also can pose additional flood risk. The potential of flood water conservation is affected by many factors, especially decision makers' preference for water conservation and reservoir inflow forecast uncertainty. This paper discusses the individual and joint effects of these two factors on the trade‐off between flood control and water conservation, using a multiobjective, two‐stage reservoir optimal operation model. It is shown that hedging between current water conservation and future flood control exists only when forecast uncertainty or decision makers' preference is within a certain range, beyond which, hedging is trivial and the multiobjective optimization problem is reduced to a single objective problem with either flood control or water conservation. Different types of hedging rules are identified with different levels of flood water conservation preference, forecast uncertainties, acceptable flood risk, and reservoir storage capacity. Critical values of decision preference (represented by a weight) and inflow forecast uncertainty (represented by standard deviation) are identified. These inform reservoir managers with a feasible range of their preference to water conservation and thresholds of forecast uncertainty, specifying possible water conservation within the thresholds. The analysis also provides inputs for setting up an optimization model by providing the range of objective weights and the choice of hedging rule types. A case study is conducted to illustrate the concepts and analyses.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E06",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2018.08.040",
+    "title": "Risk analysis of flood control reservoir operation considering multiple uncertainties",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2018,
+      10
+    ],
+    "year": 2018,
+    "authors": "Kangdi Huang; Lei Ye; Lu Chen; Quansen Wang; Ling Dai; Jianzhong Zhou; Vijay P. Singh; Mutao Huang; Junhong Zhang",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2018.08.040",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S002216941830636X?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S002216941830636X?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E07",
+    "split": "extraction",
+    "doi": "10.1029/2019wr026604",
+    "title": "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multipurpose Reservoir in Northern California",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2020,
+      9
+    ],
+    "year": 2020,
+    "authors": "Chris J. Delaney; Robert K. Hartman; John Mendoza; Michael Dettinger; Luca Delle Monache; Jay Jasperse; F. Martin Ralph; Cary Talbot; James Brown; David Reynolds; Simone Evett",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1029/2019wr026604",
+    "crossref_links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1029%2F2019WR026604",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1029/2019WR026604",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1029/2019WR026604",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2019WR026604",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "AbstractEnsemble Forecast Operations (EFO) is a risk‐based approach of reservoir flood control operations that incorporates ensemble streamflow predictions (ESPs) made by the California‐Nevada River Forecast Center. Reservoir operations for each member of an ESP are individually modeled to forecast system conditions and calculate risk of reaching critical operational thresholds. Reservoir release decisions are simulated to manage forecasted risk with respect to established risk tolerance levels. EFO was developed for Lake Mendocino, a 111,000 acre‐foot reservoir near Ukiah, California, to evaluate its viability to improve reservoir storage reliability without increasing downstream flood risk. Lake Mendocino is a dual use reservoir, owned and operated for flood control by the United States Army Corps of Engineers and operated for water supply by Sonoma Water. EFO was simulated using a 26‐year (1985–2010) ESP hindcast generated by the California‐Nevada River Forecast Center, which provides 61‐member ensembles of 15‐day flow forecasts. EFO simulations yield generally higher storage levels during the flood management season while maintaining needed flood storage capacity by strategically prereleasing water in advance of forecasted storms. Model results demonstrate a 33% increase in median storage at the end of the flood management season (10 May) over existing operations without marked changes in flood frequency for locations downstream from Lake Mendocino. EFO may be a viable alternative for managing flood control operations at Lake Mendocino that provides multiple benefits (water supply, flood mitigation, and ecosystems) and provides a management framework that could be adapted and applied to other flood control reservoirs.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E08",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2020.125353",
+    "title": "Risk analysis for reservoir flood control operation considering two-dimensional uncertainties based on Bayesian network",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2020,
+      10
+    ],
+    "year": 2020,
+    "authors": "Qingwen Lu; Ping-an Zhong; Bin Xu; Feilin Zhu; Yufei Ma; Han Wang; Sunyu Xu",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2020.125353",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169420308131?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169420308131?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E09",
+    "split": "extraction",
+    "doi": "10.3390/w12030892",
+    "title": "Floodwater Utilization Based on Reservoir Pre-Release Strategy Considering the Worst-Case Scenario",
+    "journal": "Water",
+    "publication_date_parts": [
+      2020,
+      3,
+      22
+    ],
+    "year": 2020,
+    "authors": "Lijuan Hua; Xinyu Wan; Xianhui Wang; Fangzheng Zhao; Ping’an Zhong; Moyang Liu; Qingyan Yang",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w12030892",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/12/3/892/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Utilizing floodwater resources is important in relieving water shortages, and dynamic control of the flood limited water level (FLWL) for reservoir operation in a flood season is an effective method to achieve this objective. Based on the capacity-constrained pre-release method, this study proposed an improved dynamic control method that considered the duration of dry periods and the lead time of flood forecasts. The pre-release process was divided into two periods: water use and flood control. Taking Xianghongdian Reservoir in the Huai River Basin of China as an example, this study analyzed the statistical laws of continuous dry periods and effective flood forecast lead times and compared the effects of the negative exponential and asymptotic regression models in fitting the dry period distribution. We also calculated the floodwater volume over the FLWL in different situations and evaluated the flood control risks in a worst-case scenario. Statistical law of the dry period duration showed obvious negative index distribution characteristics; the relationship between increased water storage, dry period, and lead time can provide support for the operation decisions of the reservoir. The method did not increase the flood control risk under worst-case scenarios, and it can be used to effectively utilize reservoir floodwater resources.",
+    "local_source": "water-12-00892.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E10",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2021.126017",
+    "title": "Improving real-time reservoir operation during flood season by making the most of streamflow forecasts",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2021,
+      4
+    ],
+    "year": 2021,
+    "authors": "Jiabiao Wang; Tongtiegang Zhao; Jianshi Zhao; Hao Wang; Xiaohui Lei",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2021.126017",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169421000640?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169421000640?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E11",
+    "split": "extraction",
+    "doi": "10.3390/w13040556",
+    "title": "A Forecast-Skill-Based Dynamic Pre-Storm Level Control for Reservoir Flood-Control Operation",
+    "journal": "Water",
+    "publication_date_parts": [
+      2021,
+      2,
+      22
+    ],
+    "year": 2021,
+    "authors": "Wenhua Wan; Xiaohui Lei; Jianshi Zhao; Mingna Wang; Soon-Thiam Khu; Chao Wang",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w13040556",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/13/4/556/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "The design and operation of reservoirs based on conventional flood-limited water levels (FLWL) implicitly adopts the assumption of hydrological stationarity. As such, historical-record-based FLWL may not be the best choice for flood-control operations due to the inherent non-stationarity of rainfall inputs. With maturing flood forecasts, this study focuses on establishing linkage between FLWL and skill of forecast, thus developing a “dynamic pre-storm level” approach for reservoir flood-control operations. The approach utilizes forecast flood magnitude, forecast skill and exceedance probability of forecast error to determine the pre-storm reservoir storage for each flood event. The exceedance probability of forecast error for each incoming flood is used as the reservoir flood control standard instead of the probability of a static return interval flood. This approach is demonstrated in a hypothetical situation in the Three Gorges Reservoir in China. The results show that under zero-forecast-skill conditions, the proposed dynamic pre-storm level matches well with the Three Gorges Reservoir-designed FLWL; and, as the forecast accuracy/skill increase, the proposed approach can make better use of the increased forecast accuracy, thereby maximizing floodwater utilization and reservoir storage. In this way, coupling the new approach with FLWL allows for more efficient and economic day-to-day reservoir operations without adding any flood risk. This study validates the usefulness of dynamic water level control during flood season, considering the improvement of flood forecast accuracy.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E12",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2022.128665",
+    "title": "Deriving optimal operating rules for flood control considering pre-release based on forecast information",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2022,
+      12
+    ],
+    "year": 2022,
+    "authors": "Guozhen Wei; Guohua Liang; Wei Ding; Bin He; Jian Wu; Minglei Ren; Huicheng Zhou",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2022.128665",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169422012355?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169422012355?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": "1-s2.0-S0022169422012355-main.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E13",
+    "split": "extraction",
+    "doi": "10.1029/2023wr034898",
+    "title": "Synthetic Forecast Ensembles for Evaluating Forecast Informed Reservoir Operations",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2024,
+      2
+    ],
+    "year": 2024,
+    "authors": "Zachary P. Brodeur; Chris Delaney; Brett Whitin; Scott Steinschneider",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1029/2023wr034898",
+    "crossref_links": [
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023WR034898",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "AbstractForecast informed reservoir operations (FIRO) is an important advance in water management, but the design and testing of FIRO policies is limited by relatively short (10–35 year) hydro‐meteorological hindcasts. We present a novel, multisite model for synthetic forecast ensembles to overcome this limitation. This model utilizes parametric and non‐parametric procedures to capture complex forecast errors and maintain correlation between variables, lead times, locations, and ensemble members. After being fit to data from the hindcast period, this model can generate synthetic forecast ensembles in any period with observations. We demonstrate the approach in a case study of the FIRO‐based Ensemble Forecast Operations (EFO) control policy for the Lake Mendocino—Russian River basin, which conditions release decisions on ensemble forecasts from the Hydrologic Ensemble Forecast System (HEFS). We explore two generation strategies: (a) simulation of synthetic forecasts of meteorology to force HEFS; and (b) simulation of synthetic HEFS streamflow forecasts directly. We evaluate the synthetic forecasts using ensemble verification techniques and event‐based validation, finding good agreement with the actual ensemble forecasts. We then evaluate EFO policy performance using synthetic and actual forecasts over the hindcast period (1985–2010) and synthetic forecasts only over the pre‐hindcast period (1948–1984). Results show that the synthetic forecasts highlight important failure modes of the EFO policy under plausible forecast ensembles, but improvements are still needed to fully capture FIRO policy behavior under the actual forecast ensembles. Overall, the methodology advances a novel way to test FIRO policy robustness, which is key to building institutional support for FIRO.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E14",
+    "split": "extraction",
+    "doi": "10.1029/2023wr035693",
+    "title": "AI‐Based Ensemble Flood Forecasts and Its Implementation in Multi‐Objective Robust Optimization Operation for Reservoir Flood Control",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2024,
+      5
+    ],
+    "year": 2024,
+    "authors": "Yuxue Guo; Yue‐Ping Xu; Xinting Yu; Li Liu; Haiting Gu",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1029/2023wr035693",
+    "crossref_links": [
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023WR035693",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract\n                  Informing reservoirs with forecasts is highly important for real‐time flood control. This study proposed a forecast‐informed methodology framework for reservoir flood control operation under uncertainty. A new combination of two post‐processing methods, that is, the Cloud model and error‐based copula functions, were developed to merge individual AI‐based forecasts to ensemble flood forecasts, so called stochastic errors‐based Cloud (SE‐Cloud). A multi‐objective robust optimization model (MRO) integrating the risk, resilience, and vulnerability was then proposed to tackle flood control problems under ensemble forecasts; for comparison, a two‐objective stochastic optimization model (TSO) was developed to minimize the expected highest reservoir level and peak release. The proposed methodology was applied to the Lishimen reservoir in the Shifeng River subbasin, China, aiming to comprehensively verify the relationships among deterministic forecasts, ensemble forecasts, and flood control performance. Results showed that the Cloud model could effectively integrate different models and improve forecast accuracy. But a higher deterministic forecast quality did not consistently result in improved flood control performance. SE‐Cloud could capture the peak flow and effectively characterize forecast uncertainties and increased hypervolume values by 13.14%–39.65% compared to the Cloud model, indicating the superiority of ensemble forecasts in generating robust solutions over individual deterministic forecasts. MRO released more inflow than TSO, decreasing the expected highest water level by 0.05 m and incrementing the expected peak release by 4.29%. However, with downstream resilience value remaining at zero, it is demonstrated that MRO improving upstream vulnerability did not necessarily diminish resilience. The enhanced robustness highlights the potential of AI‐based ensemble forecasts in flood control.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E15",
+    "split": "extraction",
+    "doi": "10.3390/w16050785",
+    "title": "Many-Objective Hierarchical Pre-Release Flood Operation Rule Considering Forecast Uncertainty",
+    "journal": "Water",
+    "publication_date_parts": [
+      2024,
+      3,
+      6
+    ],
+    "year": 2024,
+    "authors": "Yongqi Liu; Guibing Hou; Baohua Wang; Yang Xu; Rui Tian; Tao Wang; Hui Qin",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w16050785",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/16/5/785/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Flood control operation of cascade reservoirs is an important technology to reduce flood disasters and increase economic benefits. Flood forecast information can help reservoir managers make better use of flood resources and reduce flood risks. In this paper, a hierarchical pre-release flood operation rule considering the flood forecast and its uncertainty information is proposed for real-time flood control. A many-objective optimization model considering the cascade reservoir’s power generation objective, flood control objective, and navigation objective is established. Then, a region search evolutionary algorithm is applied to optimize the many-objective optimization model in a real-world case study upstream of the Yangtze River basin. The optimization experimental results show that the region search evolutionary algorithm can balance convergence and diversity well, and the HV value is 40% higher than the MOEA/D algorithm. The simulation flood control results of cascade reservoirs upstream of the Yangtze River demonstrate that the optimized flood control rule can increase the average multi-year power generation of cascade reservoirs by a maximum of 27.72 × 108 kWh under the condition of flood control safety. The rules proposed in this paper utilize flood resources by identifying runoff forecast information, and pre-release to the flood limit level 145 m before the big flood occurs, so as to ensure the safety downstream and the dam’s own flood control and provide reliable decision support for reservoir managers.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E16",
+    "split": "extraction",
+    "doi": "10.1061/jwrmd5.wreng-7250",
+    "title": "Comparing the Robustness of Forecast-Informed Reservoir Operating Policies under Forecast Uncertainty and Hydrologic Extremes",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2026,
+      4
+    ],
+    "year": 2026,
+    "authors": "William Taylor; Zachary P. Brodeur; Scott Steinschneider; Jonathan D. Herman",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/jwrmd5.wreng-7250",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/JWRMD5.WRENG-7250",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E17",
+    "split": "extraction",
+    "doi": "10.1029/2025wr041515",
+    "title": "Global Parameter Sensitivity in Forecast‐Informed Reservoir Operations Using Model Predictive Control",
+    "journal": "Water Resources Research",
+    "publication_date_parts": [
+      2026,
+      4
+    ],
+    "year": 2026,
+    "authors": "Alexander B. Chen; Jonathan D. Herman; Zachary P. Brodeur; Scott Steinschneider; Brett Whitin",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1029/2025wr041515",
+    "crossref_links": [
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025WR041515",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full-xml/10.1029/2025WR041515",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025WR041515",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract\n                  Hydrologic forecasts have demonstrated considerable benefits for flood risk reduction and water supply operations in specific basins. However, it remains unclear how these benefits depend on key parameters of the reservoir infrastructure and forecasts. In this study, we propose a global sensitivity and threshold analysis framework using Model Predictive Control (MPC) to evaluate the ability of forecast‐informed operations to safely manage large floods while also improving water supply storage. The approach is demonstrated for six major reservoirs in California using daily ensemble hydrologic forecasts. We first benchmark MPC performance with ensemble forecasts against a baseline policy (no forecast) and a perfect forecast policy. We then perform global sensitivity analysis using Decision Tree (DT) classifiers to assess the impact of maximum release, ramping rate, and available forecast lead time on the required flood pool for the event of record across all sites. This large parameter sample reflects many potential reservoir configurations and scaled events. We find that the ensemble forecast release sequence captures most of the value of a perfect forecast release sequence, but this value is highly sensitive to parameters. The classifiers accurately predict the extent of flood pool reduction and identify maximum release as the most important feature for both ensemble and perfect forecast release sequences. Finally, we extract generalized parameter thresholds from the DT classifier across all reservoirs, identifying conditions required to achieve varying levels of flood pool reduction. Overall, this framework represents an efficient screening tool to identify system properties where forecast‐informed policies likely provide the greatest benefits.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E18",
+    "split": "extraction",
+    "doi": "10.1111/jfr3.13051",
+    "title": "Application of forecast‐informed reservoir operations at US Army Corps of Engineers dams in California",
+    "journal": "Journal of Flood Risk Management",
+    "publication_date_parts": [
+      2024,
+      12,
+      16
+    ],
+    "year": 2024,
+    "authors": "Joe Forbis; Cuong Ly",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1111/jfr3.13051",
+    "crossref_links": [
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfr3.13051",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "AbstractThe US Army Corps of Engineers (USACE) prescribes flood control operations for reservoirs it regulates in watershed‐specific water control manuals (WCMs), which can be decades‐old and may not capture changed conditions in the watersheds or include the benefit of state‐of‐the‐science weather and streamflow prediction. Considering the specific characteristics of a reservoir, forecast‐informed reservoir operations (FIRO) may be used to enhance flood risk reduction, improve water availability, and achieve other benefits. The first FIRO pilot project at Lake Mendocino in California focused on determining if water supply reliability could be improved using FIRO without increasing flood risk. The final report concluded that FIRO concepts could indeed improve water supply reliability while enhancing flood risk reduction. Subsequently, USACE chose additional reservoir systems in California with different characteristics as additional pilot study locations to further investigate FIRO concepts. These successful FIRO efforts have provided justification to continue its expansion beyond the initial pilot sites. The lessons learned from the FIRO pilot projects are being used to inform the development of the FIRO Screening Process, a screening level framework intended to scale up the implementation of FIRO. The lessons learned could support FIRO implementation at suitable USACE reservoirs by updating WCMs.",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E19",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2026.135282",
+    "title": "Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2026,
+      5
+    ],
+    "year": 2026,
+    "authors": "Hao Ye; Pan Liu; Xiaojing Zhang; Lei Cheng; Weibo Liu; Qian Cheng; Lei Guo; Jing Huang",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169426003793?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169426003793?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E20",
+    "split": "extraction",
+    "doi": "10.5194/nhess-13-965-2013",
+    "title": "Risk-based methodology for parameter calibration of a reservoir flood control model",
+    "journal": "Natural Hazards and Earth System Sciences",
+    "publication_date_parts": [
+      2013,
+      4,
+      18
+    ],
+    "year": 2013,
+    "authors": "P. Bianucci; A. Sordo-Ward; J. I. Pérez; J. García-Palacios; L. Mediero; L. Garrote",
+    "topic": "risk_calibration",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.5194/nhess-13-965-2013",
+    "crossref_links": [
+      {
+        "URL": "https://nhess.copernicus.org/articles/13/965/2013/nhess-13-965-2013.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract. Flash floods are of major relevance in natural disaster management in the Mediterranean region. In many cases, the damaging effects of flash floods can be mitigated by adequate management of flood control reservoirs. This requires the development of suitable models for optimal operation of reservoirs. A probabilistic methodology for calibrating the parameters of a reservoir flood control model (RFCM) that takes into account the stochastic variability of flood events is presented. This study addresses the crucial problem of operating reservoirs during flood events, considering downstream river damages and dam failure risk as conflicting operation criteria. These two criteria are aggregated into a single objective of total expected damages from both the maximum released flows and stored volumes (overall risk index). For each selected parameter set the RFCM is run under a wide range of hydrologic loads (determined through Monte Carlo simulation). The optimal parameter set is obtained through the overall risk index (balanced solution) and then compared with other solutions of the Pareto front. The proposed methodology is implemented at three different reservoirs in the southeast of Spain. The results obtained show that the balanced solution offers a good compromise between the two main objectives of reservoir flood control management.",
+    "local_source": "2013 - Risk-based methodology for parameter calibration of a reservoir flood - a6e0cd75.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E21",
+    "split": "extraction",
+    "doi": "10.1038/s41598-022-06801-8",
+    "title": "Realizing the full reservoir operation potential during the 2020 Yangtze river floods",
+    "journal": "Scientific Reports",
+    "publication_date_parts": [
+      2022,
+      2,
+      18
+    ],
+    "year": 2022,
+    "authors": "Hairong Zhang; Yanhong Dou; Lei Ye; Chi Zhang; Huaming Yao; Zhengfeng Bao; Zhengyang Tang; Yongqiang Wang; Yukai Huang; Shuang Zhu; Mengfei Xie; Jiang Wu; Chao Shi; Yufeng Ren; Dongjie Zhang; Biqiong Wu; Yufan Chen",
+    "topic": "event_operation",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1038/s41598-022-06801-8",
+    "crossref_links": [
+      {
+        "URL": "https://www.nature.com/articles/s41598-022-06801-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-022-06801-8",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://www.nature.com/articles/s41598-022-06801-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "AbstractFive severe floods occurred in the Yangtze River Basin, China, between July and August 2020, and the Three Gorges Reservoir (TGR) located in the middle Yangtze River experienced the highest inflow since construction. The world’s largest cascade-reservoir group, which counts for 22 cascade reservoirs in the upper Yangtze River, cooperated in real time to control floods. The cooperation prevented evacuation of 600,000 people and extensive inundations of farmlands and aquacultural areas. In addition, no water spillage occurred during the flood control period, resulting in a world-record annual output of the TGR hydropower station. This work describes decision making challenges in the cooperation of super large reservoir groups based on a case-study, controlling the 4th and 5th floods (from Aug-14 to Aug-22), the efforts of technicians, multi-departments, and the state, and reflects on these. To realize the full potential of reservoir operation for the Yangtze River Basin and other basins with large reservoir groups globally, we suggest: (i) improve flood forecast accuracy with a long leading time; (ii) strengthen and further develop ongoing research on reservoir group cooperation; and (iii) improve and implement institutional mechanisms for coordinated operation of large reservoir groups.",
+    "local_source": "2022 - Realizing the full reservoir operation potential during the 2020 Yangt - a9990fc9.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E22",
+    "split": "extraction",
+    "doi": "10.1007/s11269-024-04089-z",
+    "title": "Development of a Multi-objective Optimal Operation Model of a Dam using Meteorological Ensemble Forecasts for Flood Control",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2025,
+      1,
+      8
+    ],
+    "year": 2025,
+    "authors": "Mitra Tanhapour; Jaber Soltani; Hadi Shakibian; Bahram Malekmohammadi; Kamila Hlavcova; Silvia Kohnova",
+    "topic": "ensemble_operation",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-024-04089-z",
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-024-04089-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11269-024-04089-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-024-04089-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Abstract\n          Reservoir operation in flood conditions on hourly time scales poses significant difficulties due to the inherent uncertainty of inflow forecasts. Hence, incorporating ensemble flood forecasts into real-time reservoir operation optimization has rarely been investigated to effectively address uncertainties in inflow forecasts for flood control, let alone its added value compared to no-forecast operating scheme in multi-objective reservoir operating system. This research first investigates the potential of sequential Long Short-Term Memory networks to forecast one-day-ahead ensemble inflow floods based on numerical weather prediction data. Next, a new framework has been developed to incorporate ensemble inflow forecasts into multi-objective reservoir operation optimization using grid search-based genetic algorithm. Finally, we implemented our proposed ensemble-based operating method on the Dez dam basin in Iran and compared it with the benchmark no-forecast operating approach. The results revealed that the Long Short-Term Memory model reasonably performed well to propagate uncertainty in short-term ensemble inflow forecasts. In addition, the ensemble-based operating method could reduce release peaks and increase reservoir storage more than that of a deterministic (no-forecast) operating approach. Our findings demonstrated that the applicability of a skillful ensemble-based scheme in reservoir flood control operations could be effective in decreasing flood damage and water shortage.",
+    "local_source": "2025 - Development of a Multi-objective Optimal Operation Model of a Dam usin - ef75dfb4.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E23",
+    "split": "extraction",
+    "doi": "10.1007/s11269-014-0899-1",
+    "title": "Short-Term Reservoir Optimization for Flood Mitigation under Meteorological and Hydrological Forecast Uncertainty",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2015,
+      1,
+      8
+    ],
+    "year": 2015,
+    "authors": "Dirk Schwanenberg; Fernando Mainardi Fan; Steffi Naumann; Julio Issao Kuwajima; Rodolfo Alvarado Montero; Alberto Assis dos Reis",
+    "topic": "ensemble_operation",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-014-0899-1",
+    "crossref_links": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-014-0899-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11269-014-0899-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-014-0899-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": "2015 - Short-Term Reservoir Optimization for Flood Mitigation under Meteorolo - d3a799cd.pdf",
+    "prior_exposure": "previous_candidate_or_local_collection",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E24",
+    "split": "extraction",
+    "doi": "10.1061/(asce)wr.1943-5452.0000432",
+    "title": "Optimal Hedging Rules for Reservoir Flood Operation from Forecast Uncertainties",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2014,
+      12
+    ],
+    "year": 2014,
+    "authors": "Tongtiegang Zhao; Jianshi Zhao; Jay R. Lund; Dawen Yang",
+    "topic": "hedging",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000432",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0000432",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E25",
+    "split": "extraction",
+    "doi": "10.1007/s11269-016-1472-x",
+    "title": "Optimal Pre-storm Flood Hedging Releases for a Single Reservoir",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2016,
+      9,
+      4
+    ],
+    "year": 2016,
+    "authors": "Rui Hui; Jay Lund; Jianshi Zhao; Tongtiegang Zhao",
+    "topic": "hedging",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-016-1472-x",
+    "crossref_links": [
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11269-016-1472-x/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-016-1472-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-016-1472-x",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-016-1472-x.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E26",
+    "split": "extraction",
+    "doi": "10.1007/s11269-020-02571-y",
+    "title": "Two-Phase Risk Hedging Rules for Informing Conservation of Flood Resources in Reservoir Operation Considering Inflow Forecast Uncertainty",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2020,
+      6,
+      19
+    ],
+    "year": 2020,
+    "authors": "Bin Xu; Xin Huang; Ping-an Zhong; Yenan Wu",
+    "topic": "hedging",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-020-02571-y",
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-020-02571-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11269-020-02571-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-020-02571-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E27",
+    "split": "extraction",
+    "doi": "10.1007/s11269-015-1080-1",
+    "title": "Streamflow Forecast Errors and Their Impacts on Forecast-based Reservoir Flood Control",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2015,
+      8,
+      5
+    ],
+    "year": 2015,
+    "authors": "Zhao Liu; Yiping Guo; Lixia Wang; Qing Wang",
+    "topic": "forecast_error",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-015-1080-1",
+    "crossref_links": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-015-1080-1.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s11269-015-1080-1/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s11269-015-1080-1",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E28",
+    "split": "extraction",
+    "doi": "10.1007/s00477-013-0756-4",
+    "title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+    "journal": "Stochastic Environmental Research and Risk Assessment",
+    "publication_date_parts": [
+      2013,
+      6,
+      19
+    ],
+    "year": 2013,
+    "authors": "Baowei Yan; Shenglian Guo; Lu Chen",
+    "topic": "forecast_error",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s00477-013-0756-4",
+    "crossref_links": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00477-013-0756-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00477-013-0756-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00477-013-0756-4",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E29",
+    "split": "extraction",
+    "doi": "10.1061/(asce)he.1943-5584.0000979",
+    "title": "Using a Bayesian Probabilistic Forecasting Model to Analyze the Uncertainty in Real-Time Dynamic Control of the Flood Limiting Water Level for Reservoir Operation",
+    "journal": "Journal of Hydrologic Engineering",
+    "publication_date_parts": [
+      2015,
+      2
+    ],
+    "year": 2015,
+    "authors": "Dedi Liu; Xiang Li; Shenglian Guo; Dan Rosbjerg; Hua Chen",
+    "topic": "dynamic_level",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/(asce)he.1943-5584.0000979",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29HE.1943-5584.0000979",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E30",
+    "split": "extraction",
+    "doi": "10.1061/(asce)wr.1943-5452.0000490",
+    "title": "Risk Analysis for Real-Time Flood Control Operation of a Reservoir",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2015,
+      8
+    ],
+    "year": 2015,
+    "authors": "Juan Chen; Ping-an Zhong; Bin Xu; Yun-fa Zhao",
+    "topic": "risk_analysis",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000490",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0000490",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E31",
+    "split": "extraction",
+    "doi": "10.1061/(asce)wr.1943-5452.0001174",
+    "title": "Improved Risk-Assessment Model for Real-Time Reservoir Flood-Control Operation",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2020,
+      3
+    ],
+    "year": 2020,
+    "authors": "Juan Chen; Ping-an Zhong; Weiguo Zhang; Feilin Zhu; Yu Zhang",
+    "topic": "risk_analysis",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0001174",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0001174",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E32",
+    "split": "extraction",
+    "doi": "10.1016/j.envsoft.2018.10.007",
+    "title": "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network",
+    "journal": "Environmental Modelling & Software",
+    "publication_date_parts": [
+      2019,
+      1
+    ],
+    "year": 2019,
+    "authors": "Juan Chen; Ping-An Zhong; Ru An; Feilin Zhu; Bin Xu",
+    "topic": "multi_reservoir_risk",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1364815218301191?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1364815218301191?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E33",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2019.123954",
+    "title": "Real-time reservoir flood control operation for cascade reservoirs using a two-stage flood risk analysis method",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2019,
+      10
+    ],
+    "year": 2019,
+    "authors": "Xiaoqi Zhang; Pan Liu; Chong-Yu Xu; Yu Gong; Lei Cheng; Shaokun He",
+    "topic": "multi_reservoir_risk",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2019.123954",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169419306742?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169419306742?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E34",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2020.125513",
+    "title": "Multiobjective stochastic programming with recourses for real-time flood water conservation of a multireservoir system under uncertain forecasts",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2020,
+      11
+    ],
+    "year": 2020,
+    "authors": "Bin Xu; Ping-an Zhong; Qingwen Lu; Feilin Zhu; Xin Huang; Yufei Ma; Jisi Fu",
+    "topic": "multi_reservoir_stochastic",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169420309732?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169420309732?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E35",
+    "split": "extraction",
+    "doi": "10.3390/w10030340",
+    "title": "Real-Time Flood Control by Tree-Based Model Predictive Control Including Forecast Uncertainty: A Case Study Reservoir in Turkey",
+    "journal": "Water",
+    "publication_date_parts": [
+      2018,
+      3,
+      19
+    ],
+    "year": 2018,
+    "authors": "Gökçen Uysal; Rodolfo Alvarado-Montero; Dirk Schwanenberg; Aynur Şensoy",
+    "topic": "tree_mpc",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w10030340",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/10/3/340/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Optimal control of reservoirs is a challenging task due to conflicting objectives, complex system structure, and uncertainties in the system. Real time control decisions suffer from streamflow forecast uncertainty. This study aims to use Probabilistic Streamflow Forecasts (PSFs) having a lead-time up to 48 h as input for the recurrent reservoir operation problem. A related technique for decision making is multi-stage stochastic optimization using scenario trees, referred to as Tree-based Model Predictive Control (TB-MPC). Deterministic Streamflow Forecasts (DSFs) are provided by applying random perturbations on perfect data. PSFs are synthetically generated from DSFs by a new approach which explicitly presents dynamic uncertainty evolution. We assessed different variables in the generation of stochasticity and compared the results using different scenarios. The developed real-time hourly flood control was applied to a test case which had limited reservoir storage and restricted downstream condition. According to hindcasting closed-loop experiment results, TB-MPC outperforms the deterministic counterpart in terms of decreased downstream flood risk according to different independent forecast scenarios. TB-MPC was also tested considering different number of tree branches, forecast horizons, and different inflow conditions. We conclude that using synthetic PSFs in TB-MPC can provide more robust solutions against forecast uncertainty by resolution of uncertainty in trees.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E36",
+    "split": "extraction",
+    "doi": "10.3390/w10050606",
+    "title": "Risk Analysis for Reservoir Real-Time Optimal Operation Using the Scenario Tree-Based Stochastic Optimization Method",
+    "journal": "Water",
+    "publication_date_parts": [
+      2018,
+      5,
+      6
+    ],
+    "year": 2018,
+    "authors": "Yimeng Sun; Feilin Zhu; Juan Chen; Jinshu Li",
+    "topic": "scenario_tree",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w10050606",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/10/5/606/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "The inherent uncertainty of inflow forecasts hinders the reservoir real-time optimal operation. This paper proposes a risk analysis model for reservoir real-time optimal operation using the scenario tree-based stochastic optimization method. We quantify the probability distribution of inflow forecast uncertainty by developing the relationship between two forecast accuracy metrics and the standard deviation of relative forecast error. An inflow scenario tree is generated via Monte Carlo simulation to represent the uncertain inflow forecasts. We establish a scenario tree-based stochastic optimization model to explicitly incorporate inflow forecast uncertainty into the stochastic optimization process. We develop a risk analysis model based on the principle of maximum entropy (POME) to evaluate the uncertainty propagation process from flood forecasts to optimal operation. We apply the proposed methodology to a flood control system in the Daduhe River Basin, China. In addition, numerical experiments are carried out to investigate the effect of two different forecast accuracy metrics and different forecast accuracy levels on reservoir optimal flood control operation as well as risk analysis. The results indicate that the proposed methods can provide decision-makers with valuable risk information for guiding reservoir real-time optimal operation and enable risk-informed decisions to be made with higher reliabilities.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E37",
+    "split": "extraction",
+    "doi": "10.3390/w11061134",
+    "title": "Risks Analysis and Response of Forecast-Based Operation for Ankang Reservoir Flood Control",
+    "journal": "Water",
+    "publication_date_parts": [
+      2019,
+      5,
+      30
+    ],
+    "year": 2019,
+    "authors": "Zhao Liu; Jiawei Lyu; Zhifeng Jia; Lixia Wang; Bin Xu",
+    "topic": "forecast_operation",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w11061134",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/11/6/1134/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "With the improvement of short-term flood forecasting and short-term rainfall forecast accuracy, as well as the advance of hydrological and meteorological information collection and collation methods, the reservoir flood regulation method taking rainfall or inflow forecast into consideration is gaining more and more attention. As the index of Forecast-Based Operation (FBO), the forecasted factor plays an important part in determining success or failure of FBO due to its uncertainty and accuracy. In this study, possible risk sources were analyzed considering the process and the characteristics of reservoir flood regulation firstly, and the uncertainty of the forecast information and the FBO risks were discussed based on hypothesis testing. Then, combined with the case study of applying FBO on Ankang Reservoir, in which the forecasted net rainfall was selected as the index of the FBO rules, the probability distribution of the forecasted net rainfall errors was derived as the basis of risk analysis. Finally, FBO risk analysis was conducted based on Monte Carlo method for several real flood processes, while a simulation was also carried out with the Conventional Operation (CO) for contrast. The results indicate that the maximum risk was reduced more than half when FBO was adopted. Consequently, the possible remedial measures were put forward in the case of invalid forecast happened based on simulation and the analysis of the principle of flood regulation. The conclusions and methods in this research provide ideas for real-time flood regulation and risk management of reservoirs.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E38",
+    "split": "extraction",
+    "doi": "10.3390/w11040649",
+    "title": "Risk Assessment and Decision-Making Based on Mean-CVaR-Entropy for Flood Control Operation of Large Scale Reservoirs",
+    "journal": "Water",
+    "publication_date_parts": [
+      2019,
+      3,
+      28
+    ],
+    "year": 2019,
+    "authors": "Quansen Wang; Jianzhong Zhou; Kangdi Huang; Ling Dai; Gang Zha; Lu Chen; Hui Qin",
+    "topic": "risk_preferences",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w11040649",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/11/4/649/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "The risk inevitably exists in the process of flood control operation and decision-making of reservoir group, due to the hydrologic and hydraulic uncertain factors. In this study different stochastic simulation methods were applied to simulate these uncertainties in multi-reservoir flood control operation, and the risk caused by different uncertainties was evaluated from the mean value, extreme value and discrete degree of reservoir occupied storage capacity under uncertain conditions. In order to solve the conflict between risk assessment indexes and evaluate the comprehensive risk of different reservoirs in flood control operation schemes, the subjective weight and objective weight were used to construct the comprehensive risk assessment index, and the improved Mahalanobis distance TOPSIS method was used to select the optimal flood control operation scheme. The proposed method was applied to the flood control operation system in the mainstream and its tributaries of upper reaches of the Yangtze River basin, and 14 cascade reservoirs were selected as a case study. The results indicate that proposed method can evaluate the risk of multi-reservoir flood control operation from all perspectives and provide a new method for multi-criteria decision-making of reservoir flood control operation, and it breaks the limitation of the traditional risk analysis method which only evaluated by risk rate and cannot evaluate the risk of the multi-reservoir flood control operation system.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E39",
+    "split": "extraction",
+    "doi": "10.1007/s11269-021-02795-6",
+    "title": "An Analytical Risk Analysis Method for Reservoir Flood Control Operation Considering Forecast Information",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2021,
+      5
+    ],
+    "year": 2021,
+    "authors": "Yawei Ning; Wei Ding; Guohua Liang; Bin He; Huicheng Zhou",
+    "topic": "risk_analysis",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-021-02795-6",
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-021-02795-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11269-021-02795-6/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-021-02795-6.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E40",
+    "split": "extraction",
+    "doi": "10.1007/s00477-014-0986-0",
+    "title": "A two-stage method of quantitative flood risk analysis for reservoir real-time operation using ensemble-based hydrologic forecasts",
+    "journal": "Stochastic Environmental Research and Risk Assessment",
+    "publication_date_parts": [
+      2014,
+      11,
+      25
+    ],
+    "year": 2014,
+    "authors": "Pan Liu; Kairong Lin; Xiaojing Wei",
+    "topic": "ensemble_risk",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s00477-014-0986-0",
+    "crossref_links": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00477-014-0986-0.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s00477-014-0986-0/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s00477-014-0986-0",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E41",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2015.09.012",
+    "title": "Credibility theory based dynamic control bound optimization for reservoir flood limited water level",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2015,
+      10
+    ],
+    "year": 2015,
+    "authors": "Zhiqiang Jiang; Ping Sun; Changming Ji; Jianzhong Zhou",
+    "topic": "dynamic_level",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2015.09.012",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169415006952?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169415006952?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E42",
+    "split": "extraction",
+    "doi": "10.3390/w13020173",
+    "title": "Quantifying the Risks that Propagate from the Inflow Forecast Uncertainty to the Reservoir Operations with Coupled Flood and Electricity Curtailment Risks",
+    "journal": "Water",
+    "publication_date_parts": [
+      2021,
+      1,
+      13
+    ],
+    "year": 2021,
+    "authors": "Qiumei Ma; Jiaxin Zhang; Bin Xiong; Yanke Zhang; Changming Ji; Ting Zhou",
+    "topic": "compound_risk",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w13020173",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/13/2/173/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Substantial uncertainty is inherent in reservoir inflow forecasting, which exerts a potential negative impact on reservoir risk. However, the risk propagation from the inflow forecast uncertainty (IFU) to reservoir operations remains elusive. Thus, a new integrated assessment framework was developed in this study to characterize the risk coupling with flood and electricity curtailment risks that propagate from the IFU to the reservoir operations. First, to incorporate the IFU, an improved Gaussian mixture distribution (IGMD) and Markov chain Monte Carlo (MCMC) algorithm were constructed to model the measured forecast errors and generate ensemble inflow forecasts, respectively. Next, to assess the reservoir risk, the flood risk induced by the IFU overestimation and the electricity curtailment risk related to the IFU underestimation were identified according to the reservoir operation rules. The sub-daily inflow forecast at the Jinping First Stage Hydropower Plant Reservoir of Yalong River, China (Jinping I Reservoir) was selected. The results indicated that the IGMD-based MCMC was capable of deriving robust ensemble forecasts. Furthermore, there was no flood risk (risk rate was zero) induced by the IFU when taking designed reservoir floods with a ≥10-year return period as the benchmark. In contrast, the electricity curtailment risk rate significantly increased up to 41% when considering the IFU. These findings suggested that compared with the flood prevention pressure, the IFU would more likely result in severe electricity curtailment risk at the Jinping I Reservoir.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E43",
+    "split": "extraction",
+    "doi": "10.3390/w10101371",
+    "title": "Flood Mitigation through Optimal Operation of a Multi-Reservoir System by Using Model Predictive Control: A Case Study in Myanmar",
+    "journal": "Water",
+    "publication_date_parts": [
+      2018,
+      10,
+      1
+    ],
+    "year": 2018,
+    "authors": "Nay Myo Lin; Martine Rutten; Xin Tian",
+    "topic": "multi_reservoir_mpc",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/w10101371",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2073-4441/10/10/1371/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Managing a multi-reservoir system is complicated, due to conflicting interests among various objectives. This study proposes an optimization-based approach for the operations of a multi-reservoir system. An advanced real-time control technique, Model Predictive Control (MPC), is adopted to control a multi-reservoir system with two control objectives, i.e., flood mitigation and water conservation. The case study area is the Sittaung River basin in Myanmar, where the current reservoir operating rule needs to be improved for a more effective operation. A comparison between an MPC-based operation and the current operation is presented by using performance indicators. The result shows a reduction of the system’s vulnerability by 0.9 percent using MPC. Due to the physical constraint of the reservoirs, it is impossible to completely eliminate the flood risk at Taungoo City during high inflow events. However, the results indicate that the potential flood risk can be mitigated by improving the current operating rule.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E44",
+    "split": "extraction",
+    "doi": "10.1111/jfr3.12586",
+    "title": "Determining dynamic water level control boundaries for a multi‐reservoir system during flood seasons with considering channel storage",
+    "journal": "Journal of Flood Risk Management",
+    "publication_date_parts": [
+      2019,
+      12,
+      20
+    ],
+    "year": 2019,
+    "authors": "Yu Gong; Pan Liu; Lei Cheng; Guiya Chen; Yanlai Zhou; Xiaoqi Zhang; Weifeng Xu",
+    "topic": "multi_reservoir_dynamic_level",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1111/jfr3.12586",
+    "crossref_links": [
+      {
+        "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjfr3.12586",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfr3.12586",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jfr3.12586",
+        "content-type": "application/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfr3.12586",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "AbstractThe dynamic control of reservoir water level during flood seasons (WLFS) allows a trade‐off between flood control and water resources conservation. In this process, the WLFS dynamic control boundaries are key parameters. The channel flood routing affects the dynamic control operations. However, flood routing is seldom considered in multi‐reservoir aggregation (a popular method for tackling the curse of dimensionality in multi‐reservoir issues). To address this knowledge gap, this study conceptualises channel flood routing as a virtual channel storage reservoir (CSR) based on Muskingum flood routing in the aggregation method. The dynamic control boundaries for the multi‐reservoir WLFS are then derived using the following aggregation‐decomposition method: (a) the aggregation reservoir is created by considering channel storages, and the flood risk is quantified using pre‐discharge rules; and (b) the aggregated reservoir storages are decomposed by maximising hydropower generation with constraints. The Xiluodu, Xiangjiaba and Three Gorges reservoir system on the Yangtze River, China, were selected for a case study. The annual power generation is 175.40 billion kWh when using static operation rules. With dynamic operation, the output would be 177.05 billion kWh if CSRs were not considered and 177.53 billion kWh if CSRs were considered. Thus, the proposed method can efficiently determine the dynamic control boundaries for the multi‐reservoir WLFS.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E45",
+    "split": "extraction",
+    "doi": "10.1061/(asce)wr.1943-5452.0000906",
+    "title": "Conditional Value-at-Risk for Nonstationary Streamflow and Its Application for Derivation of the Adaptive Reservoir Flood Limited Water Level",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2018,
+      3
+    ],
+    "year": 2018,
+    "authors": "Xiaoqi Zhang; Pan Liu; Chong-Yu Xu; Bo Ming; Aili Xie; Maoyuan Feng",
+    "topic": "adaptive_level",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000906",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/%28ASCE%29WR.1943-5452.0000906",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E46",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2014.11.073",
+    "title": "Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2015,
+      2
+    ],
+    "year": 2015,
+    "authors": "Frederick N.-F. Chou; Chia-Wen Wu",
+    "topic": "staged_rules",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2014.11.073",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169414009950?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169414009950?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E47",
+    "split": "extraction",
+    "doi": "10.2166/hydro.2017.059",
+    "title": "Selection of criteria for multi-criteria decision making of reservoir flood control operation",
+    "journal": "Journal of Hydroinformatics",
+    "publication_date_parts": [
+      2017,
+      3,
+      7
+    ],
+    "year": 2017,
+    "authors": "Feilin Zhu; Ping-an Zhong; Yimeng Sun; Bin Xu",
+    "topic": "decision_criteria",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.2166/hydro.2017.059",
+    "crossref_links": [
+      {
+        "URL": "http://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "In reservoir flood control operation, selection of criteria is an important part of the multi-criteria decision making (MCDM) procedure. This paper proposes a method to select criteria for MCDM of reservoir flood control operation based on the back-propagation (BP) neural network. According to the concept of ideal and anti-ideal points, we propose a method to generate training samples of the BP neural network via stochastic simulation. The topological structure of a three-layer BP neural network used for criteria selection is established. The relative importance of criteria is derived via the learned connection weights of a trained BP neural network, and its calculation method is proposed. The sensitivity curve method is employed to conduct sensitivity analysis, and the relative contribution ratio is defined to quantify the relative sensitivity strength of each criterion. We present the principle and threshold value of criteria selection based on the comprehensive discrimination index defined by the combination of the relative importance and relative contribution ratio. The Pubugou reservoir is selected as the case study. The results show that the proposed method can provide an effective tool for decision makers to select criteria before MCDM modeling of reservoir flood control operation.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E48",
+    "split": "extraction",
+    "doi": "10.2166/hydro.2015.055",
+    "title": "A multi-criteria decision-making model dealing with correlation among criteria for reservoir flood control operation",
+    "journal": "Journal of Hydroinformatics",
+    "publication_date_parts": [
+      2015,
+      11,
+      3
+    ],
+    "year": 2015,
+    "authors": "Feilin Zhu; Ping-an Zhong; Bin Xu; Ye-nan Wu; Yu Zhang",
+    "topic": "decision_criteria",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.2166/hydro.2015.055",
+    "crossref_links": [
+      {
+        "URL": "http://iwaponline.com/jh/article-pdf/18/3/531/478742/jh0180531.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "http://iwaponline.com/jh/article-pdf/18/3/531/478742/jh0180531.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Flood control operation in a multi-reservoir system is a multi-criteria decision-making (MCDM) problem, in which the considered criteria are often correlated with each other. In this paper, we propose an MCDM model for reservoir flood control operation to deal with correlation among criteria. Considering the flood control safety of reservoirs and downstream protected regions, we establish the hierarchical structure of the criterion system. We use the principal component analysis method to eliminate the correlation, and transform the original criterion system into an independent comprehensive criterion system. The comprehensive decision matrix coupled with the weight vector obtained by the improved entropy weight method serves as the input to TOPSIS method, fuzzy optimum method, and fuzzy matter-element method, by which we determine the ranking order of the alternatives. We apply the proposed model to a cascade system of reservoirs at the Daduhe River basin in China. The results show that the dimensionality of the criterion system is reduced and the correlation among criteria is eliminated simultaneously, and the ranking order of the alternatives is reasonable. The proposed model provides an effective way to deal with correlation among criteria, and can be extended to wider applications in many other MCDM problems.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E49",
+    "split": "extraction",
+    "doi": "10.1016/j.jhydrol.2021.127334",
+    "title": "Robust multiobjective reservoir operation and risk decision-making model for real-time flood control coping with forecast uncertainty",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2022,
+      2
+    ],
+    "year": 2022,
+    "authors": "Xin Huang; Bin Xu; Ping-an Zhong; Hongyi Yao; Hao Yue; Feilin Zhu; Qingwen Lu; Yu Sun; Ran Mo; Zhen Li; Weifeng Liu",
+    "topic": "robust_risk_decision",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2021.127334",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169421013846?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169421013846?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "E50",
+    "split": "extraction",
+    "doi": "10.1061/jwrmd5.wreng-6471",
+    "title": "Variability, Attributes, and Drivers of Optimal Forecast-Informed Reservoir Operating Policies for Water Supply and Flood Control in California",
+    "journal": "Journal of Water Resources Planning and Management",
+    "publication_date_parts": [
+      2024,
+      10
+    ],
+    "year": 2024,
+    "authors": "William Taylor; Zachary P. Brodeur; Scott Steinschneider; John Kucharski; Jonathan D. Herman",
+    "topic": "forecast_policy_variation",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1061/jwrmd5.wreng-6471",
+    "crossref_links": [
+      {
+        "URL": "https://ascelibrary.org/doi/pdf/10.1061/JWRMD5.WRENG-6471",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "V01",
+    "split": "validation",
+    "doi": "10.1007/s11269-025-04305-4",
+    "title": "Dynamic Control of the Flood Limited Water Level in Reservoir Considering the Uncertainty Error Domain of Forecast Information",
+    "journal": "Water Resources Management",
+    "publication_date_parts": [
+      2025,
+      8,
+      5
+    ],
+    "year": 2025,
+    "authors": "Qianning Wang; Yong Peng; Min Li; Jinnan Zhang; Yue Sun; Wei Ding; Feilin Zhu",
+    "topic": "dynamic_level",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1007/s11269-025-04305-4",
+    "crossref_links": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-025-04305-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s11269-025-04305-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s11269-025-04305-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "V02",
+    "split": "validation",
+    "doi": "10.2166/hydro.2025.019",
+    "title": "Balancing operator’s risk averseness in model predictive control for real-time reservoir flood control",
+    "journal": "Journal of Hydroinformatics",
+    "publication_date_parts": [
+      2025,
+      3,
+      13
+    ],
+    "year": 2025,
+    "authors": "Ja-Ho Koo; Edo Abraham; Andreja Jonoski; Dimitri P. Solomatine",
+    "topic": "operator_risk_mpc",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.2166/hydro.2025.019",
+    "crossref_links": [
+      {
+        "URL": "https://iwaponline.com/jh/article-pdf/27/4/601/1548607/jh2025019.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "syndication"
+      },
+      {
+        "URL": "https://iwaponline.com/jh/article-pdf/27/4/601/1548607/jh2025019.pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "ABSTRACT\n                  \n                  Model predictive control (MPC) is an optimal control strategy suited for flood control of water resources infrastructure. Despite many studies on reservoir flood control and their theoretical contribution, optimisation methodologies have not been widely applied in real-time operation due to disparities between research assumptions and practical requirements. To address this gap, we include practical objectives, such as minimising the magnitude and frequency of changes in the existing outflow schedule. Incorporating these objectives transforms the problem into a multi-objective nonlinear optimisation problem that is difficult to solve in real time. Additionally, it is reasonable to assume that the weights and some parameters, considered the operators’ preferences, vary depending on the system state. To overcome these limitations, we propose a framework that converts the original intractable problem into parameterised linear MPC problems with dynamic optimisation of weights and parameters. This is done by introducing a model-based learning concept. We refer to this framework as Parameterised Dynamic MPC (PD-MPC). The effectiveness of this framework is demonstrated through a numerical experiment for the Daecheong multipurpose reservoir in South Korea. We find that PD-MPC outperforms standard MPC-based designs without a dynamic optimisation process for the objective weights and model parameter. Moreover, we demonstrate that the weights and parameters vary with changing hydrological conditions.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "V03",
+    "split": "validation",
+    "doi": "10.1016/j.jhydrol.2023.129421",
+    "title": "Multi-objective robust optimization of reservoir operation for real-time flood control under forecasting uncertainty",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2023,
+      5
+    ],
+    "year": 2023,
+    "authors": "Xinting Yu; Yue-Ping Xu; Haiting Gu; Yuxue Guo",
+    "topic": "robust_optimization",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2023.129421",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169423003633?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169423003633?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "V04",
+    "split": "validation",
+    "doi": "10.1016/j.jhydrol.2025.134285",
+    "title": "Uncertainty-informed multi-reservoir flood control optimization: A probabilistic forecasting and stochastic decision-making framework",
+    "journal": "Journal of Hydrology",
+    "publication_date_parts": [
+      2025,
+      12
+    ],
+    "year": 2025,
+    "authors": "Cheng Chen; Binquan Li; Huiming Zhang; Maihuan Zhao; Zhongmin Liang; Kuang Li; Xindai An",
+    "topic": "multi_reservoir_uncertainty",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.jhydrol.2025.134285",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169425016257?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0022169425016257?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  },
+  {
+    "id": "V05",
+    "split": "validation",
+    "doi": "10.3390/hydrology11090147",
+    "title": "Adaptive Operating Rules for Flood Control of a Multi-Purpose Reservoir",
+    "journal": "Hydrology",
+    "publication_date_parts": [
+      2024,
+      9,
+      10
+    ],
+    "year": 2024,
+    "authors": "Radu Drobot; Aurelian Florentin Draghia; Cristian Dinu; Nicolai Sîrbu; Viorel Chendeș; Petrișor Mazilu",
+    "topic": "adaptive_rules",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.3390/hydrology11090147",
+    "crossref_links": [
+      {
+        "URL": "https://www.mdpi.com/2306-5338/11/9/147/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "abstract": "Almost all multipurpose reservoirs in Romania were put into operation 30–50 years ago or even earlier. Meanwhile, a large volume of hydrologic data has been collected, and the initial design flood should be reconsidered. Consequently, the operating rules of flow control structures (bottom gates and weir gates) should be re-examined, mainly for medium and low-frequency floods. The design flood is not unique, being characterized by different shapes and time to peak, which has consequences for flood mitigation rules. Identifying the critical design flood is an important preliminary step, although it is usually neglected in flood management. Simulating the operation of the Stânca–Costești reservoir on the Prut River, it was found that the design flood corresponding to the maximum value of the compactness coefficient is the most difficult to mitigate considering the specific conditions of the dam and the reservoir: the prescribed conservation level in the reservoir, and the design flood volume of medium and rare floods that far exceeds the flood control volume. These conditions can jeopardize both dam safety and downstream flood protection. The main steps of the proposed approach are as follows: (1) developing the hydraulic model; (2) statistical processing of the registered floods and defining critical design floods for different AEPs (Annual Exceedance Probabilities); (3) deriving optimal operation rules based on a simulation-optimization model; (4) implementing real-time adaptive operation of the mechanical outlets; and (5) critically assessing the operating rules after the event. Based on the hydrological forecast, if necessary, new outlets are put into operation while keeping the ones already activated. Based on the hydrological forecast and properly operated, the safety of the Stânca–Costești dam is guaranteed even in the event of a 0.1% CC (Climate Change) flood. However, for floods greater than 1% magnitude, the carrying capacity of the downstream riverbed is exceeded. The main gaps addressed in this paper are the following: (1) the establishment of critical design floods, and (2) the adaptive operating rules of outlet devices aimed at optimizing flood control results, using short-term flood forecasts.",
+    "local_source": null,
+    "prior_exposure": "not_in_0902_or_local_manifest; other_prior_runs_not_exhaustively_checked",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15"
+  }
+]

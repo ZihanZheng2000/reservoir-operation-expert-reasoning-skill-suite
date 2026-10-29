@@ -1,0 +1,80 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R5,E01,Require total modeled risk to be no greater than the current-rule risk,primary,RP04-D,,Dynamic control acceptable only if total risk does not exceed current-rule design-flood risk
+E02-R3,E02,Define the competing operating objectives,secondary,RP04-F,,Dam/upstream safety and downstream control point are two competing safety concerns
+E02-R6,E02,Convert stochastic objectives into operational risk indicators,primary,RP04-A,RP04-B,Overtopping and downstream flooding defined as threshold exceedance probabilities
+E03-R4,E03,Translate forecast uncertainty and acceptable risk into a safety requirement,primary,RP04-E,,Acceptable risk inverted through forecast-error CDF to minimum safety margin
+E04-R7,E04,Define the operational threshold and comparison route,primary,RP04-A,RP04-D,"180.4 m threshold tied to 10,000-year design flood defines the risk event"
+E05-R3,E05,Define feasible storage–safety allocations before optimizing,secondary,RP04-E,,Feasible allocation region bounded by acceptable-risk margin
+E06-R1,E06,Frame the uncertain operating risk,primary,RP04-A,,Risk as load (highest level or peak outflow) exceeding safe resistance
+E06-R6,E06,Propagate uncertainty through the operating policy,secondary,RP04-A,,Routed outcomes evaluated against reservoir safety levels
+E06-R7,E06,Compare threshold risk and entropy-based risk,primary,RP04-C,,Entropy added because one exceedance probability cannot show whole-system risk
+E07-R3,E07,Set the critical threshold and lead-time tolerance,primary,RP04-D,RP04-A,Storage threshold below spillway crest plus lead-time risk tolerance curve
+E08-R6,E08,Convert distributions into risk and assess uncertainty interactions,primary,RP04-A,RP04-G,Risk as cumulative probability above level or flow thresholds
+E10-R2,E10,Formulate dependent flood-risk objective,primary,RP04-B,RP04-G,Downstream levee-failure probability across dependent stages
+E11-R2,E11,Convert forecast skill into an acceptable error bound,primary,RP04-E,,Design flood probability kept unchanged by bounding acceptable forecast error
+E12-R3,E12,Include process resilience in the objective,primary,RP04-C,,Damage depends on magnitude and duration; resilience added
+E14-R6,E14,Match objective complexity to flood scale,primary,RP04-C,,"Large floods need failure probability, duration, and severity measures"
+E15-R3,E15,Translate forecast uncertainty into a safety bound,primary,RP04-E,,Acceptable risk sets the inflow percentile the current release must accommodate
+E16-R2,E16,Define a flood-pool objective with drawdown guardrail,secondary,RP04-A,,Required flood pool above TOCS as reservoir-side safety measure
+E17-R3,E17,Define benefit as flood-pool reduction,primary,RP04-A,,Required flood pool as the safety performance measure
+E19-R3,E19,Define PP as a conservative physical upper bound,secondary,RP04-E,,Worst-case precipitation assumption gives a conservative safety basis
+E19-R4,E19,Convert PP into an operational water-level bound,secondary,RP04-E,,Conservative estimate converted into an operational water-level bound
+E20-R1,E20,Frame flood operation as a conflict between two consequences,secondary,RP04-F,,Downstream release damage and dam safety as separate consequences
+E20-R4,E20,Choose output descriptors that represent flood-operation consequences,primary,RP04-A,RP04-B,Maximum release and maximum storage chosen as consequence descriptors
+E20-R5,E20,Convert outputs into thresholded damage and conditional failure risk,primary,RP04-B,,Thresholded downstream damage and conditional dam-break risk
+E21-R5,E21,Let surplus upstream capacity compensate downstream tasks,secondary,RP04-F,,Higher downstream level accepted while basin-level risk stays controlled
+E22-R8,E22,Prefer policies that preserve flood safety while increasing storage,primary,RP04-D,,Policy retained only below the critical flood-control storage
+E23-R5,E23,Formulate risk-aware multi-stage control,secondary,RP04-D,,Hard constraints on all branches; chance-constraint variant for accepted violation
+E24-R3,E24,Translate conveyance gap into a safety resource,primary,RP04-B,,Levee failure when total flow exceeds conveyance; margin as safety resource
+E25-R2,E25,Represent engineering failure modes and stage risk,primary,RP04-B,,Overtopping and geotechnical failure via fragility curve
+E25-R5,E25,Assess convexity and parameter effects,secondary,RP04-B,,Shape of failure curve changes expected cost and hedging
+E26-R3,E26,Define consequence risks and acceptable flood bound,primary,RP04-B,RP04-D,"Upstream, downstream, and shortage consequences with acceptable flood bound"
+E27-R4,E27,Propagate error through deterministic routing/rules,secondary,RP04-A,,Routed level outcomes from error realizations
+E27-R5,E27,Use Monte Carlo MWL distributions as operator risk evidence,primary,RP04-A,,Maximum water level distribution against several level thresholds
+E27-R6,E27,Interpret acceptability and limits,secondary,RP04-D,,Simulated risk judged acceptable; unquantified conventional risk disclosed
+E28-R1,E28,Frame the forecast-enabled operating trade-off,secondary,RP04-A,,Flood load exceeding regulating resistance
+E28-R4,E28,Define the risk event at the correct safety reference,primary,RP04-G,,Risk = event probability x conditional exceedance; design vs check reference
+E28-R6,E28,Interpret accuracy sensitivity and reverse-use the risk curve,secondary,RP04-E,,Risk curve read backward for required accuracy
+E29-R6,E29,Judge a scheme by safety and benefits together,secondary,RP04-D,,Scheme favored only if thresholds not crossed
+E30-R1,E30,Define the uncertainty-bearing decision problem,primary,RP04-A,,"Uncertain level as load, safe level as threshold"
+E30-R5,E30,Define point and whole-process risk,primary,RP04-G,,Point vs whole-process union risk
+E30-R6,E30,Read risk curves for action or design targets,primary,RP04-E,,Controlled level or reserve storage solved for acceptable risk
+E31-R2,E31,Define risks at point and process levels,primary,RP04-G,,Point vs total union risk without double counting
+E31-R6,E31,Translate risk information into operating implications,primary,RP04-E,,Exceeding acceptable risk triggers program revision or emergency action
+E32-R5,E32,Select inference direction and risk event,primary,RP04-A,,Risk as probability mass above safe level or flow
+E33-R2,E33,Split the horizon at each forecast boundary,primary,RP04-G,,Risk beyond forecast horizon included
+E33-R4,E33,Define failure probability over reservoir/scenario states,primary,RP04-G,,Failure counted once per scenario across reservoirs and stages
+E33-R5,E33,Treat the flood-protection standard as the acceptable risk,primary,RP04-D,,Flood-protection standard as accepted risk
+E35-R6,E35,"Balance flood safety, water supply, and operability",secondary,RP04-B,,High penalty for downstream release above 200 m3/s
+E36-R4,E36,Optimize an expected safety-oriented trajectory,secondary,RP04-A,,Expected highest level as safety objective
+E36-R6,E36,Define risk as maximum-level exceedance,primary,RP04-A,,Risk as maximum-level exceedance probability
+E36-R8,E36,Use risk curves to guide forecast/level requirements,primary,RP04-E,,Safe level or accuracy found where risk meets tolerance
+E37-R6,E37,Interpret the risk metric with event probability,primary,RP04-G,,Exceedance frequency combined with flood occurrence probability
+E38-R1,E38,Define the decision object and risk variable,primary,RP04-F,,Occupied storage per reservoir and for the whole system
+E38-R2,E38,Replace a single failure probability with complementary risk views,primary,RP04-C,,"Mean, CVaR, entropy instead of a single failure probability"
+E38-R4,E38,Resolve reservoir-level importance before system aggregation,primary,RP04-F,,Reservoir weights before system risk aggregation
+E39-R2,E39,"Distinguish single, union, and intersection hazards",primary,RP04-F,,"Single, union, intersection hazards for two thresholds"
+E39-R3,E39,Prefer continuous integration to conditional interval approximation,secondary,RP04-F,,Joint density integrated over hazard domain
+E39-R4,E39,Build the hazard domain from physical boundary conditions,primary,RP04-F,,Hazard domain from physical boundary of both thresholds
+E39-R6,E39,Use FLWL as the controllable operating trade-off,secondary,RP04-E,,Highest FLWL within design risk
+E40-R2,E40,Split predictable and unpredicted time,primary,RP04-G,,Lead-time and post-horizon risk
+E40-R3,E40,Set risk events and control mode,primary,RP04-F,,Release-control vs level-control expose downstream vs upstream risk
+E40-R4,E40,Use protection standards as acceptable risk,primary,RP04-D,,Design-flood frequency as acceptable risk
+E41-R3,E41,Formulate a safety-constrained benefit objective,secondary,RP04-E,,Benefit maximized subject to credibility of exceeding design level
+E41-R4,E41,Use dense frequency coverage and fuzzy simulation,secondary,RP04-G,,Exceedance credibility aggregated across many flood frequencies
+E41-R5,E41,Select the highest feasible IOWL per stage,primary,RP04-E,,Highest bound whose risk does not exceed standard
+E41-R6,E41,Check credibility results against extreme risk,secondary,RP04-D,,Bound cross-checked against extreme-risk rate
+E42-R5,E42,Separate flood and curtailment pathways,primary,RP04-B,,Flood exceedance and generation curtailment as separate consequence pathways
+E43-R4,E43,Set the prediction and safety envelope,primary,RP04-B,RP04-D,Downstream safety level set with buffer below danger level
+E44-R4,E44,Link pre-discharge storage to flood risk,primary,RP04-G,,Two-stage risk from end storage after pre-discharge
+E45-R1,E45,Diagnose stationarity and consequence gap,secondary,RP04-C,,Exceedance probability alone ignores loss size
+E45-R2,E45,Choose CVaR and derive a horizon measure,primary,RP04-C,,CVaR aggregated over planning horizon
+E45-R3,E45,Establish a stationary benchmark,primary,RP04-D,,Stationary scheme defines maximum acceptable risk and loss
+E45-R5,E45,Add tail-loss protection,primary,RP04-C,RP04-D,CVaR constraint added when tail loss exceeds benchmark
+E45-R6,E45,Interpret the stricter metric and claim scope,secondary,RP04-C,,CVaR judged more sensitive and reliable constraint
+E46-R3,E46,Set target and safety levels by objective priority,primary,RP04-A,,"Target and safety levels encode preparation, safety, PMF capacity"
+E46-R5,E46,Preserve safety under extreme events and constraints,secondary,RP04-D,,PMF simulations used to keep overtopping excluded
+E48-R2,E48,Define the safety hierarchy and measurable criteria,primary,RP04-F,,Safety hierarchy across reservoirs and downstream region
+E49-R3,E49,"Represent flood risk with complementary probability, loss, and resilience surrogates",primary,RP04-C,,"Probability, CVaR loss, and duration together"
+E50-R5,E50,Optimize storage subject to flood-release penalties,secondary,RP04-B,,Penalty for releases above maximum safe release
+E50-R6,E50,Treat storage and release frequency as joint viability checks,secondary,RP04-C,,Storage gains judged with frequency of maximum releases

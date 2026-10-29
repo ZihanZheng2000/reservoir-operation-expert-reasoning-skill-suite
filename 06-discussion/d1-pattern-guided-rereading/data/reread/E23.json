@@ -1,0 +1,100 @@
+{
+  "paper": "E23",
+  "patterns": {
+    "RP01": {
+      "present": true,
+      "small": ["RP01-B"],
+      "quote": "While the deterministic run fulfills the constraint only for the most probable scenario (without considering forecast uncertainty), the control trajectory of the stochastic optimization meets the constraint for all 32 branches of the scenario tree.",
+      "where": "3.4 Optimization Performance, pp. 1647-1648"
+    },
+    "RP02": {
+      "present": true,
+      "small": ["RP02-A", "RP02-C", "RP02-G"],
+      "quote": "This allows us to consider lag time between precipitation and reservoir inflow in larger river basins under the hypothesis that most forecast uncertainty gets resolved when forecasted precipitation is observed and the hydrological model uncertainty is smaller than the meteorological one.",
+      "where": "1 Introduction (contribution statement), p. 1637"
+    },
+    "RP03": {
+      "present": true,
+      "small": ["RP03-A", "RP03-B", "RP03-C", "RP03-F"],
+      "quote": "Since they do not include the peak inflow beyond Day 10, the forebay elevation increases faster and flow at the downstream gauge is lower than in the optimization runs with a lead time of 15 days.",
+      "where": "3.4 Optimization Performance, p. 1647; also 3.2 Forecast Uncertainty"
+    },
+    "RP04": {
+      "present": true,
+      "small": ["RP04-A", "RP04-B"],
+      "quote": "Two flow thresholds at the downstream gauge of Pirapora Ponte exist at 2000 and 4000 m3/s. The lower one represents the flow at which the operators need to take first measures and small-scale inundation starts.",
+      "where": "2.1 Case Description, pp. 1638-1639"
+    },
+    "RP05": {
+      "present": true,
+      "small": ["RP05-A", "RP05-D"],
+      "quote": "The least-square penalty motivates the optimization to prefer a constant flow at Pirapora Ponte by choosing an appropriate reservoir outflow under consideration of the flow propagation to the gauge and lateral inflows from downstream tributaries.",
+      "where": "3.4 Optimization Performance, p. 1647"
+    },
+    "RP06": {"present": false},
+    "RP07": {
+      "present": true,
+      "small": ["RP07-D"],
+      "quote": "This enables us to define a common control trajectory for all scenarios at the beginning of the forecast horizon when future system states are still uncertain and a single decision should cover all future trajectories.",
+      "where": "2.2 Model Predictive Control, p. 1640"
+    },
+    "RP08": {
+      "present": true,
+      "small": ["RP08-A"],
+      "quote": "A spatial and temporal refinement improves results, but increases the computational costs. The best combination of accuracy and computational performance is obtained by the integrator delay model.",
+      "where": "3.1 Model Uncertainty, p. 1644"
+    },
+    "RP09": {
+      "present": true,
+      "small": ["RP09-A", "RP09-C", "RP09-D", "RP09-E"],
+      "quote": "On the other hand, the total reservoir outflow is larger from the beginning. The reason for this is the forebay elevation hard constraint.",
+      "where": "3.4 Optimization Performance, p. 1647; limitation in 4 Conclusions"
+    },
+    "EP01": {
+      "present": true,
+      "small": ["EP01-A", "EP01-B", "EP01-D"],
+      "quote": "The data becomes available twice a day at 00:00 UTM and 12:00 UTM with a forecast horizon of 15 days and time steps of 6 hours.",
+      "where": "2.4 Ensemble Forecast Data, p. 1641; 2.1 Case Description"
+    },
+    "EP02": {
+      "present": true,
+      "small": ["EP02-A", "EP02-B", "EP02-C", "EP02-D"],
+      "quote": "The MAE (Fig. 2) shows no significant difference between the deterministic and probabilistic ECMWF-based forecasts and the perfect forecast up to a lead-time of 48h.",
+      "where": "3.2 Forecast Uncertainty, p. 1644"
+    },
+    "EP03": {
+      "present": true,
+      "small": ["EP03-E", "EP03-G"],
+      "quote": "The comparison of the constructed trees to the corresponding ensemble forecast shows no bias of the probability weighted average of the scenarios, i.e. the MAE of both are identical.",
+      "where": "3.3 Scenario Tree Generation, p. 1646"
+    },
+    "EP04": {
+      "present": true,
+      "small": ["EP04-B", "EP04-C"],
+      "quote": "the routing model of the river reach downstream of the dam is executed as an internal models in the optimization to predict future system states, i.e. the discharge at gauge Pirapora.",
+      "where": "2.5 Hydrological and Hydraulic Modeling, p. 1642"
+    },
+    "EP05": {
+      "present": true,
+      "small": ["EP05-C"],
+      "quote": "the control trajectory of the stochastic optimization meets the constraint for all 32 branches of the scenario tree.",
+      "where": "3.4 Optimization Performance, p. 1648"
+    },
+    "EP06": {
+      "present": true,
+      "small": ["EP06-B", "EP06-C"],
+      "quote": "The stochastic optimization relies on the scenario tree of 32 final branches with a lead time of 15 days as presented in Fig. 6b.",
+      "where": "3.4 Optimization Performance, p. 1647"
+    },
+    "EP09": {"present": false},
+    "EP07": {"present": false},
+    "EP08": {"present": false},
+    "EP10": {
+      "present": true,
+      "small": ["EP10-A", "EP10-B", "EP10-C"],
+      "quote": "Deterministic results base upon perfect forecasts with a forecast lead time of 10 and 15 days. Therein, the streamflow forecast of the hydrological model is replaced by observed data.",
+      "where": "3.4 Optimization Performance, p. 1647"
+    },
+    "EP11": {"present": false}
+  }
+}

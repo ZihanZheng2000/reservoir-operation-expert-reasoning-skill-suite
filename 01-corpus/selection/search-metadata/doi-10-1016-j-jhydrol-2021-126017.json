@@ -1,0 +1,866 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        21
+      ]
+    ],
+    "date-time": "2026-08-21T12:15:17Z",
+    "timestamp": 1787314517129,
+    "version": "build-2736575974"
+  },
+  "reference-count": 43,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2021,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2021-04-01T00:00:00Z",
+        "timestamp": 1617235200000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012166",
+      "name": "National Key Research and Development Program of China",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100012166",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100011428",
+      "name": "State Key Laboratory of Hydroscience and Engineering",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100011428",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2021.126017",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        29
+      ]
+    ],
+    "date-time": "2021-01-29T01:39:19Z",
+    "timestamp": 1611884359000
+  },
+  "page": "126017",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 21,
+  "special_numbering": "C",
+  "title": [
+    "Improving real-time reservoir operation during flood season by making the most of streamflow forecasts"
+  ],
+  "prefix": "10.1016",
+  "volume": "595",
+  "author": [
+    {
+      "given": "Jiabiao",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Tongtiegang",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jianshi",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hao",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xiaohui",
+      "family": "Lei",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2021.126017_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "10159",
+      "DOI": "10.1029/2019WR025280",
+      "article-title": "The value of subseasonal hydrometeorological forecasts to hydropower operations: How much does pre-processing matter?",
+      "volume": "55",
+      "author": "Anghileri",
+      "year": "2019",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2021.126017_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "4209",
+      "DOI": "10.1002/2015WR017864",
+      "article-title": "Value of long-term streamflow forecasts to reservoir operations for water supply in snow-dominated river catchments",
+      "volume": "52",
+      "author": "Anghileri",
+      "year": "2016",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2021.126017_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "333",
+      "DOI": "10.5194/hess-9-333-2005",
+      "article-title": "Coupling meteorological and hydrological models for flood forecasting",
+      "volume": "9",
+      "author": "Bartholmes",
+      "year": "2005",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "969",
+      "DOI": "10.1007/s11269-017-1849-5",
+      "article-title": "Skill of hydrological extended range forecasts for water resources management in Switzerland",
+      "volume": "32",
+      "author": "Bogner",
+      "year": "2018",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2021.126017_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "343",
+      "DOI": "10.1007/s10666-014-9430-6",
+      "article-title": "Roughness and discharge uncertainty in 1D water level calculations",
+      "volume": "20",
+      "author": "Bozzi",
+      "year": "2015",
+      "journal-title": "Environ. Model. Assess."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2021.126017_b0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "3987",
+      "DOI": "10.1007/s11269-015-1041-8",
+      "article-title": "Development of an optimization/simulation model for real-time flood-control operation of river-reservoirs systems",
+      "volume": "29",
+      "author": "Che",
+      "year": "2015",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "712",
+      "DOI": "10.1016/j.jhydrol.2016.06.015",
+      "article-title": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+      "volume": "540",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2021.126017_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "1141",
+      "DOI": "10.1016/j.envsoft.2003.12.004",
+      "article-title": "Flood control management system for reservoirs",
+      "volume": "19",
+      "author": "Cheng",
+      "year": "2004",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1016/j.jhydrol.2014.11.073",
+      "article-title": "Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir",
+      "volume": "521",
+      "author": "Chou",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2021.126017_b0060",
+      "first-page": "713",
+      "article-title": "A review of quantitative precipitation forecasts and their use in short-to medium-range streamflow forecasting",
+      "volume": "12",
+      "author": "Cuo",
+      "year": "2011",
+      "journal-title": "J. Hydrol. Meteorol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2021.126017_b0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "157",
+      "DOI": "10.1061/(ASCE)0733-9496(1985)111:2(157)",
+      "article-title": "Extended streamflow forecasting using NWSRFS",
+      "volume": "111",
+      "author": "Day",
+      "year": "1985",
+      "journal-title": "J. Water Res. Plann. Manag."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2021.126017_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "3-4",
+      "key": "10.1016/j.jhydrol.2021.126017_b0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "282",
+      "DOI": "10.1016/j.jhydrol.2007.01.001",
+      "article-title": "A multipurpose reservoir real-time operation model for flood control during typhoon invasion",
+      "volume": "336",
+      "author": "Hsu",
+      "year": "2007",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.jhydrol.2021.126017_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "5113",
+      "DOI": "10.1007/s11269-016-1472-x",
+      "article-title": "Optimal pre-storm flood hedging releases for a single reservoir",
+      "volume": "30",
+      "author": "Hui",
+      "year": "2016",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "329",
+      "DOI": "10.1080/15715124.2017.1411920",
+      "article-title": "A Brief review of flood forecasting techniques and their applications",
+      "volume": "16",
+      "author": "Jain",
+      "year": "2018",
+      "journal-title": "Int. J. River Basin Manag."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2021.126017_b0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1007/s11269-009-9438-x",
+      "article-title": "Streamflow forecast and reservoir operation performance assessment under climate change",
+      "volume": "24",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "1-2",
+      "key": "10.1016/j.jhydrol.2021.126017_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "1376",
+      "DOI": "10.1016/j.proeng.2016.07.504",
+      "article-title": "Optimal operation of a network of multi-purpose reservoir: A review",
+      "volume": "154",
+      "author": "Lin",
+      "year": "2016",
+      "journal-title": "Procedia Eng."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "803",
+      "DOI": "10.1007/s00477-014-0986-0",
+      "article-title": "A two-stage method of quantitative flood risk analysis for reservoir real-time operation using ensemble-based hydrologic forecasts",
+      "volume": "29",
+      "author": "Liu",
+      "year": "2015",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0110",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu, X., Qu, G., Guo, X., Yue, H. 2019. Study on the Three Gorges reservoir flood control operation chart considering comprehensive utilization requirements. In IOP Conference Series: Earth and Environmental Science (Vol. 304, No. 4, p. 042040). IOP Publishing.",
+      "DOI": "10.1088/1755-1315/304/4/042040"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2021.126017_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "4557",
+      "DOI": "10.1007/s11269-015-1080-1",
+      "article-title": "Streamflow forecast errors and their impacts on forecast-based reservoir flood control",
+      "volume": "29",
+      "author": "Liu",
+      "year": "2015",
+      "journal-title": "Water Res. Manag."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "459",
+      "DOI": "10.1007/s11069-009-9442-8",
+      "article-title": "A real-time operation optimization model for flood management in river-reservoir systems",
+      "volume": "53",
+      "author": "Malekmohammadi",
+      "year": "2010",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0125",
+      "unstructured": "National Research Council, 2000. Risk analysis and uncertainty in flood damage reduction studies. National Academies Press."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0130",
+      "series-title": "Advances in Hydroinformatics",
+      "first-page": "333",
+      "article-title": "Real-time reservoir operation for flood management considering ensemble streamflow prediction and its uncertainty",
+      "author": "Nohara",
+      "year": "2016"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2021.126017_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "B4016002",
+      "DOI": "10.1061/(ASCE)IR.1943-4774.0001063",
+      "article-title": "Combining short-term and long-term reservoir operation using infinite horizon model predictive control",
+      "volume": "143",
+      "author": "Raso",
+      "year": "2017",
+      "journal-title": "J. Irrig. Drain. Eng."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2021.126017_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1635",
+      "DOI": "10.1007/s11269-014-0899-1",
+      "article-title": "Short-term reservoir optimization for flood mitigation under meteorological and hydrological forecast uncertainty",
+      "volume": "29",
+      "author": "Schwanenberg",
+      "year": "2015",
+      "journal-title": "Water Res. Manag."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2021.126017_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/WR025i001p00001",
+      "article-title": "An improved methodology for short-term operation of a single multipurpose reservoir",
+      "volume": "25",
+      "author": "Simonovic",
+      "year": "1989",
+      "journal-title": "Water Res. Res."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2021.126017_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1029/2008WR006822",
+      "article-title": "Appraisal of the generalized likelihood uncertainty estimation (GLUE) method",
+      "volume": "44",
+      "author": "Stedinger",
+      "year": "2008",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.jhydrol.2021.126017_b0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "2743",
+      "DOI": "10.1002/hyp.5687",
+      "article-title": "Role and treatment of uncertainty in real-time flood forecasting",
+      "volume": "18",
+      "author": "Todini",
+      "year": "2004",
+      "journal-title": "Hydrol. Process."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "1385",
+      "DOI": "10.1016/j.proeng.2016.07.506",
+      "article-title": "Comparison of different reservoir models for short term operation of flood management",
+      "volume": "154",
+      "author": "Uysal",
+      "year": "2016",
+      "journal-title": "Procedia Eng."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2021.126017_b0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "1827",
+      "DOI": "10.3390/su11071827",
+      "article-title": "Revisiting water supply rule curves with hedging theory for climate change adaptation",
+      "volume": "11",
+      "author": "Wan",
+      "year": "2019",
+      "journal-title": "Sustainability"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2021.126017_b0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "1427",
+      "DOI": "10.1007/s11269-012-0246-3",
+      "article-title": "Reservoir operation incorporating hedging rules and operational inflow forecasts",
+      "volume": "27",
+      "author": "Wang",
+      "year": "2013",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2021.126017_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "2147",
+      "DOI": "10.2166/ws.2019.095",
+      "article-title": "Evaluation of the effective forecast and decision horizon in optimal hydropower generation considering medium-range precipitation forecasts",
+      "volume": "19",
+      "author": "Wei",
+      "year": "2019",
+      "journal-title": "Water Supply"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2021.126017_b0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "W11430",
+      "DOI": "10.1029/2008WR006978",
+      "article-title": "Determining forecast and decision horizons for reservoir operations under hedging policies",
+      "volume": "44",
+      "author": "You",
+      "year": "2008",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "1-4",
+      "key": "10.1016/j.jhydrol.2021.126017_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.jhydrol.2008.03.003",
+      "article-title": "Multiple duration limited water level and dynamic limited water level for flood control, with implications on water supply",
+      "volume": "354",
+      "author": "Yun",
+      "year": "2008",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2021.126017_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "1389",
+      "DOI": "10.1007/s11069-014-1385-z",
+      "article-title": "Determination of the distribution of flood forecasting error",
+      "volume": "75",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2021.126017_b0195",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2010WR009971",
+      "article-title": "Optimality conditions for a two-stage reservoir operation problem",
+      "volume": "47",
+      "author": "Zhao",
+      "year": "2011",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2021.126017_b0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "4066",
+      "DOI": "10.1029/2019WR025226",
+      "article-title": "Determining inflow forecast horizon for reservoir operation",
+      "volume": "55",
+      "author": "Zhao",
+      "year": "2019",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2021.126017_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1016/j.advwatres.2011.01.004",
+      "article-title": "Effect of streamflow forecast uncertainty on real-time reservoir operation",
+      "volume": "34",
+      "author": "Zhao",
+      "year": "2011",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2021.126017_b0210",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2011WR010623",
+      "article-title": "Identifying effective forecast horizon for real-time reservoir operation under a limited inflow forecast",
+      "volume": "48",
+      "author": "Zhao",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2021.126017_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1016/j.advwatres.2014.05.011",
+      "article-title": "Forecast-skill-based simulation of streamflow forecasts",
+      "volume": "71",
+      "author": "Zhao",
+      "year": "2014",
+      "journal-title": "Adv. Water Res."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2021.126017_b0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "04014041",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000432",
+      "article-title": "Optimal hedging rules for reservoir flood operation from forecast uncertainties",
+      "volume": "140",
+      "author": "Zhao",
+      "year": "2014",
+      "journal-title": "J. Water Res. Plann. Manag."
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169421000640?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169421000640?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ],
+    "date-time": "2025-09-19T15:12:38Z",
+    "timestamp": 1758294758000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169421000640"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "references-count": 43,
+  "alternative-id": [
+    "S0022169421000640"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2021.126017",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2021,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Improving real-time reservoir operation during flood season by making the most of streamflow forecasts",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2021.126017",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2021 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "126017"
+}

@@ -1,0 +1,100 @@
+{
+  "paper": "E24",
+  "patterns": {
+    "RP01": {"present": false},
+    "RP02": {
+      "present": true,
+      "small": ["RP02-A", "RP02-D", "RP02-E", "RP02-G", "RP02-H"],
+      "quote": "The EFSM thresholds for the operational classification of flood risks depend on forecast uncertainty, which determines the certainty of flood damage with a given EFSM allocation.",
+      "where": "Effects of Forecast Uncertainty on EFSM Allocation, p. 6"
+    },
+    "RP03": {
+      "present": true,
+      "small": ["RP03-A"],
+      "quote": "Because forecast uncertainty should increase with longer lead time (Maurer and Lettenmaier 2004; Zhao et al. 2011b, 2012), the condition σ2 > Tσ1 is assumed (Stage 2 comprises T periods).",
+      "where": "Effects of Forecast Uncertainty on EFSM Allocation, p. 5"
+    },
+    "RP04": {
+      "present": true,
+      "small": ["RP04-B", "RP04-C", "RP04-G"],
+      "quote": "When the total flood flow is less than the conveyance capacity, no flood damage occurs; when flood flow exceeds the capacity, downstream levee failure and catastrophic flood damage can occur.",
+      "where": "Flood-Damage Formulation, p. 3"
+    },
+    "RP05": {
+      "present": true,
+      "small": ["RP05-A", "RP05-C", "RP05-D"],
+      "quote": "Specifically, when the storage-capacity constraint is binding, that is, the s1 from Eq. (27) is either less than 0 or exceeds K, then s1 = s0 + (qu,1 + qd,1) - (qthres - δ1*) no longer holds",
+      "where": "Implications for Flood Operations, p. 7"
+    },
+    "RP06": {
+      "present": true,
+      "small": ["RP06-A", "RP06-B"],
+      "quote": "A trade-off generally exists between current and future flood risks. Releasing more flood in the current decision period increases current flood risk; but storing more flood water increases future flood risk.",
+      "where": "Formulation of Reservoir Operation for Flood Operation, p. 2"
+    },
+    "RP07": {
+      "present": true,
+      "small": ["RP07-B"],
+      "quote": "The two critical EFSM values operationally classify the flood risk into three cases, each with different optimal EFSM-allocation strategies and operation policies",
+      "where": "Effects of Forecast Uncertainty on EFSM Allocation, p. 6"
+    },
+    "RP08": {
+      "present": true,
+      "small": ["RP08-A", "RP08-B"],
+      "quote": "The convexity of D1 and D2 (elaborated in Appendix I) indicates that the KKT conditions of Eq. (15) are sufficient and necessary for optimal EFSM allocation",
+      "where": "Optimality Conditions of EFSM Allocation, p. 4"
+    },
+    "RP09": {
+      "present": true,
+      "small": ["RP09-A", "RP09-D", "RP09-E"],
+      "quote": "This optimality can be attributed to the economic foundations of hedging from the equimarginal value principle in terms of allocating scarce resources among potential investments.",
+      "where": "Reservoir Flood Hedging Rules, p. 7"
+    },
+    "EP01": {
+      "present": true,
+      "small": ["EP01-B", "EP01-C", "EP01-D"],
+      "quote": "The cases have the same expected flood (60,000 m3/s) in Stage 1 but different expected floods in Stage 2 ... The downstream flood-conveyance capacity is 56,700 m3/s (Li et al. 2010).",
+      "where": "Hypothetical Case Study, p. 8"
+    },
+    "EP02": {"present": false},
+    "EP03": {
+      "present": true,
+      "small": ["EP03-A"],
+      "quote": "For these cases, the forecast uncertainty of flood flow is set as 5,000 m3/s in Stage 1 and 10,000 m3/s in Stage 2.",
+      "where": "Hypothetical Case Study, p. 8"
+    },
+    "EP04": {"present": false},
+    "EP05": {
+      "present": true,
+      "small": ["EP05-C"],
+      "quote": "If s1 calculated using Eq. (27) is greater than K, then the optimal allocation of Δ is constrained by s1 = K.",
+      "where": "Implications for Flood Operations, p. 7"
+    },
+    "EP06": {
+      "present": true,
+      "small": ["EP06-A"],
+      "quote": "Based on the three operational cases illustrated in Fig. 3, optimal flood HRs can be derived that allocate the total EFSM Δ between the current and future stages depending on the flood magnitude.",
+      "where": "Reservoir Flood Hedging Rules, p. 7"
+    },
+    "EP09": {
+      "present": true,
+      "small": ["EP09-A", "EP09-B"],
+      "quote": "With the forecast qd,1 and qd,2 of intermediate flow, the reservoir-release schedule is",
+      "where": "Implications for Flood Operations, p. 7 (Eq. 26)"
+    },
+    "EP07": {
+      "present": true,
+      "small": ["EP07-A", "EP07-B", "EP07-E"],
+      "quote": "The hedging operation reduces the overall probability of failure from 0.87 to 0.75 (assuming uncorrelated forecast errors).",
+      "where": "Hypothetical Case Study, p. 8"
+    },
+    "EP08": {"present": false},
+    "EP10": {
+      "present": true,
+      "small": ["EP10-A"],
+      "quote": "In the example, two strategies of flood control are presented, namely, with and without hedging.",
+      "where": "Hypothetical Case Study, p. 8"
+    },
+    "EP11": {"present": false}
+  }
+}

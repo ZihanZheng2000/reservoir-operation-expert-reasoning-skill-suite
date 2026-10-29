@@ -1,0 +1,629 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        15
+      ]
+    ],
+    "date-time": "2026-09-15T20:03:21Z",
+    "timestamp": 1789502601560,
+    "version": "build-2803163510"
+  },
+  "reference-count": 69,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "2",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            2,
+            12
+          ]
+        ],
+        "date-time": "2024-02-12T00:00:00Z",
+        "timestamp": 1707696000000
+      },
+      "content-version": "vor",
+      "delay-in-days": 11,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Water Resources Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title><jats:p>Forecast informed reservoir operations (FIRO) is an important advance in water management, but the design and testing of FIRO policies is limited by relatively short (10–35 year) hydro‐meteorological hindcasts. We present a novel, multisite model for synthetic forecast ensembles to overcome this limitation. This model utilizes parametric and non‐parametric procedures to capture complex forecast errors and maintain correlation between variables, lead times, locations, and ensemble members. After being fit to data from the hindcast period, this model can generate synthetic forecast ensembles in any period with observations. We demonstrate the approach in a case study of the FIRO‐based Ensemble Forecast Operations (EFO) control policy for the Lake Mendocino—Russian River basin, which conditions release decisions on ensemble forecasts from the Hydrologic Ensemble Forecast System (HEFS). We explore two generation strategies: (a) simulation of synthetic forecasts of meteorology to force HEFS; and (b) simulation of synthetic HEFS streamflow forecasts directly. We evaluate the synthetic forecasts using ensemble verification techniques and event‐based validation, finding good agreement with the actual ensemble forecasts. We then evaluate EFO policy performance using synthetic and actual forecasts over the hindcast period (1985–2010) and synthetic forecasts only over the pre‐hindcast period (1948–1984). Results show that the synthetic forecasts highlight important failure modes of the EFO policy under plausible forecast ensembles, but improvements are still needed to fully capture FIRO policy behavior under the actual forecast ensembles. Overall, the methodology advances a novel way to test FIRO policy robustness, which is key to building institutional support for FIRO.</jats:p>",
+  "DOI": "10.1029/2023wr034898",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        12
+      ]
+    ],
+    "date-time": "2024-02-12T12:55:52Z",
+    "timestamp": 1707742552000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "title": [
+    "Synthetic Forecast Ensembles for Evaluating Forecast Informed Reservoir Operations"
+  ],
+  "prefix": "10.1029",
+  "volume": "60",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-5242-7696",
+      "authenticated-orcid": false,
+      "given": "Zachary P.",
+      "family": "Brodeur",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0003-3875-0109",
+      "authenticated-orcid": false,
+      "given": "Chris",
+      "family": "Delaney",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Center for Western Weather and Water Extremes (CW3E) Scripps Institute of Oceanography University of California‐San Diego  La Jolla CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-2717-8974",
+      "authenticated-orcid": false,
+      "given": "Brett",
+      "family": "Whitin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "NOAA/NWS California‐Nevada River Forecast Center (CNRFC)  Sacramento CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8882-1908",
+      "authenticated-orcid": false,
+      "given": "Scott",
+      "family": "Steinschneider",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        2,
+        12
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_8_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1146/annurev-earth-071719-055228"
+    },
+    {
+      "key": "e_1_2_8_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000088"
+    },
+    {
+      "key": "e_1_2_8_4_1",
+      "unstructured": "American Meteorological Society. (2020).Forecast informed reservoir operations (FIRO) definition. Retrieved fromhttps://glossary.ametsoc.org/wiki/Forecast-informed_reservoir_operations"
+    },
+    {
+      "key": "e_1_2_8_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/nature14956"
+    },
+    {
+      "key": "e_1_2_8_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/MWR-D-16-0487.1"
+    },
+    {
+      "key": "e_1_2_8_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR028112"
+    },
+    {
+      "key": "e_1_2_8_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/BAMS-D-18-0313.1"
+    },
+    {
+      "key": "e_1_2_8_9_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Brodeur Z. P.(2023a).FIRO_synthetic‐forecast ensembles dataset v0 (Version 0)[Dataset].Zenodo.https://doi.org/10.5281/zenodo.7688974",
+      "DOI": "10.5281/zenodo.7688974"
+    },
+    {
+      "key": "e_1_2_8_10_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Brodeur Z. P.(2023b).FIRO_synthetic‐forecast‐ensembles: October 18 2023 release (v1.0.1)[Software].Zenodo.https://doi.org/10.5281/zenodo.10019063",
+      "DOI": "10.5281/zenodo.10019063"
+    },
+    {
+      "key": "e_1_2_8_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR027184"
+    },
+    {
+      "key": "e_1_2_8_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020wr029453"
+    },
+    {
+      "key": "e_1_2_8_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015WR017114"
+    },
+    {
+      "key": "e_1_2_8_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/JHM-D-11-036.1"
+    },
+    {
+      "key": "e_1_2_8_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess-25-1033-2021"
+    },
+    {
+      "key": "e_1_2_8_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.arcontrol.2023.03.013"
+    },
+    {
+      "key": "e_1_2_8_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/1525-7541(2004)005<0243:TSSAMF>2.0.CO;2"
+    },
+    {
+      "key": "e_1_2_8_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.aax4631"
+    },
+    {
+      "key": "e_1_2_8_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000575"
+    },
+    {
+      "key": "e_1_2_8_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/JHM-D-17-0135.1"
+    },
+    {
+      "key": "e_1_2_8_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/WAF-D-20-0236.1"
+    },
+    {
+      "key": "e_1_2_8_22_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Delaney C. J. &Brodeur Z. P.(2024a).Lake Mendocino EFO model—Synthetic forecasts dataset: January 2 2024 release (v1.0.0)[Dataset].Zenodo.https://doi.org/10.5281/zenodo.10453068",
+      "DOI": "10.5281/zenodo.10453068"
+    },
+    {
+      "key": "e_1_2_8_23_1",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Delaney C. J. &Brodeur Z. P.(2024b).LkMendoEfoSynWrr: January 2 2024 release (v1.0.1)[Software].Zenodo.https://doi.org/10.5281/zenodo.10453090",
+      "DOI": "10.5281/zenodo.10453090"
+    },
+    {
+      "key": "e_1_2_8_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2019WR026604"
+    },
+    {
+      "key": "e_1_2_8_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/BAMS-D-12-00081.1"
+    },
+    {
+      "key": "e_1_2_8_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/JHM-D-13-02.1"
+    },
+    {
+      "key": "e_1_2_8_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/w3020445"
+    },
+    {
+      "key": "e_1_2_8_28_1",
+      "unstructured": "Dowd C.(2020).A new ECDF two‐sample test statistic. ArXiv:2007.01360 [Stat.ME].https://doi.org/10.48550/arXiv.2007.01360"
+    },
+    {
+      "key": "e_1_2_8_29_1",
+      "unstructured": "Dowd C.(2023).twosamples: Fast permutation based two sample tests. R package version 2.0.1. Retrieved fromhttps://cran.r-project.org/web/packages/twosamples/twosamples.pdf"
+    },
+    {
+      "key": "e_1_2_8_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000571"
+    },
+    {
+      "key": "e_1_2_8_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/ICDM.2017.106"
+    },
+    {
+      "key": "e_1_2_8_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR029927"
+    },
+    {
+      "key": "e_1_2_8_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/418373a"
+    },
+    {
+      "key": "e_1_2_8_34_1",
+      "first-page": "78",
+      "volume-title": "44th NOAA annual climate diagnostics and prediction workshop, (October)",
+      "author": "Guan H.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_8_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s00382-022-06302-4"
+    },
+    {
+      "key": "e_1_2_8_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/BAMS-D-12-00014.1"
+    },
+    {
+      "key": "e_1_2_8_37_1",
+      "unstructured": "Hanak E. Lund J. Dinar A. Gray B. Howitt R. Mount J. et al. (2011).Managing California’s water. Retrieved fromhttp://www.ppic.org/content/pubs/report/R_211EHR.pdf"
+    },
+    {
+      "key": "e_1_2_8_38_1",
+      "volume-title": "Global physical climatology",
+      "author": "Hartmann D. L.",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_8_39_1",
+      "volume-title": "Contribution of working group I to the sixth assessment report of the intergovernmental panel on climate change",
+      "author": "IPCC",
+      "year": "2021"
+    },
+    {
+      "key": "e_1_2_8_40_1",
+      "volume-title": "Lake Mendocino FIRO steering committee, 28 December 2020, San Diego, CA",
+      "author": "Jasperse J.",
+      "year": "2020"
+    },
+    {
+      "key": "e_1_2_8_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)0733-9496(2007)133:1(4)"
+    },
+    {
+      "key": "e_1_2_8_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000915"
+    },
+    {
+      "key": "e_1_2_8_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)0733-9429(1984)110:3(277)"
+    },
+    {
+      "key": "e_1_2_8_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-1688.1969.tb04897.x"
+    },
+    {
+      "key": "e_1_2_8_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018WR023177"
+    },
+    {
+      "key": "e_1_2_8_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess-26-4013-2022"
+    },
+    {
+      "key": "e_1_2_8_47_1",
+      "unstructured": "Nicholson W. B. Matteson D. S. &Bien J.(2021).BigVAR: Dimension reduction methods for multivariate time series. R Package version 1.0.6. Retrieved fromhttps://cran.r-project.org/web/packages/BigVAR"
+    },
+    {
+      "key": "e_1_2_8_48_1",
+      "first-page": "1",
+      "article-title": "High dimensional forecasting via interpretable vector autoregression",
+      "volume": "21",
+      "author": "Nicholson W. B.",
+      "year": "2020",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "key": "e_1_2_8_49_1",
+      "unstructured": "NOAA/NWS California/Nevada River Forecast Center (CNRFC). (2022).Hydrologic ensemble forecast system (HEFS) streamflow forecast output Lake Mendocino Ukiah Junction Hopland Junction CA (LAMC1 UKAC1 HOPC1). Brett Whitin P.E. CNRFC."
+    },
+    {
+      "key": "e_1_2_8_50_1",
+      "unstructured": "NOAA Physical Sciences Laboratory (NOAA PSL). (2022).NCEP global ensemble forecast system (GEFS) version 2 data archive. Brett Whitin P.E. CA/NV RFC."
+    },
+    {
+      "key": "e_1_2_8_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.procs.2020.07.012"
+    },
+    {
+      "key": "e_1_2_8_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/bams-d-19-0183.1"
+    },
+    {
+      "key": "e_1_2_8_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.advwatres.2014.06.009"
+    },
+    {
+      "key": "e_1_2_8_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10584-005-3148-z"
+    },
+    {
+      "key": "e_1_2_8_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/jwrmd5.wreng-5934"
+    },
+    {
+      "key": "e_1_2_8_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2009WR008933"
+    },
+    {
+      "key": "e_1_2_8_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001585"
+    },
+    {
+      "key": "e_1_2_8_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/MWR-D-11-00302.1"
+    },
+    {
+      "key": "e_1_2_8_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess-27-1865-2023"
+    },
+    {
+      "key": "e_1_2_8_60_1",
+      "volume-title": "Fish habitat flows and water rights project draft environmental impact report",
+      "author": "Sonoma Water",
+      "year": "2016"
+    },
+    {
+      "key": "e_1_2_8_61_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR018i004p00919"
+    },
+    {
+      "key": "e_1_2_8_62_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41558-018-0140-y"
+    },
+    {
+      "key": "e_1_2_8_63_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.wasec.2018.08.001"
+    },
+    {
+      "key": "e_1_2_8_64_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR028392"
+    },
+    {
+      "key": "e_1_2_8_65_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess-21-4841-2017"
+    },
+    {
+      "key": "e_1_2_8_66_1",
+      "volume-title": "United state Army Corps of Engineers, Coyote valley dam and Lake Mendocino, Russian river, California, water control manual: Appendix I to master water control manual Russian River basin, California",
+      "author": "USACE",
+      "year": "2003"
+    },
+    {
+      "key": "e_1_2_8_67_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.wasec.2017.06.001"
+    },
+    {
+      "key": "e_1_2_8_68_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000466"
+    },
+    {
+      "key": "e_1_2_8_69_1",
+      "volume-title": "Statistical methods in the atmospheric sciences",
+      "author": "Wilks D. S.",
+      "year": "2019"
+    },
+    {
+      "key": "e_1_2_8_70_1",
+      "unstructured": "Wurtz D. Setz T. Chalabi Y. Boudt C. Chausse P. &Miklovac M.(2020).fGarch: Rmetrics—Autoregressive conditional heteroskedastic modeling. R package version 3042.83.2. Retrieved fromhttps://cran.r-project.org/web/packages/fGarch"
+    }
+  ],
+  "container-title": [
+    "Water Resources Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023WR034898",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        11
+      ]
+    ],
+    "date-time": "2025-04-11T07:13:08Z",
+    "timestamp": 1744355588000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR034898"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "references-count": 69,
+  "journal-issue": {
+    "issue": "2",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          2
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2023WR034898"
+  ],
+  "URL": "https://doi.org/10.1029/2023wr034898",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0043-1397",
+    "1944-7973"
+  ],
+  "issn-type": [
+    {
+      "value": "0043-1397",
+      "type": "print"
+    },
+    {
+      "value": "1944-7973",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        2
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-03-15",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-01-17",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-02-12",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2023WR034898"
+}

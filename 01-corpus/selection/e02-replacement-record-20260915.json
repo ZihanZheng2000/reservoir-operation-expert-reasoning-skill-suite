@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-15",
+  "authorization": "User requested replacement of E02",
+  "old_record": {
+    "id": "E02",
+    "split": "extraction",
+    "doi": "10.1016/j.advwatres.2011.01.004",
+    "title": "Effect of streamflow forecast uncertainty on real-time reservoir operation",
+    "journal": "Advances in Water Resources",
+    "publication_date_parts": [
+      2011,
+      4
+    ],
+    "year": 2011,
+    "authors": "Tongtiegang Zhao; Ximing Cai; Dawen Yang",
+    "topic": "prior_0902",
+    "metadata_source": "Crossref",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1016/j.advwatres.2011.01.004",
+    "crossref_links": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0309170811000066?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0309170811000066?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "abstract": "",
+    "local_source": null,
+    "prior_exposure": "0902_candidate_or_audited_anchor",
+    "eligibility": "title_abstract_candidate; fulltext_eligibility_pending",
+    "retrieved_date": "2026-09-15",
+    "openalex_id": "https://openalex.org/W1965549091",
+    "oa_status": "closed",
+    "status": "pdf_verified",
+    "file": "papers\\extraction\\E02.pdf",
+    "attempts": [],
+    "selection_reason": "0902 主题候选重新核验；直接涉及防洪规则、预报风险、FIRO 或运行实施。",
+    "pdf_check": {
+      "pages": 10,
+      "doi_found_first_two_pages": true,
+      "title_token_overlap": 0.833,
+      "sha256": "490826ca08da6f4e242d8cac86f9c71bda35e893eba129e78a1dd8f4b73d55a5",
+      "text_characters_all_pages": 46679,
+      "pages_with_extractable_text": 10
+    },
+    "acquired_from": "D:\\Downloads\\1-s2.0-S0309170811000066-main.pdf",
+    "access_kind": "user_download_import",
+    "version": "user_downloaded_publisher_pdf_identity_checked",
+    "license": "user_supplied_access; redistribution_not_assessed",
+    "imported_date": "2026-09-15"
+  },
+  "archived_file": "papers\\background\\Zhao_2011_forecast_uncertainty_former_E02.pdf",
+  "new_record": {
+    "id": "E02",
+    "split": "extraction",
+    "doi": "10.1002/2017wr021480",
+    "title": "Real-Time Optimal Flood Control Decision Making and Risk Propagation Under Multiple Uncertainties",
+    "journal": "Water Resources Research",
+    "year": 2017,
+    "publication_date_parts": [
+      2017,
+      12,
+      4
+    ],
+    "authors": "Feilin Zhu; Ping-An Zhong; Yimeng Sun; William W.-G. Yeh",
+    "topic": "risk_analysis",
+    "metadata_source": "publisher_page_and_downloaded_pdf",
+    "metadata_verified": true,
+    "publisher_url": "https://doi.org/10.1002/2017WR021480",
+    "abstract": "Multiple uncertainties exist in the optimal ﬂood control decision-making process, presenting\nrisks involving ﬂood control decisions. This paper deﬁnes the main steps in optimal ﬂood control decision\nmaking that constitute the Forecast-Optimization-Decision Making (FODM) chain. We propose a framework\nfor supporting optimal ﬂood control decision making under multiple uncertainties and evaluate risk propa-\ngation along the FODM chain from a holistic perspective. To deal with uncertainties, we employ stochastic\nmodels at each link of the FODM chain. We generate synthetic ensemble ﬂood forecasts via the martingale\nmodel of forecast evolution. We then establish a multiobjective stochastic programming with recourse\nmodel for optimal ﬂood control operation. The Pareto front under uncertainty is derived via the constraint\nmethod coupled with a two-step process. We propose a novel SMAA-TOPSIS model for stochastic multicrite-\nria decision making. Then we propose the risk assessment model, the risk of decision-making errors and\nrank uncertainty degree to quantify the risk propagation process along the FODM chain. We conduct\nnumerical experiments to investigate the effects of ﬂood forecast uncertainty on optimal ﬂood control deci-\nsion making and risk propagation. We apply the proposed methodology to a ﬂood control system in the\nDaduhe River basin in China. The results indicate that the proposed method can provide valuable risk infor-\nmation in each link of the FODM chain and enable risk-informed decisions with higher reliability.",
+    "local_source": null,
+    "prior_exposure": "replacement_screened_by_title_and_abstract; no_pattern_extraction_in_current_run",
+    "eligibility": "title_abstract_topic_screen_passed; fulltext_methods_quality_not_assessed",
+    "retrieved_date": "2026-09-15",
+    "imported_date": "2026-09-15",
+    "status": "pdf_verified",
+    "file": "papers\\extraction\\E02.pdf",
+    "access_kind": "user_download_import",
+    "acquired_from": "D:\\Downloads\\Water Resources Research - 2017 - Zhu - Real‐Time Optimal Flood Control Decision Making and Risk Propagation Under Multiple.pdf",
+    "version": "user_downloaded_publisher_pdf_identity_checked",
+    "license": "user_supplied_access; redistribution_not_assessed",
+    "selection_reason": "多重不确定性下的实时防洪调度、预报—优化—决策及风险传播；替换主题关联不足的原 E02。",
+    "pdf_check": {
+      "pages": 20,
+      "doi_found_first_two_pages": true,
+      "sha256": "605b5ff99d1f0fa2527711dab882bb5f564662798e4b90e6824c04d5177604b1",
+      "text_characters_all_pages": 80936,
+      "pages_with_extractable_text": 20
+    }
+  },
+  "reason": "Original title/abstract does not explicitly establish a flood-control task; replacement explicitly studies real-time flood control."
+}

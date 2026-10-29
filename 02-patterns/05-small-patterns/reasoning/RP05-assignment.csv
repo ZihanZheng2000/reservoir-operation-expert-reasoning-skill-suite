@@ -1,0 +1,41 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R3,E01,Use lead time and release capacity to define an admissible upper level,primary,RP05-B,,Upper level limited by whether drawdown to FLWL finishes before large inflow
+E02-R4,E02,Preserve physical and operational feasibility,primary,RP05-A,,"Level, release, capacity, fluctuation limits on every scenario trajectory"
+E05-R3,E05,Define feasible storage–safety allocations before optimizing,primary,RP05-C,,Residual conveyance capacity split between conservation and safety margin
+E07-R4,E07,Resolve excess risk with a constrained prerelease,secondary,RP05-B,,Pre-release schedule capped by release limit and redistributed to earlier days
+E09-R3,E09,Quantify allowable added storage,primary,RP05-C,,"Allowable added storage from discharge, safety margin, lead time"
+E09-R4,E09,Stress-test forecast failure and capacity,primary,RP05-B,,Worst case: stored water must be released before the next flood arrives
+E11-R3,E11,Derive period-specific D-PSL,primary,RP05-C,,Pre-storm level must leave room for design-period inflow after releasable volume
+E11-R4,E11,Select controlling period,primary,RP05-C,,Most restrictive period controls the admissible level
+E12-R1,E12,Define forecast-informed pre-release decision,primary,RP05-C,,Pre-release allowed only if future inflow can refill to FLWL
+E15-R3,E15,Translate forecast uncertainty into a safety bound,secondary,RP05-C,,Current release interval bounded by end-storage requirement
+E15-R6,E15,Choose constrained evolutionary search,secondary,RP05-A,,"Rigid constraints repaired in search, flexible ones ranked"
+E16-R7,E16,Bound water-supply and feasibility conclusions,primary,RP05-C,RP05-E,Low flood pool acceptable only if remaining inflow can refill; authority to draw down
+E17-R1,E17,Frame a cross-site screening problem,secondary,RP05-E,,FIRO benefit depends on site infrastructure and forecasts
+E17-R4,E17,Vary the parameters that govern pre-release feasibility,primary,RP05-B,,"Release, ramping, and lead time decide whether pre-release starts early enough"
+E18-R2,E18,Constrain the candidate approach to USACE practice,primary,RP05-E,,Approach must fit legal rule-curve practice and required tools
+E18-R4,E18,Treat forecast skill and lead time as decision prerequisites,secondary,RP05-E,,Forecast skill at lead time as site prerequisite
+E18-R7,E18,Select an implementable pilot strategy when performance is favorable,secondary,RP05-E,,Retain only strategies implementable with standard tools
+E18-R8,E18,Scale from pilots through staged portfolio screening,secondary,RP05-E,,Portfolio screening by implementation effort
+E18-R9,E18,Codify and future-proof suitable adjustments in WCMs,secondary,RP05-E,,Adjustment codified only through authorized manual update
+E19-R4,E19,Convert PP into an operational water-level bound,primary,RP05-B,,Level bound compatible with a prerelease sequence
+E19-R6,E19,Establish a common capacity-constrained FLWL upper bound,primary,RP05-B,,Upper bound chosen so prerelease completes within 48 h
+E20-R10,E20,Identify deployment prerequisites and limitations,secondary,RP05-E,,Authority collaboration and real-time capability needed before adoption
+E21-R6,E21,Generate an ensemble and use consultation for final authorization,secondary,RP05-E,,Final scheme requires multi-department authorization
+E22-R4,E22,Bind optimization to physical and operational constraints,primary,RP05-A,,"Water balance, release, storage, fluctuation limits"
+E22-R9,E22,Assess practical transfer and computational feasibility,secondary,RP05-E,,Runtime and data limits for real-time use
+E24-R6,E24,Convert allocation into operational targets and boundary actions,primary,RP05-C,,Allocation clipped when storage would fall below zero or exceed capacity
+E25-R3,E25,Determine whether hedging can affect forecasted storms,primary,RP05-C,,"Whether available space can change release for small, large, overwhelming storms"
+E25-R6,E25,Interpret practical operating conditions,secondary,RP05-E,,Institutional reluctance and supply loss constrain theory
+E29-R4,E29,Set dynamic bounds to reflect flood timing and lead time,secondary,RP05-B,,Longer lead time permits higher upper bound
+E35-R2,E35,Establish a horizon reference under perfect information,secondary,RP05-B,,Minimum horizon that allows early enough release
+E35-R5,E35,Resolve uncertainty through a scenario tree,secondary,RP05-A,,Shared control infeasible under storage limits; independent controls not implementable
+E37-R8,E37,Prefer gradual correction when a jump is unsafe,secondary,RP05-A,,Large instantaneous release change operationally unsafe
+E43-R4,E43,Set the prediction and safety envelope,secondary,RP05-D,,Horizon must cover travel time from furthest reservoir
+E43-R5,E43,Interpret residual risk and model limits,secondary,RP05-D,,Uncontrolled catchments and conduit limits cause residual violations
+E44-R3,E44,Represent channel storage explicitly,secondary,RP05-D,,Channel storage between reservoirs and control station
+E44-R4,E44,Link pre-discharge storage to flood risk,secondary,RP05-D,,Drawdown order between reservoir and channel storage
+E44-R5,E44,Trade hydropower against safety and refill,secondary,RP05-D,,"Boundaries raised only within aggregate risk, refill, and physical limits"
+E46-R5,E46,Preserve safety under extreme events and constraints,primary,RP05-A,,"Channel capacity, monotonicity, outlet limits, regulations bound release rules"
+E48-R3,E48,Generate feasible alternatives under event-specific operational logic,primary,RP05-A,,Small flood-control capacity restricts admissible operation mode
+E50-R3,E50,Preserve physical and downstream safety constraints,primary,RP05-A,,"Safe release, ramping, capacity, TOCS constraints"

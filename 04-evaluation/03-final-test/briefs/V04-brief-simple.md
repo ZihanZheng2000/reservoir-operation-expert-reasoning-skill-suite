@@ -1,0 +1,5 @@
+# Problem Brief V04: Guxian and Luhun Reservoirs, Yiluo River Basin
+
+**Background.** The Yiluo River Basin is a tributary basin of the lower Yellow River, China, and matters for flood protection downstream. Two large reservoirs operate in parallel, Guxian on the Luohe River and Luhun on the Yihe River, for flood control, hydropower and water supply. The rivers join above the Heishiguan station, the downstream flood control point. Operators currently plan joint releases from a single deterministic inflow forecast for each reservoir, even though forecasts carry errors, especially during large floods. Available are hourly observed flood records, deterministic inflow forecasts from a data-driven model, an archive of past forecasts paired with observations, reservoir characteristics, and the large flood of 18 September 2021.
+
+**Research question.** How much does forecast error change the flood risk at the two reservoirs, and how should their releases be coordinated in light of it? Design a study that answers this question.

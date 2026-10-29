@@ -1,0 +1,1439 @@
+{
+  "id": "https://openalex.org/W4391755001",
+  "doi": "https://doi.org/10.1029/2023wr034898",
+  "title": "Synthetic Forecast Ensembles for Evaluating Forecast Informed Reservoir Operations",
+  "display_name": "Synthetic Forecast Ensembles for Evaluating Forecast Informed Reservoir Operations",
+  "publication_year": 2024,
+  "publication_date": "2024-02-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4391755001",
+    "doi": "https://doi.org/10.1029/2023wr034898"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1029/2023wr034898",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2023wr034898",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR034898",
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR034898",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5006182883",
+        "display_name": "Zachary Brodeur",
+        "orcid": "https://orcid.org/0000-0001-5242-7696"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zachary P. Brodeur",
+      "raw_affiliation_strings": [
+        "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA",
+        "Department of Biological and Environmental Engineering, Cornell University, Ithaca, NY, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5242-7696",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biological and Environmental Engineering, Cornell University, Ithaca, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076736800",
+        "display_name": "Chris Delaney",
+        "orcid": "https://orcid.org/0000-0003-3875-0109"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I150209017",
+          "display_name": "Scripps Institution of Oceanography",
+          "ror": "https://ror.org/04v7hvq31",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chris Delaney",
+      "raw_affiliation_strings": [
+        "Center for Western Weather and Water Extremes (CW3E) Scripps Institute of Oceanography University of California‐San Diego  La Jolla CA USA",
+        "Center for Western Weather and Water Extremes (CW3E), Scripps Institute of Oceanography, University of California-San Diego, La Jolla, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3875-0109",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Western Weather and Water Extremes (CW3E) Scripps Institute of Oceanography University of California‐San Diego  La Jolla CA USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Center for Western Weather and Water Extremes (CW3E), Scripps Institute of Oceanography, University of California-San Diego, La Jolla, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5082845467",
+        "display_name": "Brett Whitin",
+        "orcid": "https://orcid.org/0009-0000-2717-8974"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1308126019",
+          "display_name": "National Oceanic and Atmospheric Administration",
+          "ror": "https://ror.org/02z5nhe81",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1308126019",
+            "https://openalex.org/I1343035065"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Brett Whitin",
+      "raw_affiliation_strings": [
+        "NOAA/NWS California‐Nevada River Forecast Center (CNRFC)  Sacramento CA USA",
+        "NOAA/NWS California-Nevada River Forecast Center (CNRFC), Sacramento, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0000-2717-8974",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "NOAA/NWS California‐Nevada River Forecast Center (CNRFC)  Sacramento CA USA",
+          "institution_ids": [
+            "https://openalex.org/I1308126019"
+          ]
+        },
+        {
+          "raw_affiliation_string": "NOAA/NWS California-Nevada River Forecast Center (CNRFC), Sacramento, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5023805749",
+        "display_name": "Scott Steinschneider",
+        "orcid": "https://orcid.org/0000-0002-8882-1908"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Scott Steinschneider",
+      "raw_affiliation_strings": [
+        "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA",
+        "Department of Biological and Environmental Engineering, Cornell University, Ithaca, NY, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8882-1908",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Biological and Environmental Engineering, Cornell University, Ithaca, NY, USA",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5006182883"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I205783295"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "fwci": 3.0844,
+  "has_fulltext": true,
+  "cited_by_count": 16,
+  "citation_normalized_percentile": {
+    "value": 0.91221174,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "60",
+    "issue": "2",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9987000226974487,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9975000023841858,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/hindcast",
+      "display_name": "Hindcast",
+      "score": 0.922343373298645
+    },
+    {
+      "id": "https://openalex.org/keywords/parametric-statistics",
+      "display_name": "Parametric statistics",
+      "score": 0.6254041194915771
+    },
+    {
+      "id": "https://openalex.org/keywords/ensemble-forecasting",
+      "display_name": "Ensemble forecasting",
+      "score": 0.533923864364624
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5264124274253845
+    },
+    {
+      "id": "https://openalex.org/keywords/streamflow",
+      "display_name": "Streamflow",
+      "score": 0.49840378761291504
+    },
+    {
+      "id": "https://openalex.org/keywords/forecast-skill",
+      "display_name": "Forecast skill",
+      "score": 0.4607992470264435
+    },
+    {
+      "id": "https://openalex.org/keywords/forecast-verification",
+      "display_name": "Forecast verification",
+      "score": 0.44941458106040955
+    },
+    {
+      "id": "https://openalex.org/keywords/forecast-period",
+      "display_name": "Forecast period",
+      "score": 0.44077929854393005
+    },
+    {
+      "id": "https://openalex.org/keywords/consensus-forecast",
+      "display_name": "Consensus forecast",
+      "score": 0.4135040044784546
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.3883396089076996
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.3529192805290222
+    },
+    {
+      "id": "https://openalex.org/keywords/climatology",
+      "display_name": "Climatology",
+      "score": 0.24607571959495544
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.21913063526153564
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.2082812786102295
+    },
+    {
+      "id": "https://openalex.org/keywords/drainage-basin",
+      "display_name": "Drainage basin",
+      "score": 0.17750629782676697
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.12123832106590271
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.10318711400032043
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.10142043232917786
+    },
+    {
+      "id": "https://openalex.org/keywords/production",
+      "display_name": "Production (economics)",
+      "score": 0.08925950527191162
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C83002819",
+      "wikidata": "https://www.wikidata.org/wiki/Q798528",
+      "display_name": "Hindcast",
+      "level": 2,
+      "score": 0.922343373298645
+    },
+    {
+      "id": "https://openalex.org/C117251300",
+      "wikidata": "https://www.wikidata.org/wiki/Q1849855",
+      "display_name": "Parametric statistics",
+      "level": 2,
+      "score": 0.6254041194915771
+    },
+    {
+      "id": "https://openalex.org/C119898033",
+      "wikidata": "https://www.wikidata.org/wiki/Q3433888",
+      "display_name": "Ensemble forecasting",
+      "level": 2,
+      "score": 0.533923864364624
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5264124274253845
+    },
+    {
+      "id": "https://openalex.org/C53739315",
+      "wikidata": "https://www.wikidata.org/wiki/Q29425295",
+      "display_name": "Streamflow",
+      "level": 3,
+      "score": 0.49840378761291504
+    },
+    {
+      "id": "https://openalex.org/C170061395",
+      "wikidata": "https://www.wikidata.org/wiki/Q5468164",
+      "display_name": "Forecast skill",
+      "level": 2,
+      "score": 0.4607992470264435
+    },
+    {
+      "id": "https://openalex.org/C166851805",
+      "wikidata": "https://www.wikidata.org/wiki/Q5468165",
+      "display_name": "Forecast verification",
+      "level": 3,
+      "score": 0.44941458106040955
+    },
+    {
+      "id": "https://openalex.org/C112353543",
+      "wikidata": "https://www.wikidata.org/wiki/Q5468162",
+      "display_name": "Forecast period",
+      "level": 4,
+      "score": 0.44077929854393005
+    },
+    {
+      "id": "https://openalex.org/C120954023",
+      "wikidata": "https://www.wikidata.org/wiki/Q1127277",
+      "display_name": "Consensus forecast",
+      "level": 2,
+      "score": 0.4135040044784546
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.3883396089076996
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3529192805290222
+    },
+    {
+      "id": "https://openalex.org/C49204034",
+      "wikidata": "https://www.wikidata.org/wiki/Q52139",
+      "display_name": "Climatology",
+      "level": 1,
+      "score": 0.24607571959495544
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.21913063526153564
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.2082812786102295
+    },
+    {
+      "id": "https://openalex.org/C126645576",
+      "wikidata": "https://www.wikidata.org/wiki/Q166620",
+      "display_name": "Drainage basin",
+      "level": 2,
+      "score": 0.17750629782676697
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.12123832106590271
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.10318711400032043
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.10142043232917786
+    },
+    {
+      "id": "https://openalex.org/C2778348673",
+      "wikidata": "https://www.wikidata.org/wiki/Q739302",
+      "display_name": "Production (economics)",
+      "level": 2,
+      "score": 0.08925950527191162
+    },
+    {
+      "id": "https://openalex.org/C139719470",
+      "wikidata": "https://www.wikidata.org/wiki/Q39680",
+      "display_name": "Macroeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C181230689",
+      "wikidata": "https://www.wikidata.org/wiki/Q192472",
+      "display_name": "Net present value",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1029/2023wr034898",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1029/2023wr034898",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR034898",
+      "source": {
+        "id": "https://openalex.org/S204847658",
+        "display_name": "Water Resources Research",
+        "issn_l": "0043-1397",
+        "issn": [
+          "0043-1397",
+          "1944-7973"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water Resources Research",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:40d2b4ac5f1a4bc49058a6816dd01f15",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/40d2b4ac5f1a4bc49058a6816dd01f15",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Water Resources Research, Vol 60, Iss 2, Pp n/a-n/a (2024)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:noaa.stacks:noaa:64804",
+      "is_oa": true,
+      "landing_page_url": "https://repository.library.noaa.gov/view/noaa/64804",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196172",
+        "display_name": "NOAA Institutional Repository",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Water Resources Research, 60(2)",
+      "raw_type": null
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1029/2023wr034898",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2023wr034898",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023WR034898",
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Clean water and sanitation",
+      "score": 0.800000011920929,
+      "id": "https://metadata.un.org/sdg/6"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G191581250",
+      "display_name": "DISES: Decentralized management of integrated water resources: Understanding cross-scale decision feedbacks to support coordinated sustainability",
+      "funder_award_id": "2205239",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G6063552430",
+      "display_name": "WRF: Collaborative Research: Extended-range forecasts of atmospheric rivers for adaptive management of flood risk, water supply, and environmental flows in California",
+      "funder_award_id": "1803563",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320310375",
+      "display_name": "James Madison University",
+      "ror": "https://ror.org/028pmsz77"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4391755001.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4391755001.grobid-xml"
+  },
+  "referenced_works_count": 59,
+  "referenced_works": [
+    "https://openalex.org/W112755209",
+    "https://openalex.org/W1629339888",
+    "https://openalex.org/W1789155650",
+    "https://openalex.org/W1863860359",
+    "https://openalex.org/W1966043936",
+    "https://openalex.org/W2002234842",
+    "https://openalex.org/W2024089565",
+    "https://openalex.org/W2042486939",
+    "https://openalex.org/W2080928350",
+    "https://openalex.org/W2085729532",
+    "https://openalex.org/W2104533037",
+    "https://openalex.org/W2104735855",
+    "https://openalex.org/W2110762666",
+    "https://openalex.org/W2116106385",
+    "https://openalex.org/W2123677000",
+    "https://openalex.org/W2127813995",
+    "https://openalex.org/W2128455239",
+    "https://openalex.org/W2129831404",
+    "https://openalex.org/W2133315273",
+    "https://openalex.org/W2160839365",
+    "https://openalex.org/W2625931926",
+    "https://openalex.org/W2725561429",
+    "https://openalex.org/W2756699641",
+    "https://openalex.org/W2773662615",
+    "https://openalex.org/W2782939362",
+    "https://openalex.org/W2789971625",
+    "https://openalex.org/W2800702901",
+    "https://openalex.org/W2889909460",
+    "https://openalex.org/W2891986541",
+    "https://openalex.org/W2894153520",
+    "https://openalex.org/W2981556883",
+    "https://openalex.org/W2992827897",
+    "https://openalex.org/W3007774593",
+    "https://openalex.org/W3020871915",
+    "https://openalex.org/W3038925094",
+    "https://openalex.org/W3041829434",
+    "https://openalex.org/W3044351044",
+    "https://openalex.org/W3044511373",
+    "https://openalex.org/W3048247926",
+    "https://openalex.org/W3083668046",
+    "https://openalex.org/W3159834390",
+    "https://openalex.org/W3165652034",
+    "https://openalex.org/W3182469216",
+    "https://openalex.org/W3210744571",
+    "https://openalex.org/W3213797014",
+    "https://openalex.org/W4281289881",
+    "https://openalex.org/W4281746586",
+    "https://openalex.org/W4288911636",
+    "https://openalex.org/W4292334785",
+    "https://openalex.org/W4298058555",
+    "https://openalex.org/W4302085737",
+    "https://openalex.org/W4323667413",
+    "https://openalex.org/W4364377857",
+    "https://openalex.org/W4387437512",
+    "https://openalex.org/W4393473352",
+    "https://openalex.org/W4393554673",
+    "https://openalex.org/W4399578368",
+    "https://openalex.org/W6892452924",
+    "https://openalex.org/W6967473120"
+  ],
+  "related_works": [
+    "https://openalex.org/W4383341948",
+    "https://openalex.org/W2890558261",
+    "https://openalex.org/W4296343193",
+    "https://openalex.org/W4241291176",
+    "https://openalex.org/W2346024558",
+    "https://openalex.org/W3186818240",
+    "https://openalex.org/W2758851498",
+    "https://openalex.org/W4214480966",
+    "https://openalex.org/W2037943081",
+    "https://openalex.org/W2180087856"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Forecast": [
+      1,
+      100,
+      122
+    ],
+    "informed": [
+      2
+    ],
+    "reservoir": [
+      3
+    ],
+    "operations": [
+      4
+    ],
+    "(FIRO)": [
+      5
+    ],
+    "is": [
+      6,
+      21,
+      241
+    ],
+    "an": [
+      7
+    ],
+    "important": [
+      8,
+      201
+    ],
+    "advance": [
+      9
+    ],
+    "in": [
+      10,
+      83,
+      92
+    ],
+    "water": [
+      11
+    ],
+    "management,": [
+      12
+    ],
+    "but": [
+      13,
+      212
+    ],
+    "the": [
+      14,
+      73,
+      90,
+      97,
+      106,
+      119,
+      151,
+      165,
+      181,
+      190,
+      197,
+      205,
+      224,
+      229
+    ],
+    "design": [
+      15
+    ],
+    "and": [
+      16,
+      48,
+      56,
+      64,
+      140,
+      158,
+      177,
+      185
+    ],
+    "testing": [
+      17
+    ],
+    "of": [
+      18,
+      96,
+      132,
+      135,
+      143,
+      204
+    ],
+    "FIRO": [
+      19,
+      220,
+      237
+    ],
+    "policies": [
+      20
+    ],
+    "limited": [
+      22
+    ],
+    "by": [
+      23
+    ],
+    "relatively": [
+      24
+    ],
+    "short": [
+      25
+    ],
+    "(10–35": [
+      26
+    ],
+    "year)": [
+      27
+    ],
+    "hydro‐meteorological": [
+      28
+    ],
+    "hindcasts.": [
+      29
+    ],
+    "We": [
+      30,
+      88,
+      125,
+      149,
+      169
+    ],
+    "present": [
+      31
+    ],
+    "a": [
+      32,
+      93,
+      232
+    ],
+    "novel,": [
+      33
+    ],
+    "multisite": [
+      34
+    ],
+    "model": [
+      35,
+      45,
+      77
+    ],
+    "for": [
+      36,
+      105,
+      247
+    ],
+    "synthetic": [
+      37,
+      80,
+      133,
+      144,
+      152,
+      176,
+      186,
+      198
+    ],
+    "forecast": [
+      38,
+      54,
+      81,
+      210,
+      226
+    ],
+    "ensembles": [
+      39,
+      82
+    ],
+    "to": [
+      40,
+      51,
+      70,
+      137,
+      217,
+      235,
+      243
+    ],
+    "overcome": [
+      41
+    ],
+    "this": [
+      42,
+      76
+    ],
+    "limitation.": [
+      43
+    ],
+    "This": [
+      44
+    ],
+    "utilizes": [
+      46
+    ],
+    "parametric": [
+      47
+    ],
+    "non‐parametric": [
+      49
+    ],
+    "procedures": [
+      50
+    ],
+    "capture": [
+      52,
+      219
+    ],
+    "complex": [
+      53
+    ],
+    "errors": [
+      55
+    ],
+    "maintain": [
+      57
+    ],
+    "correlation": [
+      58
+    ],
+    "between": [
+      59
+    ],
+    "variables,": [
+      60
+    ],
+    "lead": [
+      61
+    ],
+    "times,": [
+      62
+    ],
+    "locations,": [
+      63
+    ],
+    "ensemble": [
+      65,
+      116,
+      155,
+      167
+    ],
+    "members.": [
+      66
+    ],
+    "After": [
+      67
+    ],
+    "being": [
+      68
+    ],
+    "fit": [
+      69
+    ],
+    "data": [
+      71
+    ],
+    "from": [
+      72,
+      118
+    ],
+    "hindcast": [
+      74,
+      182
+    ],
+    "period,": [
+      75
+    ],
+    "can": [
+      78
+    ],
+    "generate": [
+      79
+    ],
+    "any": [
+      84
+    ],
+    "period": [
+      85,
+      183,
+      192
+    ],
+    "with": [
+      86,
+      164
+    ],
+    "observations.": [
+      87
+    ],
+    "demonstrate": [
+      89
+    ],
+    "approach": [
+      91
+    ],
+    "case": [
+      94
+    ],
+    "study": [
+      95
+    ],
+    "FIRO‐based": [
+      98
+    ],
+    "Ensemble": [
+      99,
+      121
+    ],
+    "Operations": [
+      101
+    ],
+    "(EFO)": [
+      102
+    ],
+    "control": [
+      103
+    ],
+    "policy": [
+      104,
+      173,
+      207,
+      221,
+      238
+    ],
+    "Lake": [
+      107
+    ],
+    "Mendocino—Russian": [
+      108
+    ],
+    "River": [
+      109
+    ],
+    "basin,": [
+      110
+    ],
+    "which": [
+      111,
+      240
+    ],
+    "conditions": [
+      112
+    ],
+    "release": [
+      113
+    ],
+    "decisions": [
+      114
+    ],
+    "on": [
+      115
+    ],
+    "forecasts": [
+      117,
+      134,
+      147,
+      153,
+      179,
+      187,
+      199
+    ],
+    "Hydrologic": [
+      120
+    ],
+    "System": [
+      123
+    ],
+    "(HEFS).": [
+      124
+    ],
+    "explore": [
+      126
+    ],
+    "two": [
+      127
+    ],
+    "generation": [
+      128
+    ],
+    "strategies:": [
+      129
+    ],
+    "(a)": [
+      130
+    ],
+    "simulation": [
+      131,
+      142
+    ],
+    "meteorology": [
+      136
+    ],
+    "force": [
+      138
+    ],
+    "HEFS;": [
+      139
+    ],
+    "(b)": [
+      141
+    ],
+    "HEFS": [
+      145
+    ],
+    "streamflow": [
+      146
+    ],
+    "directly.": [
+      148
+    ],
+    "evaluate": [
+      150,
+      171
+    ],
+    "using": [
+      154,
+      175
+    ],
+    "verification": [
+      156
+    ],
+    "techniques": [
+      157
+    ],
+    "event‐based": [
+      159
+    ],
+    "validation,": [
+      160
+    ],
+    "finding": [
+      161
+    ],
+    "good": [
+      162
+    ],
+    "agreement": [
+      163
+    ],
+    "actual": [
+      166,
+      178,
+      225
+    ],
+    "forecasts.": [
+      168
+    ],
+    "then": [
+      170
+    ],
+    "EFO": [
+      172,
+      206
+    ],
+    "performance": [
+      174
+    ],
+    "over": [
+      180,
+      189
+    ],
+    "(1985–2010)": [
+      184
+    ],
+    "only": [
+      188
+    ],
+    "pre‐hindcast": [
+      191
+    ],
+    "(1948–1984).": [
+      193
+    ],
+    "Results": [
+      194
+    ],
+    "show": [
+      195
+    ],
+    "that": [
+      196
+    ],
+    "highlight": [
+      200
+    ],
+    "failure": [
+      202
+    ],
+    "modes": [
+      203
+    ],
+    "under": [
+      208,
+      223
+    ],
+    "plausible": [
+      209
+    ],
+    "ensembles,": [
+      211
+    ],
+    "improvements": [
+      213
+    ],
+    "are": [
+      214
+    ],
+    "still": [
+      215
+    ],
+    "needed": [
+      216
+    ],
+    "fully": [
+      218
+    ],
+    "behavior": [
+      222
+    ],
+    "ensembles.": [
+      227
+    ],
+    "Overall,": [
+      228
+    ],
+    "methodology": [
+      230
+    ],
+    "advances": [
+      231
+    ],
+    "novel": [
+      233
+    ],
+    "way": [
+      234
+    ],
+    "test": [
+      236
+    ],
+    "robustness,": [
+      239
+    ],
+    "key": [
+      242
+    ],
+    "building": [
+      244
+    ],
+    "institutional": [
+      245
+    ],
+    "support": [
+      246
+    ],
+    "FIRO.": [
+      248
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-09-08T07:41:39.490200",
+  "created_date": "2024-02-13T00:00:00"
+}

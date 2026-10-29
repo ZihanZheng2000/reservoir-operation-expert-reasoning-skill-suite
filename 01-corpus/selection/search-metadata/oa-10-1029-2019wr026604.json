@@ -1,0 +1,1635 @@
+{
+  "id": "https://openalex.org/W3044511373",
+  "doi": "https://doi.org/10.1029/2019wr026604",
+  "title": "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multipurpose Reservoir in Northern California",
+  "display_name": "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multipurpose Reservoir in Northern California",
+  "publication_year": 2020,
+  "publication_date": "2020-07-21",
+  "ids": {
+    "openalex": "https://openalex.org/W3044511373",
+    "doi": "https://doi.org/10.1029/2019wr026604",
+    "mag": "3044511373"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1029/2019wr026604",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2019wr026604",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://doi.org/10.1029/2019wr026604",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076736800",
+        "display_name": "Chris Delaney",
+        "orcid": "https://orcid.org/0000-0003-3875-0109"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095563",
+          "display_name": "Sonoma Technology (United States)",
+          "ror": "https://ror.org/00khy9f46",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210095563"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Chris J. Delaney",
+      "raw_affiliation_strings": [
+        "Sonoma Water  Santa Rosa CA USA",
+        "Sonoma Water, Santa Rosa, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-3875-0109",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sonoma Water  Santa Rosa CA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095563"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sonoma Water, Santa Rosa, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5079480958",
+        "display_name": "Robert Hartman",
+        "orcid": "https://orcid.org/0000-0002-3370-8473"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Robert K. Hartman",
+      "raw_affiliation_strings": [
+        "Robert K. Hartman Consulting Services  Roseville CA USA",
+        "Robert K. Hartman Consulting Services, Roseville, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Robert K. Hartman Consulting Services  Roseville CA USA",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "Robert K. Hartman Consulting Services, Roseville, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5109680694",
+        "display_name": "J. Mendoza",
+        "orcid": "https://orcid.org/0000-0002-3131-1149"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095563",
+          "display_name": "Sonoma Technology (United States)",
+          "ror": "https://ror.org/00khy9f46",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210095563"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "John Mendoza",
+      "raw_affiliation_strings": [
+        "Sonoma Water  Santa Rosa CA USA",
+        "Sonoma Water, Santa Rosa, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sonoma Water  Santa Rosa CA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095563"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sonoma Water, Santa Rosa, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080482310",
+        "display_name": "Michael D. Dettinger",
+        "orcid": "https://orcid.org/0000-0002-7509-7332"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I150209017",
+          "display_name": "Scripps Institution of Oceanography",
+          "ror": "https://ror.org/04v7hvq31",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Dettinger",
+      "raw_affiliation_strings": [
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5051056254",
+        "display_name": "Luca Delle Monache",
+        "orcid": "https://orcid.org/0000-0003-4953-0881"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I150209017",
+          "display_name": "Scripps Institution of Oceanography",
+          "ror": "https://ror.org/04v7hvq31",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Luca Delle Monache",
+      "raw_affiliation_strings": [
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4953-0881",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5111837091",
+        "display_name": "Jay Jasperse",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210095563",
+          "display_name": "Sonoma Technology (United States)",
+          "ror": "https://ror.org/00khy9f46",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210095563"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jay Jasperse",
+      "raw_affiliation_strings": [
+        "Sonoma Water  Santa Rosa CA USA",
+        "Sonoma Water, Santa Rosa, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Sonoma Water  Santa Rosa CA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210095563"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Sonoma Water, Santa Rosa, CA, USA",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5002667704",
+        "display_name": "F. Martin Ralph",
+        "orcid": "https://orcid.org/0000-0002-0870-6396"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I150209017",
+          "display_name": "Scripps Institution of Oceanography",
+          "ror": "https://ror.org/04v7hvq31",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I36258959",
+          "display_name": "University of California San Diego",
+          "ror": "https://ror.org/0168r3w48",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "F. Martin Ralph",
+      "raw_affiliation_strings": [
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+        "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0870-6396",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes University of California San Diego  La Jolla CA USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Scripps Institution of Oceanography, Center for Western Weather and Water Extremes, University of California San Diego, La Jolla, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I150209017",
+            "https://openalex.org/I36258959"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091276780",
+        "display_name": "Cary A. Talbot",
+        "orcid": "https://orcid.org/0000-0002-3755-3835"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210088792",
+          "display_name": "United States Army",
+          "ror": "https://ror.org/00afsp483",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1304082316",
+            "https://openalex.org/I1330347796",
+            "https://openalex.org/I4210088792"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I87303767",
+          "display_name": "U.S. Army Engineer Research and Development Center",
+          "ror": "https://ror.org/027mhn368",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1304082316",
+            "https://openalex.org/I1306490931",
+            "https://openalex.org/I1330347796",
+            "https://openalex.org/I87303767"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Cary Talbot",
+      "raw_affiliation_strings": [
+        "U.S. Army Engineer Research and Development Center  Vicksburg MS USA",
+        "U.S. Army Engineer Research and Development Center, Vicksburg, MS, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3755-3835",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "U.S. Army Engineer Research and Development Center  Vicksburg MS USA",
+          "institution_ids": [
+            "https://openalex.org/I87303767"
+          ]
+        },
+        {
+          "raw_affiliation_string": "U.S. Army Engineer Research and Development Center, Vicksburg, MS, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210088792",
+            "https://openalex.org/I87303767"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5017185723",
+        "display_name": "James Dean Brown",
+        "orcid": "https://orcid.org/0000-0001-9185-3284"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2802928082",
+          "display_name": "Hydrologic Research Center",
+          "ror": "https://ror.org/038kja517",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I2802928082"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "James Brown",
+      "raw_affiliation_strings": [
+        "Hydrologic Solutions Limited  Winchester UK",
+        "Hydrologic Solutions Limited, Winchester, UK"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hydrologic Solutions Limited  Winchester UK",
+          "institution_ids": [
+            "https://openalex.org/I2802928082"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hydrologic Solutions Limited, Winchester, UK",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5056364640",
+        "display_name": "David W. Reynolds",
+        "orcid": "https://orcid.org/0000-0001-5159-1443"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I188538660",
+          "display_name": "University of Colorado Boulder",
+          "ror": "https://ror.org/02ttsq026",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I188538660"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "David Reynolds",
+      "raw_affiliation_strings": [
+        "Department of Atmospheric and Oceanic Sciences University of Colorado  Boulder CO USA",
+        "Department of Atmospheric and Oceanic Sciences, University of Colorado, Boulder, CO, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5159-1443",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Atmospheric and Oceanic Sciences University of Colorado  Boulder CO USA",
+          "institution_ids": [
+            "https://openalex.org/I188538660"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Atmospheric and Oceanic Sciences, University of Colorado, Boulder, CO, USA",
+          "institution_ids": [
+            "https://openalex.org/I188538660"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5036829848",
+        "display_name": "Simone Evett",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210121988",
+          "display_name": "Film Independent",
+          "ror": "https://ror.org/036cy3843",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210121988"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Simone Evett",
+      "raw_affiliation_strings": [
+        "Independent Researcher  Pasadena CA USA",
+        "Independent Researcher, Pasadena, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Independent Researcher  Pasadena CA USA",
+          "institution_ids": [
+            "https://openalex.org/I4210121988"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Independent Researcher, Pasadena, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210121988"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 8,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5036829848",
+    "https://openalex.org/A5076736800"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210095563",
+    "https://openalex.org/I4210121988"
+  ],
+  "apc_list": {
+    "value": 2500,
+    "currency": "USD",
+    "value_usd": 2500
+  },
+  "apc_paid": {
+    "value": 2500,
+    "currency": "USD",
+    "value_usd": 2500
+  },
+  "fwci": 10.4191,
+  "has_fulltext": false,
+  "cited_by_count": 145,
+  "citation_normalized_percentile": {
+    "value": 0.99169231,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "56",
+    "issue": "9",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.7533015012741089
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.7445846796035767
+    },
+    {
+      "id": "https://openalex.org/keywords/streamflow",
+      "display_name": "Streamflow",
+      "score": 0.7050517797470093
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.6988639831542969
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6574742197990417
+    },
+    {
+      "id": "https://openalex.org/keywords/hindcast",
+      "display_name": "Hindcast",
+      "score": 0.5756886601448059
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-forecasting",
+      "display_name": "Flood forecasting",
+      "score": 0.568112313747406
+    },
+    {
+      "id": "https://openalex.org/keywords/water-storage",
+      "display_name": "Water storage",
+      "score": 0.42602214217185974
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resources",
+      "display_name": "Water resources",
+      "score": 0.4205930829048157
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resource-management",
+      "display_name": "Water resource management",
+      "score": 0.41122931241989136
+    },
+    {
+      "id": "https://openalex.org/keywords/drainage-basin",
+      "display_name": "Drainage basin",
+      "score": 0.3036220967769623
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.2966920733451843
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.16297978162765503
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.10658565163612366
+    },
+    {
+      "id": "https://openalex.org/keywords/oceanography",
+      "display_name": "Oceanography",
+      "score": 0.09253576397895813
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.7533015012741089
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.7445846796035767
+    },
+    {
+      "id": "https://openalex.org/C53739315",
+      "wikidata": "https://www.wikidata.org/wiki/Q29425295",
+      "display_name": "Streamflow",
+      "level": 3,
+      "score": 0.7050517797470093
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.6988639831542969
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6574742197990417
+    },
+    {
+      "id": "https://openalex.org/C83002819",
+      "wikidata": "https://www.wikidata.org/wiki/Q798528",
+      "display_name": "Hindcast",
+      "level": 2,
+      "score": 0.5756886601448059
+    },
+    {
+      "id": "https://openalex.org/C183195422",
+      "wikidata": "https://www.wikidata.org/wiki/Q3409303",
+      "display_name": "Flood forecasting",
+      "level": 3,
+      "score": 0.568112313747406
+    },
+    {
+      "id": "https://openalex.org/C2776182401",
+      "wikidata": "https://www.wikidata.org/wiki/Q7973769",
+      "display_name": "Water storage",
+      "level": 3,
+      "score": 0.42602214217185974
+    },
+    {
+      "id": "https://openalex.org/C153823671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+      "display_name": "Water resources",
+      "level": 2,
+      "score": 0.4205930829048157
+    },
+    {
+      "id": "https://openalex.org/C524765639",
+      "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+      "display_name": "Water resource management",
+      "level": 1,
+      "score": 0.41122931241989136
+    },
+    {
+      "id": "https://openalex.org/C126645576",
+      "wikidata": "https://www.wikidata.org/wiki/Q166620",
+      "display_name": "Drainage basin",
+      "level": 2,
+      "score": 0.3036220967769623
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.2966920733451843
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.16297978162765503
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.10658565163612366
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.09253576397895813
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C201289731",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172599",
+      "display_name": "Inlet",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1029/2019wr026604",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1029/2019wr026604",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S204847658",
+        "display_name": "Water Resources Research",
+        "issn_l": "0043-1397",
+        "issn": [
+          "0043-1397",
+          "1944-7973"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water Resources Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1029/2019wr026604",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1029/2019wr026604",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 37,
+  "referenced_works": [
+    "https://openalex.org/W172235399",
+    "https://openalex.org/W1733550608",
+    "https://openalex.org/W1965549091",
+    "https://openalex.org/W1965658476",
+    "https://openalex.org/W1966043936",
+    "https://openalex.org/W1989065519",
+    "https://openalex.org/W1993195626",
+    "https://openalex.org/W2022594770",
+    "https://openalex.org/W2024089565",
+    "https://openalex.org/W2028103430",
+    "https://openalex.org/W2033904036",
+    "https://openalex.org/W2042486939",
+    "https://openalex.org/W2048001137",
+    "https://openalex.org/W2048734199",
+    "https://openalex.org/W2049113840",
+    "https://openalex.org/W2069821006",
+    "https://openalex.org/W2075249616",
+    "https://openalex.org/W2086252391",
+    "https://openalex.org/W2097804995",
+    "https://openalex.org/W2104735855",
+    "https://openalex.org/W2110668259",
+    "https://openalex.org/W2118860294",
+    "https://openalex.org/W2121141437",
+    "https://openalex.org/W2129831404",
+    "https://openalex.org/W2130091784",
+    "https://openalex.org/W2170860720",
+    "https://openalex.org/W2314469043",
+    "https://openalex.org/W2474567029",
+    "https://openalex.org/W2507559062",
+    "https://openalex.org/W2625931926",
+    "https://openalex.org/W2781693375",
+    "https://openalex.org/W2783132117",
+    "https://openalex.org/W2796482651",
+    "https://openalex.org/W2800702901",
+    "https://openalex.org/W2978601285",
+    "https://openalex.org/W3044511373",
+    "https://openalex.org/W4248964471"
+  ],
+  "related_works": [
+    "https://openalex.org/W4320013113",
+    "https://openalex.org/W2050590406",
+    "https://openalex.org/W3039446713",
+    "https://openalex.org/W4285732890",
+    "https://openalex.org/W3205194988",
+    "https://openalex.org/W4385317904",
+    "https://openalex.org/W2000979301",
+    "https://openalex.org/W2895629403",
+    "https://openalex.org/W2087007385",
+    "https://openalex.org/W4386099766"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Ensemble": [
+      1
+    ],
+    "Forecast": [
+      2,
+      25,
+      136
+    ],
+    "Operations": [
+      3
+    ],
+    "(EFO)": [
+      4
+    ],
+    "is": [
+      5,
+      95
+    ],
+    "a": [
+      6,
+      72,
+      96,
+      126,
+      176,
+      210,
+      233
+    ],
+    "risk‐based": [
+      7
+    ],
+    "approach": [
+      8
+    ],
+    "of": [
+      9,
+      32,
+      45,
+      112,
+      142,
+      170,
+      185
+    ],
+    "reservoir": [
+      10,
+      75,
+      85
+    ],
+    "flood": [
+      11,
+      91,
+      104,
+      155,
+      161,
+      187,
+      199,
+      215,
+      227,
+      244
+    ],
+    "control": [
+      12,
+      105,
+      216,
+      245
+    ],
+    "operations": [
+      13,
+      28,
+      194,
+      217
+    ],
+    "that": [
+      14,
+      221,
+      236
+    ],
+    "incorporates": [
+      15
+    ],
+    "ensemble": [
+      16
+    ],
+    "streamflow": [
+      17
+    ],
+    "predictions": [
+      18
+    ],
+    "(ESPs)": [
+      19
+    ],
+    "made": [
+      20
+    ],
+    "by": [
+      21,
+      106,
+      119,
+      132,
+      164
+    ],
+    "the": [
+      22,
+      107,
+      133,
+      154,
+      183,
+      186
+    ],
+    "California‐Nevada": [
+      23,
+      134
+    ],
+    "River": [
+      24,
+      135
+    ],
+    "Center.": [
+      26
+    ],
+    "Reservoir": [
+      27,
+      50
+    ],
+    "for": [
+      29,
+      69,
+      103,
+      116,
+      201,
+      213
+    ],
+    "each": [
+      30
+    ],
+    "member": [
+      31
+    ],
+    "an": [
+      33
+    ],
+    "ESP": [
+      34,
+      129
+    ],
+    "are": [
+      35,
+      53
+    ],
+    "individually": [
+      36
+    ],
+    "modeled": [
+      37
+    ],
+    "to": [
+      38,
+      55,
+      61,
+      79,
+      83,
+      242
+    ],
+    "forecast": [
+      39
+    ],
+    "system": [
+      40
+    ],
+    "conditions": [
+      41
+    ],
+    "and": [
+      42,
+      101,
+      114,
+      229,
+      231,
+      240
+    ],
+    "calculate": [
+      43
+    ],
+    "risk": [
+      44,
+      58,
+      63
+    ],
+    "reaching": [
+      46
+    ],
+    "critical": [
+      47
+    ],
+    "operational": [
+      48
+    ],
+    "thresholds.": [
+      49
+    ],
+    "release": [
+      51
+    ],
+    "decisions": [
+      52
+    ],
+    "simulated": [
+      54,
+      124
+    ],
+    "manage": [
+      56
+    ],
+    "forecasted": [
+      57,
+      171
+    ],
+    "with": [
+      59
+    ],
+    "respect": [
+      60
+    ],
+    "established": [
+      62
+    ],
+    "tolerance": [
+      64
+    ],
+    "levels.": [
+      65
+    ],
+    "EFO": [
+      66,
+      122,
+      146,
+      207
+    ],
+    "was": [
+      67,
+      123
+    ],
+    "developed": [
+      68
+    ],
+    "Lake": [
+      70,
+      93,
+      205,
+      219
+    ],
+    "Mendocino,": [
+      71
+    ],
+    "111,000": [
+      73
+    ],
+    "acre‐foot": [
+      74
+    ],
+    "near": [
+      76
+    ],
+    "Ukiah,": [
+      77
+    ],
+    "California,": [
+      78
+    ],
+    "evaluate": [
+      80
+    ],
+    "its": [
+      81
+    ],
+    "viability": [
+      82
+    ],
+    "improve": [
+      84
+    ],
+    "storage": [
+      86,
+      151,
+      162,
+      181
+    ],
+    "reliability": [
+      87
+    ],
+    "without": [
+      88,
+      195
+    ],
+    "increasing": [
+      89
+    ],
+    "downstream": [
+      90,
+      203
+    ],
+    "risk.": [
+      92
+    ],
+    "Mendocino": [
+      94,
+      220
+    ],
+    "dual": [
+      97
+    ],
+    "use": [
+      98
+    ],
+    "reservoir,": [
+      99
+    ],
+    "owned": [
+      100
+    ],
+    "operated": [
+      102,
+      115
+    ],
+    "United": [
+      108
+    ],
+    "States": [
+      109
+    ],
+    "Army": [
+      110
+    ],
+    "Corps": [
+      111
+    ],
+    "Engineers": [
+      113
+    ],
+    "water": [
+      117,
+      167
+    ],
+    "supply": [
+      118
+    ],
+    "Sonoma": [
+      120
+    ],
+    "Water.": [
+      121
+    ],
+    "using": [
+      125
+    ],
+    "26‐year": [
+      127
+    ],
+    "(1985–2010)": [
+      128
+    ],
+    "hindcast": [
+      130
+    ],
+    "generated": [
+      131
+    ],
+    "Center,": [
+      137
+    ],
+    "which": [
+      138
+    ],
+    "provides": [
+      139,
+      222,
+      232
+    ],
+    "61‐member": [
+      140
+    ],
+    "ensembles": [
+      141
+    ],
+    "15‐day": [
+      143
+    ],
+    "flow": [
+      144
+    ],
+    "forecasts.": [
+      145
+    ],
+    "simulations": [
+      147
+    ],
+    "yield": [
+      148
+    ],
+    "generally": [
+      149
+    ],
+    "higher": [
+      150
+    ],
+    "levels": [
+      152
+    ],
+    "during": [
+      153
+    ],
+    "management": [
+      156,
+      188,
+      234
+    ],
+    "season": [
+      157,
+      189
+    ],
+    "while": [
+      158
+    ],
+    "maintaining": [
+      159
+    ],
+    "needed": [
+      160
+    ],
+    "capacity": [
+      163
+    ],
+    "strategically": [
+      165
+    ],
+    "prereleasing": [
+      166
+    ],
+    "in": [
+      168,
+      179,
+      198
+    ],
+    "advance": [
+      169
+    ],
+    "storms.": [
+      172
+    ],
+    "Model": [
+      173
+    ],
+    "results": [
+      174
+    ],
+    "demonstrate": [
+      175
+    ],
+    "33%": [
+      177
+    ],
+    "increase": [
+      178
+    ],
+    "median": [
+      180
+    ],
+    "at": [
+      182,
+      218
+    ],
+    "end": [
+      184
+    ],
+    "(10": [
+      190
+    ],
+    "May)": [
+      191
+    ],
+    "over": [
+      192
+    ],
+    "existing": [
+      193
+    ],
+    "marked": [
+      196
+    ],
+    "changes": [
+      197
+    ],
+    "frequency": [
+      200
+    ],
+    "locations": [
+      202
+    ],
+    "from": [
+      204
+    ],
+    "Mendocino.": [
+      206
+    ],
+    "may": [
+      208
+    ],
+    "be": [
+      209,
+      238
+    ],
+    "viable": [
+      211
+    ],
+    "alternative": [
+      212
+    ],
+    "managing": [
+      214
+    ],
+    "multiple": [
+      223
+    ],
+    "benefits": [
+      224
+    ],
+    "(water": [
+      225
+    ],
+    "supply,": [
+      226
+    ],
+    "mitigation,": [
+      228
+    ],
+    "ecosystems)": [
+      230
+    ],
+    "framework": [
+      235
+    ],
+    "could": [
+      237
+    ],
+    "adapted": [
+      239
+    ],
+    "applied": [
+      241
+    ],
+    "other": [
+      243
+    ],
+    "reservoirs.": [
+      246
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 25
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 23
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-09-04T10:56:28.161419",
+  "created_date": "2025-10-10T00:00:00"
+}

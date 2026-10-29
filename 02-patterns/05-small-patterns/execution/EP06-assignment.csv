@@ -1,0 +1,67 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E8,E01,Search for a converged Monte Carlo dynamic bound,primary,EP06-D,,Upper bound searched by Monte Carlo until convergence
+E02-E3,E02,Build and solve the scenario-based stochastic program,primary,EP06-C,,Scenario-based stochastic program with deterministic equivalent
+E02-E4,E02,Trace the uncertain Pareto front,primary,EP06-B,,Noninferior alternatives by two-step constraint method
+E03-E7,E03,Optimize carryover storage and safety margin,primary,EP06-A,,Carryover storage and margin optimized via KKT interior/boundary cases
+E03-E8,E03,Select the piecewise analytical hedging branch,primary,EP06-A,,Piecewise analytical hedging branch selected
+E03-E12,E03,Derive case rules and parameter scenarios,primary,EP06-A,,Case rules derived across uncertainty and risk
+E05-E2,E05,"Construct losses, risk, and constraints",primary,EP06-A,,"Loss, risk, and constraint model formulated for analytical solution"
+E05-E3,E05,Reduce stage-2 mass balance to an allocation problem,primary,EP06-A,,Stage-2 balance reduced to an allocation identity
+E05-E5,E05,Derive and classify preference-dependent hedging rules,primary,EP06-A,,Preference-dependent hedging rules derived and classified
+E05-E6,E05,Calculate the mass-balance uncertainty threshold,primary,EP06-A,,Uncertainty threshold derived from optimality relation
+E05-E7,E05,Select the active constraint branch for (r_{max}),secondary,EP06-A,,Constraint-dependent branch for maximum useful uncertainty
+E05-E9,E05,Illustrate the procedure with Nierji Reservoir,primary,EP06-A,,Analytical procedure applied to compute case thresholds
+E07-E6,E07,Construct and constrain member release schedules,primary,EP06-A,,Rule-based release schedules for risky members
+E07-E7,E07,Select the current release across risky members and horizons,secondary,EP06-A,,Current release chosen as maximum day-1 release of selected members
+E08-E3,E08,Generate feasible operation samples,primary,EP06-B,,Peak-outflow minimization solved per sample
+E10-E2,E10,Solve outer allocation,primary,EP06-A,,Outer storage allocation by KKT
+E10-E3,E10,Solve inner allocation,primary,EP06-A,,Inner detention/prerelease allocation by KKT
+E12-E2,E12,Calculate early pre-release,primary,EP06-A,,Pre-release computed from closed-form restoration condition
+E12-E3,E12,Optimize flood-regulating trajectories,primary,EP06-B,,Multiobjective trajectories for safety and resilience
+E14-E7,E14,Simulate constrained reservoir operation,secondary,EP06-B,,Single-objective level or release optimization per forecast type
+E14-E10,E14,Run MRO for large-flood trade-offs,primary,EP06-B,,Seven-objective optimization with NSGA-III
+E15-E4,E15,Encode rule parameters and cascade constraints,primary,EP06-D,,Rule parameters encoded for evolutionary search
+E15-E6,E15,Repair/rank constraint violations,secondary,EP06-D,,Constraint repair during parameter search
+E15-E7,E15,Run RSEA and comparator algorithms,primary,EP06-D,,Many-objective parameter search with comparator algorithms
+E16-E3,E16,Train EFO risk-curve policies,primary,EP06-D,,14-value risk curve trained over record
+E16-E4,E16,Run daily MPC,secondary,EP06-C,,Daily MPC re-optimizes 14-step release sequence
+E17-E2,E17,Form scenario-based MPC state forecasts,primary,EP06-C,,Scenario MPC optimizes one sequence over ensemble storage
+E18-E4,E18,Define site-specific FIRO alternatives,primary,EP06-E,,Site-specific FIRO alternatives defined
+E20-E4,E20,Encode and run the per-event MILP RFCM,primary,EP06-B,,Per-event MILP with piecewise penalties
+E20-E5,E20,Define and enumerate candidate RFCM parameters,primary,EP06-D,,Parameter grid enumerated over reduced space
+E21-E4,E21,Generate candidate cooperation schemes,primary,EP06-B,,Cooperation schemes optimized with NSGA-II
+E22-E5,E22,Formulate multiobjective flood-operation functions,primary,EP06-B,,Weighted two-objective function formulated
+E22-E6,E22,"Apply water-balance, release, storage, and fluctuation constraints",primary,EP06-B,,"Balance, release, storage, fluctuation constraints encoded"
+E22-E7,E22,Grid-search objective weights and run GA,primary,EP06-B,,Weight grid with GA runs per member
+E22-E8,E22,Run the deterministic/no-forecast policy,secondary,EP06-B,,Same optimization run with deterministic input as benchmark
+E22-E9,E22,Run ensemble-member and ensemble-mean policies,primary,EP06-C,,Member and ensemble-mean policies from scenario optimizations
+E23-E5,E23,Solve multi-stage stochastic MPC,primary,EP06-C,,Multi-stage stochastic MPC on scenario tree
+E24-E3,E24,Compute total EFSM and critical thresholds,secondary,EP06-A,,Total margin and critical thresholds from marginal-utility curves
+E24-E4,E24,Select and solve the EFSM allocation rule,primary,EP06-A,,Allocation rule selected and solved by risk class
+E25-E5,E25,Search feasible Qh and identify optimum,primary,EP06-D,,Hedging release enumerated in 1 m3/s steps
+E26-E3,E26,Calculate feasible V1 and solve the analytical HR,primary,EP06-A,,Feasible conservation variable and analytical rule via KKT
+E26-E4,E26,Generate and apply three-zone rule,primary,EP06-A,,Three-zone piecewise release rule generated
+E33-E9,E33,Solve the constrained rolling-horizon operation,primary,EP06-C,,Rolling-horizon optimization with two-stage risk constraint
+E34-E4,E34,Build the deterministic benchmark,primary,EP06-B,,Single-forecast benchmark optimization with bounds
+E34-E5,E34,Formulate MOSP scenario objectives and constraints,primary,EP06-C,,Multiobjective stochastic program over scenarios
+E34-E6,E34,Generate and select noninferior solutions,primary,EP06-B,,Epsilon-constraint noninferior solutions
+E34-E7,E34,Solve nonlinear models,primary,EP06-B,,Nonlinear models solved from multiple starts
+E35-E6,E35,Define and solve MPC objective,primary,EP06-C,,MPC objective with penalty terms solved
+E35-E8,E35,Run closed-loop deterministic or tree MPC,secondary,EP06-C,,Closed-loop deterministic or tree MPC
+E36-E4,E36,Formulate scenario-wise operation,primary,EP06-C,,Scenario-wise operation formulated
+E36-E5,E36,Minimize expected highest level,primary,EP06-C,,Expected highest level minimized over scenario tree
+E38-E1,E38,Generate feasible joint-operation schemes,primary,EP06-E,,Feasible joint-operation schemes for typical floods
+E40-E6,E40,Define scenario-optimized operation,primary,EP06-C,,Scenario optimization with shared decisions
+E41-E3,E41,Generate candidate IOWLs,primary,EP06-D,,Candidate level grid generated
+E41-E6,E41,Select stage bounds,secondary,EP06-D,,Largest feasible level chosen per stage
+E42-E7,E42,Optimize generation for each inflow input,primary,EP06-B,,Generation optimized per inflow input
+E43-E4,E43,Formulate and solve each MPC problem,primary,EP06-C,,MPC with soft and hard constraints solved by interior point
+E44-E5,E44,Optimize and decompose WLFS boundaries,primary,EP06-D,,Boundary levels optimized for generation under constraints
+E45-E5,E45,Solve B1 risk-constrained adaptation,primary,EP06-D,,Adaptive FLWL schedule searched with NSGA-II
+E45-E6,E45,Solve B2 with CVaR protection,primary,EP06-D,,Schedule re-searched with added CVaR constraint
+E46-E6,E46,Calibrate rules sequentially with BOBYQA,primary,EP06-D,,Stage rules calibrated sequentially with BOBYQA
+E47-E1,E47,Generate non-dominated operating alternatives,primary,EP06-E,,Ten alternatives by varying upper level limits
+E48-E2,E48,Enumerate and route six alternatives,primary,EP06-E,,Six admissible operation-mode combinations
+E49-E5,E49,Enforce physical and boundary constraints,secondary,EP06-B,,Physical and boundary constraints in optimization
+E49-E6,E49,Solve RMOO and CCP and evaluate search quality,primary,EP06-B,,Robust multiobjective and chance-constrained models solved
+E50-E7,E50,Optimize Forecast and Perfect parameters,primary,EP06-D,,Policy parameters optimized by differential evolution with 10 seeds

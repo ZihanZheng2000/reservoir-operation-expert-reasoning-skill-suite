@@ -1,0 +1,1054 @@
+{
+  "id": "https://openalex.org/W1987927313",
+  "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0000490",
+  "title": "Risk Analysis for Real-Time Flood Control Operation of a Reservoir",
+  "display_name": "Risk Analysis for Real-Time Flood Control Operation of a Reservoir",
+  "publication_year": 2014,
+  "publication_date": "2014-11-03",
+  "ids": {
+    "openalex": "https://openalex.org/W1987927313",
+    "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0000490",
+    "mag": "1987927313"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1061/(asce)wr.1943-5452.0000490",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000490",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S127754761",
+      "display_name": "Journal of Water Resources Planning and Management",
+      "issn_l": "0733-9496",
+      "issn": [
+        "0733-9496",
+        "1943-5452"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315747",
+      "host_organization_name": "American Society of Civil Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315747"
+      ],
+      "host_organization_lineage_names": [
+        "American Society of Civil Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Water Resources Planning and Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100359223",
+        "display_name": "Juan Chen",
+        "orcid": "https://orcid.org/0000-0003-0393-5883"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan Chen",
+      "raw_affiliation_strings": [
+        "Ph.D. Candidate, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077877575",
+        "display_name": "Ping‐an Zhong",
+        "orcid": "https://orcid.org/0009-0005-6145-3438"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ping-an Zhong",
+      "raw_affiliation_strings": [
+        "Professor, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China (corresponding author)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Professor, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China (corresponding author)",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "Ph.D. Candidate, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, College of Hydrology and Water Resources, Hohai Univ., Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5100528227",
+        "display_name": "Yunfa Zhao",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I160674187",
+          "display_name": "China Three Gorges Corporation (China)",
+          "ror": "https://ror.org/02yqt2385",
+          "country_code": "CN",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I160674187"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yun-fa Zhao",
+      "raw_affiliation_strings": [
+        "Senior Engineer, China Three Gorges Corporation, Yichang 443133, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Senior Engineer, China Three Gorges Corporation, Yichang 443133, China",
+          "institution_ids": [
+            "https://openalex.org/I160674187"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5077877575"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I163340411",
+    "https://openalex.org/I4210099662"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.244,
+  "has_fulltext": false,
+  "cited_by_count": 46,
+  "citation_normalized_percentile": {
+    "value": 0.90444145,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "141",
+    "issue": "8",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9909999966621399,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.8755013346672058
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.6803035140037537
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6800615787506104
+    },
+    {
+      "id": "https://openalex.org/keywords/100-year-flood",
+      "display_name": "100-year flood",
+      "score": 0.5451967716217041
+    },
+    {
+      "id": "https://openalex.org/keywords/outflow",
+      "display_name": "Outflow",
+      "score": 0.510026752948761
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-risk-assessment",
+      "display_name": "Flood risk assessment",
+      "score": 0.49209946393966675
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.48636749386787415
+    },
+    {
+      "id": "https://openalex.org/keywords/routing",
+      "display_name": "Routing (electronic design automation)",
+      "score": 0.4663981795310974
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-forecasting",
+      "display_name": "Flood forecasting",
+      "score": 0.4407099485397339
+    },
+    {
+      "id": "https://openalex.org/keywords/water-level",
+      "display_name": "Water level",
+      "score": 0.41009700298309326
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.38242071866989136
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3446443974971771
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3393365740776062
+    },
+    {
+      "id": "https://openalex.org/keywords/petroleum-engineering",
+      "display_name": "Petroleum engineering",
+      "score": 0.3287363052368164
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.28684982657432556
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.18254715204238892
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.0885114073753357
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.8755013346672058
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.6803035140037537
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6800615787506104
+    },
+    {
+      "id": "https://openalex.org/C171878848",
+      "wikidata": "https://www.wikidata.org/wiki/Q336797",
+      "display_name": "100-year flood",
+      "level": 3,
+      "score": 0.5451967716217041
+    },
+    {
+      "id": "https://openalex.org/C86132830",
+      "wikidata": "https://www.wikidata.org/wiki/Q3308838",
+      "display_name": "Outflow",
+      "level": 2,
+      "score": 0.510026752948761
+    },
+    {
+      "id": "https://openalex.org/C2778061687",
+      "wikidata": "https://www.wikidata.org/wiki/Q5460077",
+      "display_name": "Flood risk assessment",
+      "level": 3,
+      "score": 0.49209946393966675
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.48636749386787415
+    },
+    {
+      "id": "https://openalex.org/C74172769",
+      "wikidata": "https://www.wikidata.org/wiki/Q1446839",
+      "display_name": "Routing (electronic design automation)",
+      "level": 2,
+      "score": 0.4663981795310974
+    },
+    {
+      "id": "https://openalex.org/C183195422",
+      "wikidata": "https://www.wikidata.org/wiki/Q3409303",
+      "display_name": "Flood forecasting",
+      "level": 3,
+      "score": 0.4407099485397339
+    },
+    {
+      "id": "https://openalex.org/C1284942",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929501",
+      "display_name": "Water level",
+      "level": 2,
+      "score": 0.41009700298309326
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.38242071866989136
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3446443974971771
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3393365740776062
+    },
+    {
+      "id": "https://openalex.org/C78762247",
+      "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+      "display_name": "Petroleum engineering",
+      "level": 1,
+      "score": 0.3287363052368164
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.28684982657432556
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.18254715204238892
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0885114073753357
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1061/(asce)wr.1943-5452.0000490",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000490",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S127754761",
+        "display_name": "Journal of Water Resources Planning and Management",
+        "issn_l": "0733-9496",
+        "issn": [
+          "0733-9496",
+          "1943-5452"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315747",
+        "host_organization_name": "American Society of Civil Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315747"
+        ],
+        "host_organization_lineage_names": [
+          "American Society of Civil Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Water Resources Planning and Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 25,
+  "referenced_works": [
+    "https://openalex.org/W1521667653",
+    "https://openalex.org/W1602284356",
+    "https://openalex.org/W1849454962",
+    "https://openalex.org/W1980299270",
+    "https://openalex.org/W1989648449",
+    "https://openalex.org/W1998917997",
+    "https://openalex.org/W2005071045",
+    "https://openalex.org/W2036830360",
+    "https://openalex.org/W2039501868",
+    "https://openalex.org/W2047395295",
+    "https://openalex.org/W2050028645",
+    "https://openalex.org/W2054865689",
+    "https://openalex.org/W2063389606",
+    "https://openalex.org/W2073140690",
+    "https://openalex.org/W2095755388",
+    "https://openalex.org/W2106091800",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2169170000",
+    "https://openalex.org/W2171174555",
+    "https://openalex.org/W2255943657",
+    "https://openalex.org/W2363688090",
+    "https://openalex.org/W3152507489",
+    "https://openalex.org/W3182730020",
+    "https://openalex.org/W4250080440"
+  ],
+  "related_works": [
+    "https://openalex.org/W2347751007",
+    "https://openalex.org/W2418812133",
+    "https://openalex.org/W2348115209",
+    "https://openalex.org/W3010198875",
+    "https://openalex.org/W2380612328",
+    "https://openalex.org/W2393514359",
+    "https://openalex.org/W2358560889",
+    "https://openalex.org/W2364899318",
+    "https://openalex.org/W2484487986",
+    "https://openalex.org/W606455991"
+  ],
+  "abstract_inverted_index": {
+    "There": [
+      0
+    ],
+    "are": [
+      1,
+      44,
+      60,
+      92
+    ],
+    "many": [
+      2
+    ],
+    "uncertainties": [
+      3,
+      51,
+      114
+    ],
+    "in": [
+      4,
+      15,
+      97,
+      137
+    ],
+    "real-time": [
+      5,
+      138
+    ],
+    "flood": [
+      6,
+      16,
+      69,
+      78,
+      90,
+      120,
+      140
+    ],
+    "control": [
+      7,
+      17
+    ],
+    "operation": [
+      8
+    ],
+    "of": [
+      9,
+      33,
+      48,
+      67,
+      87
+    ],
+    "a": [
+      10,
+      130
+    ],
+    "reservoir,": [
+      11
+    ],
+    "which": [
+      12
+    ],
+    "create": [
+      13
+    ],
+    "risks": [
+      14,
+      136
+    ],
+    "decision": [
+      18
+    ],
+    "making.": [
+      19
+    ],
+    "In": [
+      20
+    ],
+    "this": [
+      21
+    ],
+    "paper,": [
+      22
+    ],
+    "three": [
+      23,
+      50
+    ],
+    "uncertainty": [
+      24
+    ],
+    "factors—reservoir": [
+      25
+    ],
+    "inflow-forecasting": [
+      26,
+      55
+    ],
+    "errors,": [
+      27,
+      29,
+      56
+    ],
+    "outflow": [
+      28
+    ],
+    "and": [
+      30,
+      41,
+      52,
+      74,
+      83,
+      123
+    ],
+    "observation": [
+      31
+    ],
+    "errors": [
+      32,
+      59
+    ],
+    "reservoir": [
+      34,
+      57,
+      68,
+      96,
+      119,
+      139
+    ],
+    "storage": [
+      35
+    ],
+    "capacity": [
+      36
+    ],
+    "curve—are": [
+      37
+    ],
+    "taken": [
+      38
+    ],
+    "into": [
+      39
+    ],
+    "account": [
+      40
+    ],
+    "quantified": [
+      42
+    ],
+    "methods": [
+      43,
+      76
+    ],
+    "proposed.": [
+      45,
+      93
+    ],
+    "With": [
+      46
+    ],
+    "consideration": [
+      47
+    ],
+    "the": [
+      49,
+      63,
+      72,
+      84,
+      88,
+      102,
+      109,
+      113,
+      118,
+      125,
+      135
+    ],
+    "correlation": [
+      53
+    ],
+    "between": [
+      54
+    ],
+    "water-level": [
+      58
+    ],
+    "derived": [
+      61
+    ],
+    "using": [
+      62
+    ],
+    "stochastic": [
+      64
+    ],
+    "differential": [
+      65
+    ],
+    "equation": [
+      66
+    ],
+    "routing.": [
+      70
+    ],
+    "Then": [
+      71
+    ],
+    "definition": [
+      73
+    ],
+    "calculation": [
+      75
+    ],
+    "for": [
+      77
+    ],
+    "risk": [
+      79,
+      86,
+      110
+    ],
+    "at": [
+      80
+    ],
+    "each": [
+      81
+    ],
+    "moment": [
+      82
+    ],
+    "integrated": [
+      85
+    ],
+    "entire": [
+      89
+    ],
+    "process": [
+      91
+    ],
+    "The": [
+      94,
+      105
+    ],
+    "Dahuofang": [
+      95
+    ],
+    "China": [
+      98
+    ],
+    "is": [
+      99,
+      115
+    ],
+    "selected": [
+      100
+    ],
+    "as": [
+      101
+    ],
+    "case": [
+      103
+    ],
+    "study.": [
+      104
+    ],
+    "results": [
+      106
+    ],
+    "shows": [
+      107
+    ],
+    "that": [
+      108,
+      124
+    ],
+    "resulting": [
+      111
+    ],
+    "from": [
+      112
+    ],
+    "decreased": [
+      116
+    ],
+    "by": [
+      117
+    ],
+    "regulation": [
+      121
+    ],
+    "function": [
+      122
+    ],
+    "proposed": [
+      126
+    ],
+    "method": [
+      127
+    ],
+    "can": [
+      128
+    ],
+    "provide": [
+      129
+    ],
+    "useful": [
+      131
+    ],
+    "way": [
+      132
+    ],
+    "to": [
+      133
+    ],
+    "estimate": [
+      134
+    ],
+    "control.": [
+      141
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-22T07:51:19.307946",
+  "created_date": "2025-10-10T00:00:00"
+}

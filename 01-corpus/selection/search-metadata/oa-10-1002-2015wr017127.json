@@ -1,0 +1,1352 @@
+{
+  "id": "https://openalex.org/W1944976702",
+  "doi": "https://doi.org/10.1002/2015wr017127",
+  "title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+  "display_name": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+  "publication_year": 2015,
+  "publication_date": "2015-06-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1944976702",
+    "doi": "https://doi.org/10.1002/2015wr017127",
+    "mag": "1944976702"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1002/2015wr017127",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/2015wr017127",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015WR017127",
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015WR017127",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5084846083",
+        "display_name": "Wei Ding",
+        "orcid": "https://orcid.org/0000-0001-9820-0980"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I27357992",
+          "display_name": "Dalian University of Technology",
+          "ror": "https://ror.org/023hj5876",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Wei Ding",
+      "raw_affiliation_strings": [
+        "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China",
+        "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China",
+          "institution_ids": [
+            "https://openalex.org/I27357992"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084586881",
+        "display_name": "Chi Zhang",
+        "orcid": "https://orcid.org/0000-0002-5215-4058"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I27357992",
+          "display_name": "Dalian University of Technology",
+          "ror": "https://ror.org/023hj5876",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Chi Zhang",
+      "raw_affiliation_strings": [
+        "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China",
+          "institution_ids": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5070556230",
+        "display_name": "Yong Peng",
+        "orcid": "https://orcid.org/0000-0001-9516-9842"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I27357992",
+          "display_name": "Dalian University of Technology",
+          "ror": "https://ror.org/023hj5876",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yong Peng",
+      "raw_affiliation_strings": [
+        "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China",
+          "institution_ids": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023539148",
+        "display_name": "Ruijie Zeng",
+        "orcid": "https://orcid.org/0000-0003-3229-3146"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ruijie Zeng",
+      "raw_affiliation_strings": [
+        "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100649871",
+        "display_name": "Huicheng Zhou",
+        "orcid": "https://orcid.org/0000-0002-6225-3156"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I27357992",
+          "display_name": "Dalian University of Technology",
+          "ror": "https://ror.org/023hj5876",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Huicheng Zhou",
+      "raw_affiliation_strings": [
+        "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China",
+          "institution_ids": [
+            "https://openalex.org/I27357992"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5075184717",
+        "display_name": "Ximing Cai",
+        "orcid": "https://orcid.org/0000-0002-7342-4512"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ximing Cai",
+      "raw_affiliation_strings": [
+        "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5084586881"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I27357992"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": null,
+  "fwci": 7.746,
+  "has_fulltext": true,
+  "cited_by_count": 116,
+  "citation_normalized_percentile": {
+    "value": 0.96823069,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "51",
+    "issue": "6",
+    "first_page": "4702",
+    "last_page": "4726"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11186",
+      "display_name": "Hydrology and Drought Analysis",
+      "score": 0.9922000169754028,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.8198243379592896
+    },
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.8178589344024658
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.728158712387085
+    },
+    {
+      "id": "https://openalex.org/keywords/100-year-flood",
+      "display_name": "100-year flood",
+      "score": 0.7122374773025513
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.649257242679596
+    },
+    {
+      "id": "https://openalex.org/keywords/water-level",
+      "display_name": "Water level",
+      "score": 0.6415002346038818
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.515886664390564
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-forecasting",
+      "display_name": "Flood forecasting",
+      "score": 0.4777061939239502
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resource-management",
+      "display_name": "Water resource management",
+      "score": 0.36073094606399536
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3480781614780426
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.2680578827857971
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.14773687720298767
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.1342722773551941
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.09199070930480957
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.07488656044006348
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.8198243379592896
+    },
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.8178589344024658
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.728158712387085
+    },
+    {
+      "id": "https://openalex.org/C171878848",
+      "wikidata": "https://www.wikidata.org/wiki/Q336797",
+      "display_name": "100-year flood",
+      "level": 3,
+      "score": 0.7122374773025513
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.649257242679596
+    },
+    {
+      "id": "https://openalex.org/C1284942",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929501",
+      "display_name": "Water level",
+      "level": 2,
+      "score": 0.6415002346038818
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.515886664390564
+    },
+    {
+      "id": "https://openalex.org/C183195422",
+      "wikidata": "https://www.wikidata.org/wiki/Q3409303",
+      "display_name": "Flood forecasting",
+      "level": 3,
+      "score": 0.4777061939239502
+    },
+    {
+      "id": "https://openalex.org/C524765639",
+      "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+      "display_name": "Water resource management",
+      "level": 1,
+      "score": 0.36073094606399536
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3480781614780426
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.2680578827857971
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.14773687720298767
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.1342722773551941
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.09199070930480957
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.07488656044006348
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1002/2015wr017127",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1002/2015wr017127",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015WR017127",
+      "source": {
+        "id": "https://openalex.org/S204847658",
+        "display_name": "Water Resources Research",
+        "issn_l": "0043-1397",
+        "issn": [
+          "0043-1397",
+          "1944-7973"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water Resources Research",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1002/2015wr017127",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1002/2015wr017127",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015WR017127",
+    "source": {
+      "id": "https://openalex.org/S204847658",
+      "display_name": "Water Resources Research",
+      "issn_l": "0043-1397",
+      "issn": [
+        "0043-1397",
+        "1944-7973"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Research",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.4300000071525574,
+      "display_name": "Life in Land",
+      "id": "https://metadata.un.org/sdg/15"
+    },
+    {
+      "score": 0.41999998688697815,
+      "display_name": "Clean water and sanitation",
+      "id": "https://metadata.un.org/sdg/6"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1283137691",
+      "display_name": null,
+      "funder_award_id": "51379027",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G3043841228",
+      "display_name": null,
+      "funder_award_id": "51320105010",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G5381944976",
+      "display_name": "CAREER: Quantifying Environmental-Ecological Relationships for Watershed Sustainability Analysis",
+      "funder_award_id": "0747276",
+      "funder_id": "https://openalex.org/F4320306076",
+      "funder_display_name": "National Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G6311214277",
+      "display_name": null,
+      "funder_award_id": "51279021",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320322725",
+      "display_name": "China Scholarship Council",
+      "ror": "https://ror.org/04atp4p48"
+    },
+    {
+      "id": "https://openalex.org/F4320332222",
+      "display_name": "University of Illinois at Urbana-Champaign",
+      "ror": "https://ror.org/047426m28"
+    },
+    {
+      "id": "https://openalex.org/F4320337390",
+      "display_name": "Division of Chemical, Bioengineering, Environmental, and Transport Systems",
+      "ror": "https://ror.org/0471zv972"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W1944976702.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W1944976702.grobid-xml"
+  },
+  "referenced_works_count": 52,
+  "referenced_works": [
+    "https://openalex.org/W1481511658",
+    "https://openalex.org/W1551384453",
+    "https://openalex.org/W1577598547",
+    "https://openalex.org/W1605664656",
+    "https://openalex.org/W1750072508",
+    "https://openalex.org/W1798883798",
+    "https://openalex.org/W1833922224",
+    "https://openalex.org/W1840848304",
+    "https://openalex.org/W1852358735",
+    "https://openalex.org/W1918220106",
+    "https://openalex.org/W1965549091",
+    "https://openalex.org/W1968637865",
+    "https://openalex.org/W1977527752",
+    "https://openalex.org/W1981200687",
+    "https://openalex.org/W1981730679",
+    "https://openalex.org/W1983995761",
+    "https://openalex.org/W1985112047",
+    "https://openalex.org/W1985318239",
+    "https://openalex.org/W1985779471",
+    "https://openalex.org/W2002803242",
+    "https://openalex.org/W2004430363",
+    "https://openalex.org/W2010432367",
+    "https://openalex.org/W2011186288",
+    "https://openalex.org/W2014325697",
+    "https://openalex.org/W2024017244",
+    "https://openalex.org/W2026044501",
+    "https://openalex.org/W2027439183",
+    "https://openalex.org/W2032376598",
+    "https://openalex.org/W2032400172",
+    "https://openalex.org/W2049223843",
+    "https://openalex.org/W2049933975",
+    "https://openalex.org/W2053388269",
+    "https://openalex.org/W2055540584",
+    "https://openalex.org/W2062389122",
+    "https://openalex.org/W2069410508",
+    "https://openalex.org/W2077014443",
+    "https://openalex.org/W2088387409",
+    "https://openalex.org/W2090027906",
+    "https://openalex.org/W2090561848",
+    "https://openalex.org/W2093233187",
+    "https://openalex.org/W2099329408",
+    "https://openalex.org/W2099779069",
+    "https://openalex.org/W2102787230",
+    "https://openalex.org/W2105079367",
+    "https://openalex.org/W2107146269",
+    "https://openalex.org/W2120933360",
+    "https://openalex.org/W2123677000",
+    "https://openalex.org/W2128455239",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2270876167",
+    "https://openalex.org/W4234534407"
+  ],
+  "related_works": [
+    "https://openalex.org/W2088092191",
+    "https://openalex.org/W1075870924",
+    "https://openalex.org/W59002642",
+    "https://openalex.org/W2418017527",
+    "https://openalex.org/W2361092634",
+    "https://openalex.org/W2347751007",
+    "https://openalex.org/W2380612328",
+    "https://openalex.org/W2393514359",
+    "https://openalex.org/W2358560889",
+    "https://openalex.org/W2364899318"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "This": [
+      1
+    ],
+    "paper": [
+      2
+    ],
+    "addresses": [
+      3
+    ],
+    "how": [
+      4
+    ],
+    "much": [
+      5
+    ],
+    "flood": [
+      6,
+      15,
+      28,
+      34,
+      63,
+      73,
+      139,
+      165
+    ],
+    "water": [
+      7,
+      54,
+      59,
+      162,
+      191,
+      200
+    ],
+    "can": [
+      8
+    ],
+    "be": [
+      9
+    ],
+    "conserved": [
+      10
+    ],
+    "for": [
+      11,
+      48,
+      138,
+      145,
+      189
+    ],
+    "use": [
+      12
+    ],
+    "after": [
+      13
+    ],
+    "the": [
+      14,
+      18,
+      26,
+      38,
+      52,
+      62,
+      83,
+      93,
+      104,
+      107,
+      133,
+      143,
+      153,
+      158,
+      168,
+      171,
+      196
+    ],
+    "season": [
+      16
+    ],
+    "through": [
+      17
+    ],
+    "operation": [
+      19
+    ],
+    "of": [
+      20,
+      51,
+      92,
+      110,
+      161,
+      177
+    ],
+    "reservoir": [
+      21,
+      84,
+      213
+    ],
+    "by": [
+      22
+    ],
+    "taking": [
+      23
+    ],
+    "into": [
+      24
+    ],
+    "account": [
+      25
+    ],
+    "residual": [
+      27
+    ],
+    "control": [
+      29,
+      50,
+      140,
+      166
+    ],
+    "capacity": [
+      30,
+      36
+    ],
+    "(the": [
+      31,
+      56
+    ],
+    "difference": [
+      32
+    ],
+    "between": [
+      33,
+      170
+    ],
+    "conveyance": [
+      35
+    ],
+    "and": [
+      37,
+      71,
+      100,
+      142,
+      180
+    ],
+    "expected": [
+      39
+    ],
+    "inflow": [
+      40,
+      85
+    ],
+    "in": [
+      41,
+      103,
+      195,
+      214
+    ],
+    "a": [
+      42,
+      117,
+      128,
+      207,
+      211
+    ],
+    "lead": [
+      43
+    ],
+    "time).": [
+      44
+    ],
+    "A": [
+      45
+    ],
+    "two‐stage": [
+      46
+    ],
+    "model": [
+      47
+    ],
+    "dynamic": [
+      49
+    ],
+    "flood‐limited": [
+      53
+    ],
+    "level": [
+      55,
+      60,
+      125
+    ],
+    "maximum": [
+      57
+    ],
+    "allowed": [
+      58
+    ],
+    "during": [
+      61
+    ],
+    "season,": [
+      64
+    ],
+    "DC‐FLWL)": [
+      65
+    ],
+    "is": [
+      66,
+      76,
+      80,
+      204
+    ],
+    "established": [
+      67
+    ],
+    "considering": [
+      68
+    ],
+    "forecast": [
+      69,
+      98,
+      113,
+      130,
+      178
+    ],
+    "uncertainty": [
+      70,
+      99,
+      114,
+      131,
+      179
+    ],
+    "acceptable": [
+      72,
+      101,
+      123,
+      181
+    ],
+    "risk.": [
+      74,
+      182
+    ],
+    "It": [
+      75
+    ],
+    "found": [
+      77
+    ],
+    "that": [
+      78
+    ],
+    "DC‐FLWL": [
+      79,
+      146
+    ],
+    "applicable": [
+      81
+    ],
+    "when": [
+      82
+    ],
+    "ranges": [
+      86
+    ],
+    "from": [
+      87,
+      152,
+      192
+    ],
+    "small": [
+      88
+    ],
+    "to": [
+      89
+    ],
+    "medium": [
+      90
+    ],
+    "levels": [
+      91,
+      176
+    ],
+    "historical": [
+      94
+    ],
+    "records,": [
+      95
+    ],
+    "while": [
+      96
+    ],
+    "both": [
+      97
+    ],
+    "risk": [
+      102,
+      119,
+      124
+    ],
+    "downstream": [
+      105
+    ],
+    "affect": [
+      106
+    ],
+    "feasible": [
+      108
+    ],
+    "space": [
+      109
+    ],
+    "DC‐FLWL.": [
+      111
+    ],
+    "As": [
+      112
+    ],
+    "increases": [
+      115
+    ],
+    "(under": [
+      116,
+      127
+    ],
+    "given": [
+      118,
+      129
+    ],
+    "level)": [
+      120
+    ],
+    "or": [
+      121,
+      164,
+      167
+    ],
+    "as": [
+      122
+    ],
+    "decreases": [
+      126
+    ],
+    "level),": [
+      132
+    ],
+    "minimum": [
+      134
+    ],
+    "required": [
+      135
+    ],
+    "safety": [
+      136
+    ],
+    "margin": [
+      137
+    ],
+    "increases,": [
+      141
+    ],
+    "chance": [
+      144
+    ],
+    "decreases.": [
+      147
+    ],
+    "The": [
+      148,
+      202
+    ],
+    "derived": [
+      149
+    ],
+    "hedging": [
+      150
+    ],
+    "rules": [
+      151,
+      184
+    ],
+    "modeling": [
+      154
+    ],
+    "framework": [
+      155
+    ],
+    "illustrate": [
+      156
+    ],
+    "either": [
+      157
+    ],
+    "dominant": [
+      159
+    ],
+    "role": [
+      160
+    ],
+    "conservation": [
+      163
+    ],
+    "trade‐off": [
+      169
+    ],
+    "two": [
+      172
+    ],
+    "objectives": [
+      173
+    ],
+    "under": [
+      174
+    ],
+    "different": [
+      175
+    ],
+    "These": [
+      183
+    ],
+    "may": [
+      185
+    ],
+    "provide": [
+      186
+    ],
+    "useful": [
+      187
+    ],
+    "guidelines": [
+      188
+    ],
+    "conserving": [
+      190
+    ],
+    "flood,": [
+      193
+    ],
+    "especially": [
+      194
+    ],
+    "area": [
+      197
+    ],
+    "with": [
+      198,
+      210
+    ],
+    "heavy": [
+      199
+    ],
+    "stress.": [
+      201
+    ],
+    "analysis": [
+      203
+    ],
+    "illustrated": [
+      205
+    ],
+    "via": [
+      206
+    ],
+    "case": [
+      208
+    ],
+    "study": [
+      209
+    ],
+    "real‐world": [
+      212
+    ],
+    "northeastern": [
+      215
+    ],
+    "China.": [
+      216
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 18
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-09-05T08:02:43.246662",
+  "created_date": "2025-10-10T00:00:00"
+}

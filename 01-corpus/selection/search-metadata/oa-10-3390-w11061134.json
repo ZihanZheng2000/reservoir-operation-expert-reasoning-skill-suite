@@ -1,0 +1,1289 @@
+{
+  "id": "https://openalex.org/W2947508398",
+  "doi": "https://doi.org/10.3390/w11061134",
+  "title": "Risks Analysis and Response of Forecast-Based Operation for Ankang Reservoir Flood Control",
+  "display_name": "Risks Analysis and Response of Forecast-Based Operation for Ankang Reservoir Flood Control",
+  "publication_year": 2019,
+  "publication_date": "2019-05-30",
+  "ids": {
+    "openalex": "https://openalex.org/W2947508398",
+    "doi": "https://doi.org/10.3390/w11061134",
+    "mag": "2947508398"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/w11061134",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w11061134",
+    "pdf_url": "https://www.mdpi.com/2073-4441/11/6/1134/pdf?version=1559208790",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2073-4441/11/6/1134/pdf?version=1559208790",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5076571288",
+        "display_name": "Zhao Liu",
+        "orcid": "https://orcid.org/0000-0002-3384-8484"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25355098",
+          "display_name": "Chang'an University",
+          "ror": "https://ror.org/05mxya461",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zhao Liu",
+      "raw_affiliation_strings": [
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+        "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3384-8484",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090460976",
+        "display_name": "Jiawei Lyu",
+        "orcid": "https://orcid.org/0000-0001-9340-153X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25355098",
+          "display_name": "Chang'an University",
+          "ror": "https://ror.org/05mxya461",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiawei Lyu",
+      "raw_affiliation_strings": [
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+        "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5009215019",
+        "display_name": "Zhifeng Jia",
+        "orcid": "https://orcid.org/0000-0003-0800-9352"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25355098",
+          "display_name": "Chang'an University",
+          "ror": "https://ror.org/05mxya461",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Zhifeng Jia",
+      "raw_affiliation_strings": [
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+        "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0800-9352",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Key Laboratory of Subsurface Hydrology and Ecological Effects in Arid Region of the Ministry of Education, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100442906",
+        "display_name": "Lixia Wang",
+        "orcid": "https://orcid.org/0000-0001-7604-2467"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25355098",
+          "display_name": "Chang'an University",
+          "ror": "https://ror.org/05mxya461",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lixia Wang",
+      "raw_affiliation_strings": [
+        "School of Earth Science and Resources, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "School of Earth Science and Resources, Chang'an University, 126 Yanta Road, Xi'an 710054, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Earth Science and Resources, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Earth Science and Resources, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I25355098",
+          "display_name": "Chang'an University",
+          "ror": "https://ror.org/05mxya461",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+        "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang’an University, 126 Yanta Road, Xi’an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        },
+        {
+          "raw_affiliation_string": "School of Environmental Science and Engineering, Chang'an University, 126 Yanta Road, Xi'an 710054, China",
+          "institution_ids": [
+            "https://openalex.org/I25355098"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5009215019"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I25355098"
+  ],
+  "apc_list": {
+    "value": 1600,
+    "currency": "CHF",
+    "value_usd": 1621
+  },
+  "apc_paid": {
+    "value": 1600,
+    "currency": "CHF",
+    "value_usd": 1621
+  },
+  "fwci": 0.9039,
+  "has_fulltext": false,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.72467903,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "11",
+    "issue": "6",
+    "first_page": "1134",
+    "last_page": "1134"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9983999729156494,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.996399998664856,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6858592629432678
+    },
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.6473892331123352
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.6361643671989441
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5900719165802002
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-forecasting",
+      "display_name": "Flood forecasting",
+      "score": 0.4676230549812317
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-research",
+      "display_name": "Operations research",
+      "score": 0.4481043219566345
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.41876912117004395
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.38964223861694336
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3382301926612854
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.16107702255249023
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.10088777542114258
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.07159990072250366
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6858592629432678
+    },
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.6473892331123352
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.6361643671989441
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5900719165802002
+    },
+    {
+      "id": "https://openalex.org/C183195422",
+      "wikidata": "https://www.wikidata.org/wiki/Q3409303",
+      "display_name": "Flood forecasting",
+      "level": 3,
+      "score": 0.4676230549812317
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.4481043219566345
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41876912117004395
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.38964223861694336
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3382301926612854
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.16107702255249023
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.10088777542114258
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.07159990072250366
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/w11061134",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/w11061134",
+      "pdf_url": "https://www.mdpi.com/2073-4441/11/6/1134/pdf?version=1559208790",
+      "source": {
+        "id": "https://openalex.org/S134216166",
+        "display_name": "Water",
+        "issn_l": "2073-4441",
+        "issn": [
+          "2073-4441"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:6fa678e4cbcb4b27afd4f013e929c8bf",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/6fa678e4cbcb4b27afd4f013e929c8bf",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Water, Vol 11, Iss 6, p 1134 (2019)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/w11061134",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w11061134",
+    "pdf_url": "https://www.mdpi.com/2073-4441/11/6/1134/pdf?version=1559208790",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.4300000071525574,
+      "display_name": "Climate action",
+      "id": "https://metadata.un.org/sdg/13"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2947508398.pdf"
+  },
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W112945585",
+    "https://openalex.org/W1970564115",
+    "https://openalex.org/W1995296890",
+    "https://openalex.org/W1999955909",
+    "https://openalex.org/W2001759713",
+    "https://openalex.org/W2002624803",
+    "https://openalex.org/W2021473921",
+    "https://openalex.org/W2024321822",
+    "https://openalex.org/W2037480952",
+    "https://openalex.org/W2050710431",
+    "https://openalex.org/W2052622805",
+    "https://openalex.org/W2053727831",
+    "https://openalex.org/W2056063759",
+    "https://openalex.org/W2062982663",
+    "https://openalex.org/W2064419957",
+    "https://openalex.org/W2093233187",
+    "https://openalex.org/W2102386570",
+    "https://openalex.org/W2114821107",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2148615810",
+    "https://openalex.org/W2164868983",
+    "https://openalex.org/W2171174555",
+    "https://openalex.org/W2325669359",
+    "https://openalex.org/W2560237449",
+    "https://openalex.org/W2785767012",
+    "https://openalex.org/W2792574200",
+    "https://openalex.org/W2799325415",
+    "https://openalex.org/W2806838964",
+    "https://openalex.org/W2895196240",
+    "https://openalex.org/W2895828325",
+    "https://openalex.org/W2899023746",
+    "https://openalex.org/W3099487920",
+    "https://openalex.org/W3159711923",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W6659706618",
+    "https://openalex.org/W6751199205"
+  ],
+  "related_works": [
+    "https://openalex.org/W2088092191",
+    "https://openalex.org/W2364401158",
+    "https://openalex.org/W2374974084",
+    "https://openalex.org/W2974281320",
+    "https://openalex.org/W656000973",
+    "https://openalex.org/W4295048122",
+    "https://openalex.org/W2186700429",
+    "https://openalex.org/W2311331484",
+    "https://openalex.org/W2807005244",
+    "https://openalex.org/W3166641602"
+  ],
+  "abstract_inverted_index": {
+    "With": [
+      0
+    ],
+    "the": [
+      1,
+      15,
+      26,
+      45,
+      51,
+      80,
+      83,
+      91,
+      94,
+      98,
+      110,
+      121,
+      128,
+      131,
+      134,
+      138,
+      146,
+      175,
+      185,
+      198,
+      206,
+      216,
+      219
+    ],
+    "improvement": [
+      2
+    ],
+    "of": [
+      3,
+      17,
+      47,
+      63,
+      85,
+      93,
+      113,
+      130,
+      137,
+      148,
+      208,
+      218,
+      221,
+      240
+    ],
+    "short-term": [
+      4,
+      8
+    ],
+    "flood": [
+      5,
+      28,
+      87,
+      165,
+      222,
+      235
+    ],
+    "forecasting": [
+      6
+    ],
+    "and": [
+      7,
+      19,
+      23,
+      41,
+      69,
+      82,
+      90,
+      97,
+      215,
+      226,
+      237
+    ],
+    "rainfall": [
+      9,
+      32,
+      124,
+      141
+    ],
+    "forecast": [
+      10,
+      35,
+      95,
+      210
+    ],
+    "accuracy,": [
+      11
+    ],
+    "as": [
+      12,
+      14,
+      127,
+      145
+    ],
+    "well": [
+      13
+    ],
+    "advance": [
+      16
+    ],
+    "hydrological": [
+      18
+    ],
+    "meteorological": [
+      20
+    ],
+    "information": [
+      21,
+      96
+    ],
+    "collection": [
+      22
+    ],
+    "collation": [
+      24
+    ],
+    "methods,": [
+      25
+    ],
+    "reservoir": [
+      27,
+      86
+    ],
+    "regulation": [
+      29,
+      88,
+      236
+    ],
+    "method": [
+      30,
+      161
+    ],
+    "taking": [
+      31
+    ],
+    "or": [
+      33,
+      61
+    ],
+    "inflow": [
+      34
+    ],
+    "into": [
+      36
+    ],
+    "consideration": [
+      37
+    ],
+    "is": [
+      38
+    ],
+    "gaining": [
+      39
+    ],
+    "more": [
+      40,
+      42,
+      190
+    ],
+    "attention.": [
+      43
+    ],
+    "As": [
+      44
+    ],
+    "index": [
+      46,
+      129
+    ],
+    "Forecast-Based": [
+      48
+    ],
+    "Operation": [
+      49,
+      177
+    ],
+    "(FBO),": [
+      50
+    ],
+    "forecasted": [
+      52,
+      122,
+      139
+    ],
+    "factor": [
+      53
+    ],
+    "plays": [
+      54
+    ],
+    "an": [
+      55
+    ],
+    "important": [
+      56
+    ],
+    "part": [
+      57
+    ],
+    "in": [
+      58,
+      119,
+      205,
+      228
+    ],
+    "determining": [
+      59
+    ],
+    "success": [
+      60
+    ],
+    "failure": [
+      62
+    ],
+    "FBO": [
+      64,
+      99,
+      115,
+      132,
+      152,
+      194
+    ],
+    "due": [
+      65
+    ],
+    "to": [
+      66
+    ],
+    "its": [
+      67
+    ],
+    "uncertainty": [
+      68,
+      92
+    ],
+    "accuracy.": [
+      70
+    ],
+    "In": [
+      71
+    ],
+    "this": [
+      72,
+      229
+    ],
+    "study,": [
+      73
+    ],
+    "possible": [
+      74,
+      199
+    ],
+    "risk": [
+      75,
+      149,
+      153,
+      187,
+      238
+    ],
+    "sources": [
+      76
+    ],
+    "were": [
+      77,
+      101,
+      202
+    ],
+    "analyzed": [
+      78
+    ],
+    "considering": [
+      79
+    ],
+    "process": [
+      81
+    ],
+    "characteristics": [
+      84
+    ],
+    "firstly,": [
+      89
+    ],
+    "risks": [
+      100
+    ],
+    "discussed": [
+      102
+    ],
+    "based": [
+      103,
+      157,
+      212
+    ],
+    "on": [
+      104,
+      116,
+      158,
+      213
+    ],
+    "hypothesis": [
+      105
+    ],
+    "testing.": [
+      106
+    ],
+    "Then,": [
+      107
+    ],
+    "combined": [
+      108
+    ],
+    "with": [
+      109,
+      174
+    ],
+    "case": [
+      111,
+      207
+    ],
+    "study": [
+      112
+    ],
+    "applying": [
+      114
+    ],
+    "Ankang": [
+      117
+    ],
+    "Reservoir,": [
+      118
+    ],
+    "which": [
+      120
+    ],
+    "net": [
+      123,
+      140
+    ],
+    "was": [
+      125,
+      143,
+      155,
+      170,
+      188,
+      195
+    ],
+    "selected": [
+      126
+    ],
+    "rules,": [
+      133
+    ],
+    "probability": [
+      135
+    ],
+    "distribution": [
+      136
+    ],
+    "errors": [
+      142
+    ],
+    "derived": [
+      144
+    ],
+    "basis": [
+      147
+    ],
+    "analysis.": [
+      150
+    ],
+    "Finally,": [
+      151
+    ],
+    "analysis": [
+      154,
+      217
+    ],
+    "conducted": [
+      156
+    ],
+    "Monte": [
+      159
+    ],
+    "Carlo": [
+      160
+    ],
+    "for": [
+      162,
+      179,
+      233
+    ],
+    "several": [
+      163
+    ],
+    "real": [
+      164
+    ],
+    "processes,": [
+      166
+    ],
+    "while": [
+      167
+    ],
+    "a": [
+      168
+    ],
+    "simulation": [
+      169,
+      214
+    ],
+    "also": [
+      171
+    ],
+    "carried": [
+      172
+    ],
+    "out": [
+      173
+    ],
+    "Conventional": [
+      176
+    ],
+    "(CO)": [
+      178
+    ],
+    "contrast.": [
+      180
+    ],
+    "The": [
+      181,
+      224
+    ],
+    "results": [
+      182
+    ],
+    "indicate": [
+      183
+    ],
+    "that": [
+      184
+    ],
+    "maximum": [
+      186
+    ],
+    "reduced": [
+      189
+    ],
+    "than": [
+      191
+    ],
+    "half": [
+      192
+    ],
+    "when": [
+      193
+    ],
+    "adopted.": [
+      196
+    ],
+    "Consequently,": [
+      197
+    ],
+    "remedial": [
+      200
+    ],
+    "measures": [
+      201
+    ],
+    "put": [
+      203
+    ],
+    "forward": [
+      204
+    ],
+    "invalid": [
+      209
+    ],
+    "happened": [
+      211
+    ],
+    "principle": [
+      220
+    ],
+    "regulation.": [
+      223
+    ],
+    "conclusions": [
+      225
+    ],
+    "methods": [
+      227
+    ],
+    "research": [
+      230
+    ],
+    "provide": [
+      231
+    ],
+    "ideas": [
+      232
+    ],
+    "real-time": [
+      234
+    ],
+    "management": [
+      239
+    ],
+    "reservoirs.": [
+      241
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-08-28T12:50:07.497085",
+  "created_date": "2025-10-10T00:00:00"
+}

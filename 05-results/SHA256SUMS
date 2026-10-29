@@ -1,0 +1,13 @@
+aa4494e9e30451c40a19d242aa2feeb8f373cc1f447788d1e16d189dafad159a *./README.md
+91917ad9220dab273a1624bfad52835837ace0a29e04aa9ab0c8268defc334e7 *./draw_order_slide.py
+0e367ebfd811636f0419765c49a0cd3fbda755d8e3cc16f72651f21ac4781c22 *./figures/fig0-expert-research-order.png
+ee8c3063d22d6ed1a269150ed72c334df3e36a26fd41ac31a83aa1ba2509d38c *./figures/fig0-expert-research-order.svg
+1761ca0b9050859d3d350ddb6eee116fcebeabd2cf6660d4325ca7eddaa61d96 *./figures/fig1-final-test-by-case.png
+b0875aa9dead7db8f9afbd86c926f70ac34fe5afe89a1196d10c57fd6aee1d4c *./figures/fig1-final-test-by-case.svg
+27dfa29ce92bd186ea15aac6dddc1a584dd5563534fe31597ef981d473bd34d3 *./figures/fig2-final-test-by-criterion.png
+6a8aa3ceef94f817b4451932f5f8f76ba257cde391a7e0b763b1ee75bcef2306 *./figures/fig2-final-test-by-criterion.svg
+68c9592fc42a4497eb9477184249d22a9da6a3b6c4d7614aab8da17ed3312688 *./figures/fig3-dev-rounds-heatmap.png
+dca2ec2fe0ff7b448a23edb9462cf783b0091b7d1b7274f71cd1c92faec67297 *./figures/fig3-dev-rounds-heatmap.svg
+5aba24548a1b58e694edf0ed1bf90733d74db991821c80ca3442a471536a75a8 *./figures/fig4-judgment-outcomes.png
+61305e7f12a5786f12ae8313bdd8a84ebc4cfd5a6ed729a24b721817a99c15bf *./figures/fig4-judgment-outcomes.svg
+98fd8d556ee5c53771b7e3c1e3942cd0b6e948ec1308091e172ee8e4964a3b01 *./make_figures.py

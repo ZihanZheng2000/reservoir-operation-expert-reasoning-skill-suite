@@ -1,0 +1,717 @@
+{
+  "id": "https://openalex.org/W2898532706",
+  "doi": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+  "title": "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network",
+  "display_name": "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network",
+  "publication_year": 2018,
+  "publication_date": "2018-10-26",
+  "ids": {
+    "openalex": "https://openalex.org/W2898532706",
+    "doi": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+    "mag": "2898532706"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.envsoft.2018.10.007",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S113611870",
+      "display_name": "Environmental Modelling & Software",
+      "issn_l": "1364-8152",
+      "issn": [
+        "1364-8152",
+        "1873-6726"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Environmental Modelling &amp; Software",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100359223",
+        "display_name": "Juan Chen",
+        "orcid": "https://orcid.org/0000-0003-0393-5883"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Juan Chen",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+        "Colloge of Earth Sciences and Engineering, Hohai University, No.1 Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Colloge of Earth Sciences and Engineering, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5112545650",
+        "display_name": "Ping-an Zhong",
+        "orcid": "https://orcid.org/0000-0003-1299-560X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ping-An Zhong",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+        "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No.1 Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101015363",
+        "display_name": "Ru An",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ru An",
+      "raw_affiliation_strings": [
+        "Colloge of Earth Sciences and Engineering, Hohai University, No.1 Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Colloge of Earth Sciences and Engineering, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014424306",
+        "display_name": "Feilin Zhu",
+        "orcid": "https://orcid.org/0000-0002-9780-9361"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feilin Zhu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5112545650"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I163340411"
+  ],
+  "apc_list": {
+    "value": 3500,
+    "currency": "USD",
+    "value_usd": 3500
+  },
+  "apc_paid": null,
+  "fwci": 6.6709,
+  "has_fulltext": false,
+  "cited_by_count": 93,
+  "citation_normalized_percentile": {
+    "value": 0.97292463,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "111",
+    "issue": null,
+    "first_page": "409",
+    "last_page": "420"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11303",
+    "display_name": "Bayesian Modeling and Causal Inference",
+    "score": 0.9932000041007996,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11303",
+      "display_name": "Bayesian Modeling and Causal Inference",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9854999780654907,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9854000210762024,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dynamic-bayesian-network",
+      "display_name": "Dynamic Bayesian network",
+      "score": 0.7802592515945435
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-network",
+      "display_name": "Bayesian network",
+      "score": 0.6924768686294556
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6849443316459656
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-inference",
+      "display_name": "Bayesian inference",
+      "score": 0.5710117220878601
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.5555993318557739
+    },
+    {
+      "id": "https://openalex.org/keywords/bayesian-probability",
+      "display_name": "Bayesian probability",
+      "score": 0.554885983467102
+    },
+    {
+      "id": "https://openalex.org/keywords/inference",
+      "display_name": "Inference",
+      "score": 0.5229957103729248
+    },
+    {
+      "id": "https://openalex.org/keywords/monte-carlo-method",
+      "display_name": "Monte Carlo method",
+      "score": 0.5012907981872559
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.48953375220298767
+    },
+    {
+      "id": "https://openalex.org/keywords/variable-order-bayesian-network",
+      "display_name": "Variable-order Bayesian network",
+      "score": 0.44513967633247375
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.38762062788009644
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.3838609755039215
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.344036340713501
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.09069943428039551
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C82142266",
+      "wikidata": "https://www.wikidata.org/wiki/Q3456604",
+      "display_name": "Dynamic Bayesian network",
+      "level": 3,
+      "score": 0.7802592515945435
+    },
+    {
+      "id": "https://openalex.org/C33724603",
+      "wikidata": "https://www.wikidata.org/wiki/Q812540",
+      "display_name": "Bayesian network",
+      "level": 2,
+      "score": 0.6924768686294556
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6849443316459656
+    },
+    {
+      "id": "https://openalex.org/C160234255",
+      "wikidata": "https://www.wikidata.org/wiki/Q812535",
+      "display_name": "Bayesian inference",
+      "level": 3,
+      "score": 0.5710117220878601
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.5555993318557739
+    },
+    {
+      "id": "https://openalex.org/C107673813",
+      "wikidata": "https://www.wikidata.org/wiki/Q812534",
+      "display_name": "Bayesian probability",
+      "level": 2,
+      "score": 0.554885983467102
+    },
+    {
+      "id": "https://openalex.org/C2776214188",
+      "wikidata": "https://www.wikidata.org/wiki/Q408386",
+      "display_name": "Inference",
+      "level": 2,
+      "score": 0.5229957103729248
+    },
+    {
+      "id": "https://openalex.org/C19499675",
+      "wikidata": "https://www.wikidata.org/wiki/Q232207",
+      "display_name": "Monte Carlo method",
+      "level": 2,
+      "score": 0.5012907981872559
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.48953375220298767
+    },
+    {
+      "id": "https://openalex.org/C71983512",
+      "wikidata": "https://www.wikidata.org/wiki/Q7915687",
+      "display_name": "Variable-order Bayesian network",
+      "level": 4,
+      "score": 0.44513967633247375
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.38762062788009644
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3838609755039215
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.344036340713501
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.09069943428039551
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C27206212",
+      "wikidata": "https://www.wikidata.org/wiki/Q34178",
+      "display_name": "Theology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.envsoft.2018.10.007",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.envsoft.2018.10.007",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S113611870",
+        "display_name": "Environmental Modelling & Software",
+        "issn_l": "1364-8152",
+        "issn": [
+          "1364-8152",
+          "1873-6726"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Environmental Modelling &amp; Software",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G7654660251",
+      "display_name": null,
+      "funder_award_id": "BK20180509",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8572167976",
+      "display_name": null,
+      "funder_award_id": "51579068",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 35,
+  "referenced_works": [
+    "https://openalex.org/W1529016753",
+    "https://openalex.org/W1529618148",
+    "https://openalex.org/W1980299270",
+    "https://openalex.org/W1989648449",
+    "https://openalex.org/W2005071045",
+    "https://openalex.org/W2009829815",
+    "https://openalex.org/W2042425987",
+    "https://openalex.org/W2043126180",
+    "https://openalex.org/W2043233657",
+    "https://openalex.org/W2047832693",
+    "https://openalex.org/W2048110745",
+    "https://openalex.org/W2050375367",
+    "https://openalex.org/W2052791229",
+    "https://openalex.org/W2056364426",
+    "https://openalex.org/W2063389606",
+    "https://openalex.org/W2072802490",
+    "https://openalex.org/W2073649823",
+    "https://openalex.org/W2083743686",
+    "https://openalex.org/W2094211267",
+    "https://openalex.org/W2108309242",
+    "https://openalex.org/W2138995830",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2149337551",
+    "https://openalex.org/W2153465331",
+    "https://openalex.org/W2159080219",
+    "https://openalex.org/W2169170000",
+    "https://openalex.org/W2255943657",
+    "https://openalex.org/W2364570118",
+    "https://openalex.org/W2425063908",
+    "https://openalex.org/W2548891137",
+    "https://openalex.org/W2594838312",
+    "https://openalex.org/W2778781604",
+    "https://openalex.org/W3042652763",
+    "https://openalex.org/W6631470124",
+    "https://openalex.org/W6682909023"
+  ],
+  "related_works": [
+    "https://openalex.org/W2383034311",
+    "https://openalex.org/W2592745513",
+    "https://openalex.org/W1964038743",
+    "https://openalex.org/W643788828",
+    "https://openalex.org/W2391701421",
+    "https://openalex.org/W2963184928",
+    "https://openalex.org/W2305973433",
+    "https://openalex.org/W4294537149",
+    "https://openalex.org/W2215058820",
+    "https://openalex.org/W2366931106"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-21T09:56:20.448147",
+  "created_date": "2025-10-10T00:00:00"
+}

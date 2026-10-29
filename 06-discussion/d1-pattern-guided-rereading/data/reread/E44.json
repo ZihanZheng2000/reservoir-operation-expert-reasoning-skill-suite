@@ -1,0 +1,25 @@
+{
+  "paper": "E44",
+  "patterns": {
+    "RP01": {"present": true, "small": ["RP01-A"], "quote": "The operating rule provides sufficient flood control storage (Chen, Guo, Li, Liu, & Zhou, 2012), but may lead to excessive amounts of spilled water and water shortages at the end of the flood season", "where": "Section 1 Introduction (motivates replacing static FLWL rule used as baseline)"},
+    "RP02": {"present": true, "small": ["RP02-A", "RP02-D", "RP02-G"], "quote": "From the real-world operating experiences, the flood risk increases faster when the storage increases ... The increased risk caused by the positive errors is larger than the decreased risk caused by the negative errors.", "where": "Section 2.1.3; Table 2"},
+    "RP03": {"present": true, "small": ["RP03-B", "RP03-F"], "quote": "The effective forecasting lead time of the aggregation reservoir for Lizhuang is set as 48 hr, and the effective lead time of the aggregation reservoir for Zhicheng is set as 72 hr.", "where": "Section 3.1"},
+    "RP04": {"present": true, "small": ["RP04-B", "RP04-D", "RP04-E", "RP04-F", "RP04-G"], "quote": "The risk should be no larger than the frequency for all aggregation reservoirs.", "where": "Section 2.2.2 Flood risk constraints"},
+    "RP05": {"present": true, "small": ["RP05-A", "RP05-C", "RP05-D"], "quote": "The reservoir constraints were: the risk constraint from aggregation reservoirs, the refill constraint and the physical constraint from individual reservoirs.", "where": "Section 2.2"},
+    "RP06": {"present": true, "small": ["RP06-A", "RP06-B", "RP06-C"], "quote": "optimise dynamic control boundaries for WLFS for multi-reservoir systems by maximising annual power generation without increasing the flood risk.", "where": "Section 1 (study aims); Section 2.2"},
+    "RP07": {"present": true, "small": ["RP07-A", "RP07-B"], "quote": "The aggregation reservoir operation is divided into two stages, as shown in Figure 3a. The first stage is the pre-discharge operation, and the second stage is the flood control operation.", "where": "Section 2.1.2"},
+    "RP08": {"present": true, "small": ["RP08-A"], "quote": "this study conceptualises channel flood routing as a virtual channel storage reservoir (CSR) based on Muskingum flood routing in the aggregation method.", "where": "Abstract; Section 2.1.1"},
+    "RP09": {"present": true, "small": ["RP09-A", "RP09-C"], "quote": "risk calculated from the above equation is larger than the actual risk when the forecast information is not perfect and the analysis method is a bit of conservative, which makes the reservoir operation safe.", "where": "Section 2.1.3; Section 3.3"},
+    "EP01": {"present": true, "small": ["EP01-A", "EP01-B", "EP01-C", "EP01-D"], "quote": "Daily streamflow data for the three reservoirs are available from 1966 to 2013, and typical flood event data with the time step of 6 hr are available for 1961, 1966, 1981, 1989, 1991 and 1998.", "where": "Section 3.1; Tables 1, 4"},
+    "EP02": {"present": false},
+    "EP03": {"present": true, "small": ["EP03-A", "EP03-C", "EP03-D"], "quote": "For each typical flood, 1,000 forecast floods were generated. Thus, a total of 6,000 forecast floods were generated.", "where": "Section 3.1"},
+    "EP04": {"present": true, "small": ["EP04-A", "EP04-B", "EP04-C"], "quote": "In the kth aggregation reservoir, the storage of the jth CSR is determined using the Muskingum flood routing method as follows:", "where": "Section 2.1.1"},
+    "EP05": {"present": true, "small": ["EP05-A", "EP05-B", "EP05-C"], "quote": "The risk constraints limit the storage during the decomposition process.", "where": "Section 2.2.2; Table 5"},
+    "EP06": {"present": true, "small": ["EP06-B", "EP06-D"], "quote": "The annual average hydropower generation was selected as the objective function, and the upper boundaries of WLFS were used as decision variables for the multi-reservoir system.", "where": "Section 2.2.1; Section 3.2.2"},
+    "EP09": {"present": true, "small": ["EP09-B"], "quote": "The pre-discharge operation considering CSRs divides the lead time into two periods: reservoir drawdown and CSR drawdown.", "where": "Section 2.1.2; Section 3.4"},
+    "EP07": {"present": true, "small": ["EP07-A", "EP07-C", "EP07-E"], "quote": "Because the flood risk varies with storage and pre-discharge storage, a frequency analysis was conducted for the relationship between flood risk and pre-discharge storage.", "where": "Section 3.2.1; Tables 5, 6"},
+    "EP08": {"present": false},
+    "EP10": {"present": true, "small": ["EP10-A", "EP10-B"], "quote": "Reservoir operation processes were compared for the proposed dynamic operation and the static operation by using typical flood events from 1961, 1966, 1981, 1989, 1991 and 1998", "where": "Section 3.3-3.4; Tables 6, 7"},
+    "EP11": {"present": false}
+  }
+}

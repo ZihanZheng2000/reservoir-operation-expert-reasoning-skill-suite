@@ -1,0 +1,8 @@
+# Copyrighted paper files: kept locally only; obtain via the DOIs in 01-corpus/selection/corpus-55.md
+01-corpus/*/papers/
+01-corpus/*/text/
+# Blinding keys: kept locally only
+**/blinding-key.json
+# Python
+__pycache__/
+*.pyc

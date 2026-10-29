@@ -1,0 +1,708 @@
+{
+  "id": "https://openalex.org/W3035967586",
+  "doi": "https://doi.org/10.1007/s11269-020-02571-y",
+  "title": "Two-Phase Risk Hedging Rules for Informing Conservation of Flood Resources in Reservoir Operation Considering Inflow Forecast Uncertainty",
+  "display_name": "Two-Phase Risk Hedging Rules for Informing Conservation of Flood Resources in Reservoir Operation Considering Inflow Forecast Uncertainty",
+  "publication_year": 2020,
+  "publication_date": "2020-06-19",
+  "ids": {
+    "openalex": "https://openalex.org/W3035967586",
+    "doi": "https://doi.org/10.1007/s11269-020-02571-y",
+    "mag": "3035967586"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s11269-020-02571-y",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s11269-020-02571-y",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S17551360",
+      "display_name": "Water Resources Management",
+      "issn_l": "0920-4741",
+      "issn": [
+        "0920-4741",
+        "1573-1650"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210111986",
+          "display_name": "Nanjing Hydraulic Research Institute",
+          "ror": "https://ror.org/02403qw73",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210111986"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China",
+        "Nanjing Hydraulic Research Institute, No. 223, Guangzhou Road, Nanjing, 210029, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1281-5560",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Nanjing Hydraulic Research Institute, No. 223, Guangzhou Road, Nanjing, 210029, China",
+          "institution_ids": [
+            "https://openalex.org/I4210111986"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103047065",
+        "display_name": "Xin Huang",
+        "orcid": "https://orcid.org/0000-0003-0216-4052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xin Huang",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077877575",
+        "display_name": "Ping‐an Zhong",
+        "orcid": "https://orcid.org/0009-0005-6145-3438"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ping-an Zhong",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing, 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5086054280",
+        "display_name": "Yenan Wu",
+        "orcid": "https://orcid.org/0000-0002-9650-8030"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I154425047",
+          "display_name": "University of Alberta",
+          "ror": "https://ror.org/0160cpw27",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yenan Wu",
+      "raw_affiliation_strings": [
+        "Department of Civil and Environmental Engineering, University of Alberta, T6G2W2, Edmonton, Alberta, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Civil and Environmental Engineering, University of Alberta, T6G2W2, Edmonton, Alberta, Canada",
+          "institution_ids": [
+            "https://openalex.org/I154425047"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5022879772",
+    "https://openalex.org/A5077877575"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I163340411",
+    "https://openalex.org/I4210111986"
+  ],
+  "apc_list": {
+    "value": 3260,
+    "currency": "USD",
+    "value_usd": 3260
+  },
+  "apc_paid": null,
+  "fwci": 2.105,
+  "has_fulltext": false,
+  "cited_by_count": 28,
+  "citation_normalized_percentile": {
+    "value": 0.85300367,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "34",
+    "issue": "9",
+    "first_page": "2731",
+    "last_page": "2752"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9962000250816345,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11186",
+      "display_name": "Hydrology and Drought Analysis",
+      "score": 0.9851999878883362,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.7779069542884827
+    },
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.6925559043884277
+    },
+    {
+      "id": "https://openalex.org/keywords/water-scarcity",
+      "display_name": "Water scarcity",
+      "score": 0.6545683145523071
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5823739171028137
+    },
+    {
+      "id": "https://openalex.org/keywords/water-storage",
+      "display_name": "Water storage",
+      "score": 0.5257773399353027
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resource-management",
+      "display_name": "Water resource management",
+      "score": 0.46436163783073425
+    },
+    {
+      "id": "https://openalex.org/keywords/economic-shortage",
+      "display_name": "Economic shortage",
+      "score": 0.43512266874313354
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resources",
+      "display_name": "Water resources",
+      "score": 0.42475426197052
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3750687539577484
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.15934577584266663
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.13203728199005127
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.10898098349571228
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.7779069542884827
+    },
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.6925559043884277
+    },
+    {
+      "id": "https://openalex.org/C51193700",
+      "wikidata": "https://www.wikidata.org/wiki/Q5376358",
+      "display_name": "Water scarcity",
+      "level": 3,
+      "score": 0.6545683145523071
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5823739171028137
+    },
+    {
+      "id": "https://openalex.org/C2776182401",
+      "wikidata": "https://www.wikidata.org/wiki/Q7973769",
+      "display_name": "Water storage",
+      "level": 3,
+      "score": 0.5257773399353027
+    },
+    {
+      "id": "https://openalex.org/C524765639",
+      "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+      "display_name": "Water resource management",
+      "level": 1,
+      "score": 0.46436163783073425
+    },
+    {
+      "id": "https://openalex.org/C194051981",
+      "wikidata": "https://www.wikidata.org/wiki/Q1337691",
+      "display_name": "Economic shortage",
+      "level": 3,
+      "score": 0.43512266874313354
+    },
+    {
+      "id": "https://openalex.org/C153823671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+      "display_name": "Water resources",
+      "level": 2,
+      "score": 0.42475426197052
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3750687539577484
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.15934577584266663
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.13203728199005127
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.10898098349571228
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C18903297",
+      "wikidata": "https://www.wikidata.org/wiki/Q7150",
+      "display_name": "Ecology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2778137410",
+      "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+      "display_name": "Government (linguistics)",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C201289731",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172599",
+      "display_name": "Inlet",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/s11269-020-02571-y",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s11269-020-02571-y",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S17551360",
+        "display_name": "Water Resources Management",
+        "issn_l": "0920-4741",
+        "issn": [
+          "0920-4741",
+          "1573-1650"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water Resources Management",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:spr:waterr:v:34:y:2020:i:9:d:10.1007_s11269-020-02571-y",
+      "is_oa": false,
+      "landing_page_url": "http://link.springer.com/10.1007/s11269-020-02571-y",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.6499999761581421,
+      "display_name": "Life in Land",
+      "id": "https://metadata.un.org/sdg/15"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 30,
+  "referenced_works": [
+    "https://openalex.org/W1750072508",
+    "https://openalex.org/W1798883798",
+    "https://openalex.org/W1840848304",
+    "https://openalex.org/W1852358735",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W1975377377",
+    "https://openalex.org/W1985779471",
+    "https://openalex.org/W1995898915",
+    "https://openalex.org/W2014137615",
+    "https://openalex.org/W2027439183",
+    "https://openalex.org/W2055540584",
+    "https://openalex.org/W2093233187",
+    "https://openalex.org/W2099779069",
+    "https://openalex.org/W2102787230",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2470338714",
+    "https://openalex.org/W2507559062",
+    "https://openalex.org/W2514863451",
+    "https://openalex.org/W2730612300",
+    "https://openalex.org/W2802536779",
+    "https://openalex.org/W2809823969",
+    "https://openalex.org/W2884577211",
+    "https://openalex.org/W2894153520",
+    "https://openalex.org/W2904628560",
+    "https://openalex.org/W2956731228",
+    "https://openalex.org/W2963797212",
+    "https://openalex.org/W2996438016",
+    "https://openalex.org/W3005973572",
+    "https://openalex.org/W3012736215"
+  ],
+  "related_works": [
+    "https://openalex.org/W142238503",
+    "https://openalex.org/W3095032300",
+    "https://openalex.org/W2045242506",
+    "https://openalex.org/W2094226075",
+    "https://openalex.org/W2053845857",
+    "https://openalex.org/W2508771297",
+    "https://openalex.org/W2333276359",
+    "https://openalex.org/W4205137664",
+    "https://openalex.org/W1995434849",
+    "https://openalex.org/W2377065203"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-28T12:50:07.497085",
+  "created_date": "2025-10-10T00:00:00"
+}

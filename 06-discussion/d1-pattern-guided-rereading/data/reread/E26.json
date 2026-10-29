@@ -1,0 +1,25 @@
+{
+  "paper": "E26",
+  "patterns": {
+    "RP01": {"present": true, "small": ["RP01-A", "RP01-B"], "quote": "This method unfortunately fails to explicitly incorporate the influence of the inflow forecast error, thereby possibly increasing the risk and lowering the safety and reliability of the flood water conservation", "where": "Section 3.1, p.6"},
+    "RP02": {"present": true, "small": ["RP02-A", "RP02-G"], "quote": "The risk involved in flood water conservation stems from adaptation in relation to the forecast error during the two phases through reservoir storage and water release.", "where": "Section 3.4, p.10"},
+    "RP03": {"present": false},
+    "RP04": {"present": true, "small": ["RP04-A", "RP04-B", "RP04-C", "RP04-E", "RP04-F"], "quote": "To limit catastrophic damage in the downstream protected area from uncertainty and over-conservation, the downstream risk is formulated as a chance constraint by keeping the risk probability within an acceptable level.", "where": "Section 3.3.2, p.9"},
+    "RP05": {"present": true, "small": ["RP05-A"], "quote": "The specific values of the boundary limits given by Eqs. (12) and (13) can be determined from the physical limitations of the reservoir system", "where": "Section 3.3.2, p.10"},
+    "RP06": {"present": true, "small": ["RP06-A", "RP06-B", "RP06-C"], "quote": "flood water conservation through reservoir operation turns into a risky decision-making problem where the conflict between the risks of floods and water shortages need to be resolved", "where": "Section 3.2, p.6-7"},
+    "RP07": {"present": true, "small": ["RP07-A", "RP07-B", "RP07-C", "RP07-D"], "quote": "If A is between the trigger range of hedging ([SWA, EWA]) such that the flood risk balances the water shortage risk, the release to R*1 is restricted and water is conserved at a medium level", "where": "Section 3.2, p.8"},
+    "RP08": {"present": true, "small": ["RP08-A", "RP08-B"], "quote": "the two-phase model is converted to a single-variable optimization model characterized by Eqs. (21) and (22), which can be solved using the first-order optimality condition, i.e., the Karush-Kuhn-Tucker (KKT) condition.", "where": "Section 3.4.1, p.11"},
+    "RP09": {"present": true, "small": ["RP09-A", "RP09-B", "RP09-D", "RP09-E"], "quote": "the proposed methodologies suit systems in which the flood risk is mainly determined by forecast errors in the inflow quantity rather than in the inflow processes", "where": "Section 7 Conclusions, p.20-21"},
+    "EP01": {"present": true, "small": ["EP01-A", "EP01-B", "EP01-C", "EP01-D"], "quote": "The inflows forecast for the pre-refill and pre-release phases of three flood events were selected from historical records.", "where": "Section 5.1, p.13"},
+    "EP02": {"present": true, "small": ["EP02-C"], "quote": "Three levels of σε1 were selected and evaluated from the historical inflow forecast and observation samples according to best, medium, and worst forecast performance.", "where": "Section 6, p.17"},
+    "EP03": {"present": true, "small": ["EP03-A"], "quote": "the forecast error εi is assumed unbiased and considered to obey a normal distribution", "where": "Section 3.3.1, p.8"},
+    "EP04": {"present": true, "small": ["EP04-A", "EP04-C"], "quote": "Accordingly, both V1 and R2 are normally distributed", "where": "Section 3.4, p.10; simulations in Section 5"},
+    "EP05": {"present": true, "small": ["EP05-B", "EP05-C"], "quote": "V1min and V1max are the lower and upper limits of V1, respectively, which can be determined using the following equations based on Eqs. (10) and (15)-(16)", "where": "Section 3.4.1, p.11"},
+    "EP06": {"present": true, "small": ["EP06-A"], "quote": "hedging rules were analytically derived as a quasi- linear function of the storage capability and the expected water shortage.", "where": "Abstract, p.1"},
+    "EP09": {"present": true, "small": ["EP09-A", "EP09-B", "EP09-C"], "quote": "The executed water release for the current hour was determined as a proportion of the total water release during the pre-refill phase", "where": "Section 5.2, p.14"},
+    "EP07": {"present": true, "small": ["EP07-A", "EP07-B", "EP07-C"], "quote": "Eight indices (Shiau 2011) for assessing real-time reservoir operation performance during periods of flood and drought were considered: total water delivery (TWD), water supply reliability (WSR)", "where": "Section 5.2, p.14"},
+    "EP08": {"present": false},
+    "EP10": {"present": true, "small": ["EP10-A", "EP10-B", "EP10-D"], "quote": "Both sets of rules are selected as benchmarks for highlighting the differences in the results obtained using HRs.", "where": "Section 5.1, p.13"},
+    "EP11": {"present": false}
+  }
+}

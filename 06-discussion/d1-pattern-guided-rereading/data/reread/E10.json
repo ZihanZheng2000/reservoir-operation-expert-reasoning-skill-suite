@@ -1,0 +1,25 @@
+{
+  "paper": "E10",
+  "patterns": {
+    "RP01": {"present": true, "small": ["RP01-B"], "quote": "the existing operation rules, including COR and Two-OR, assume that future floods are predicted with the same level of accuracy, which gives up much forecast information.", "where": "Section 5 Conclusions, p.11"},
+    "RP02": {"present": true, "small": ["RP02-A", "RP02-D", "RP02-E", "RP02-G"], "quote": "the relative forecast uncertainty in three stages is depicted by a step-wise curve to simulate its time variation", "where": "Section 2.2.1, p.3"},
+    "RP03": {"present": true, "small": ["RP03-A"], "quote": "this paper proposes a reliable forecast horizon (RFH) that divides the entire forecast horizon into three stages according to the accuracy of streamflow forecasts.", "where": "Section 1 Introduction, p.2"},
+    "RP04": {"present": true, "small": ["RP04-B", "RP04-G"], "quote": "The objective of controlling a flood event is to minimize the total failure risk of downstream levees", "where": "Section 2.2.1, p.4"},
+    "RP05": {"present": true, "small": ["RP05-A"], "quote": "Calculate the reservoir release according to the reservoir flood routing model and physical constraints such as FLWL, MWL, and the spill capacity.", "where": "Section 2.4, p.7"},
+    "RP06": {"present": true, "small": ["RP06-A", "RP06-B"], "quote": "the first goal function allocates the flood control storage for the stages in and out of the RFH (outer two-stage model, s1 + s2 is determined)", "where": "Section 2.3.1, p.4"},
+    "RP07": {"present": true, "small": ["RP07-A", "RP07-B", "RP07-C"], "quote": "As the flood continuously rises, the current risk increases; the reservoir begins retaining inflow when the current risk is larger than the future one.", "where": "Section 3.3, p.8"},
+    "RP08": {"present": true, "small": ["RP08-B"], "quote": "The convexity of Eq. (11), proved in the Appendix, indicates that its Karush-Kuhn-Tucker (KKT) condition is necessary and sufficient for optimal allocation of flood control storage", "where": "Section 2.3.2, p.5"},
+    "RP09": {"present": true, "small": ["RP09-A", "RP09-B", "RP09-D", "RP09-E"], "quote": "when only the current error is improved (S1, S2, S3), the power generation performs a little worse... This is because a relatively larger uncertainty in the future discourages current water utilization.", "where": "Section 4.2, p.10"},
+    "EP01": {"present": true, "small": ["EP01-A", "EP01-B", "EP01-C", "EP01-D"], "quote": "A total of 12 typical floods since 1995 were selected (Fig. 5). To demonstrate the flood control capacity of Three-OR, all the selected floods hold a peak larger than the downstream FCC 8800 m3/s.", "where": "Section 3.1, p.7"},
+    "EP02": {"present": false},
+    "EP03": {"present": true, "small": ["EP03-A", "EP03-D"], "quote": "a common assumption that the relative forecast error is normally distributed is followed", "where": "Section 2.2.1, p.3"},
+    "EP04": {"present": true, "small": ["EP04-A"], "quote": "Neglecting evaporation and leakage, real-time flood routing in reservoirs can generally be formulated as follows", "where": "Section 2.2.1, p.3"},
+    "EP05": {"present": true, "small": ["EP05-C"], "quote": "Calculate the reservoir release according to the reservoir flood routing model and physical constraints such as FLWL, MWL, and the spill capacity.", "where": "Section 2.4, p.7"},
+    "EP06": {"present": true, "small": ["EP06-A"], "quote": "In this case, the flood in the third stage is predicted to be larger, and the reservoir water level should be lowered to FLWL as soon as possible via pre-release.", "where": "Section 2.3.2, p.5"},
+    "EP09": {"present": true, "small": ["EP09-A", "EP09-B", "EP09-C"], "quote": "Allocate flood control storage to the current stage by solving the inner two-stage model... (v) Go to the next operation (go to step ii) until the flood ends.", "where": "Section 2.4, p.7"},
+    "EP07": {"present": true, "small": ["EP07-A", "EP07-C", "EP07-E"], "quote": "Finally, the performance metrics in this study are the frequency of release larger than the FCC and hydropower generation.", "where": "Section 3.2, p.8"},
+    "EP08": {"present": false},
+    "EP10": {"present": true, "small": ["EP10-A", "EP10-B", "EP10-D"], "quote": "Three possible cases with RFH extended to 30, 36, and 60 h are compared in Fig. 9 to investigate the effects of RFH.", "where": "Section 4.3, p.10"},
+    "EP11": {"present": false}
+  }
+}

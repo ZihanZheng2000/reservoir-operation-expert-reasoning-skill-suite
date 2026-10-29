@@ -1,0 +1,91 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E9,E01,Compare simulated schemes with the current rule,primary,EP10-A,,"Schemes vs current rule on spill, utilization, generation"
+E02-E9,E02,Evaluate update value and uncertainty effects,primary,EP10-D,,"Experiments on updating, uncertainty level, correlation"
+E03-E12,E03,Derive case rules and parameter scenarios,secondary,EP10-D,,Rules across uncertainty levels
+E03-E13,E03,Compare three operation policies,primary,EP10-A,,Static vs balanced vs conservation-focused policies
+E03-E14,E03,Evaluate water conservation and modelled flood risk,primary,EP10-A,,Policies compared over 30 years on conservation and risk
+E04-E10,E04,Estimate and compare extreme flood risk,secondary,EP10-A,,Forecast pre-release risk vs observed-inflow regular routing
+E05-E8,E05,Evaluate preference–uncertainty interaction,primary,EP10-D,,Preference-uncertainty interaction curves
+E05-E9,E05,Illustrate the procedure with Nierji Reservoir,secondary,EP10-D,,Case thresholds under parameter settings
+E06-E10,E06,Check simulations and interpret risk results,primary,EP10-D,,Single vs joint uncertainty and design levels
+E07-E3,E07,Test model assumptions against historical operations,primary,EP10-B,,Simulator vs observed 2000-2010 operations
+E07-E9,E07,Run the EO and PFO comparison branches,primary,EP10-A,,Current-manual and perfect-forecast branches run under same limits
+E07-E10,E07,"Evaluate storage, releases, and downstream flood indicators",primary,EP10-A,,"Storage, release, downstream indicators vs comparators"
+E08-E7,E08,Compare and interpret risk,primary,EP10-D,,Risk by uncertainty source and horizon
+E09-E4,E09,Run worst-case release calculation,secondary,EP10-D,,Worst-case forecast failure
+E09-E5,E09,Check historical event behavior,primary,EP10-B,,"Real-time benefit on historical floods, positive and negative"
+E10-E5,E10,Compare operation rules,primary,EP10-A,,Operation rules compared on 12 floods
+E10-E6,E10,Stress forecast and horizon choices,primary,EP10-D,,"Forecast error, horizon, amplified floods"
+E11-E5,E11,Compare scenarios and current practice,primary,EP10-A,,Scenarios compared with current practice
+E12-E5,E12,Simulate and compare,primary,EP10-A,,Rules compared under typical and extreme forecasts
+E13-E11,E13,Run hindcast EFO operational validation,primary,EP10-C,,Synthetic vs actual ensembles through same policy
+E13-E12,E13,Extend EFO testing to pre-hindcast events,primary,EP10-C,,Synthetic forecasts for pre-hindcast events
+E14-E6,E14,Create comparator forecast scenarios,secondary,EP10-C,,Comparator forecast products
+E14-E8,E14,Run deterministic forecast-value experiment,primary,EP10-C,,Point forecasts vs perfect inflow operations
+E14-E9,E14,Run TSO ensemble-versus-deterministic comparison,primary,EP10-C,,Ensemble vs deterministic Pareto fronts
+E14-E11,E14,Post-assess under actual and noisy inflows,primary,EP10-C,,Strategies post-assessed under actual and noisy inflow
+E14-E12,E14,Test confidence/scenario sensitivity and limitations,primary,EP10-D,,Confidence level and scenario count
+E15-E8,E15,Summarize final HPFOR solutions,primary,EP10-A,,Optimized rules vs conventional rule
+E15-E9,E15,Inspect representative operational traces,primary,EP10-B,,Operational traces inspected
+E15-E10,E15,Compare with HFOR and state limits,primary,EP10-A,,New rule vs previous rule family on example floods
+E16-E6,E16,Run baseline and perfect MPC benchmarks,primary,EP10-C,,Climatology and perfect-information benchmarks
+E16-E7,E16,Construct event and training designs,primary,EP10-D,,Scaled stress events and training branches
+E16-E8,E16,Evaluate flood-pool robustness,primary,EP10-D,,Flood-pool robustness across scaled events
+E16-E9,E16,Assess water-supply refill and forecast diagnostics,primary,EP10-D,,Refill check and forecast diagnostics
+E17-E5,E17,Define forecast-policy branches,primary,EP10-C,,"No-forecast, perfect, ensemble branches"
+E17-E6,E17,Enumerate global parameter combinations,primary,EP10-D,,Global parameter combinations
+E17-E7,E17,Train and evaluate individual DT classifiers,primary,EP10-E,,Decision-tree classifiers with train/test split
+E17-E8,E17,Extract cross-reservoir thresholds,primary,EP10-E,,Cross-reservoir thresholds tested for generality
+E17-E9,E17,Diagnose interactions and event dependence,primary,EP10-E,,Supplementary event checks threshold transfer
+E18-E5,E18,Simulate/evaluate candidate scenarios with required decision tools,secondary,EP10-A,,Alternatives simulated against current operations
+E18-E6,E18,Compare outcomes across multiple site metrics,primary,EP10-A,,Multiple site metrics vs baseline
+E19-E9,E19,Run the PS-FIRO and historical comparator scenarios,primary,EP10-A,,Vapor scheme vs no-vapor scheme vs history
+E19-E10,E19,Inspect representative Typhoon In-Fa and Muifa/Hinnamnor events,primary,EP10-B,,Major and successive typhoon events inspected
+E19-E11,E19,Compute 50-event statistics and interpret indexes,primary,EP10-A,,50-event statistics across schemes
+E19-E12,E19,Validate hydrological and vapor-data components,secondary,EP10-F,,Hydrological model and reanalysis validated
+E20-E10,E20,"Compare cases, sensitivity, and calibrated versus non-calibrated behavior",primary,EP10-D,,"Cases, parameter sensitivity, calibrated vs not"
+E21-E9,E21,Reanalyze performance and maintain crisis branches,secondary,EP10-B,,Post-event reanalysis of contributions
+E22-E8,E22,Run the deterministic/no-forecast policy,primary,EP10-A,,Deterministic benchmark policy
+E22-E9,E22,Run ensemble-member and ensemble-mean policies,secondary,EP10-C,,Ensemble-member and mean policies
+E22-E10,E22,"Compare release, storage, and safety outcomes",primary,EP10-A,,Ensemble vs deterministic vs observed outcomes
+E23-E6,E23,Compare event trajectories and constraint behavior,primary,EP10-B,,Event trajectories under different forecasts
+E24-E7,E24,Demonstrate three cases,primary,EP10-A,,Hedging vs no hedging in three cases
+E25-E6,E25,Run sensitivity and comparison branches,primary,EP10-D,,"Failure-curve, antecedent flow, capacity sensitivity"
+E26-E5,E26,Run event and rolling-horizon simulations,primary,EP10-A,,"Flood, capacity, hedging rules over events and seasons"
+E26-E6,E26,Compare rule performance and forecast-precision sensitivity,primary,EP10-D,,Forecast-precision sensitivity
+E28-E7,E28,Run sensitivity and threshold analyses,primary,EP10-D,,Accuracy-grade sensitivity and threshold inversion
+E29-E7,E29,Compare schemes and paired forecast runs,primary,EP10-D,,"Schemes, lead times, quantiles"
+E30-E6,E30,Run case sensitivity and action examples,primary,EP10-D,,Correlation and controlled-level sensitivity
+E31-E5,E31,Run Experiments 1–4,primary,EP10-D,,Uncertainty-level and correlation experiments
+E31-E6,E31,Isolate factors and compare combined models,primary,EP10-D,,Factor isolation and combined models
+E32-E7,E32,"Test uncertainty level, comparators, and limitations",primary,EP10-D,,Input uncertainty levels and comparators
+E33-E7,E33,Generate Monte Carlo verification samples,secondary,EP10-F,,Independent Monte Carlo samples for verifying risk estimate
+E33-E8,E33,Verify risk against the reference statistic,primary,EP10-F,,Two-stage risk verified against reference statistic
+E33-E10,E33,Compare regular and optimized case operation,primary,EP10-A,,Regular vs optimized operation in 2010
+E34-E4,E34,Build the deterministic benchmark,secondary,EP10-A,,Deterministic benchmark for stochastic model
+E34-E10,E34,Compare solutions and historical events,primary,EP10-A,,Solutions compared over six historical floods
+E35-E9,E35,Sweep branch counts and horizons,primary,EP10-D,,Branch counts and horizons
+E35-E10,E35,Evaluate flood-control and supply outcomes,secondary,EP10-A,,Flood and supply outcomes across methods
+E36-E8,E36,Integrate risk and conduct sensitivity sweeps,secondary,EP10-D,,Forecast-quality and safe-level sweeps
+E37-E4,E37,Construct CO comparison operation,secondary,EP10-A,,Conventional operation as comparator
+E37-E7,E37,Scale counts to risk rates and compare modes,secondary,EP10-A,,Risk rates of two modes by flood magnitude
+E38-E9,E38,Repeat and compare across flood hydrographs,primary,EP10-D,,Ranking across eight design floods
+E39-E7,E39,Compare AMIT with MLTP,primary,EP10-F,,New integration method vs traditional method
+E39-E8,E39,Sweep FLWL and report operational implication,primary,EP10-D,,FLWL sweep of hazard probabilities
+E40-E7,E40,Compare historical and optimized schemes,primary,EP10-A,,Historical vs optimized schemes
+E41-E7,E41,Verify with extreme-risk rate,primary,EP10-F,,Credibility result cross-checked with extreme-risk rate
+E42-E8,E42,Calculate curtailment and compare periods,secondary,EP10-A,,Curtailment with vs without forecast uncertainty
+E43-E6,E43,Compare operation scenarios and inspect bottlenecks,primary,EP10-A,,Current vs two MPC scenarios on 2013 event
+E44-E6,E44,Compare and verify candidate operations,primary,EP10-A,,Static vs dynamic schemes on historical floods
+E45-E7,E45,Compare metrics and infer operating implication,primary,EP10-A,,"Schemes A, B1, B2 compared on metrics"
+E46-E7,E46,Validate and benchmark,primary,EP10-E,,Held-out typhoons and perfect-forecast benchmark
+E47-E5,E47,Calculate importance and sensitivity,secondary,EP10-F,,Criterion importance and sensitivity checked
+E47-E7,E47,Compare MCDM rankings before and after selection,secondary,EP10-F,,Ranking before vs after criterion deletion
+E48-E7,E48,Compare rankings and inspect selected policy,secondary,EP10-F,,Rank agreement across methods with and without PCA
+E49-E7,E49,Compare objective distributions and select compromises,secondary,EP10-A,,Robust vs chance-constrained solutions compared
+E49-E8,E49,Diagnose the selected mechanism in adverse scenarios,primary,EP10-B,,Trajectories in most adverse scenarios
+E49-E9,E49,Test event-scale behavior and document limitations,primary,EP10-E,,Behavior at 100-year and 5-year events
+E50-E6,E50,Simulate four policy variants,primary,EP10-C,,"Baseline, TOCS-raised, forecast, perfect variants"
+E50-E8,E50,Compare storage and flood-control outcomes,primary,EP10-A,,Forecast policy vs baseline on storage and releases
+E50-E9,E50,Analyze site attributes and policy equifinality,primary,EP10-E,,Site attributes and seed equifinality
+E50-E10,E50,Perform LOOCV and restrict the TOCS bound after failures,primary,EP10-E,,Leave-one-year-out with failures and bound restriction

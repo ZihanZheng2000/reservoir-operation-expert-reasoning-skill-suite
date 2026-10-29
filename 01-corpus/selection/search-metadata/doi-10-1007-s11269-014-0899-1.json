@@ -1,0 +1,637 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        3
+      ]
+    ],
+    "date-time": "2026-08-03T15:49:38Z",
+    "timestamp": 1785772178947,
+    "version": "3.56.0"
+  },
+  "reference-count": 40,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            1,
+            8
+          ]
+        ],
+        "date-time": "2015-01-08T00:00:00Z",
+        "timestamp": 1420675200000
+      },
+      "content-version": "unspecified",
+      "delay-in-days": 0,
+      "URL": "http://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water Resour Manage"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        3
+      ]
+    ]
+  },
+  "DOI": "10.1007/s11269-014-0899-1",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        1,
+        7
+      ]
+    ],
+    "date-time": "2015-01-07T20:14:36Z",
+    "timestamp": 1420661676000
+  },
+  "page": "1635-1651",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 84,
+  "title": [
+    "Short-Term Reservoir Optimization for Flood Mitigation under Meteorological and Hydrological Forecast Uncertainty"
+  ],
+  "prefix": "10.1007",
+  "volume": "29",
+  "author": [
+    {
+      "given": "Dirk",
+      "family": "Schwanenberg",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fernando Mainardi",
+      "family": "Fan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Steffi",
+      "family": "Naumann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Julio Issao",
+      "family": "Kuwajima",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Rodolfo Alvarado",
+      "family": "Montero",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Alberto",
+      "family": "Assis dos Reis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        1,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "issue": "5",
+      "key": "899_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "298",
+      "DOI": "10.1061/(ASCE)0733-9496(2000)126:5(298)",
+      "volume": "126",
+      "author": "T Ackermann",
+      "year": "2000",
+      "unstructured": "Ackermann T, Loucks D, Schwanenberg D, Detering M (2000) Real-time modeling for navigation and hydropower in the river Mosel. Water Resour Plan Manag 126(5):298–303",
+      "journal-title": "Water Resour Plan Manag"
+    },
+    {
+      "key": "899_CR2",
+      "volume-title": "Robust model predictive control: a survey. Robustness in identification and control",
+      "author": "A Bemporad",
+      "year": "1999",
+      "unstructured": "Bemporad A, Morari M (1999) Robust model predictive control: a survey. Robustness in identification and control. Springer, London"
+    },
+    {
+      "key": "899_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "3075",
+      "DOI": "10.1175/2010MWR3305.1",
+      "volume": "139",
+      "author": "AA Bradley",
+      "year": "2011",
+      "unstructured": "Bradley AA, Schwartz SS (2011) Summary verification measures and their interpretation for ensemble forecasts. Mon Weather Rev 139:3075–3089",
+      "journal-title": "Mon Weather Rev"
+    },
+    {
+      "key": "899_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "854",
+      "DOI": "10.1016/j.envsoft.2010.01.009",
+      "volume": "25",
+      "author": "JD Brown",
+      "year": "2010",
+      "unstructured": "Brown JD, Demargne J, Seo D-J, Liu Y (2010) The ensemble verification system (EVS): a software tool for verifying ensemble forecasts of hydrometeorological and hydrologic variables at discrete locations. Environ Model Softw 25:854–872",
+      "journal-title": "Environ Model Softw"
+    },
+    {
+      "key": "899_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1076",
+      "DOI": "10.1175/MWR2905.1",
+      "volume": "133",
+      "author": "R Buizza",
+      "year": "2005",
+      "unstructured": "Buizza R, Houtekamer PL, Toth Z, Pellerin G, Wei M, Zhu Y (2005) A comparison of the ECMWF, MSC, and NCEP global ensemble prediction systems. Mon Weather Rev 133:1076–1097",
+      "journal-title": "Mon Weather Rev"
+    },
+    {
+      "issue": "624",
+      "key": "899_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "681",
+      "DOI": "10.1002/qj.75",
+      "volume": "133",
+      "author": "R Buizza",
+      "year": "2007",
+      "unstructured": "Buizza R, Bidlot J-R, Wedi N, Fuentes M, Hamrud M, Holt G, Vitart F (2007) The new ECMWF VAREPS (variable resolution ensemble prediction system). Q J R Meteorol Soc 133(624):681–695",
+      "journal-title": "Q J R Meteorol Soc"
+    },
+    {
+      "issue": "29",
+      "key": "899_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "85",
+      "DOI": "10.5194/adgeo-29-85-2011",
+      "volume": "29",
+      "author": "MA Boucher",
+      "year": "2011",
+      "unstructured": "Boucher MA, Anctil F, Perreault L, Tremblay D (2011) A comparison between ensemble and deterministic hydrological forecasts in an operational context. Adv Geosci 29(29):85–94",
+      "journal-title": "Adv Geosci"
+    },
+    {
+      "key": "899_CR8",
+      "doi-asserted-by": "crossref",
+      "first-page": "133",
+      "DOI": "10.1016/j.jhydrol.2011.11.042",
+      "volume": "416–417",
+      "author": "M-A Boucher",
+      "year": "2012",
+      "unstructured": "Boucher M-A, Tremblay D, Delorme L, Perreault L, Anctil F (2012) Hydroeconomic assessment of hydrological forecasting systems. J Hydrol 416–417:133–144",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "8",
+      "key": "899_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "1059",
+      "DOI": "10.1175/2010BAMS2853.1",
+      "volume": "91",
+      "author": "P Bougeault",
+      "year": "2010",
+      "unstructured": "Bougeault P, Toth Z, Bishop C, Brown B, Burridge D, Chen DH, Ebert B, Fuentes M, Hamill T M, Mylne K, Nicolau J, Paccagnella T, Park Y, Parsons D, Raoult B, Schuster D, Dias PS, Swinbank R, Takeuchi Y, Tennant W (2010) The THORPEX interactive grand global ensemble. Bull Amer Meteorol Soc 91(8):1059–1072",
+      "journal-title": "Bull Amer Meteorol Soc"
+    },
+    {
+      "key": "899_CR10",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1016/j.jhydrol.2009.06.005",
+      "volume": "375",
+      "author": "H Cloke",
+      "year": "2009",
+      "unstructured": "Cloke H, Pappenberger F (2009) Ensemble flood forecasting: a review. J Hydrol 375:613–626",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "key": "899_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.1016/j.jhydrol.2004.08.028",
+      "volume": "305",
+      "author": "W Collischonn",
+      "year": "2005",
+      "unstructured": "Collischonn W, Tucci CEM, Haas R, Andreolli I (2005) Forecasting river Uruguay flow using rainfall forecasts from a regional weather-prediction model. J Hydrol (Amsterdam) 305:87–98",
+      "journal-title": "J Hydrol (Amsterdam)"
+    },
+    {
+      "key": "899_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "878",
+      "DOI": "10.1623/hysj.52.5.878",
+      "volume": "52",
+      "author": "W Collischonn",
+      "year": "2007",
+      "unstructured": "Collischonn W, Allasia DG, Silva BC, Tucci CEM (2007) The MGB-IPH model for large scale rainfall-runoff modeling. Hydrol Sci J 52:878–895",
+      "journal-title": "Hydrol Sci J"
+    },
+    {
+      "key": "899_CR13",
+      "volume-title": "Real-time optimization for large scale nonlinear processes [dissertation]",
+      "author": "M Diehl",
+      "year": "2001",
+      "unstructured": "Diehl M (2001) Real-time optimization for large scale nonlinear processes [dissertation]. University of Heidelberg, Heidelberg, Germany"
+    },
+    {
+      "issue": "3",
+      "key": "899_CR14",
+      "doi-asserted-by": "crossref",
+      "first-page": "493",
+      "DOI": "10.1007/s10107-002-0331-0",
+      "volume": "95",
+      "author": "J Dupaèová",
+      "year": "2003",
+      "unstructured": "Dupaèová J, Gröwe-Kuska N, Römisch W (2003) Scenario reduction in stochastic programming. Math Program 95(3):493–511",
+      "journal-title": "Math Program"
+    },
+    {
+      "key": "899_CR15",
+      "unstructured": "Fan F, Schwanenberg D, Kuwajima J, Assis dos Reis A, Collischonn W (2014) Ensemble streamflow predictions in the Trs Marias Basin, Brazil. EGU2014-14191, Vienna"
+    },
+    {
+      "key": "899_CR16",
+      "volume-title": "Scenario reduction and scenario tree construction for power management problems. Power tech conference proceedings",
+      "author": "N Gröwe-Kuska",
+      "year": "2003",
+      "unstructured": "Gröwe-Kuska N, Heitsch H, Römisch W (2003) Scenario reduction and scenario tree construction for power management problems. Power tech conference proceedings. IEEE, Bologna"
+    },
+    {
+      "key": "899_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "559",
+      "DOI": "10.1175/1520-0434(2000)015<0559:DOTCRP>2.0.CO;2",
+      "volume": "15",
+      "author": "H Hersbach",
+      "year": "2000",
+      "unstructured": "Hersbach H (2000) Decomposition of the continuous ranked probability score for ensemble prediction systems. Weather Forecast 15:559–570",
+      "journal-title": "Weather Forecast"
+    },
+    {
+      "key": "899_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1031",
+      "DOI": "10.5194/hess-13-1031-2009",
+      "volume": "13",
+      "author": "S Jaun",
+      "year": "2009",
+      "unstructured": "Jaun S, Ahrens B (2009) Evaluation of a probabilistic hydrometeorological forecast system. Hydrol Earth Syst Sci 13:1031–1043",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "899_CR19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jolliffe IT, Stephenson DB (eds) (2012) Forecast verification: a practitioners guide in atmospheric science, 2nd edn",
+      "DOI": "10.1002/9781119960003"
+    },
+    {
+      "key": "899_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "289",
+      "DOI": "10.1061/(ASCE)0733-9496(1993)119:3(289)",
+      "volume": "119",
+      "author": "N Kouwen",
+      "year": "1993",
+      "unstructured": "Kouwen N, Soulis ED, Pietroniro A, Donald J, Harrington RA (1993) Grouped response units for distributed hydrologic modeling. J. Water Resour Plan Manag 119:289–305",
+      "journal-title": "J. Water Resour Plan Manag"
+    },
+    {
+      "key": "899_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "557",
+      "DOI": "10.1175/2007WAF2007064.1",
+      "volume": "23",
+      "author": "D Mccollor",
+      "year": "2008",
+      "unstructured": "Mccollor D, Stull R (2008) Hydrometeorological short-range ensemble forecasts in complex terrain. Part II: economic evaluation. Weather Forecast 23:557–574",
+      "journal-title": "Weather Forecast"
+    },
+    {
+      "key": "899_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.1002/qj.49712252905",
+      "volume": "122",
+      "author": "F Molteni",
+      "year": "1996",
+      "unstructured": "Molteni F, Buizza R, Palmer TN, Petroliagis T (1996) The ECMWF ensemble prediction system: methodology and validation. Q J R Meteorol Soc 122:73–119",
+      "journal-title": "Q J R Meteorol Soc"
+    },
+    {
+      "key": "899_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "667",
+      "DOI": "10.1016/S0098-1354(98)00301-9",
+      "volume": "23",
+      "author": "M Morari",
+      "year": "1999",
+      "unstructured": "Morari M, Lee JH (1999) Model predictive control: past, present and future. Comput Chem Eng 23:667–682",
+      "journal-title": "Comput Chem Eng"
+    },
+    {
+      "key": "899_CR24",
+      "volume-title": "Model predictive control on open water systems [dissertation]",
+      "author": "PJ Overloop van",
+      "year": "2006",
+      "unstructured": "van Overloop PJ (2006) Model predictive control on open water systems [dissertation]. Delft University of Technology, Delft, The Netherlands"
+    },
+    {
+      "key": "899_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1226",
+      "DOI": "10.1002/wrcr.20067",
+      "volume": "49",
+      "author": "RCD Paiva",
+      "year": "2013",
+      "unstructured": "Paiva RCD, Buarque DC, Collischonn W, Bonnet M-P, Frappart F, Calmant S, Bulhões Mendes CA (2013) Large-scale hydrologic and hydrodynamic modeling of the Amazon River basin. Water Resour Res 49:1226–1243",
+      "journal-title": "Water Resour Res"
+    },
+    {
+      "key": "899_CR26",
+      "unstructured": "Paz AR, Collischonn W, Tucci C, Clarke R, Allasia D (2007) Assimilation in a large-scale distributed hydrological model for medium range flow forecasts, vol 313. IAHS Press, IAHS Publication, pp 471–478"
+    },
+    {
+      "key": "899_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "2219",
+      "DOI": "10.5194/hess-17-2219-2013",
+      "volume": "17",
+      "author": "MH Ramos",
+      "year": "2013",
+      "unstructured": "Ramos MH, Van Andel SJ, Pappenberger F (2013) Do probabilistic forecasts lead to better decisions? Hydrol Earth Syst Sci 17:2219–2232",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "899_CR28",
+      "doi-asserted-by": "crossref",
+      "first-page": "75",
+      "DOI": "10.1002/hyp.9473",
+      "volume": "27",
+      "author": "L Raso",
+      "year": "2013",
+      "unstructured": "Raso L, van de Giesen N, Stive P, Schwanenberg D, van Overloop PJ (2013) Tree structure generation from ensemble forecasts for real time control. Hydrol Process 27:75–82",
+      "journal-title": "Hydrol Process"
+    },
+    {
+      "key": "899_CR29",
+      "unstructured": "Raso L, van Giesen N, Schwanenberg D (2012) Tree structure generation from ensembel forecasts for short-term reservoir optimization. AGU General Assembly 2012. San Francisco, USA. Control ID: 1487220, vol 15"
+    },
+    {
+      "key": "899_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "463",
+      "DOI": "10.1016/j.jhydrol.2009.07.059",
+      "volume": "376",
+      "author": "M Renner",
+      "year": "2009",
+      "unstructured": "Renner M, Werner M, Rademacher S, Sprokkereef E (2009) Verification of ensemble flow forecasts for the River Rhine. J Hydrol 376:463–475",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "key": "899_CR31",
+      "unstructured": "Schwanenberg D, Sheret I, Rauschenbach T, Galelli S, Vieira JM, Pinho JL (2012) Adjoint modelling framework. In: 10th international conference on hydroinformatics. Hamburg, Germany"
+    },
+    {
+      "issue": "1",
+      "key": "899_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "25",
+      "DOI": "10.1080/23249676.2014.912952",
+      "volume": "2",
+      "author": "D Schwanenberg",
+      "year": "2014",
+      "unstructured": "Schwanenberg D, Xu M, Ochterbeck T, Allen C, Karimanzira D (2014) Short-term management of hydropower assets of the Federal Columbia River power system. J Appl Water Eng Res 2(1):25–32",
+      "journal-title": "J Appl Water Eng Res"
+    },
+    {
+      "key": "899_CR33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Schwanenberg D, Becker B, Xu M (2014) The open RTC-Tools software framework for modeling real-time control in water resources systems, submitted to Journal of Hydroinformatics. http://www.iwaponline.com/jh/up/jh2014046.htm",
+      "DOI": "10.2166/hydro.2014.046"
+    },
+    {
+      "issue": "1",
+      "key": "899_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "123",
+      "DOI": "10.15388/Informatica.2010.277",
+      "volume": "21",
+      "author": "K Sutiene",
+      "year": "2010",
+      "unstructured": "Sutiene K, Makackas D, Pranevius H (2010) Multistage k-means clustering for scenario tree construction. Informatica 21(1):123–138",
+      "journal-title": "Informatica"
+    },
+    {
+      "issue": "12",
+      "key": "899_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "1329",
+      "DOI": "10.1002/fld.537",
+      "volume": "43",
+      "author": "GS Stelling",
+      "year": "2003",
+      "unstructured": "Stelling GS, Duinmeijer SPA (2003) A staggered conservative scheme for every Froude number in rapidly varied shallow water flows. Int J Numer Methods Fluids 43 (12):1329–1354",
+      "journal-title": "Int J Numer Methods Fluids"
+    },
+    {
+      "key": "899_CR36",
+      "doi-asserted-by": "crossref",
+      "first-page": "2221",
+      "DOI": "10.5194/hess-13-2221-2009",
+      "volume": "13",
+      "author": "JA Velázquez",
+      "year": "2009",
+      "unstructured": "Velázquez JA, Petit T, Lavoie A, Boucher M-A, Turcotte R, Fortin V, Anctil F (2009) An evaluation of the Canadian global meteorological ensemble prediction system for short-term hydrological forecasting. Hydrol Earth Syst Sci 13:2221–2231",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "899_CR37",
+      "unstructured": "Wilks d (2006) Statistical methods in the atmospheric sciences. Academic Press"
+    },
+    {
+      "key": "899_CR38",
+      "unstructured": "Xu M, Schwanenberg (2012) Comparison of sequential and simultaneous model predictive control of reservoir systems. In: 10th international conference on hydroinformatics. Hamburg, Germany"
+    },
+    {
+      "issue": "10",
+      "key": "899_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "1725",
+      "DOI": "10.1016/j.jprocont.2009.07.004",
+      "volume": "19",
+      "author": "VM Zavala",
+      "year": "2009",
+      "unstructured": "Zavala VM, Constantinescu EM, Krause T, Anitescu M (2009) On-line economic optimization of energy systems using weather forecast information. J Process Control 19(10):1725–1736",
+      "journal-title": "J Process Control"
+    },
+    {
+      "key": "899_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "495",
+      "DOI": "10.1016/j.advwatres.2011.01.004",
+      "volume": "34",
+      "author": "TTG Zhao",
+      "year": "2011",
+      "unstructured": "Zhao TTG, Cai XM, Yang DW (2011) Effect of streamflow forecast uncertainty on real-time reservoir operation. Adv Water Resour 34:495–504",
+      "journal-title": "Adv Water Resour"
+    }
+  ],
+  "container-title": [
+    "Water Resources Management"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11269-014-0899-1.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/article/10.1007/s11269-014-0899-1/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "http://link.springer.com/content/pdf/10.1007/s11269-014-0899-1",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        28
+      ]
+    ],
+    "date-time": "2020-08-28T19:27:30Z",
+    "timestamp": 1598642850000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "http://link.springer.com/10.1007/s11269-014-0899-1"
+    }
+  },
+  "subtitle": [
+    "Application to the Três Marias Reservoir in Brazil"
+  ],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        1,
+        8
+      ]
+    ]
+  },
+  "references-count": 40,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "899"
+  ],
+  "URL": "https://doi.org/10.1007/s11269-014-0899-1",
+  "relation": {},
+  "ISSN": [
+    "0920-4741",
+    "1573-1650"
+  ],
+  "issn-type": [
+    {
+      "value": "0920-4741",
+      "type": "print"
+    },
+    {
+      "value": "1573-1650",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        1,
+        8
+      ]
+    ]
+  }
+}

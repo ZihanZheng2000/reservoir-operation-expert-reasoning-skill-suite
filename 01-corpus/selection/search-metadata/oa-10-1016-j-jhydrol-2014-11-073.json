@@ -1,0 +1,661 @@
+{
+  "id": "https://openalex.org/W2047481981",
+  "doi": "https://doi.org/10.1016/j.jhydrol.2014.11.073",
+  "title": "Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir",
+  "display_name": "Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir",
+  "publication_year": 2014,
+  "publication_date": "2014-12-03",
+  "ids": {
+    "openalex": "https://openalex.org/W2047481981",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2014.11.073",
+    "mag": "2047481981"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jhydrol.2014.11.073",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2014.11.073",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S55737203",
+      "display_name": "Journal of Hydrology",
+      "issn_l": "0022-1694",
+      "issn": [
+        "0022-1694",
+        "1879-2707"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5091606803",
+        "display_name": "Frederick N.-F. Chou",
+        "orcid": "https://orcid.org/0000-0002-3533-2131"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91807558",
+          "display_name": "National Cheng Kung University",
+          "ror": "https://ror.org/01b8kcc49",
+          "country_code": "TW",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91807558"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Frederick N.-F. Chou",
+      "raw_affiliation_strings": [
+        "Department of Hydraulic and Ocean Engineering, National Cheng-Kung University, 1 University Rd., Tainan, Taiwan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Hydraulic and Ocean Engineering, National Cheng-Kung University, 1 University Rd., Tainan, Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I91807558"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5102190465",
+        "display_name": "Chia-Wen Wu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I91807558",
+          "display_name": "National Cheng Kung University",
+          "ror": "https://ror.org/01b8kcc49",
+          "country_code": "TW",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I91807558"
+          ]
+        }
+      ],
+      "countries": [
+        "TW"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Chia-Wen Wu",
+      "raw_affiliation_strings": [
+        "Department of Hydraulic and Ocean Engineering, National Cheng-Kung University, 1 University Rd., Tainan, Taiwan"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Hydraulic and Ocean Engineering, National Cheng-Kung University, 1 University Rd., Tainan, Taiwan",
+          "institution_ids": [
+            "https://openalex.org/I91807558"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5102190465"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I91807558"
+  ],
+  "apc_list": {
+    "value": 4030,
+    "currency": "USD",
+    "value_usd": 4030
+  },
+  "apc_paid": null,
+  "fwci": 6.1045,
+  "has_fulltext": false,
+  "cited_by_count": 73,
+  "citation_normalized_percentile": {
+    "value": 0.95468126,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "521",
+    "issue": null,
+    "first_page": "245",
+    "last_page": "260"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9986000061035156,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9979000091552734,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.8776447772979736
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.7858216762542725
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.7857396602630615
+    },
+    {
+      "id": "https://openalex.org/keywords/flooding",
+      "display_name": "Flooding (psychology)",
+      "score": 0.592807948589325
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5629856586456299
+    },
+    {
+      "id": "https://openalex.org/keywords/water-level",
+      "display_name": "Water level",
+      "score": 0.5449333786964417
+    },
+    {
+      "id": "https://openalex.org/keywords/stage",
+      "display_name": "Stage (stratigraphy)",
+      "score": 0.4784167408943176
+    },
+    {
+      "id": "https://openalex.org/keywords/downstream",
+      "display_name": "Downstream (manufacturing)",
+      "score": 0.44875040650367737
+    },
+    {
+      "id": "https://openalex.org/keywords/reliability",
+      "display_name": "Reliability (semiconductor)",
+      "score": 0.4148092567920685
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.41398465633392334
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.38311129808425903
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.1961258053779602
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.1840934455394745
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.11020845174789429
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-management",
+      "display_name": "Operations management",
+      "score": 0.07890227437019348
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.07734090089797974
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.8776447772979736
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.7858216762542725
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.7857396602630615
+    },
+    {
+      "id": "https://openalex.org/C186594467",
+      "wikidata": "https://www.wikidata.org/wiki/Q1429176",
+      "display_name": "Flooding (psychology)",
+      "level": 2,
+      "score": 0.592807948589325
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5629856586456299
+    },
+    {
+      "id": "https://openalex.org/C1284942",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929501",
+      "display_name": "Water level",
+      "level": 2,
+      "score": 0.5449333786964417
+    },
+    {
+      "id": "https://openalex.org/C146357865",
+      "wikidata": "https://www.wikidata.org/wiki/Q1123245",
+      "display_name": "Stage (stratigraphy)",
+      "level": 2,
+      "score": 0.4784167408943176
+    },
+    {
+      "id": "https://openalex.org/C2776207758",
+      "wikidata": "https://www.wikidata.org/wiki/Q5303302",
+      "display_name": "Downstream (manufacturing)",
+      "level": 2,
+      "score": 0.44875040650367737
+    },
+    {
+      "id": "https://openalex.org/C43214815",
+      "wikidata": "https://www.wikidata.org/wiki/Q7310987",
+      "display_name": "Reliability (semiconductor)",
+      "level": 3,
+      "score": 0.4148092567920685
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.41398465633392334
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.38311129808425903
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.1961258053779602
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.1840934455394745
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.11020845174789429
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.07890227437019348
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.07734090089797974
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111368507",
+      "wikidata": "https://www.wikidata.org/wiki/Q43518",
+      "display_name": "Oceanography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C163258240",
+      "wikidata": "https://www.wikidata.org/wiki/Q25342",
+      "display_name": "Power (physics)",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jhydrol.2014.11.073",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2014.11.073",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S55737203",
+        "display_name": "Journal of Hydrology",
+        "issn_l": "0022-1694",
+        "issn": [
+          "0022-1694",
+          "1879-2707"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Hydrology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3948092033",
+      "display_name": null,
+      "funder_award_id": "NSC 100-2221-E-006-201",
+      "funder_id": "https://openalex.org/F4320321040",
+      "funder_display_name": "National Science Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321040",
+      "display_name": "National Science Council",
+      "ror": "https://ror.org/02kv4zf79"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 33,
+  "referenced_works": [
+    "https://openalex.org/W1485136723",
+    "https://openalex.org/W1528489885",
+    "https://openalex.org/W1550174026",
+    "https://openalex.org/W1964399390",
+    "https://openalex.org/W1972213816",
+    "https://openalex.org/W1975117743",
+    "https://openalex.org/W1984642033",
+    "https://openalex.org/W1985112047",
+    "https://openalex.org/W1993841150",
+    "https://openalex.org/W2002803242",
+    "https://openalex.org/W2014104898",
+    "https://openalex.org/W2024017244",
+    "https://openalex.org/W2027439183",
+    "https://openalex.org/W2029885460",
+    "https://openalex.org/W2030432932",
+    "https://openalex.org/W2032139960",
+    "https://openalex.org/W2044966940",
+    "https://openalex.org/W2049933975",
+    "https://openalex.org/W2050292603",
+    "https://openalex.org/W2054671818",
+    "https://openalex.org/W2062389122",
+    "https://openalex.org/W2068800669",
+    "https://openalex.org/W2073690673",
+    "https://openalex.org/W2074808739",
+    "https://openalex.org/W2098427337",
+    "https://openalex.org/W2103168425",
+    "https://openalex.org/W2129825493",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2155382668",
+    "https://openalex.org/W2156568362",
+    "https://openalex.org/W2184340993",
+    "https://openalex.org/W4249047679",
+    "https://openalex.org/W4285719527"
+  ],
+  "related_works": [
+    "https://openalex.org/W2325718972",
+    "https://openalex.org/W59002642",
+    "https://openalex.org/W2074047913",
+    "https://openalex.org/W2347751007",
+    "https://openalex.org/W2376589826",
+    "https://openalex.org/W2356100594",
+    "https://openalex.org/W2393514359",
+    "https://openalex.org/W4403423090",
+    "https://openalex.org/W2348699073",
+    "https://openalex.org/W2367930014"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-09-01T08:31:24.195828",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,686 @@
+{
+  "id": "https://openalex.org/W2139660762",
+  "doi": "https://doi.org/10.1016/j.jhydrol.2010.07.011",
+  "title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+  "display_name": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+  "publication_year": 2010,
+  "publication_date": "2010-07-12",
+  "ids": {
+    "openalex": "https://openalex.org/W2139660762",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2010.07.011",
+    "mag": "2139660762"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jhydrol.2010.07.011",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2010.07.011",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S55737203",
+      "display_name": "Journal of Hydrology",
+      "issn_l": "0022-1694",
+      "issn": [
+        "0022-1694",
+        "1879-2707"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101798953",
+        "display_name": "Xiang Li",
+        "orcid": "https://orcid.org/0000-0002-3753-6525"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xiang Li",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068171379",
+        "display_name": "Shenglian Guo",
+        "orcid": "https://orcid.org/0000-0002-8594-4988"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Shenglian Guo",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100358542",
+        "display_name": "Pan Liu",
+        "orcid": "https://orcid.org/0000-0002-3777-6561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pan Liu",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5007087233",
+        "display_name": "Guiya Chen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guiya Chen",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science , Wuhan University , Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5068171379"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37461747"
+  ],
+  "apc_list": {
+    "value": 4030,
+    "currency": "USD",
+    "value_usd": 4030
+  },
+  "apc_paid": null,
+  "fwci": 15.1405,
+  "has_fulltext": false,
+  "cited_by_count": 310,
+  "citation_normalized_percentile": {
+    "value": 0.99018627,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "391",
+    "issue": "1-2",
+    "first_page": "124",
+    "last_page": "132"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9965000152587891,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9879999756813049,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.9026273488998413
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.7594705820083618
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6646304130554199
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5721821784973145
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrograph",
+      "display_name": "Hydrograph",
+      "score": 0.5308219790458679
+    },
+    {
+      "id": "https://openalex.org/keywords/100-year-flood",
+      "display_name": "100-year flood",
+      "score": 0.5286797881126404
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.49747398495674133
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-warning",
+      "display_name": "Flood warning",
+      "score": 0.4500395357608795
+    },
+    {
+      "id": "https://openalex.org/keywords/water-level",
+      "display_name": "Water level",
+      "score": 0.43576154112815857
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3403875529766083
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.23871862888336182
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.14244845509529114
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.09089583158493042
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.08869394659996033
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.9026273488998413
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.7594705820083618
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6646304130554199
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5721821784973145
+    },
+    {
+      "id": "https://openalex.org/C154936535",
+      "wikidata": "https://www.wikidata.org/wiki/Q320062",
+      "display_name": "Hydrograph",
+      "level": 3,
+      "score": 0.5308219790458679
+    },
+    {
+      "id": "https://openalex.org/C171878848",
+      "wikidata": "https://www.wikidata.org/wiki/Q336797",
+      "display_name": "100-year flood",
+      "level": 3,
+      "score": 0.5286797881126404
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.49747398495674133
+    },
+    {
+      "id": "https://openalex.org/C2778924419",
+      "wikidata": "https://www.wikidata.org/wiki/Q5460084",
+      "display_name": "Flood warning",
+      "level": 3,
+      "score": 0.4500395357608795
+    },
+    {
+      "id": "https://openalex.org/C1284942",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929501",
+      "display_name": "Water level",
+      "level": 2,
+      "score": 0.43576154112815857
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3403875529766083
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.23871862888336182
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.14244845509529114
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.09089583158493042
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.08869394659996033
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jhydrol.2010.07.011",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2010.07.011",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S55737203",
+        "display_name": "Journal of Hydrology",
+        "issn_l": "0022-1694",
+        "issn": [
+          "0022-1694",
+          "1879-2707"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Hydrology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.6200000047683716,
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 25,
+  "referenced_works": [
+    "https://openalex.org/W263274072",
+    "https://openalex.org/W1540652609",
+    "https://openalex.org/W1596827077",
+    "https://openalex.org/W1911281453",
+    "https://openalex.org/W1975434450",
+    "https://openalex.org/W1981730679",
+    "https://openalex.org/W1985112047",
+    "https://openalex.org/W2010432367",
+    "https://openalex.org/W2032400172",
+    "https://openalex.org/W2033904036",
+    "https://openalex.org/W2053727831",
+    "https://openalex.org/W2056063759",
+    "https://openalex.org/W2062389122",
+    "https://openalex.org/W2063553284",
+    "https://openalex.org/W2075965294",
+    "https://openalex.org/W2077014443",
+    "https://openalex.org/W2078890104",
+    "https://openalex.org/W2101472376",
+    "https://openalex.org/W2108242939",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2363688090",
+    "https://openalex.org/W2901206765",
+    "https://openalex.org/W3042784156",
+    "https://openalex.org/W4212864218",
+    "https://openalex.org/W6780764258"
+  ],
+  "related_works": [
+    "https://openalex.org/W2372519943",
+    "https://openalex.org/W2347751007",
+    "https://openalex.org/W2418812133",
+    "https://openalex.org/W2348115209",
+    "https://openalex.org/W3010198875",
+    "https://openalex.org/W2356569429",
+    "https://openalex.org/W2547801673",
+    "https://openalex.org/W4321482064",
+    "https://openalex.org/W2393514359",
+    "https://openalex.org/W2036370930"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 28
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 29
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 7
+    }
+  ],
+  "updated_date": "2026-09-10T07:47:47.112893",
+  "created_date": "2025-10-10T00:00:00"
+}

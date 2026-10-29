@@ -1,0 +1,41 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E4,E01,Calculate the candidate upper bound from capacity-constrained pre-release,primary,EP05-A,,Upper level from capacity-constrained pre-release within lead time
+E01-E6,E01,Apply threshold-based TGR decision logic and safety constraints,secondary,EP05-C,,Release kept within safety discharge in threshold logic
+E02-E3,E02,Build and solve the scenario-based stochastic program,secondary,EP05-C,,"Level, release, capacity, fluctuation, terminal constraints in program"
+E03-E5,E03,Convert downstream risk and water-supply requirements into bounds,primary,EP05-B,,Risk and supply requirements inverted into release and margin bounds
+E03-E6,E03,Test the reduced DC-FLWL feasibility conditions,primary,EP05-B,,Reduced feasibility conditions test each prefill decision
+E03-E9,E03,Convert optimal storage to Stage-1 release and enforce the release floor,secondary,EP05-C,,Release floor enforced when implied release too small
+E05-E2,E05,"Construct losses, risk, and constraints",secondary,EP05-C,,"Release, safety, storage bounds in loss model"
+E05-E3,E05,Reduce stage-2 mass balance to an allocation problem,secondary,EP05-B,,Safety-storage constraints from residual capacity
+E05-E4,E05,Generate the feasible zone and endpoint conditions,primary,EP05-B,,Feasible zone and endpoints mapped
+E05-E7,E05,Select the active constraint branch for (r_{max}),primary,EP05-B,,Binding storage or safety constraint selects branch
+E07-E4,E07,Configure the EFO risk test,secondary,EP05-B,,Ensemble exceedance fraction checked against tolerance curve
+E07-E6,E07,Construct and constrain member release schedules,secondary,EP05-C,,Release schedules capped and redistributed
+E09-E3,E09,Calculate two-period over-FLWL volume,primary,EP05-A,,Allowable over-FLWL volume from release limited by safety and capacity
+E09-E4,E09,Run worst-case release calculation,primary,EP05-A,,Worst-case release time deducts unreleasable volume
+E11-E3,E11,Calculate candidate and selected D-PSL,primary,EP05-A,,"Pre-storm level from design volume, safe release, capacity"
+E12-E2,E12,Calculate early pre-release,secondary,EP05-A,,Pre-release sized so FLWL can be restored if no flood
+E15-E2,E15,Apply two-stage water-balance constraints,primary,EP05-B,,Safe current-release interval from risk percentile
+E15-E6,E15,Repair/rank constraint violations,primary,EP05-C,,"Rigid violations repaired, flexible ones ranked"
+E15-E8,E15,Summarize final HPFOR solutions,secondary,EP05-C,,Optimized rules checked against maximum level and release
+E16-E2,E16,Define storage objective and shared constraints,secondary,EP05-C,,Shared release and ramping limits for all policies
+E17-E3,E17,Enforce release and ramp constraints; roll forward,secondary,EP05-C,,Release and ramp limits on implemented action
+E18-E3,E18,Assemble forecasts and monitoring capability,secondary,EP05-D,,Forecast and gauge capability assessed for the site
+E18-E7,E18,"Check physical, data, and implementation adequacy",primary,EP05-D,,"Physical, data, tool adequacy checked before recommending"
+E19-E6,E19,Derive VCWL under a prerelease sequence,primary,EP05-A,,Level bound compatible with prerelease sequence
+E19-E7,E19,Establish the common FIRO upper bound,primary,EP05-A,,Upper bound 66 m from inflow/outflow table within 48 h
+E20-E1,E20,Define case reservoir and risk thresholds,secondary,EP05-C,,Channel capacity and flood-control level set as limits
+E22-E6,E22,"Apply water-balance, release, storage, and fluctuation constraints",secondary,EP05-C,,"Balance, release, storage, fluctuation constraints"
+E24-E3,E24,Compute total EFSM and critical thresholds,primary,EP05-B,,Total safety margin and critical thresholds computed
+E24-E6,E24,Enforce storage capacity and extreme-flood response,primary,EP05-C,,Storage capacity bounds replace unconstrained allocation
+E29-E3,E29,Instantiate dynamic FLWL bounds,primary,EP05-A,,Dynamic FLWL bounds per segment and lead time
+E34-E4,E34,Build the deterministic benchmark,secondary,EP05-A,,Capacity-constrained prerelease bounds for benchmark
+E35-E5,E35,Build the reservoir dynamic/constraint model,secondary,EP05-C,,Forebay and spillway limits in dynamics model
+E36-E4,E36,Formulate scenario-wise operation,secondary,EP05-C,,"Scenario-wise level, release, capacity limits"
+E41-E5,E41,Form K and test feasibility,secondary,EP05-B,,Candidate accepted if credibility area within design frequency
+E41-E6,E41,Select stage bounds,primary,EP05-A,,Largest feasible level per seasonal stage
+E44-E2,E44,Calculate CSR and aggregate storage,secondary,EP05-A,,Boundary storages include channel storage
+E45-E6,E45,Solve B2 with CVaR protection,secondary,EP05-B,,Schedules retained only if risk and CVaR limits hold
+E49-E3,E49,Set XHD operation parameters and thresholds,secondary,EP05-C,,"Storage, release, fluctuation bounds instantiated"
+E49-E5,E49,Enforce physical and boundary constraints,primary,EP05-C,,Policies violating bounds rejected
+E50-E4,E50,Add FIRO risk tolerance and TOCS multiplier,secondary,EP05-B,,"Minimum release to bring forecast risk under curve, then constraints"

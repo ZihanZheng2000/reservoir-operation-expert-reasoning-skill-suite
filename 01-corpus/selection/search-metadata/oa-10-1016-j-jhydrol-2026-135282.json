@@ -1,0 +1,812 @@
+{
+  "id": "https://openalex.org/W7134236419",
+  "doi": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+  "title": "Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense",
+  "display_name": "Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense",
+  "publication_year": 2026,
+  "publication_date": "2026-03-09",
+  "ids": {
+    "openalex": "https://openalex.org/W7134236419",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2026.135282"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jhydrol.2026.135282",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S55737203",
+      "display_name": "Journal of Hydrology",
+      "issn_l": "0022-1694",
+      "issn": [
+        "0022-1694",
+        "1879-2707"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5128547982",
+        "display_name": "Hao Ye",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hao Ye",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128484052",
+        "display_name": "Pan Liu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094953",
+          "display_name": "China Institute of Electronics",
+          "ror": "https://ror.org/00kr06185",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094953"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Pan Liu",
+      "raw_affiliation_strings": [
+        "CIECC, Beijing 100048, China",
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3777-6561",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CIECC, Beijing 100048, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094953"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128578724",
+        "display_name": "Xiaojing Zhang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xiaojing Zhang",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128442708",
+        "display_name": "Lei Cheng",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lei Cheng",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128524591",
+        "display_name": "Weibo Liu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094953",
+          "display_name": "China Institute of Electronics",
+          "ror": "https://ror.org/00kr06185",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094953"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Weibo Liu",
+      "raw_affiliation_strings": [
+        "CIECC, Beijing 100048, China",
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "CIECC, Beijing 100048, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094953"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128492999",
+        "display_name": "Qian Cheng",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Qian Cheng",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+        "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+        "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Key Lab of Water System Science for Sponge City Construction, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Research Institute for Water Security (RIWS), Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources Engineering and Management, Wuhan University, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5128497533",
+        "display_name": "Lei Guo",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210104033",
+          "display_name": "Guangdong Research Institute of Water Resources and Hydropower",
+          "ror": "https://ror.org/01dqs7f31",
+          "country_code": "CN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210104033"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lei Guo",
+      "raw_affiliation_strings": [
+        "Guangdong Research Institute of Water Resources and Hydropower, Guangzhou 510635, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Guangdong Research Institute of Water Resources and Hydropower, Guangzhou 510635, China",
+          "institution_ids": [
+            "https://openalex.org/I4210104033"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5128573568",
+        "display_name": "Jing Huang",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210104033",
+          "display_name": "Guangdong Research Institute of Water Resources and Hydropower",
+          "ror": "https://ror.org/01dqs7f31",
+          "country_code": "CN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210104033"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jing Huang",
+      "raw_affiliation_strings": [
+        "Guangdong Research Institute of Water Resources and Hydropower, Guangzhou 510635, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Guangdong Research Institute of Water Resources and Hydropower, Guangzhou 510635, China",
+          "institution_ids": [
+            "https://openalex.org/I4210104033"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5128484052"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37461747",
+    "https://openalex.org/I4210094953"
+  ],
+  "apc_list": {
+    "value": 4030,
+    "currency": "USD",
+    "value_usd": 4030
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.16548956,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "671",
+    "issue": null,
+    "first_page": "135282",
+    "last_page": "135282"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.25429999828338623,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.25429999828338623,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10466",
+      "display_name": "Meteorological Phenomena and Simulations",
+      "score": 0.18279999494552612,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1902",
+        "display_name": "Atmospheric Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/19",
+        "display_name": "Earth and Planetary Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.0812000036239624,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.4442000091075897
+    },
+    {
+      "id": "https://openalex.org/keywords/water-vapor",
+      "display_name": "Water vapor",
+      "score": 0.4018999934196472
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resources",
+      "display_name": "Water resources",
+      "score": 0.28610000014305115
+    },
+    {
+      "id": "https://openalex.org/keywords/water-cycle",
+      "display_name": "Water cycle",
+      "score": 0.2743000090122223
+    },
+    {
+      "id": "https://openalex.org/keywords/current",
+      "display_name": "Current (fluid)",
+      "score": 0.2648000121116638
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.6335999965667725
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.4442000091075897
+    },
+    {
+      "id": "https://openalex.org/C147534773",
+      "wikidata": "https://www.wikidata.org/wiki/Q190120",
+      "display_name": "Water vapor",
+      "level": 2,
+      "score": 0.4018999934196472
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.3447999954223633
+    },
+    {
+      "id": "https://openalex.org/C78762247",
+      "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+      "display_name": "Petroleum engineering",
+      "level": 1,
+      "score": 0.3418000042438507
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.3395000100135803
+    },
+    {
+      "id": "https://openalex.org/C153823671",
+      "wikidata": "https://www.wikidata.org/wiki/Q1049799",
+      "display_name": "Water resources",
+      "level": 2,
+      "score": 0.28610000014305115
+    },
+    {
+      "id": "https://openalex.org/C133830359",
+      "wikidata": "https://www.wikidata.org/wiki/Q81041",
+      "display_name": "Water cycle",
+      "level": 2,
+      "score": 0.2743000090122223
+    },
+    {
+      "id": "https://openalex.org/C148043351",
+      "wikidata": "https://www.wikidata.org/wiki/Q4456944",
+      "display_name": "Current (fluid)",
+      "level": 2,
+      "score": 0.2648000121116638
+    },
+    {
+      "id": "https://openalex.org/C126197015",
+      "wikidata": "https://www.wikidata.org/wiki/Q1586683",
+      "display_name": "Hydrological modelling",
+      "level": 2,
+      "score": 0.24690000712871552
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jhydrol.2026.135282",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S55737203",
+        "display_name": "Journal of Hydrology",
+        "issn_l": "0022-1694",
+        "issn": [
+          "0022-1694",
+          "1879-2707"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Hydrology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Clean water and sanitation",
+      "id": "https://metadata.un.org/sdg/6",
+      "score": 0.5828983783721924
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G5766550509",
+      "display_name": null,
+      "funder_award_id": "52225901",
+      "funder_id": "https://openalex.org/F4320334953",
+      "funder_display_name": "China National Funds for Distinguished Young Scientists"
+    },
+    {
+      "id": "https://openalex.org/G7597032392",
+      "display_name": null,
+      "funder_award_id": "2022YFC3202804",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320334953",
+      "display_name": "China National Funds for Distinguished Young Scientists",
+      "ror": "https://ror.org/01pab2602"
+    },
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320336125",
+      "display_name": "National Science Fund for Distinguished Young Scholars",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 44,
+  "referenced_works": [
+    "https://openalex.org/W996106850",
+    "https://openalex.org/W1589916976",
+    "https://openalex.org/W1592305242",
+    "https://openalex.org/W1607909567",
+    "https://openalex.org/W1789155650",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W2010432367",
+    "https://openalex.org/W2023778504",
+    "https://openalex.org/W2027439183",
+    "https://openalex.org/W2102082999",
+    "https://openalex.org/W2102787230",
+    "https://openalex.org/W2112306707",
+    "https://openalex.org/W2125290109",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2588892190",
+    "https://openalex.org/W2591134645",
+    "https://openalex.org/W2604723462",
+    "https://openalex.org/W2612413720",
+    "https://openalex.org/W2767525149",
+    "https://openalex.org/W2801107704",
+    "https://openalex.org/W2811137482",
+    "https://openalex.org/W2955301595",
+    "https://openalex.org/W2956731228",
+    "https://openalex.org/W2994787325",
+    "https://openalex.org/W3009421637",
+    "https://openalex.org/W3014530555",
+    "https://openalex.org/W3021436706",
+    "https://openalex.org/W3025949386",
+    "https://openalex.org/W3026073023",
+    "https://openalex.org/W4212931864",
+    "https://openalex.org/W4280529124",
+    "https://openalex.org/W4310013475",
+    "https://openalex.org/W4318761586",
+    "https://openalex.org/W4321378951",
+    "https://openalex.org/W4328090028",
+    "https://openalex.org/W4385455137",
+    "https://openalex.org/W4389006140",
+    "https://openalex.org/W4392984771",
+    "https://openalex.org/W4394976197",
+    "https://openalex.org/W4401330879",
+    "https://openalex.org/W4403915060",
+    "https://openalex.org/W4405149867",
+    "https://openalex.org/W4405192052",
+    "https://openalex.org/W4411139871"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": null,
+  "counts_by_year": [],
+  "updated_date": "2026-08-21T09:56:20.448147",
+  "created_date": "2026-03-10T00:00:00"
+}

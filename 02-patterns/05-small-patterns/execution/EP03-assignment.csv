@@ -1,0 +1,86 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E3,E01,Check forecast accuracy and derive forecast-error realizations,secondary,EP03-A,,Normal relative-error SD derived from qualified accuracy
+E01-E8,E01,Search for a converged Monte Carlo dynamic bound,secondary,EP03-C,,Error-perturbed flood series generated repeatedly for bound search
+E02-E2,E02,Generate synthetic ensemble inflow forecasts,primary,EP03-C,,MMFE scenario tree of 40 inflow trajectories
+E03-E4,E03,Represent Stage-2 forecast error and release uncertainty,primary,EP03-F,,Stage-2 inflow as forecast plus error makes release random
+E03-E11,E03,Estimate the case-study forecast and error model,secondary,EP03-A,,"Case error fitted and normality tested: N(-2.7, 20.88^2)"
+E04-E2,E04,Compute rolling relative-error reductions,secondary,EP03-A,,Relative-error reductions computed as the variables to be modeled
+E04-E3,E04,Split reductions by season,primary,EP03-A,,Reductions split by season because series is nonstationary
+E04-E4,E04,Fit and screen marginal distributions,primary,EP03-A,,"Candidate marginals fitted and screened by K-S, bias, RMSE"
+E04-E5,E04,Check serial dependence and fit joint copulas,primary,EP03-B,,Serial dependence checked; four-dimensional t copula fitted
+E04-E6,E04,Generate single-period reduction samples and check moments,primary,EP03-C,EP03-G,Reduction samples generated and moments checked
+E04-E7,E04,Reconstruct forecast uncertainty at each lead time,primary,EP03-C,,Lead-time errors reconstructed from simulated reductions
+E04-E8,E04,Generate synthetic daily flows and predicted inflows,primary,EP03-B,,Synthetic daily inflow with Gumbel copula for upper-tail dependence
+E06-E2,E06,Fit three-day forecast-error model,primary,EP03-A,,Ten candidate marginals fitted to lead-time errors; Wakeby selected
+E06-E3,E06,Generate dependent forecast-error vectors,primary,EP03-B,,Errors generated through conditional copula distributions
+E06-E4,E06,Generate synthetic daily flood hydrographs,primary,EP03-B,,Daily flows generated conditional on previous day
+E06-E5,E06,Fit distributions for hydraulic/storage/wind uncertainty,primary,EP03-F,,"Discharge, storage, backwater, wave run-up errors"
+E06-E6,E06,Construct LHS uncertainty samples,primary,EP03-C,,LHS samples of non-inflow uncertainties
+E06-E10,E06,Check simulations and interpret risk results,secondary,EP03-G,,Simulated statistics compared with observed
+E08-E1,E08,Compute uncertain initial conditions,primary,EP03-F,,Uncertain initial storage from preceding operation
+E08-E2,E08,Specify uncertain routing inputs,primary,EP03-F,,Reservoir and lateral inflow errors as routing inputs
+E09-E1,E09,Fit dry-period distribution,primary,EP03-A,,"Dry-period length distribution fitted from 1,200 periods"
+E09-E2,E09,Estimate effective forecast lead time,secondary,EP03-A,,Natural lead time fitted as a normal distribution
+E10-E1,E10,Define RFH and uncertainty,primary,EP03-A,,Stage-wise error coefficients set for reliable horizon
+E11-E1,E11,Estimate forecast skill/error,secondary,EP03-A,,Normal error per flood-volume period from skill
+E11-E2,E11,Build flood-volume scenarios,primary,EP03-D,,"10,000 flood-volume scenarios beyond historical range"
+E12-E1,E12,Fit forecast-error distribution,primary,EP03-A,,Maximum-entropy error distribution with modal error and interval
+E13-E3,E13,Construct multivariate forecast-error records,primary,EP03-A,,Error series formed per forecast dimension before modeling
+E13-E4,E13,Model conditional bias and heteroscedasticity,primary,EP03-A,,Conditional bias and heteroscedastic error scale modeled
+E13-E5,E13,Remove dependence and fit residual distributions,primary,EP03-B,,VAR removes auto- and cross-correlation before residual fitting
+E13-E6,E13,Reimpose dependence by Schaake shuffle and kNN,primary,EP03-B,,Schaake shuffle and kNN reimpose dependence
+E13-E7,E13,Reconstruct syn-HEFS forecasts,primary,EP03-C,,Synthetic ensemble forecasts reconstructed
+E13-E8,E13,Reconstruct syn-GEFS and force HEFS,primary,EP03-C,,Synthetic meteorological forecasts run through forecast system
+E13-E9,E13,Verify synthetic forecast ensembles,secondary,EP03-G,,Synthetic ensembles verified against hindcast
+E13-E10,E13,Validate rare-event forecast attributes,secondary,EP03-G,,Rare-event attributes of synthetic forecasts checked
+E14-E4,E14,Fit error marginals and adjacent copula,primary,EP03-B,,Adjacent-error copula selected
+E14-E5,E14,Generate SE-Cloud scenarios with Gibbs sampling,primary,EP03-B,,Gibbs sampling of temporally dependent errors
+E16-E7,E16,Construct event and training designs,secondary,EP03-D,,Historical events scaled to 100-300-year magnitudes
+E20-E2,E20,Generate a stochastic flash-flood ensemble,primary,EP03-D,,"1,000 stochastic flash floods from rainfall-runoff chain"
+E23-E3,E23,Reduce ensemble to a scenario tree,primary,EP03-E,,Ensemble reduced to 32-branch tree by backward reduction
+E24-E1,E24,Specify two-stage water balance and forecast variables,secondary,EP03-A,,Upstream and intermediate flows written as forecast plus error
+E25-E1,E25,Parameterize forecast ensemble and reservoir state,secondary,EP03-C,,Discrete storm ensemble with probabilities
+E26-E2,E26,Prepare uncertainty and risk functions,primary,EP03-A,,Unbiased normal phase errors combined into total variance
+E27-E2,E27,Estimate lead-time error statistics,secondary,EP03-A,,Lead-time error mean and SD used to parameterize the model
+E27-E4,E27,Generate random inflow scenarios,primary,EP03-C,,Gaussian error series superimposed on representative floods
+E27-E6,E27,Magnify return-period floods and estimate exceedance risk,primary,EP03-D,,Representative floods magnified to return periods
+E28-E2,E28,Estimate relative forecast-error scale,primary,EP03-A,,Error SD inferred from qualified rate or NSE
+E28-E4,E28,Transfer error to stochastic routing,secondary,EP03-F,,Forecast error transferred into storage SDE
+E29-E2,E29,Generate candidate inflow paths,primary,EP03-C,,Quantile inflow paths from probabilistic forecast
+E30-E1,E30,Set uncertainty model and case data,primary,EP03-F,,"Stochastic inflow, outflow, storage relations"
+E30-E4,E30,Recursively calculate level-error moments,secondary,EP03-F,,Level-error moments propagated recursively
+E31-E1,E31,Parameterize uncertainty sources,primary,EP03-F,,"Inflow, storage, release errors with correlations"
+E32-E2,E32,Generate physically consistent training samples,primary,EP03-C,,LHS inflow samples routed to make training data
+E33-E2,E33,Build lead-time forecast scenarios,primary,EP03-C,,Lead-time forecast scenarios by perturbing observed inflow
+E33-E4,E33,Construct aligned stage-2 design-event inputs,primary,EP03-D,,Design hydrographs aligned beyond forecast horizon
+E33-E7,E33,Generate Monte Carlo verification samples,primary,EP03-D,,Multisite flood samples preserving encounter properties
+E34-E1,E34,Define forecast-error variables and system links,primary,EP03-A,,Relative-error variables defined for reservoir and lateral inflows
+E34-E2,E34,Calibrate a correlated t-copula,primary,EP03-B,,t copula preserves temporal and spatial correlation
+E34-E3,E34,Sample discretized inflow scenarios,primary,EP03-C,,Fan scenarios sampled from copula
+E34-E9,E34,Diagnose scenario coverage and forecast behavior,primary,EP03-G,,Scenario coverage and correlation vs actual flow
+E35-E2,E35,Generate deterministic forecast scenarios,primary,EP03-C,,Deterministic perturbed forecast per receding hour
+E35-E3,E35,Generate evolving probabilistic forecast ensembles,primary,EP03-C,,Probabilistic ensemble with spread growing by lead time
+E35-E7,E35,Reduce PSF ensemble to a mass-conservative tree,primary,EP03-E,,Mass-conservative reduction to 16-branch tree
+E36-E2,E36,Convert quality metric to error σ,primary,EP03-A,,Normal error SD from alpha or R2
+E36-E3,E36,Generate and structure inflow scenarios,primary,EP03-E,,Scenarios arranged as root-to-leaf tree paths
+E37-E1,E37,Inventory operation modes and risk factors,primary,EP03-A,,Uncertainty factors inventoried to choose which error to model
+E37-E2,E37,Fit and test forecast net-rainfall error,primary,EP03-A,,Net-rainfall error fitted and chi-square tested
+E37-E5,E37,Generate CO Monte Carlo floods and route them,secondary,EP03-C,,Inflow errors sampled for conventional-operation Monte Carlo
+E37-E6,E37,Generate FBO Monte Carlo forecasts and route actual inflow,secondary,EP03-C,,Net-rainfall forecast errors sampled for forecast-based operation
+E38-E2,E38,Define forecast-error samples,primary,EP03-A,,Nine candidate distributions fitted to control-point errors
+E38-E3,E38,Represent discharge and storage uncertainty,primary,EP03-F,,Discharge coefficient and storage error
+E38-E4,E38,Jointly sample uncertainty realizations,primary,EP03-B,,"Correlated lead-time errors by t copula, others by LHS"
+E39-E2,E39,Fit the forecast-error density,primary,EP03-A,,Error density by maximum entropy with moment constraints
+E39-E3,E39,Derive cumulative-rainfall density,primary,EP03-A,,Rainfall density derived from flood-volume distribution
+E40-E1,E40,Build ensemble inflow forecasts,secondary,EP03-C,,Ensemble from parameter and precipitation uncertainty
+E41-E1,E41,Divide the flood season and prepare design floods,secondary,EP03-D,,Design floods at 14 frequencies per season
+E41-E2,E41,Quantify forecast error as a fuzzy variable,primary,EP03-A,,Forecast error as fuzzy membership function
+E41-E4,E41,Run fuzzy simulation for each IOWL/frequency,secondary,EP03-C,,Fuzzy error samples applied to design floods
+E42-E1,E42,Construct lead-time-specific error samples,secondary,EP03-A,,Lead-time-specific error samples for model fitting
+E42-E2,E42,Fit and select IGMD,primary,EP03-A,,Mixture error model fitted with chosen number of components
+E42-E3,E42,Validate error-model fit,primary,EP03-G,,Error-model fit compared with alternatives
+E42-E4,E42,Sample uncertainty and construct ensembles,primary,EP03-C,,MCMC error samples turned into ensembles
+E42-E5,E42,Assess ensemble coverage,secondary,EP03-G,,Ensemble coverage of observations
+E45-E4,E45,Build and route nonstationary scenarios,primary,EP03-D,,Nonstationary annual-maximum scenario for 2020-2039
+E49-E1,E49,Define forecast error and case data,secondary,EP03-A,,Lead-time error samples formed for scenario generation
+E49-E2,E49,Fit marginals and construct dependent uncertainty scenarios,primary,EP03-B,,t copula for multi-order temporal dependence

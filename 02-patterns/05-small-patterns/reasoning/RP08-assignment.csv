@@ -1,0 +1,39 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R7,E01,Use Monte Carlo convergence to select the upper dynamic bound,primary,RP08-C,,Monte Carlo search with convergence check chosen to find the bound
+E03-R6,E03,Use KKT conditions to identify the allocation regime,primary,RP08-B,,KKT conditions justified by convexity
+E05-R4,E05,Use marginal-utility equality or a boundary condition to select the rule,primary,RP08-B,,Marginal-utility equality or boundary condition selects rule
+E08-R3,E08,Choose an interpretable dependency representation,primary,RP08-D,,Bayesian network chosen for interpretable dependency structure
+E08-R4,E08,Generate and discretize training evidence,primary,RP08-D,,Training samples and discretization designed for BN learning
+E08-R5,E08,Learn BN and select inference direction,primary,RP08-D,,BN learning and inference direction chosen
+E13-R3,E13,Select the synthesis space,primary,RP08-A,,Direct HEFS fitting vs rerunning forecast chain: cost vs process pathway
+E14-R1,E14,Classify event scale before fitting,primary,RP08-E,,Events clustered by scale before forecast model fitting
+E14-R2,E14,Select forecast information by association,primary,RP08-E,,Forecast inputs selected by MIC
+E14-R3,E14,Combine heterogeneous deterministic models by distributional similarity,primary,RP08-E,,Forecasters combined with Cloud model
+E15-R6,E15,Choose constrained evolutionary search,primary,RP08-C,,Constrained evolutionary algorithm chosen for many-objective search
+E17-R2,E17,Select MPC for scalable control,primary,RP08-A,,MPC chosen for scalability and direct ensemble use
+E22-R2,E22,Use NWP precipitation and LSTM for a fast ensemble inflow product,primary,RP08-E,,LSTM chosen for speed with ensemble precipitation
+E22-R6,E22,Use GA to search release/storage decisions for each scenario,primary,RP08-C,,GA chosen for simplicity and robustness
+E23-R4,E23,Select a routing representation that can support optimization,primary,RP08-A,,Routing model chosen by accuracy vs optimization cost
+E24-R4,E24,Establish marginal-value allocation logic,primary,RP08-B,,KKT with convex expected damage gives equal-marginal allocation
+E25-R4,E25,Derive the optimality condition,primary,RP08-B,,Optimality by derivative; convexity condition stated
+E26-R4,E26,Reduce to one conservation variable and derive optimality,primary,RP08-B,,Problem reduced to one variable for interpretable KKT
+E30-R2,E30,Select correlated SDE propagation,primary,RP08-D,,SDE chosen over simulation and FOSM to keep correlation
+E30-R3,E30,Represent hydraulic relationships locally,primary,RP08-A,,Hydraulic curves linearized locally for recursion
+E31-R3,E31,Choose SDE plus local linearization,primary,RP08-A,RP08-D,Stochastic balance with local linearization of reservoir curves
+E32-R2,E32,Choose DBN factorization and transfer links,primary,RP08-D,,Dynamic BN factorization for time-varying dependence
+E32-R3,E32,Combine physical simulation data with expert structure,primary,RP08-D,,Physical simulation data combined with expert causal structure
+E32-R4,E32,Make continuous risk variables learnable,primary,RP08-D,,Continuous variables discretized for learning
+E35-R8,E35,Treat branch/horizon selection as a performance-computation trade-off,primary,RP08-A,,Scenario-tree branches and horizon chosen by performance vs computation
+E36-R5,E36,Solve the deterministic equivalent globally,primary,RP08-C,,Deterministic equivalent solved with global solver
+E36-R7,E36,Infer the maximum-level density with POME,primary,RP08-D,,Maximum-entropy density because sample too small for direct estimation
+E39-R3,E39,Prefer continuous integration to conditional interval approximation,primary,RP08-D,,Continuous integration preferred over interval approximation
+E41-R4,E41,Use dense frequency coverage and fuzzy simulation,primary,RP08-A,,Dense design-flood frequency coverage and fuzzy simulation for nonlinear routing
+E42-R2,E42,Make mixture complexity and initialization data-driven,primary,RP08-D,,Mixture complexity and initialization chosen from data
+E43-R2,E43,Select a tractable predictive control architecture,primary,RP08-A,,"Simplified internal model inside MPC, high-resolution model outside"
+E44-R2,E44,Reduce system dimension at flood-control stations,primary,RP08-A,,Reservoirs aggregated into virtual reservoirs to reduce dimension
+E44-R3,E44,Represent channel storage explicitly,primary,RP08-A,,Channel storage represented explicitly
+E47-R3,E47,Use BP weights for inherent importance,primary,RP08-F,,Network weights used for criterion importance
+E47-R4,E47,Add one-at-a-time sensitivity,primary,RP08-F,,One-at-a-time sensitivity added
+E48-R4,E48,Diagnose correlation and choose PCA over deletion,primary,RP08-F,,PCA chosen over criterion deletion
+E48-R5,E48,Derive weights without unstable entropy conversion,primary,RP08-F,,Improved entropy conversion for stable weights
+E50-R2,E50,Use a compact risk-curve representation of EFO,primary,RP08-A,,Compact risk-curve parameterization to limit overfitting across reservoirs

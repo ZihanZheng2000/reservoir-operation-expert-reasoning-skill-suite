@@ -1,0 +1,647 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        28
+      ]
+    ],
+    "date-time": "2026-08-28T09:27:59Z",
+    "timestamp": 1787909279955,
+    "version": "build-2784847793"
+  },
+  "reference-count": 62,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            5,
+            6
+          ]
+        ],
+        "date-time": "2024-05-06T00:00:00Z",
+        "timestamp": 1714953600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 5,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100004731",
+      "name": "Natural Science Foundation of Zhejiang Province",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "LZ20E090001"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "LZ20E090001"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100004731",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100004731",
+      "name": "Natural Science Foundation of Zhejiang Province",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "LY23E090001"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "LY23E090001"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100004731",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Water Resources Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Informing reservoirs with forecasts is highly important for real‐time flood control. This study proposed a forecast‐informed methodology framework for reservoir flood control operation under uncertainty. A new combination of two post‐processing methods, that is, the Cloud model and error‐based copula functions, were developed to merge individual AI‐based forecasts to ensemble flood forecasts, so called stochastic errors‐based Cloud (SE‐Cloud). A multi‐objective robust optimization model (MRO) integrating the risk, resilience, and vulnerability was then proposed to tackle flood control problems under ensemble forecasts; for comparison, a two‐objective stochastic optimization model (TSO) was developed to minimize the expected highest reservoir level and peak release. The proposed methodology was applied to the Lishimen reservoir in the Shifeng River subbasin, China, aiming to comprehensively verify the relationships among deterministic forecasts, ensemble forecasts, and flood control performance. Results showed that the Cloud model could effectively integrate different models and improve forecast accuracy. But a higher deterministic forecast quality did not consistently result in improved flood control performance. SE‐Cloud could capture the peak flow and effectively characterize forecast uncertainties and increased hypervolume values by 13.14%–39.65% compared to the Cloud model, indicating the superiority of ensemble forecasts in generating robust solutions over individual deterministic forecasts. MRO released more inflow than TSO, decreasing the expected highest water level by 0.05 m and incrementing the expected peak release by 4.29%. However, with downstream resilience value remaining at zero, it is demonstrated that MRO improving upstream vulnerability did not necessarily diminish resilience. The enhanced robustness highlights the potential of AI‐based ensemble forecasts in flood control.</jats:p>",
+  "DOI": "10.1029/2023wr035693",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        6
+      ]
+    ],
+    "date-time": "2024-05-06T14:55:45Z",
+    "timestamp": 1715007345000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 30,
+  "title": [
+    "AI‐Based Ensemble Flood Forecasts and Its Implementation in Multi‐Objective Robust Optimization Operation for Reservoir Flood Control"
+  ],
+  "prefix": "10.1029",
+  "volume": "60",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-5339-1058",
+      "authenticated-orcid": false,
+      "given": "Yuxue",
+      "family": "Guo",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Civil Engineering and Architecture Institute of Water Science and Engineering Zhejiang University  Hangzhou China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yue‐Ping",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Civil Engineering and Architecture Institute of Water Science and Engineering Zhejiang University  Hangzhou China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xinting",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Civil Engineering and Architecture Institute of Water Science and Engineering Zhejiang University  Hangzhou China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-7830-0386",
+      "authenticated-orcid": false,
+      "given": "Li",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Civil Engineering and Architecture Institute of Water Science and Engineering Zhejiang University  Hangzhou China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4351-4066",
+      "authenticated-orcid": false,
+      "given": "Haiting",
+      "family": "Gu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Civil Engineering and Architecture Institute of Water Science and Engineering Zhejiang University  Hangzhou China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        5,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_9_1_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125717"
+    },
+    {
+      "key": "e_1_2_9_1_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11063‐010‐9156‐7"
+    },
+    {
+      "key": "e_1_2_9_1_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.apenergy.2019.114127"
+    },
+    {
+      "key": "e_1_2_9_1_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.2517‐6161.1964.tb00553.x"
+    },
+    {
+      "key": "e_1_2_9_1_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125376"
+    },
+    {
+      "key": "e_1_2_9_1_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11269‐017‐1759‐6"
+    },
+    {
+      "key": "e_1_2_9_1_8_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125264"
+    },
+    {
+      "key": "e_1_2_9_1_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ecoleng.2022.106699"
+    },
+    {
+      "key": "e_1_2_9_1_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2017WR022024"
+    },
+    {
+      "key": "e_1_2_9_1_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1109/TEVC.2013.2281535"
+    },
+    {
+      "key": "e_1_2_9_1_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125188"
+    },
+    {
+      "key": "e_1_2_9_1_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-0-08-051581-6.50057-X"
+    },
+    {
+      "key": "e_1_2_9_1_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s10584‐015‐1586‐9"
+    },
+    {
+      "key": "e_1_2_9_1_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.advwatres.2020.103531"
+    },
+    {
+      "key": "e_1_2_9_1_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125769"
+    },
+    {
+      "key": "e_1_2_9_1_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2021.126794"
+    },
+    {
+      "key": "e_1_2_9_1_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2023.129233"
+    },
+    {
+      "key": "e_1_2_9_1_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess‐25‐5951‐2021"
+    },
+    {
+      "key": "e_1_2_9_1_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR018i001p00014"
+    },
+    {
+      "key": "e_1_2_9_1_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2018.08.040"
+    },
+    {
+      "key": "e_1_2_9_1_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2014.01.062"
+    },
+    {
+      "key": "e_1_2_9_1_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2021.127334"
+    },
+    {
+      "key": "e_1_2_9_1_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.rser.2020.109910"
+    },
+    {
+      "key": "e_1_2_9_1_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.scitotenv.2017.03.242"
+    },
+    {
+      "key": "e_1_2_9_1_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)0887‐3801(1994)8:2(201)"
+    },
+    {
+      "key": "e_1_2_9_1_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2010.12.041"
+    },
+    {
+      "key": "e_1_2_9_1_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00337288"
+    },
+    {
+      "key": "e_1_2_9_1_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess‐22‐6005‐2018"
+    },
+    {
+      "key": "e_1_2_9_1_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1998WR900018"
+    },
+    {
+      "key": "e_1_2_9_1_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.energy.2021.122666"
+    },
+    {
+      "key": "e_1_2_9_1_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.coastaleng.2013.12.009"
+    },
+    {
+      "key": "e_1_2_9_1_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/wat2.1246"
+    },
+    {
+      "key": "e_1_2_9_1_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/int.20340"
+    },
+    {
+      "key": "e_1_2_9_1_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2021.127419"
+    },
+    {
+      "key": "e_1_2_9_1_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2019.03.055"
+    },
+    {
+      "key": "e_1_2_9_1_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.sysarc.2020.101839"
+    },
+    {
+      "key": "e_1_2_9_1_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2022.128005"
+    },
+    {
+      "key": "e_1_2_9_1_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/0022‐1694(70)90255‐6"
+    },
+    {
+      "key": "e_1_2_9_1_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.124901"
+    },
+    {
+      "key": "e_1_2_9_1_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2021.126455"
+    },
+    {
+      "key": "e_1_2_9_1_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014WR015380"
+    },
+    {
+      "key": "e_1_2_9_1_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ejor.2022.06.049"
+    },
+    {
+      "key": "e_1_2_9_1_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2021.126152"
+    },
+    {
+      "key": "e_1_2_9_1_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/science.1205438"
+    },
+    {
+      "key": "e_1_2_9_1_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0378‐4266(02)00271‐6"
+    },
+    {
+      "key": "e_1_2_9_1_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envsoft.2021.105094"
+    },
+    {
+      "key": "e_1_2_9_1_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11269‐014‐0591‐5"
+    },
+    {
+      "key": "e_1_2_9_1_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2018.07.033"
+    },
+    {
+      "key": "e_1_2_9_1_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.11989/JEST.1674‐862X.80904120"
+    },
+    {
+      "key": "e_1_2_9_1_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2022.127794"
+    },
+    {
+      "key": "e_1_2_9_1_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR030965"
+    },
+    {
+      "key": "e_1_2_9_1_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2020.125513"
+    },
+    {
+      "key": "e_1_2_9_1_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.scitotenv.2017.06.265"
+    },
+    {
+      "key": "e_1_2_9_1_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2019.124229"
+    },
+    {
+      "key": "e_1_2_9_1_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2019.124293"
+    },
+    {
+      "key": "e_1_2_9_1_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2023.129421"
+    },
+    {
+      "key": "e_1_2_9_1_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.asoc.2019.105766"
+    },
+    {
+      "key": "e_1_2_9_1_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2017WR021480"
+    },
+    {
+      "key": "e_1_2_9_1_60_1",
+      "volume-title": "Parallel problem solving from nature, Berlin, Heidelberg",
+      "author": "Zitzler E.",
+      "year": "1998"
+    },
+    {
+      "key": "e_1_2_9_2_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1145/2939672.2939785"
+    },
+    {
+      "key": "e_1_2_9_2_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3115/v1/D14-1179"
+    },
+    {
+      "key": "e_1_2_9_2_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1162/neco.1997.9.8.1735"
+    }
+  ],
+  "container-title": [
+    "Water Resources Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023WR035693",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        3,
+        12
+      ]
+    ],
+    "date-time": "2025-03-12T12:53:44Z",
+    "timestamp": 1741784024000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR035693"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "references-count": 62,
+  "journal-issue": {
+    "issue": "5",
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2023WR035693"
+  ],
+  "URL": "https://doi.org/10.1029/2023wr035693",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0043-1397",
+    "1944-7973"
+  ],
+  "issn-type": [
+    {
+      "value": "0043-1397",
+      "type": "print"
+    },
+    {
+      "value": "1944-7973",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2023-06-29",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-03-27",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2024-05-06",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2023WR035693"
+}

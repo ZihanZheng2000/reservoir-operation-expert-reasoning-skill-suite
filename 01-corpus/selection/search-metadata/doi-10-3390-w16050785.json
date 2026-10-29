@@ -1,0 +1,787 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        26
+      ]
+    ],
+    "date-time": "2025-11-26T15:56:49Z",
+    "timestamp": 1764172609234,
+    "version": "build-2065373602"
+  },
+  "reference-count": 41,
+  "publisher": "MDPI AG",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2024,
+            3,
+            6
+          ]
+        ],
+        "date-time": "2024-03-06T00:00:00Z",
+        "timestamp": 1709683200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012166",
+      "name": "National Key Research and Development Program of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2021YFC3200303",
+        "ZH2102000110",
+        "51979113"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2021YFC3200303",
+            "ZH2102000110",
+            "51979113"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012166",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "Open Research Fund of Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd.",
+      "award": [
+        "2021YFC3200303",
+        "ZH2102000110",
+        "51979113"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2021YFC3200303",
+            "ZH2102000110",
+            "51979113"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2021YFC3200303",
+        "ZH2102000110",
+        "51979113"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2021YFC3200303",
+            "ZH2102000110",
+            "51979113"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water"
+  ],
+  "abstract": "<jats:p>Flood control operation of cascade reservoirs is an important technology to reduce flood disasters and increase economic benefits. Flood forecast information can help reservoir managers make better use of flood resources and reduce flood risks. In this paper, a hierarchical pre-release flood operation rule considering the flood forecast and its uncertainty information is proposed for real-time flood control. A many-objective optimization model considering the cascade reservoir’s power generation objective, flood control objective, and navigation objective is established. Then, a region search evolutionary algorithm is applied to optimize the many-objective optimization model in a real-world case study upstream of the Yangtze River basin. The optimization experimental results show that the region search evolutionary algorithm can balance convergence and diversity well, and the HV value is 40% higher than the MOEA/D algorithm. The simulation flood control results of cascade reservoirs upstream of the Yangtze River demonstrate that the optimized flood control rule can increase the average multi-year power generation of cascade reservoirs by a maximum of 27.72 × 108 kWh under the condition of flood control safety. The rules proposed in this paper utilize flood resources by identifying runoff forecast information, and pre-release to the flood limit level 145 m before the big flood occurs, so as to ensure the safety downstream and the dam’s own flood control and provide reliable decision support for reservoir managers.</jats:p>",
+  "DOI": "10.3390/w16050785",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        6
+      ]
+    ],
+    "date-time": "2024-03-06T05:48:01Z",
+    "timestamp": 1709704081000
+  },
+  "page": "785",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 4,
+  "title": [
+    "Many-Objective Hierarchical Pre-Release Flood Operation Rule Considering Forecast Uncertainty"
+  ],
+  "prefix": "10.3390",
+  "volume": "16",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-7377-159X",
+      "authenticated-orcid": false,
+      "given": "Yongqi",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Guibing",
+      "family": "Hou",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Baohua",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Yang",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Rui",
+      "family": "Tian",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Tao",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8805-0015",
+      "authenticated-orcid": false,
+      "given": "Hui",
+      "family": "Qin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "School of Hydropower and Information Engineering, Huazhong University of Science and Technology, Wuhan 430072, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "101075",
+      "DOI": "10.1016/j.gsf.2020.09.006",
+      "article-title": "Flood susceptibility modelling using advanced ensemble machine learning models",
+      "volume": "12",
+      "author": "Talukdar",
+      "year": "2021",
+      "journal-title": "Geosci. Front."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "1375",
+      "DOI": "10.1007/s00477-019-01689-9",
+      "article-title": "Flash-flood Potential Index mapping using weights of evidence, decision Trees models and their novel hybrid integration",
+      "volume": "33",
+      "author": "Costache",
+      "year": "2019",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "124201",
+      "DOI": "10.1016/j.jhydrol.2019.124201",
+      "article-title": "Can integrated green spaces and storage facilities absorb the increased risk of flooding due to climate change in developed urban environments?",
+      "volume": "579",
+      "author": "Alexander",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "105162",
+      "DOI": "10.1016/j.envint.2019.105162",
+      "article-title": "Identifying the trade-offs between climate change mitigation and adaptation in urban land use planning: An empirical study in a coastal city",
+      "volume": "133",
+      "author": "Xu",
+      "year": "2019",
+      "journal-title": "Environ. Int."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "125479",
+      "DOI": "10.1016/j.jhydrol.2020.125479",
+      "article-title": "Research on joint flood control operation rule of parallel reservoir group based on aggregation–decomposition method",
+      "volume": "590",
+      "author": "Pan",
+      "year": "2020",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "839",
+      "DOI": "10.1029/96WR03745",
+      "article-title": "Operating rules for multireservoir systems",
+      "volume": "33",
+      "author": "Oliveira",
+      "year": "1997",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "130634",
+      "DOI": "10.1016/j.jhydrol.2024.130634",
+      "article-title": "Spatiotemporal variations of inter- and intra-annual extreme streamflow in the Yangtze River Basin",
+      "volume": "629",
+      "author": "Huang",
+      "year": "2024",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "317",
+      "DOI": "10.1287/mnsc.12.5.317",
+      "article-title": "Dynamic Programming",
+      "volume": "5",
+      "author": "Howard",
+      "year": "1966",
+      "journal-title": "Manag. Sci."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1109/4235.996017",
+      "article-title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+      "volume": "6",
+      "author": "Deb",
+      "year": "2002",
+      "journal-title": "IEEE Trans. Evol. Comput."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "490",
+      "DOI": "10.1061/(ASCE)0733-9496(1993)119:4(490)",
+      "article-title": "Diagnostic Checking in Stochastic Dynamic Programming",
+      "volume": "119",
+      "author": "Huang",
+      "year": "1993",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "3211",
+      "DOI": "10.1002/hyp.6528",
+      "article-title": "A combined simulation–genetic algorithm optimization model for optimal rule curves of a reservoir: A case study of the Nam Oon Irrigation Project, Thailand",
+      "volume": "21",
+      "author": "Suiadee",
+      "year": "2007",
+      "journal-title": "Hydrol. Process."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "04016084",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000743",
+      "article-title": "Fuzzy Inference System for Robust Rule-Based Reservoir Operation under Nonstationary Inflows",
+      "volume": "143",
+      "author": "Yang",
+      "year": "2017",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1016/j.jhydrol.2019.06.045",
+      "article-title": "Operation rule derivation of hydropower reservoir by k-means clustering method and extreme learning machine based on particle swarm optimization",
+      "volume": "576",
+      "author": "Feng",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "124207",
+      "DOI": "10.1016/j.jhydrol.2019.124207",
+      "article-title": "Deriving reservoir operation rule based on Bayesian deep learning method considering multiple uncertainties",
+      "volume": "579",
+      "author": "Liu",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "1082",
+      "DOI": "10.1016/j.advwatres.2006.10.001",
+      "article-title": "A diversified multiobjective GA for optimizing reservoir rule curves",
+      "volume": "30",
+      "author": "Chen",
+      "year": "2007",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "12",
+      "DOI": "10.1016/j.jhydrol.2009.07.061",
+      "article-title": "Multi-objective evolutionary algorithm for operating parallel reservoir system",
+      "volume": "377",
+      "author": "Chang",
+      "year": "2009",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "127944",
+      "DOI": "10.1016/j.jhydrol.2022.127944",
+      "article-title": "Reservoir operation rule in semiarid areas: The quantity-quality approach",
+      "volume": "610",
+      "author": "Gomes",
+      "year": "2022",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_18",
+      "first-page": "100727",
+      "article-title": "Hybrid methods for reservoir operation rule curve determination considering uncertain future condition",
+      "volume": "35",
+      "author": "Moeini",
+      "year": "2022",
+      "journal-title": "Sustain. Comput. Inform. Syst."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "123949",
+      "DOI": "10.1016/j.jhydrol.2019.123949",
+      "article-title": "Ecological flow considered multi-objective storage energy operation chart optimization of large-scale mixed reservoirs",
+      "volume": "577",
+      "author": "Jiang",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "337",
+      "DOI": "10.1007/s11269-018-2105-3",
+      "article-title": "Hierarchical Flood Operation Rules Optimization Using Multi-Objective Cultured Evolutionary Algorithm Based on Decomposition",
+      "volume": "33",
+      "author": "Liu",
+      "year": "2019",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "774",
+      "DOI": "10.1016/j.renene.2020.11.152",
+      "article-title": "Optimizing operating rules for multi-reservoir hydropower generation systems: An adaptive hybrid differential evolution algorithm",
+      "volume": "167",
+      "author": "Ahmadianfar",
+      "year": "2021",
+      "journal-title": "Renew. Energy"
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "127936",
+      "DOI": "10.1016/j.jhydrol.2022.127936",
+      "article-title": "Multi-objective operation of cascade reservoirs based on short-term ensemble streamflow prediction",
+      "volume": "610",
+      "author": "He",
+      "year": "2022",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "507",
+      "DOI": "10.1080/07055900.2012.734276",
+      "article-title": "Streamflow Modelling: A Primer on Applications, Approaches and Challenges",
+      "volume": "50",
+      "author": "Bourdin",
+      "year": "2012",
+      "journal-title": "Atmosphere-Ocean"
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1785",
+      "DOI": "10.1007/s11269-019-02221-y",
+      "article-title": "Middle and Long-Term Runoff Probabilistic Forecasting Based on Gaussian Mixture Regression",
+      "volume": "33",
+      "author": "Liu",
+      "year": "2019",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "W08432",
+      "DOI": "10.1029/2007WR006737",
+      "article-title": "Predicting monthly streamflow using data-driven models coupled with data-preprocessing techniques",
+      "volume": "45",
+      "author": "Wu",
+      "year": "2009",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "2703",
+      "DOI": "10.1002/hyp.10799",
+      "article-title": "Efficient estimation of flood forecast prediction intervals via single- and multi-objective versions of the LUBE method",
+      "volume": "30",
+      "author": "Ye",
+      "year": "2016",
+      "journal-title": "Hydrol. Process."
+    },
+    {
+      "key": "ref_27",
+      "first-page": "W01415",
+      "article-title": "Hedging rule for reservoir operations: 1. A theoretical analysis",
+      "volume": "44",
+      "author": "You",
+      "year": "2008",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_28",
+      "first-page": "W01416",
+      "article-title": "Hedging rule for reservoir operations: 2. A numerical model",
+      "volume": "44",
+      "author": "You",
+      "year": "2008",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "04014041",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000432",
+      "article-title": "Optimal Hedging Rules for Reservoir Flood Operation from Forecast Uncertainties",
+      "volume": "140",
+      "author": "Zhao",
+      "year": "2014",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "253",
+      "DOI": "10.1016/j.jhydrol.2017.06.009",
+      "article-title": "Derivation of optimal joint operating rules for multi-purpose multi-reservoir water-supply system",
+      "volume": "551",
+      "author": "Tan",
+      "year": "2017",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "04021070",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001460",
+      "article-title": "Two-Stage Metaheuristic Mixed Integer Nonlinear Programming Approach to Extract Optimum Hedging Rules for Multireservoir Systems",
+      "volume": "147",
+      "year": "2021",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "127515",
+      "DOI": "10.1016/j.jhydrol.2022.127515",
+      "article-title": "Directed graph deep neural network for multi-step daily streamflow forecasting",
+      "volume": "607",
+      "author": "Liu",
+      "year": "2022",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "146",
+      "DOI": "10.1016/j.jhydrol.2018.03.057",
+      "article-title": "Monthly streamflow forecasting based on hidden Markov model and Gaussian Mixture Regression",
+      "volume": "561",
+      "author": "Liu",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/j.ins.2019.03.016",
+      "article-title": "A region search evolutionary algorithm for many-objective optimization",
+      "volume": "488",
+      "author": "Liu",
+      "year": "2019",
+      "journal-title": "Inf. Sci."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "712",
+      "DOI": "10.1109/TEVC.2007.892759",
+      "article-title": "MOEA/D: A Multiobjective Evolutionary Algorithm Based on Decomposition",
+      "volume": "11",
+      "author": "Zhang",
+      "year": "2007",
+      "journal-title": "IEEE Trans. Evol. Comput."
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "577",
+      "DOI": "10.1109/TEVC.2013.2281535",
+      "article-title": "An Evolutionary Many-Objective Optimization Algorithm Using Reference-Point-Based Nondominated Sorting Approach, Part I: Solving Problems With Box Constraints",
+      "volume": "18",
+      "author": "Deb",
+      "year": "2014",
+      "journal-title": "IEEE Trans. Evol. Comput."
+    },
+    {
+      "key": "ref_39",
+      "doi-asserted-by": "crossref",
+      "first-page": "16",
+      "DOI": "10.1109/TEVC.2015.2420112",
+      "article-title": "A New Dominance Relation-Based Evolutionary Algorithm for Many-Objective Optimization",
+      "volume": "20",
+      "author": "Yuan",
+      "year": "2016",
+      "journal-title": "IEEE Trans. Evol. Comput."
+    },
+    {
+      "key": "ref_40",
+      "doi-asserted-by": "crossref",
+      "first-page": "01018",
+      "DOI": "10.1051/e3sconf/202123301018",
+      "article-title": "Region search evolutionary algorithm with constraint handling for multi-objective short-term wind-solar-hydro-thermal scheduling",
+      "volume": "233",
+      "author": "Liu",
+      "year": "2021",
+      "journal-title": "E3S Web Conf."
+    },
+    {
+      "key": "ref_41",
+      "doi-asserted-by": "crossref",
+      "first-page": "694",
+      "DOI": "10.1109/TEVC.2014.2373386",
+      "article-title": "An Evolutionary Many-Objective Optimization Algorithm Based on Dominance and Decomposition",
+      "volume": "19",
+      "author": "Li",
+      "year": "2015",
+      "journal-title": "IEEE Trans. Evol. Comput."
+    }
+  ],
+  "container-title": [
+    "Water"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2073-4441/16/5/785/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        10
+      ]
+    ],
+    "date-time": "2025-10-10T14:10:05Z",
+    "timestamp": 1760105405000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2073-4441/16/5/785"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        6
+      ]
+    ]
+  },
+  "references-count": 41,
+  "journal-issue": {
+    "issue": "5",
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "w16050785"
+  ],
+  "URL": "https://doi.org/10.3390/w16050785",
+  "relation": {},
+  "ISSN": [
+    "2073-4441"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2073-4441"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2024,
+        3,
+        6
+      ]
+    ]
+  }
+}

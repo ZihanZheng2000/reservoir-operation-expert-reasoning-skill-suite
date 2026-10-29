@@ -1,0 +1,666 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        23
+      ]
+    ],
+    "date-time": "2026-07-23T11:37:51Z",
+    "timestamp": 1784806671479,
+    "version": "3.55.0"
+  },
+  "reference-count": 36,
+  "publisher": "MDPI AG",
+  "issue": "3",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            3,
+            22
+          ]
+        ],
+        "date-time": "2020-03-22T00:00:00Z",
+        "timestamp": 1584835200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "the Postgraduate Research &amp; Practice Innovation Program of Jiangsu Province",
+      "award": [
+        "No. SJKY19_0478"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "No. SJKY19_0478"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "the National Key Research and Development Program of China",
+      "award": [
+        "No. 2016YFC0400909"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "No. 2016YFC0400909"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "the Fundamental Research Funds for the Central Universities",
+      "award": [
+        "No. 2019B72314"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "No. 2019B72314"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water"
+  ],
+  "abstract": "<jats:p>Utilizing floodwater resources is important in relieving water shortages, and dynamic control of the flood limited water level (FLWL) for reservoir operation in a flood season is an effective method to achieve this objective. Based on the capacity-constrained pre-release method, this study proposed an improved dynamic control method that considered the duration of dry periods and the lead time of flood forecasts. The pre-release process was divided into two periods: water use and flood control. Taking Xianghongdian Reservoir in the Huai River Basin of China as an example, this study analyzed the statistical laws of continuous dry periods and effective flood forecast lead times and compared the effects of the negative exponential and asymptotic regression models in fitting the dry period distribution. We also calculated the floodwater volume over the FLWL in different situations and evaluated the flood control risks in a worst-case scenario. Statistical law of the dry period duration showed obvious negative index distribution characteristics; the relationship between increased water storage, dry period, and lead time can provide support for the operation decisions of the reservoir. The method did not increase the flood control risk under worst-case scenarios, and it can be used to effectively utilize reservoir floodwater resources.</jats:p>",
+  "DOI": "10.3390/w12030892",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        4,
+        2
+      ]
+    ],
+    "date-time": "2020-04-02T13:39:34Z",
+    "timestamp": 1585834774000
+  },
+  "page": "892",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 26,
+  "title": [
+    "Floodwater Utilization Based on Reservoir Pre-Release Strategy Considering the Worst-Case Scenario"
+  ],
+  "prefix": "10.3390",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Lijuan",
+      "family": "Hua",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xinyu",
+      "family": "Wan",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xianhui",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "The second planning department, Nanjing Water Planning and Designing Institute Corp., Ltd., Nanjing 210022, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Fangzheng",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ping’an",
+      "family": "Zhong",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4542-1138",
+      "authenticated-orcid": false,
+      "given": "Moyang",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Qingyan",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        22
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "488",
+      "DOI": "10.1016/j.jhydrol.2012.05.038",
+      "article-title": "Climate change impacts on water yields and demands in south-western Australia",
+      "volume": "475",
+      "author": "McFarlane",
+      "year": "2012",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.3390/w3020445",
+      "article-title": "Atmospheric rivers, floods and the water resources of California",
+      "volume": "3",
+      "author": "Dettinger",
+      "year": "2011",
+      "journal-title": "Water"
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhai, M., Lin, Q., Huang, G., Zhu, L., An, K., Li, G., and Huang, Y. (2017). Adaptation of cascade hydropower station scheduling on a headwater stream of the Yangtze River under changing climate conditions. Water, 9.",
+      "DOI": "10.3390/w9040293"
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1219",
+      "DOI": "10.1029/WR009i005p01219",
+      "article-title": "Optimization model for the operation of flood control systems",
+      "volume": "9",
+      "author": "Windsor",
+      "year": "1973",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.jhydrol.2008.03.003",
+      "article-title": "Multiple duration limited water level and dynamic limited water level for flood control, with implications on water supply",
+      "volume": "354",
+      "author": "Yun",
+      "year": "2008",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "2605",
+      "DOI": "10.1007/s11431-011-4555-1",
+      "article-title": "Scheme optimum selection for dynamic control of reservoir limited water level",
+      "volume": "54",
+      "author": "Diao",
+      "year": "2011",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "article-title": "Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs",
+      "volume": "143",
+      "author": "Zhou",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "ref_8",
+      "first-page": "1",
+      "article-title": "Floodwater utilization for cascade reservoirs based on dynamic control of seasonal flood control limit levels",
+      "volume": "76",
+      "author": "Chang",
+      "year": "2017",
+      "journal-title": "Environ. Eeath Sci."
+    },
+    {
+      "key": "ref_9",
+      "unstructured": "Wang, B., and Zhou, H. (2006). Theory, Method and Application of Reservoir Dynamic of the Limited Water Level, Press of Hydraul. And Hydropower of China. (In Chinese)."
+    },
+    {
+      "key": "ref_10",
+      "first-page": "28",
+      "article-title": "Dynamic operation of reservoir normal elevation based on rainfall forecast and constrained pre-discharge capacity and its application",
+      "volume": "4",
+      "author": "Wang",
+      "year": "2010",
+      "journal-title": "J. Hydroelec. Eng."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhydrol.2013.05.039",
+      "article-title": "Expected shortage based pre-release strategy for reservoir flood control",
+      "volume": "497",
+      "author": "Chou",
+      "year": "2013",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_12",
+      "first-page": "56",
+      "article-title": "Research on dynamic control domain of flood control level of Hekoucun Reservoir based on forecasting operation",
+      "volume": "37",
+      "author": "Zhao",
+      "year": "2019",
+      "journal-title": "Water Resour. Power"
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/j.jhydrol.2014.07.029",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for mixed cascade reservoir systems",
+      "volume": "519",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "749",
+      "DOI": "10.1007/s11269-012-0213-z",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for cascade reservoirs",
+      "volume": "27",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Withanachchi, S., Ghambashidze, G., Kunchulia, I., Urushadze, T., and Ploeger, A. (2018). A paradigm shift in water quality governance in a transitional context: A critical study about the empowerment of local governance in Georgia. Water, 10.",
+      "DOI": "10.3390/w10020098"
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Liu, Y., and Gupta, H.V. (2007). Uncertainty in hydrologic modeling: Toward an integrated data assimilation framework. Water Resour. Res., 43.",
+      "DOI": "10.1029/2006WR005756"
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "69",
+      "DOI": "10.1175/2009JHM1144.1",
+      "article-title": "Implications of ensemble quantitative precipitation forecast errors on distributed streamflow forecasting",
+      "volume": "11",
+      "author": "Mascaro",
+      "year": "2010",
+      "journal-title": "J. Hydrometeorol."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1037",
+      "DOI": "10.1111/j.1752-1688.1992.tb04015.x",
+      "article-title": "A risk-based approach for flood control operation of a multipurpose reservoir",
+      "volume": "28",
+      "author": "Jain",
+      "year": "1992",
+      "journal-title": "J. Am Water Resour."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "513",
+      "DOI": "10.1029/WR015i003p00513",
+      "article-title": "Preference criterion for flood control under uncertainty",
+      "volume": "15",
+      "author": "Krzysztofowicz",
+      "year": "1979",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xu, B., Zhong, P., Huang, Q., Wang, J., Yu, Z., and Zhang, J. (2017). Optimal hedging rules for water supply reservoir operations under forecast uncertainty and conditional value-at-risk criterion. Water, 9.",
+      "DOI": "10.3390/w9080568"
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "first-page": "1888",
+      "DOI": "10.1007/s11431-011-4392-2",
+      "article-title": "Risk analysis of dynamic control of reservoir limited water level by considering flood forecast error",
+      "volume": "54",
+      "author": "Zhang",
+      "year": "2011",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "5113",
+      "DOI": "10.1007/s11269-016-1472-x",
+      "article-title": "Optimal pre-storm flood hedging releases for a single reservoir",
+      "volume": "30",
+      "author": "Hui",
+      "year": "2016",
+      "journal-title": "Water Resour. Mang."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "1963",
+      "DOI": "10.1002/2016WR019452",
+      "article-title": "Multiobjective hedging rules for flood water conservation",
+      "volume": "53",
+      "author": "Ding",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "214",
+      "DOI": "10.1016/j.jhydrol.2018.01.039",
+      "article-title": "On the performance of satellite precipitation products in riverine flood modeling: A review",
+      "volume": "558",
+      "author": "Maggioni",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_27",
+      "first-page": "66",
+      "article-title": "Real-time dynamic control of reservoir waterlevel in flood season and its risk analysis based on short-term rainfall forecast information",
+      "volume": "43",
+      "author": "Ren",
+      "year": "2013",
+      "journal-title": "J. Hydraul Eng."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "1417",
+      "DOI": "10.2166/nh.2018.177",
+      "article-title": "Evaluation of the BMA probabilistic inflow forecasts using TIGGE numeric precipitation predictions based on artificial neural network",
+      "volume": "49",
+      "author": "Zhong",
+      "year": "2018",
+      "journal-title": "Hydrol. Res."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "123995",
+      "DOI": "10.1016/j.jhydrol.2019.123995",
+      "article-title": "Assessment and modelling of uncertainty in precipitation forecasts from TIGGE using fuzzy probability and Bayesian theory",
+      "volume": "577",
+      "author": "Cai",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1155/2018/7809302",
+      "article-title": "Improving TIGGE Precipitation Forecasts Using an SVR ensemble approach in the Huaihe River Basin",
+      "volume": "2018",
+      "author": "Cai",
+      "year": "2018",
+      "journal-title": "Adv. Meteorol."
+    },
+    {
+      "key": "ref_31",
+      "first-page": "157",
+      "article-title": "A method of determining the timing of water storage during dynamic control of flood limited water level in the reservoir",
+      "volume": "9",
+      "author": "Lin",
+      "year": "2019",
+      "journal-title": "China Rural Water Hydropower"
+    },
+    {
+      "key": "ref_32",
+      "first-page": "6",
+      "article-title": "Dynamic control of flood limited water level for reservoirs: Developments and trends",
+      "volume": "28",
+      "author": "Ding",
+      "year": "2018",
+      "journal-title": "China Flood Drought Manag."
+    },
+    {
+      "key": "ref_33",
+      "first-page": "94",
+      "article-title": "The maximum entropy principle and its applications",
+      "volume": "17",
+      "author": "Qu",
+      "year": "1996",
+      "journal-title": "J. Qingdao Inst. Architect. Eng."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "4027",
+      "DOI": "10.1007/s11269-019-02351-3",
+      "article-title": "A hybrid model for real-time probabilistic flood forecasting using Elman Neural Network with heterogeneity of error distributions",
+      "volume": "33",
+      "author": "Wan",
+      "year": "2019",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "61",
+      "DOI": "10.5194/adgeo-29-61-2011",
+      "article-title": "Coupling ensemble weather predictions based on TIGGE database with Grid-Xinanjiang model for flood forecast",
+      "volume": "29",
+      "author": "Bao",
+      "year": "2011",
+      "journal-title": "Adv. Geosci."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1016/j.jhydrol.2009.06.005",
+      "article-title": "Ensemble flood forecasting: A review",
+      "volume": "375",
+      "author": "Cloke",
+      "year": "2009",
+      "journal-title": "J. Hydrol."
+    }
+  ],
+  "container-title": [
+    "Water"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2073-4441/12/3/892/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T09:10:32Z",
+    "timestamp": 1760173832000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2073-4441/12/3/892"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        22
+      ]
+    ]
+  },
+  "references-count": 36,
+  "journal-issue": {
+    "issue": "3",
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "w12030892"
+  ],
+  "URL": "https://doi.org/10.3390/w12030892",
+  "relation": {},
+  "ISSN": [
+    "2073-4441"
+  ],
+  "issn-type": [
+    {
+      "value": "2073-4441",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        3,
+        22
+      ]
+    ]
+  }
+}

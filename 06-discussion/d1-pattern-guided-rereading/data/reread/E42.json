@@ -1,0 +1,85 @@
+{
+  "paper": "E42",
+  "patterns": {
+    "RP01": {"present": false},
+    "RP02": {
+      "present": true,
+      "small": ["RP02-A", "RP02-D", "RP02-G"],
+      "quote": "The streamflow data exhibited strong temporal heterogeneity from the low flow period to the flood period, showing multimodal features. Therefore, it is quite natural and intuitive to assume that the cohorts come from different Gaussian distributions.",
+      "where": "Section 2.1, p.3"
+    },
+    "RP03": {"present": false},
+    "RP04": {
+      "present": true,
+      "small": ["RP04-A", "RP04-B", "RP04-D"],
+      "quote": "the risk within the forecast lead time can be expressed as the risk rate (R f rp), which represents the rate that the ensemble forecasted flood event (Qen T(i),t(j)) exceeds the design flood (Qrp) in the return period rp",
+      "where": "Section 2.4, p.8"
+    },
+    "RP05": {"present": false},
+    "RP06": {"present": false},
+    "RP07": {"present": false},
+    "RP08": {
+      "present": true,
+      "small": ["RP08-D"],
+      "quote": "the quantification of the suitable number of Gaussian mixture models via the Akaike information criterion (AIC) and Bayesian information criterion (BIC), as well as the initialization of the model parameters via the k-mean++ algorithm",
+      "where": "Section 2.2, p.5"
+    },
+    "RP09": {
+      "present": true,
+      "small": ["RP09-A", "RP09-C", "RP09-E"],
+      "quote": "both the improved and traditional GMD distribution passed the K–S test at the significance level of 0.01, indicating the adequacy of the IGMD and GMD for modeling the forecast errors with sub-daily lead times.",
+      "where": "Section 4.1.2, p.10"
+    },
+    "EP01": {
+      "present": true,
+      "small": ["EP01-A", "EP01-B", "EP01-D"],
+      "quote": "The inflow discharge contains the 6-hourly observed data and short-term forecasted data at 6 h, 12 h, 18 h, and 24 h of the Jinping I Reservoir collected during 1 January 2014–23 June 2017.",
+      "where": "Section 3, p.9"
+    },
+    "EP02": {
+      "present": true,
+      "small": ["EP02-C"],
+      "quote": "For each observation, four types of forecast errors can be derived by subtracting the same observed value from the corresponding forecasted values at four sub-daily lead times.",
+      "where": "Section 3, p.9"
+    },
+    "EP03": {
+      "present": true,
+      "small": ["EP03-A", "EP03-C", "EP03-G"],
+      "quote": "an improved Gaussian mixture distribution (IGMD) and Markov chain Monte Carlo (MCMC) algorithm were constructed to model the measured forecast errors and generate ensemble inflow forecasts, respectively.",
+      "where": "Abstract, p.1"
+    },
+    "EP04": {
+      "present": true,
+      "small": ["EP04-C"],
+      "quote": "The ensemble forecast, the raw forecast, and the observed inflow of sub-daily lead times individually force the reservoir power generation to quantify the maximum power generation capacity for each scheme.",
+      "where": "Section 2.5, p.8"
+    },
+    "EP05": {
+      "present": true,
+      "small": ["EP05-C"],
+      "quote": "the main constraint conditions are related to the water balance, capacity, the upper and lower bounds of flow rate and output, and water level.",
+      "where": "Section 2.5, p.9"
+    },
+    "EP06": {
+      "present": true,
+      "small": ["EP06-B"],
+      "quote": "The objective function of this dynamic programming, i.e., the primary goal for non-convex impoundment operations, is to find the maximum total hydropower generation capacity given the specific inflow series",
+      "where": "Section 2.5, p.8"
+    },
+    "EP09": {"present": false},
+    "EP07": {
+      "present": true,
+      "small": ["EP07-A", "EP07-C"],
+      "quote": "The total electricity curtailment was calculated as the deviation of the power generation capacity that was found using the inflow with/without the consideration of the IFU from the power generation that was found using the observations",
+      "where": "Section 4.3.2, p.18"
+    },
+    "EP08": {"present": false},
+    "EP10": {
+      "present": true,
+      "small": ["EP10-A", "EP10-C"],
+      "quote": "Figure 11 displays the temporal dynamic of the power generation derived from the raw inflow forecast (without IFU), ensemble inflow forecast (with IFU), and observed inflow series.",
+      "where": "Section 4.3.2, p.17"
+    },
+    "EP11": {"present": false}
+  }
+}

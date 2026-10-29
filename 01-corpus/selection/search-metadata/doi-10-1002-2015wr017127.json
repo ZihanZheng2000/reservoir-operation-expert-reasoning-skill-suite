@@ -1,0 +1,650 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2026-09-05T03:53:27Z",
+    "timestamp": 1788580407270,
+    "version": "build-2803163510"
+  },
+  "reference-count": 59,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2015,
+            6,
+            28
+          ]
+        ],
+        "date-time": "2015-06-28T00:00:00Z",
+        "timestamp": 1435449600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 27,
+      "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+    }
+  ],
+  "funder": [
+    {
+      "name": "NSF, United States",
+      "award": [
+        "CBET-0747276"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "CBET-0747276"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Major Program of the National Natural Science International Joint Research Program",
+      "award": [
+        "51320105010"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51320105010"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "crossref",
+      "award": [
+        "51279021"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51279021"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "crossref",
+      "award": [
+        "51379027"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51379027"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "crossref"
+        }
+      ]
+    },
+    {
+      "name": "Chinese Scholarship Council (CSC)"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water Resources Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2015,
+        6
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>This paper addresses how much flood water can be conserved for use after the flood season through the operation of reservoir by taking into account the residual flood control capacity (the difference between flood conveyance capacity and the expected inflow in a lead time). A two‐stage model for dynamic control of the flood‐limited water level (the maximum allowed water level during the flood season, DC‐FLWL) is established considering forecast uncertainty and acceptable flood risk. It is found that DC‐FLWL is applicable when the reservoir inflow ranges from small to medium levels of the historical records, while both forecast uncertainty and acceptable risk in the downstream affect the feasible space of DC‐FLWL. As forecast uncertainty increases (under a given risk level) or as acceptable risk level decreases (under a given forecast uncertainty level), the minimum required safety margin for flood control increases, and the chance for DC‐FLWL decreases. The derived hedging rules from the modeling framework illustrate either the dominant role of water conservation or flood control or the trade‐off between the two objectives under different levels of forecast uncertainty and acceptable risk. These rules may provide useful guidelines for conserving water from flood, especially in the area with heavy water stress. The analysis is illustrated via a case study with a real‐world reservoir in northeastern China.</jats:p>",
+  "DOI": "10.1002/2015wr017127",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2015,
+        6,
+        1
+      ]
+    ],
+    "date-time": "2015-06-01T05:12:51Z",
+    "timestamp": 1433135571000
+  },
+  "page": "4702-4726",
+  "source": "Crossref",
+  "is-referenced-by-count": 112,
+  "title": [
+    "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk"
+  ],
+  "prefix": "10.1029",
+  "volume": "51",
+  "author": [
+    {
+      "given": "Wei",
+      "family": "Ding",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+        },
+        {
+          "name": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Chi",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yong",
+      "family": "Peng",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ruijie",
+      "family": "Zeng",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Huicheng",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Faculty of Infrastructure Engineering Dalian University of Technology Dalian China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ximing",
+      "family": "Cai",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Ven Te Chow Hydrosystem Laboratory Department of Civil and Environmental Engineering University of Illinois at Urbana‐Champaign Urbana Illinois USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2015,
+        6,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_12_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.2307/2296660"
+    },
+    {
+      "key": "e_1_2_12_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/0471787779"
+    },
+    {
+      "key": "e_1_2_12_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/wrcr.20108"
+    },
+    {
+      "key": "e_1_2_12_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11269-012-0213-z"
+    },
+    {
+      "key": "e_1_2_12_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2013.05.039"
+    },
+    {
+      "key": "e_1_2_12_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1440-1770.2010.00431"
+    },
+    {
+      "key": "e_1_2_12_8_1",
+      "first-page": "421",
+      "volume-title": "Applied Hydrology",
+      "author": "Chow V. T.",
+      "year": "1988"
+    },
+    {
+      "key": "e_1_2_12_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2009.06.005"
+    },
+    {
+      "key": "e_1_2_12_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR015i004p00807"
+    },
+    {
+      "key": "e_1_2_12_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR020i009p01167"
+    },
+    {
+      "key": "e_1_2_12_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR020i008p01039"
+    },
+    {
+      "key": "e_1_2_12_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11431-011-4555-1"
+    },
+    {
+      "key": "e_1_2_12_14_1",
+      "volume-title": "Method and Application of Reservoir Flood Control Model With Forecast",
+      "author": "DLUT",
+      "year": "1996"
+    },
+    {
+      "key": "e_1_2_12_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:1(83)"
+    },
+    {
+      "key": "e_1_2_12_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-1688.1972.tb05215"
+    },
+    {
+      "key": "e_1_2_12_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/wrcr.20284"
+    },
+    {
+      "key": "e_1_2_12_18_1",
+      "unstructured": "Handbook of Nierji Reservoir Operation(2008) [in Chinese] pp. 204–207 Press of Nenjiang Nierji Water and Hydro‐Power Co. Qiqihaer China."
+    },
+    {
+      "key": "e_1_2_12_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR018i001p00014"
+    },
+    {
+      "key": "e_1_2_12_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2007.01.001"
+    },
+    {
+      "key": "e_1_2_12_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-1688.1992.tb04015.x"
+    },
+    {
+      "key": "e_1_2_12_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/1999WR900099"
+    },
+    {
+      "key": "e_1_2_12_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR015i003p00513"
+    },
+    {
+      "key": "e_1_2_12_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)/0733-9496(2004)130:2(93)"
+    },
+    {
+      "key": "e_1_2_12_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2010.07.011"
+    },
+    {
+      "key": "e_1_2_12_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11269-010-9707-8"
+    },
+    {
+      "key": "e_1_2_12_27_1",
+      "first-page": "559",
+      "volume-title": "Water Resource System Planning and Analysis",
+      "author": "Loucks D. P.",
+      "year": "1981"
+    },
+    {
+      "key": "e_1_2_12_28_1",
+      "unstructured": "Ministry of Water Resources (MWR)(2000) Standard for Hydrological Information and Hydrological Forecasting(SL250–2000) [in Chinese] Standardization Administration of the People's Republic of China (SAC) Beijing."
+    },
+    {
+      "key": "e_1_2_12_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2004WR003826"
+    },
+    {
+      "key": "e_1_2_12_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2012WR013382"
+    },
+    {
+      "key": "e_1_2_12_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2007.01.003"
+    },
+    {
+      "key": "e_1_2_12_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11269-007-9172-1"
+    },
+    {
+      "key": "e_1_2_12_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2008WR007335"
+    },
+    {
+      "key": "e_1_2_12_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF01544174"
+    },
+    {
+      "key": "e_1_2_12_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.advwatres.2014.06.009"
+    },
+    {
+      "key": "e_1_2_12_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2010WR009502"
+    },
+    {
+      "key": "e_1_2_12_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2009WR008933"
+    },
+    {
+      "key": "e_1_2_12_38_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2010WR009166"
+    },
+    {
+      "key": "e_1_2_12_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR025i001p00001"
+    },
+    {
+      "key": "e_1_2_12_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR016i002p00430"
+    },
+    {
+      "key": "e_1_2_12_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR022i004p00551"
+    },
+    {
+      "key": "e_1_2_12_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/BF00429923"
+    },
+    {
+      "key": "e_1_2_12_43_1",
+      "volume-title": "HEC‐5: Simulation of Flood Control and Conservation Systems",
+      "author": "US Army Corps of Engineers (USACE)",
+      "year": "1998"
+    },
+    {
+      "key": "e_1_2_12_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envsoft.2012.01.013"
+    },
+    {
+      "key": "e_1_2_12_45_1",
+      "first-page": "1",
+      "volume-title": "Theory, Method and Application of Reservoir Dynamic Control of the Limited Water Level",
+      "author": "Wang B. D.",
+      "year": "2006"
+    },
+    {
+      "key": "e_1_2_12_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2011WR011366"
+    },
+    {
+      "key": "e_1_2_12_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR019i006p01511"
+    },
+    {
+      "key": "e_1_2_12_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2008.11.038"
+    },
+    {
+      "key": "e_1_2_12_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR009i005p01219"
+    },
+    {
+      "key": "e_1_2_12_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR011i001p00030"
+    },
+    {
+      "key": "e_1_2_12_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR021i012p01797"
+    },
+    {
+      "key": "e_1_2_12_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2008WR006978"
+    },
+    {
+      "key": "e_1_2_12_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2006WR005481"
+    },
+    {
+      "key": "e_1_2_12_54_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2006WR005482"
+    },
+    {
+      "key": "e_1_2_12_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2008.03.003"
+    },
+    {
+      "key": "e_1_2_12_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/s11431-011-4392-2"
+    },
+    {
+      "key": "e_1_2_12_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2010WR009971"
+    },
+    {
+      "key": "e_1_2_12_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.advwatres.2011.01.004"
+    },
+    {
+      "key": "e_1_2_12_59_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000432"
+    },
+    {
+      "key": "e_1_2_12_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2014.07.029"
+    }
+  ],
+  "container-title": [
+    "Water Resources Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2F2015WR017127",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2015WR017127",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        17
+      ]
+    ],
+    "date-time": "2023-09-17T14:52:15Z",
+    "timestamp": 1694962335000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015WR017127"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2015,
+        6
+      ]
+    ]
+  },
+  "references-count": 59,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2015,
+          6
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1002/2015WR017127"
+  ],
+  "URL": "https://doi.org/10.1002/2015wr017127",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {},
+  "ISSN": [
+    "0043-1397",
+    "1944-7973"
+  ],
+  "issn-type": [
+    {
+      "value": "0043-1397",
+      "type": "print"
+    },
+    {
+      "value": "1944-7973",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2015,
+        6
+      ]
+    ]
+  }
+}

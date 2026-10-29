@@ -1,0 +1,1165 @@
+{
+  "id": "https://openalex.org/W7128431508",
+  "doi": "https://doi.org/10.1061/jwrmd5.wreng-7250",
+  "title": "Comparing the Robustness of Forecast-Informed Reservoir Operating Policies under Forecast Uncertainty and Hydrologic Extremes",
+  "display_name": "Comparing the Robustness of Forecast-Informed Reservoir Operating Policies under Forecast Uncertainty and Hydrologic Extremes",
+  "publication_year": 2026,
+  "publication_date": "2026-02-09",
+  "ids": {
+    "openalex": "https://openalex.org/W7128431508",
+    "doi": "https://doi.org/10.1061/jwrmd5.wreng-7250"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1061/jwrmd5.wreng-7250",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1061/jwrmd5.wreng-7250",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S127754761",
+      "display_name": "Journal of Water Resources Planning and Management",
+      "issn_l": "0733-9496",
+      "issn": [
+        "0733-9496",
+        "1943-5452"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315747",
+      "host_organization_name": "American Society of Civil Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315747"
+      ],
+      "host_organization_lineage_names": [
+        "American Society of Civil Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Water Resources Planning and Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5125451816",
+        "display_name": "William Taylor",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2803209242",
+          "display_name": "University of California System",
+          "ror": "https://ror.org/00pjdza24",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2803209242"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "William Taylor",
+      "raw_affiliation_strings": [
+        "Univ. of California"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0000-4033-6615",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Univ. of California",
+          "institution_ids": [
+            "https://openalex.org/I2803209242"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5006182883",
+        "display_name": "Zachary Brodeur",
+        "orcid": "https://orcid.org/0000-0001-5242-7696"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Zachary P. Brodeur",
+      "raw_affiliation_strings": [
+        "Cornell Univ"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5242-7696",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cornell Univ",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023805749",
+        "display_name": "Scott Steinschneider",
+        "orcid": "https://orcid.org/0000-0002-8882-1908"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I205783295",
+          "display_name": "Cornell University",
+          "ror": "https://ror.org/05bnh6r87",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Scott Steinschneider",
+      "raw_affiliation_strings": [
+        "Cornell Univ"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Cornell Univ",
+          "institution_ids": [
+            "https://openalex.org/I205783295"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5125457653",
+        "display_name": "Jonathan D. Herman",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2803209242",
+          "display_name": "University of California System",
+          "ror": "https://ror.org/00pjdza24",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I2803209242"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jonathan D. Herman",
+      "raw_affiliation_strings": [
+        "Univ. of California"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4081-3175",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Univ. of California",
+          "institution_ids": [
+            "https://openalex.org/I2803209242"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 0,
+  "citation_normalized_percentile": {
+    "value": 0.13048,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "152",
+    "issue": "4",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9028000235557556,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9028000235557556,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.03819999843835831,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.016300000250339508,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/overfitting",
+      "display_name": "Overfitting",
+      "score": 0.7821999788284302
+    },
+    {
+      "id": "https://openalex.org/keywords/robustness",
+      "display_name": "Robustness (evolution)",
+      "score": 0.7368000149726868
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.734000027179718
+    },
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.7016000151634216
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.4311999976634979
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrological-modelling",
+      "display_name": "Hydrological modelling",
+      "score": 0.40790000557899475
+    },
+    {
+      "id": "https://openalex.org/keywords/watershed",
+      "display_name": "Watershed",
+      "score": 0.33889999985694885
+    },
+    {
+      "id": "https://openalex.org/keywords/baseline",
+      "display_name": "Baseline (sea)",
+      "score": 0.3361000120639801
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C22019652",
+      "wikidata": "https://www.wikidata.org/wiki/Q331309",
+      "display_name": "Overfitting",
+      "level": 3,
+      "score": 0.7821999788284302
+    },
+    {
+      "id": "https://openalex.org/C63479239",
+      "wikidata": "https://www.wikidata.org/wiki/Q7353546",
+      "display_name": "Robustness (evolution)",
+      "level": 3,
+      "score": 0.7368000149726868
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.734000027179718
+    },
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.7016000151634216
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.48539999127388
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.4311999976634979
+    },
+    {
+      "id": "https://openalex.org/C126197015",
+      "wikidata": "https://www.wikidata.org/wiki/Q1586683",
+      "display_name": "Hydrological modelling",
+      "level": 2,
+      "score": 0.40790000557899475
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.38670000433921814
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.35010001063346863
+    },
+    {
+      "id": "https://openalex.org/C150547873",
+      "wikidata": "https://www.wikidata.org/wiki/Q947851",
+      "display_name": "Watershed",
+      "level": 2,
+      "score": 0.33889999985694885
+    },
+    {
+      "id": "https://openalex.org/C12725497",
+      "wikidata": "https://www.wikidata.org/wiki/Q810247",
+      "display_name": "Baseline (sea)",
+      "level": 2,
+      "score": 0.3361000120639801
+    },
+    {
+      "id": "https://openalex.org/C183195422",
+      "wikidata": "https://www.wikidata.org/wiki/Q3409303",
+      "display_name": "Flood forecasting",
+      "level": 3,
+      "score": 0.3222000002861023
+    },
+    {
+      "id": "https://openalex.org/C2781468064",
+      "wikidata": "https://www.wikidata.org/wiki/Q1267117",
+      "display_name": "Lead time",
+      "level": 2,
+      "score": 0.3179999887943268
+    },
+    {
+      "id": "https://openalex.org/C2776182401",
+      "wikidata": "https://www.wikidata.org/wiki/Q7973769",
+      "display_name": "Water storage",
+      "level": 3,
+      "score": 0.3111000061035156
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.30469998717308044
+    },
+    {
+      "id": "https://openalex.org/C97053079",
+      "wikidata": "https://www.wikidata.org/wiki/Q1061108",
+      "display_name": "Water supply",
+      "level": 2,
+      "score": 0.29490000009536743
+    },
+    {
+      "id": "https://openalex.org/C177803969",
+      "wikidata": "https://www.wikidata.org/wiki/Q29205",
+      "display_name": "Uncertainty analysis",
+      "level": 2,
+      "score": 0.29010000824928284
+    },
+    {
+      "id": "https://openalex.org/C1893757",
+      "wikidata": "https://www.wikidata.org/wiki/Q3653001",
+      "display_name": "Inversion (geology)",
+      "level": 3,
+      "score": 0.2734000086784363
+    },
+    {
+      "id": "https://openalex.org/C202353208",
+      "wikidata": "https://www.wikidata.org/wiki/Q1167393",
+      "display_name": "Economic indicator",
+      "level": 2,
+      "score": 0.2635999917984009
+    },
+    {
+      "id": "https://openalex.org/C119898033",
+      "wikidata": "https://www.wikidata.org/wiki/Q3433888",
+      "display_name": "Ensemble forecasting",
+      "level": 2,
+      "score": 0.26179999113082886
+    },
+    {
+      "id": "https://openalex.org/C123587114",
+      "wikidata": "https://www.wikidata.org/wiki/Q2101508",
+      "display_name": "Policy analysis",
+      "level": 2,
+      "score": 0.2502000033855438
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1061/jwrmd5.wreng-7250",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1061/jwrmd5.wreng-7250",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S127754761",
+        "display_name": "Journal of Water Resources Planning and Management",
+        "issn_l": "0733-9496",
+        "issn": [
+          "0733-9496",
+          "1943-5452"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315747",
+        "host_organization_name": "American Society of Civil Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315747"
+        ],
+        "host_organization_lineage_names": [
+          "American Society of Civil Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Water Resources Planning and Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Clean water and sanitation",
+      "id": "https://metadata.un.org/sdg/6",
+      "score": 0.43805554509162903
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 42,
+  "referenced_works": [
+    "https://openalex.org/W11667293",
+    "https://openalex.org/W1595159159",
+    "https://openalex.org/W1629339888",
+    "https://openalex.org/W1733550608",
+    "https://openalex.org/W1969884848",
+    "https://openalex.org/W1980208191",
+    "https://openalex.org/W1993195626",
+    "https://openalex.org/W2028103430",
+    "https://openalex.org/W2055993685",
+    "https://openalex.org/W2086252391",
+    "https://openalex.org/W2128455239",
+    "https://openalex.org/W2144389722",
+    "https://openalex.org/W2147322969",
+    "https://openalex.org/W2178242555",
+    "https://openalex.org/W2756699641",
+    "https://openalex.org/W2766785567",
+    "https://openalex.org/W2800702901",
+    "https://openalex.org/W2894153520",
+    "https://openalex.org/W2909441334",
+    "https://openalex.org/W2967486860",
+    "https://openalex.org/W3003257820",
+    "https://openalex.org/W3008815057",
+    "https://openalex.org/W3014530555",
+    "https://openalex.org/W3026073023",
+    "https://openalex.org/W3041829434",
+    "https://openalex.org/W3044511373",
+    "https://openalex.org/W3088127057",
+    "https://openalex.org/W3152132620",
+    "https://openalex.org/W3165652034",
+    "https://openalex.org/W3186172060",
+    "https://openalex.org/W3204743793",
+    "https://openalex.org/W3216079124",
+    "https://openalex.org/W4205795871",
+    "https://openalex.org/W4249892131",
+    "https://openalex.org/W4290852322",
+    "https://openalex.org/W4296558750",
+    "https://openalex.org/W4364377857",
+    "https://openalex.org/W4388657924",
+    "https://openalex.org/W4390017982",
+    "https://openalex.org/W4391755001",
+    "https://openalex.org/W4401330879",
+    "https://openalex.org/W4411376253"
+  ],
+  "related_works": [],
+  "abstract_inverted_index": {
+    "Forecast-informed": [
+      0
+    ],
+    "reservoir": [
+      1
+    ],
+    "operations": [
+      2,
+      62
+    ],
+    "(FIRO)": [
+      3
+    ],
+    "can": [
+      4,
+      190
+    ],
+    "enhance": [
+      5
+    ],
+    "water": [
+      6,
+      171,
+      240
+    ],
+    "storage": [
+      7,
+      241
+    ],
+    "while": [
+      8
+    ],
+    "reducing": [
+      9,
+      233
+    ],
+    "flood": [
+      10,
+      53,
+      135,
+      161,
+      204,
+      234
+    ],
+    "risk,": [
+      11,
+      235
+    ],
+    "but": [
+      12
+    ],
+    "it": [
+      13
+    ],
+    "remains": [
+      14
+    ],
+    "a": [
+      15,
+      35,
+      74,
+      106,
+      113,
+      124,
+      195,
+      214,
+      222
+    ],
+    "challenge": [
+      16
+    ],
+    "to": [
+      17,
+      23,
+      37,
+      131,
+      180,
+      194
+    ],
+    "design": [
+      18
+    ],
+    "policies": [
+      19,
+      43,
+      85,
+      102,
+      175
+    ],
+    "that": [
+      20,
+      155,
+      185
+    ],
+    "are": [
+      21,
+      86,
+      103
+    ],
+    "robust": [
+      22
+    ],
+    "forecast": [
+      24,
+      49,
+      61,
+      111,
+      117,
+      181,
+      197
+    ],
+    "uncertainty": [
+      25
+    ],
+    "and": [
+      26,
+      51,
+      73,
+      97,
+      112,
+      141,
+      150,
+      157,
+      242
+    ],
+    "out-of-sample": [
+      27
+    ],
+    "extreme": [
+      28,
+      94
+    ],
+    "events.": [
+      29,
+      54
+    ],
+    "In": [
+      30
+    ],
+    "this": [
+      31
+    ],
+    "study,": [
+      32
+    ],
+    "we": [
+      33
+    ],
+    "develop": [
+      34
+    ],
+    "framework": [
+      36,
+      122
+    ],
+    "evaluate": [
+      38
+    ],
+    "the": [
+      39,
+      79,
+      121,
+      133,
+      164,
+      177,
+      201,
+      226,
+      244
+    ],
+    "robustness": [
+      40,
+      179
+    ],
+    "of": [
+      41,
+      127,
+      228,
+      247
+    ],
+    "FIRO": [
+      42
+    ],
+    "using": [
+      44,
+      88,
+      123
+    ],
+    "medium-range": [
+      45
+    ],
+    "(1–14": [
+      46
+    ],
+    "day)": [
+      47
+    ],
+    "synthetic": [
+      48,
+      99,
+      151,
+      188
+    ],
+    "ensembles": [
+      50
+    ],
+    "scaled": [
+      52,
+      138
+    ],
+    "We": [
+      55,
+      119
+    ],
+    "compare": [
+      56
+    ],
+    "three": [
+      57
+    ],
+    "policy": [
+      58,
+      108,
+      114,
+      146,
+      211,
+      230
+    ],
+    "approaches:": [
+      59
+    ],
+    "ensemble": [
+      60
+    ],
+    "(EFO)": [
+      63
+    ],
+    "with": [
+      64,
+      92,
+      98,
+      109,
+      167
+    ],
+    "an": [
+      65
+    ],
+    "optimized": [
+      66
+    ],
+    "risk": [
+      67
+    ],
+    "curve;": [
+      68
+    ],
+    "model": [
+      69
+    ],
+    "predictive": [
+      70
+    ],
+    "control": [
+      71
+    ],
+    "(MPC);": [
+      72
+    ],
+    "guide": [
+      75
+    ],
+    "curve": [
+      76
+    ],
+    "based": [
+      77
+    ],
+    "on": [
+      78,
+      170,
+      187
+    ],
+    "cumulative": [
+      80,
+      165
+    ],
+    "inflow": [
+      81
+    ],
+    "forecast.": [
+      82
+    ],
+    "Different": [
+      83
+    ],
+    "EFO": [
+      84,
+      156,
+      174,
+      210
+    ],
+    "trained": [
+      87
+    ],
+    "all": [
+      89
+    ],
+    "available": [
+      90
+    ],
+    "hindcasts,": [
+      91
+    ],
+    "specific": [
+      93
+    ],
+    "events": [
+      95,
+      143
+    ],
+    "withheld,": [
+      96
+    ],
+    "forecasts.": [
+      100
+    ],
+    "These": [
+      101
+    ],
+    "benchmarked": [
+      104
+    ],
+    "against": [
+      105
+    ],
+    "baseline": [
+      107
+    ],
+    "no": [
+      110
+    ],
+    "assuming": [
+      115
+    ],
+    "perfect": [
+      116
+    ],
+    "information.": [
+      118
+    ],
+    "demonstrate": [
+      120
+    ],
+    "case": [
+      125
+    ],
+    "study": [
+      126,
+      220
+    ],
+    "Oroville": [
+      128
+    ],
+    "Reservoir,": [
+      129
+    ],
+    "CA,": [
+      130
+    ],
+    "determine": [
+      132
+    ],
+    "required": [
+      134
+    ],
+    "pool": [
+      136
+    ],
+    "for": [
+      137,
+      147,
+      224,
+      238
+    ],
+    "100-,": [
+      139
+    ],
+    "200-,": [
+      140
+    ],
+    "300-year": [
+      142
+    ],
+    "under": [
+      144
+    ],
+    "each": [
+      145
+    ],
+    "both": [
+      148
+    ],
+    "hindcasts": [
+      149
+    ],
+    "ensembles.": [
+      152
+    ],
+    "Results": [
+      153
+    ],
+    "show": [
+      154,
+      176
+    ],
+    "MPC": [
+      158
+    ],
+    "require": [
+      159
+    ],
+    "smaller": [
+      160
+    ],
+    "pools": [
+      162
+    ],
+    "than": [
+      163
+    ],
+    "method,": [
+      166
+    ],
+    "limited": [
+      168
+    ],
+    "impact": [
+      169
+    ],
+    "supply.": [
+      172
+    ],
+    "Synthetic-trained": [
+      173
+    ],
+    "highest": [
+      178
+    ],
+    "uncertainty,": [
+      182
+    ],
+    "which": [
+      183
+    ],
+    "suggests": [
+      184
+    ],
+    "training": [
+      186,
+      206
+    ],
+    "forecasts": [
+      189
+    ],
+    "help": [
+      191
+    ],
+    "avoid": [
+      192
+    ],
+    "overfitting": [
+      193
+    ],
+    "single": [
+      196
+    ],
+    "ensemble.": [
+      198
+    ],
+    "Furthermore,": [
+      199
+    ],
+    "excluding": [
+      200
+    ],
+    "largest": [
+      202
+    ],
+    "historical": [
+      203
+    ],
+    "from": [
+      205
+    ],
+    "does": [
+      207
+    ],
+    "not": [
+      208
+    ],
+    "diminish": [
+      209
+    ],
+    "performance": [
+      212
+    ],
+    "given": [
+      213
+    ],
+    "sufficiently": [
+      215
+    ],
+    "low": [
+      216
+    ],
+    "priority": [
+      217
+    ],
+    "weight.": [
+      218
+    ],
+    "This": [
+      219
+    ],
+    "offers": [
+      221
+    ],
+    "template": [
+      223
+    ],
+    "comparing": [
+      225
+    ],
+    "effectiveness": [
+      227
+    ],
+    "different": [
+      229
+    ],
+    "formulations": [
+      231
+    ],
+    "in": [
+      232
+    ],
+    "potentially": [
+      236
+    ],
+    "allowing": [
+      237
+    ],
+    "greater": [
+      239
+    ],
+    "supporting": [
+      243
+    ],
+    "broader": [
+      245
+    ],
+    "adoption": [
+      246
+    ],
+    "forecast-informed": [
+      248
+    ],
+    "policies.": [
+      249
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-06-13T06:13:01.061226",
+  "created_date": "2026-02-10T00:00:00"
+}

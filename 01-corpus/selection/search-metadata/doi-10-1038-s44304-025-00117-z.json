@@ -1,0 +1,1154 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        1
+      ]
+    ],
+    "date-time": "2026-06-01T14:37:23Z",
+    "timestamp": 1780324643124,
+    "version": "3.54.1"
+  },
+  "reference-count": 95,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            17
+          ]
+        ],
+        "date-time": "2025-07-17T00:00:00Z",
+        "timestamp": 1752710400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            7,
+            17
+          ]
+        ],
+        "date-time": "2025-07-17T00:00:00Z",
+        "timestamp": 1752710400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001409",
+      "name": "Department of Science and Technology, Ministry of Science and Technology, India",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "MRDP 4356"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "MRDP 4356"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001409",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001409",
+      "name": "Department of Science and Technology, Ministry of Science and Technology, India",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "MRDP 4356"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "MRDP 4356"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001409",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "npj Nat. Hazards"
+  ],
+  "DOI": "10.1038/s44304-025-00117-z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        17
+      ]
+    ],
+    "date-time": "2025-07-17T15:48:59Z",
+    "timestamp": 1752767339000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 5,
+  "title": [
+    "Climate change and effectiveness of dams in flood mitigation in India"
+  ],
+  "prefix": "10.1038",
+  "volume": "2",
+  "author": [
+    {
+      "given": "Urmin",
+      "family": "Vegad",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vimal",
+      "family": "Mishra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        17
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "117_CR1",
+      "unstructured": "NRLD, C. National register of large dams. Central Water Commission. Ministry of Water Resources, Government of India (2019)."
+    },
+    {
+      "key": "117_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "100112",
+      "DOI": "10.1016/j.wasec.2022.100112",
+      "volume": "15",
+      "author": "A Pradhan",
+      "year": "2022",
+      "unstructured": "Pradhan, A. & Srinivasan, V. Do dams improve water security in India? A review of post facto assessments. Water Secur. 15, 100112 (2022).",
+      "journal-title": "Water Secur."
+    },
+    {
+      "key": "117_CR3",
+      "unstructured": "FAO. AQUASTAT Country Profile – India (2015)."
+    },
+    {
+      "key": "117_CR4",
+      "unstructured": "IWRIS. command_area_development_programme — INDIA WRIS WIKI (2021)."
+    },
+    {
+      "key": "117_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "105986",
+      "DOI": "10.1016/j.isci.2023.105986",
+      "volume": "26",
+      "author": "DS Chuphal",
+      "year": "2023",
+      "unstructured": "Chuphal, D. S. & Mishra, V. Increased hydropower but with an elevated risk of reservoir operations in India under the warming climate. iScience 26, 105986 (2023).",
+      "journal-title": "iScience"
+    },
+    {
+      "key": "117_CR6",
+      "unstructured": "Abraham, M. How dams can control floods. The Hindu (2018)."
+    },
+    {
+      "key": "117_CR7",
+      "doi-asserted-by": "publisher",
+      "first-page": "7",
+      "DOI": "10.1038/s41561-018-0262-x",
+      "volume": "12",
+      "author": "J Best",
+      "year": "2019",
+      "unstructured": "Best, J. Anthropogenic stresses on the world’s big rivers. Nat. Geosci. 12, 7–21 (2019).",
+      "journal-title": "Nat. Geosci."
+    },
+    {
+      "key": "117_CR8",
+      "doi-asserted-by": "publisher",
+      "first-page": "982",
+      "DOI": "10.1002/2016WR019905",
+      "volume": "53",
+      "author": "M Ho",
+      "year": "2017",
+      "unstructured": "Ho, M. et al. The future role of dams in the United States of America. Water Resour. Res. 53, 982–998 (2017).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2024WR037036",
+      "DOI": "10.1029/2024WR037036",
+      "volume": "60",
+      "author": "R Singh",
+      "year": "2024",
+      "unstructured": "Singh, R. & Mishra, V. Enhanced modulation of streamflow flash droughts by reservoir operations in India. Water Resour. Res. 60, e2024WR037036 (2024).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "3363",
+      "DOI": "10.1007/s11269-016-1356-0",
+      "volume": "30",
+      "author": "B Jia",
+      "year": "2016",
+      "unstructured": "Jia, B., Simonovic, S. P., Zhong, P. & Yu, Z. A multi-objective best compromise decision model for real-time flood mitigation operations of multi-reservoir system. Water Resour. Manag. 30, 3363–3387 (2016).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "117_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "643",
+      "DOI": "10.3390/w11040643",
+      "volume": "11",
+      "author": "X Liu",
+      "year": "2019",
+      "unstructured": "Liu, X., Yang, M., Meng, X., Wen, F. & Sun, G. Assessing the impact of reservoir parameters on runoff in the Yalong River Basin using the SWAT model. Water 11, 643 (2019).",
+      "journal-title": "Water"
+    },
+    {
+      "key": "117_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "294",
+      "DOI": "10.1080/02626667.2024.2311755",
+      "volume": "69",
+      "author": "P Dey",
+      "year": "2024",
+      "unstructured": "Dey, P., Swarnkar, S. & Mujumdar, P. Dam operation affects the evolution and propagation of hydrological extremes. Hydrol. Sci. J. 69, 294–308 (2024).",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "key": "117_CR13",
+      "doi-asserted-by": "publisher",
+      "first-page": "129165",
+      "DOI": "10.1016/j.jhydrol.2023.129165",
+      "volume": "618",
+      "author": "SK Jain",
+      "year": "2023",
+      "unstructured": "Jain, S. K., Shilpa, L. S., Rani, D. & Sudheer, K. P. State-of-the-art review: operation of multi-purpose reservoirs during flood season. J. Hydrol. 618, 129165 (2023).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "117_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "81",
+      "DOI": "10.1890/060148",
+      "volume": "6",
+      "author": "MA Palmer",
+      "year": "2008",
+      "unstructured": "Palmer, M. A. et al. Climate change and the world’s river basins: anticipating management options. Front. Ecol. Environ. 6, 81–89 (2008).",
+      "journal-title": "Front. Ecol. Environ."
+    },
+    {
+      "key": "117_CR15",
+      "first-page": "p86",
+      "volume": "2000",
+      "author": "M Acreman",
+      "year": "2000",
+      "unstructured": "Acreman, M. et al. Managed flood releases from reservoirs: issues and guidance. Rep. DFID World Comm. Dams Cent. Ecol. Hydrol. Wallingford UK 2000, p86 (2000).",
+      "journal-title": "Rep. DFID World Comm. Dams Cent. Ecol. Hydrol. Wallingford UK"
+    },
+    {
+      "key": "117_CR16",
+      "first-page": "26",
+      "volume": "55",
+      "author": "S Pathak",
+      "year": "2020",
+      "unstructured": "Pathak, S. Comparing floods in Kerala and the Himalaya. Econ. Polit. Wkly. 55, 26–32 (2020).",
+      "journal-title": "Econ. Polit. Wkly."
+    },
+    {
+      "key": "117_CR17",
+      "unstructured": "SANDRP. 2023: Incidents of Dam Induced Floods in India. SANDRP https://sandrp.in/2024/01/02/2023-incidents-of-dam-induced-floods-in-india/ (2024)."
+    },
+    {
+      "key": "117_CR18",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-018-04396-1",
+      "volume": "9",
+      "author": "B Jongman",
+      "year": "2018",
+      "unstructured": "Jongman, B. Effective adaptation to rising flood risk. Nat. Commun. 9, 1986 (2018).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "117_CR19",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Phy, S. R. et al. Understanding climate change, dam impact, and flood management in the Mekong River Basin. In The Mekong Delta Environmental Research Guidebook (eds. Park, E., Loc, H. H. & Tran, D. D.) 19–41 https://doi.org/10.1016/B978-0-443-23673-0.00002-7 (Elsevier, 2025).",
+      "DOI": "10.1016/B978-0-443-23673-0.00002-7"
+    },
+    {
+      "key": "117_CR20",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-020-20704-0",
+      "volume": "12",
+      "author": "J Boulange",
+      "year": "2021",
+      "unstructured": "Boulange, J., Hanasaki, N., Yamazaki, D. & Pokhrel, Y. Role of dams in reducing global flood exposure under climate change. Nat. Commun. 12, 417 (2021).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "117_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "116265",
+      "DOI": "10.1016/j.watres.2020.116265",
+      "volume": "185",
+      "author": "Y Zhou",
+      "year": "2020",
+      "unstructured": "Zhou, Y. Exploring multidecadal changes in climate and reservoir storage for assessing nonstationarity in flood peaks and risks worldwide by an integrated frequency analysis approach. Water Res. 185, 116265 (2020).",
+      "journal-title": "Water Res."
+    },
+    {
+      "key": "117_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "789",
+      "DOI": "10.5194/hess-22-789-2018",
+      "volume": "22",
+      "author": "N Hanasaki",
+      "year": "2018",
+      "unstructured": "Hanasaki, N., Yoshikawa, S., Pokhrel, Y. & Kanae, S. A global hydrological simulation to specify the sources of water used by humans. Hydrol. Earth Syst. Sci. 22, 789–817 (2018).",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "117_CR23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yamazaki, D., Kanae, S., Kim, H. & Oki, T. A physically based description of floodplain inundation dynamics in a global river routing model. Water Resour. Res. 47, (2011).",
+      "DOI": "10.1029/2010WR009726"
+    },
+    {
+      "key": "117_CR24",
+      "first-page": "29",
+      "volume": "11",
+      "author": "AK Singh",
+      "year": "2022",
+      "unstructured": "Singh, A. K., Mani, M. & Vishnoi, R. Tehri dam–a savior from climate change led extreme events. INCOLD J. Half Yrly. Tech. J. Indian Comm. Large Dams 11, 29–35 (2022).",
+      "journal-title": "INCOLD J. Half Yrly. Tech. J. Indian Comm. Large Dams"
+    },
+    {
+      "key": "117_CR25",
+      "first-page": "60",
+      "volume": "62",
+      "author": "GD Singhal",
+      "year": "2019",
+      "unstructured": "Singhal, G. D., Gottumukkala, S. & Sharma, N. Review of climate change impacts on dam safety and flood mitigation issues in India. Water Energy Int. 62, 60–66 (2019).",
+      "journal-title": "Water Energy Int."
+    },
+    {
+      "key": "117_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "215",
+      "DOI": "10.54302/mausam.v70i2.165",
+      "volume": "70",
+      "author": "S Kar",
+      "year": "2019",
+      "unstructured": "Kar, S. On the reliability of medium-range probabilistic rainfall predictions over river basins in India. Mausam 70, 215–232 (2019).",
+      "journal-title": "Mausam"
+    },
+    {
+      "key": "117_CR27",
+      "unstructured": "Mavalankar, D. V. Lessons from massive floods of 2006 in Surat City: a framework for application of MS/OR techniques to improve dam management to prevent flood (2008)."
+    },
+    {
+      "key": "117_CR28",
+      "unstructured": "Prasad, E., Joy, K., Paranjape, S. & Vispute, S. Agony of Floods: Flood Induced Water Conflicts in India (Forum for Policy Dialogue on Water Conflicts in India Pune, 2012)."
+    },
+    {
+      "key": "117_CR29",
+      "first-page": "17",
+      "volume": "65",
+      "author": "D Sharma",
+      "year": "2022",
+      "unstructured": "Sharma, D. & Gupta, R. Role of dams in mitigating the Impacts of climate change. Water Energy Int. 65, 17–24 (2022).",
+      "journal-title": "Water Energy Int."
+    },
+    {
+      "key": "117_CR30",
+      "unstructured": "SANDRP. No dispute about role of Pong and Bhakra dams in Punjab Aug 2023 floods. SANDRP https://sandrp.in/2023/08/21/no-dispute-about-role-of-pong-and-bhakra-dams-in-punjab-aug-2023-floods/ (2023)."
+    },
+    {
+      "key": "117_CR31",
+      "unstructured": "SANDRP. Unaccountable Sardar Sarovar operators again bring avoidable floods in downstream Gujarat. SANDRP https://sandrp.in/2023/09/17/unaccountable-sardar-sarovar-operators-again-bring-avoidable-floods-in-downstream-gujarat/ (2023)."
+    },
+    {
+      "key": "117_CR32",
+      "unstructured": "Chidambaram, V. Flood management at Chembarambakkam: An important lesson learnt from 2015 deluge. The News Minute https://www.thenewsminute.com/tamil-nadu/flood-management-at-chembarambakkam-an-important-lesson-learnt-from-2015-deluge (2023)."
+    },
+    {
+      "key": "117_CR33",
+      "doi-asserted-by": "publisher",
+      "first-page": "1441365",
+      "DOI": "10.3389/frwa.2024.1441365",
+      "volume": "6",
+      "author": "S Jain",
+      "year": "2024",
+      "unstructured": "Jain, S. et al. Protecting ancient water harvesting technologies in India: strategies for climate adaptation and sustainable development with global lessons. Front. Water 6, 1441365 (2024).",
+      "journal-title": "Front. Water"
+    },
+    {
+      "key": "117_CR34",
+      "doi-asserted-by": "publisher",
+      "first-page": "353",
+      "DOI": "10.18520/cs/v128/i4/353-367",
+      "volume": "128",
+      "author": "SK Jain",
+      "year": "2025",
+      "unstructured": "Jain, S. K. et al. Hydrology and water management in the Anthropocene: challenges and opportunities with particular reference to India. Curr. Sci. 128, 353 (2025).",
+      "journal-title": "Curr. Sci."
+    },
+    {
+      "key": "117_CR35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Richter, B. D. & Thomas, G. A. Restoring environmental flows by modifying dam operations. Ecol. Soc. 12, (2007).",
+      "DOI": "10.5751/ES-02014-120112"
+    },
+    {
+      "key": "117_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "100086",
+      "DOI": "10.1016/j.wasec.2021.100086",
+      "volume": "12",
+      "author": "JS Nanditha",
+      "year": "2021",
+      "unstructured": "Nanditha, J. S. & Mishra, V. On the need of ensemble flood forecast in India. Water Secur. 12, 100086 (2021).",
+      "journal-title": "Water Secur."
+    },
+    {
+      "key": "117_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2022WR032723",
+      "DOI": "10.1029/2022WR032723",
+      "volume": "58",
+      "author": "JS Nanditha",
+      "year": "2022",
+      "unstructured": "Nanditha, J. S. & Mishra, V. Multiday precipitation is a prominent driver of floods in Indian River Basins. Water Resour. Res. 58, e2022WR032723 (2022).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR38",
+      "doi-asserted-by": "publisher",
+      "first-page": "88",
+      "DOI": "10.1002/met.164",
+      "volume": "17",
+      "author": "DR Pattanaik",
+      "year": "2010",
+      "unstructured": "Pattanaik, D. R. & Rajeevan, M. Variability of extreme rainfall events over India during southwest monsoon season. Meteorol. Appl. 17, 88–104 (2010).",
+      "journal-title": "Meteorol. Appl."
+    },
+    {
+      "key": "117_CR39",
+      "unstructured": "Nanditha, J. S. & Mishra, V. Wet antecedent conditions and high baseflow trigger widespread floods in Indian Sub-continental River Basins. Authorea Prepr. (2023)."
+    },
+    {
+      "key": "117_CR40",
+      "doi-asserted-by": "publisher",
+      "first-page": "494",
+      "DOI": "10.1890/100125",
+      "volume": "9",
+      "author": "B Lehner",
+      "year": "2011",
+      "unstructured": "Lehner, B. et al. High-resolution mapping of the world’s reservoirs and dams for sustainable river-flow management. Front. Ecol. Environ. 9, 494–502 (2011).",
+      "journal-title": "Front. Ecol. Environ."
+    },
+    {
+      "key": "117_CR41",
+      "doi-asserted-by": "publisher",
+      "first-page": "215",
+      "DOI": "10.1038/s41586-019-1111-9",
+      "volume": "569",
+      "author": "G Grill",
+      "year": "2019",
+      "unstructured": "Grill, G. et al. Mapping the world’s free-flowing rivers. Nature 569, 215–221 (2019).",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "117_CR42",
+      "doi-asserted-by": "publisher",
+      "first-page": "024006",
+      "DOI": "10.1088/1748-9326/11/2/024006",
+      "volume": "11",
+      "author": "TIE Veldkamp",
+      "year": "2016",
+      "unstructured": "Veldkamp, T. I. E., Wada, Y., Aerts, J. C. J. H. & Ward, P. J. Towards a global water scarcity risk assessment framework: incorporation of probability distributions and hydro-climatic variability. Environ. Res. Lett. 11, 024006 (2016).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "117_CR43",
+      "doi-asserted-by": "publisher",
+      "first-page": "863",
+      "DOI": "10.5194/hess-12-863-2008",
+      "volume": "12",
+      "author": "P Döll",
+      "year": "2008",
+      "unstructured": "Döll, P. & Fiedler, K. Global-scale modeling of groundwater recharge. Hydrol. Earth Syst. Sci. 12, 863–885 (2008).",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "117_CR44",
+      "unstructured": "Narayan, P. & Bueno, I. E. The role of dams in India’s water crisis. 1, 42 (2024)."
+    },
+    {
+      "key": "117_CR45",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2019WR026449",
+      "DOI": "10.1029/2019WR026449",
+      "volume": "56",
+      "author": "S Shin",
+      "year": "2020",
+      "unstructured": "Shin, S. et al. High resolution modeling of river-floodplain-reservoir inundation dynamics in the Mekong River Basin. Water Resour. Res. 56, e2019WR026449 (2020).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR46",
+      "first-page": "545",
+      "volume": "54",
+      "author": "J Kwak",
+      "year": "2021",
+      "unstructured": "Kwak, J. A study for the target water level of the dam for flood control. J. Korea Water Resour. Assoc. 54, 545–552 (2021).",
+      "journal-title": "J. Korea Water Resour. Assoc."
+    },
+    {
+      "key": "117_CR47",
+      "doi-asserted-by": "publisher",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "volume": "391",
+      "author": "X Li",
+      "year": "2010",
+      "unstructured": "Li, X., Guo, S., Liu, P. & Chen, G. Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty. J. Hydrol. 391, 124–132 (2010).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "117_CR48",
+      "doi-asserted-by": "publisher",
+      "first-page": "57",
+      "DOI": "10.1016/j.jenvman.2013.02.025",
+      "volume": "121",
+      "author": "B-S Lee",
+      "year": "2013",
+      "unstructured": "Lee, B.-S. & You, G. J.-Y. An assessment of long-term overtopping risk and optimal termination time of dam under climate change. J. Environ. Manage. 121, 57–71 (2013).",
+      "journal-title": "J. Environ. Manage."
+    },
+    {
+      "key": "117_CR49",
+      "unstructured": "Shilpa, S. KRS dam water level: full for record 172 days, water level at Krishna Raja Sagar dam starts depleting. Deccan Herald (2025)."
+    },
+    {
+      "key": "117_CR50",
+      "doi-asserted-by": "publisher",
+      "first-page": "569",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000836",
+      "volume": "19",
+      "author": "HH Chernet",
+      "year": "2014",
+      "unstructured": "Chernet, H. H., Alfredsen, K. & Midttømme, G. H. Safety of hydropower dams in a changing climate. J. Hydrol. Eng. 19, 569–582 (2014).",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "key": "117_CR51",
+      "doi-asserted-by": "publisher",
+      "first-page": "118",
+      "DOI": "10.1016/j.jher.2007.07.003",
+      "volume": "1",
+      "author": "B Kang",
+      "year": "2007",
+      "unstructured": "Kang, B., Lee, S.-J., Kang, D.-H. & Kim, Y.-O. A flood risk projection for Yongdam dam against future climate change. J. Hydro-Environ. Res. 1, 118–125 (2007).",
+      "journal-title": "J. Hydro-Environ. Res."
+    },
+    {
+      "key": "117_CR52",
+      "doi-asserted-by": "publisher",
+      "first-page": "8",
+      "DOI": "10.1007/s10584-021-03303-w",
+      "volume": "170",
+      "author": "P Qin",
+      "year": "2022",
+      "unstructured": "Qin, P. et al. Projected impacts of climate change on major dams in the Upper Yangtze River Basin. Clim. Change 170, 8 (2022).",
+      "journal-title": "Clim. Change"
+    },
+    {
+      "key": "117_CR53",
+      "doi-asserted-by": "publisher",
+      "first-page": "1989",
+      "DOI": "10.1007/s11069-022-05253-7",
+      "volume": "112",
+      "author": "D Devi",
+      "year": "2022",
+      "unstructured": "Devi, D., Baruah, A. & Sarma, A. K. Characterization of dam-impacted flood hydrograph and its degree of severity as a potential hazard. Nat. Hazards 112, 1989–2011 (2022).",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "117_CR54",
+      "doi-asserted-by": "publisher",
+      "first-page": "144",
+      "DOI": "10.1016/J.ENG.2017.01.018",
+      "volume": "3",
+      "author": "F Lempérière",
+      "year": "2017",
+      "unstructured": "Lempérière, F. Dams and floods. Engineering 3, 144–149 (2017).",
+      "journal-title": "Engineering"
+    },
+    {
+      "key": "117_CR55",
+      "doi-asserted-by": "publisher",
+      "first-page": "321",
+      "DOI": "10.1071/MF10047",
+      "volume": "62",
+      "author": "RJ Watts",
+      "year": "2011",
+      "unstructured": "Watts, R. J., Richter, B. D., Opperman, J. J. & Bowmer, K. H. Dam reoperation in an era of climate change. Mar. Freshw. Res. 62, 321–327 (2011).",
+      "journal-title": "Mar. Freshw. Res."
+    },
+    {
+      "key": "117_CR56",
+      "doi-asserted-by": "publisher",
+      "first-page": "1464",
+      "DOI": "10.1175/2009JAMC2122.1",
+      "volume": "48",
+      "author": "A Sankarasubramanian",
+      "year": "2009",
+      "unstructured": "Sankarasubramanian, A., Lall, U., Devineni, N. & Espinueva, S. The role of monthly updated climate forecasts in improving intraseasonal water allocation. J. Appl. Meteorol. Climatol. 48, 1464–1482 (2009).",
+      "journal-title": "J. Appl. Meteorol. Climatol."
+    },
+    {
+      "key": "117_CR57",
+      "doi-asserted-by": "publisher",
+      "first-page": "1250",
+      "DOI": "10.3390/w10091250",
+      "volume": "10",
+      "author": "C Zhou",
+      "year": "2018",
+      "unstructured": "Zhou, C. et al. Optimal operation of cascade reservoirs for flood control of multiple areas downstream: a case study in the Upper Yangtze River Basin. Water 10, 1250 (2018).",
+      "journal-title": "Water"
+    },
+    {
+      "key": "117_CR58",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Abdul Rahman, S. S., Che Ros, F., Abdul Razad, A. Z. & Engku Mohamed, E. A. K. A. Reservoir sedimentation and storage capacity reduction: case study of high-risk flood mitigation dam in Malaysia. in Proceedings of the 2nd International Conference on Dam Safety Management and Engineering (eds. Mohd Sidek, L., Salih, G. H. A., Ahmed, A. N., Escuder-Bueno, I. & Basri, H.) 537–550 https://doi.org/10.1007/978-981-99-3708-0_36 (Springer Nature, 2023).",
+      "DOI": "10.1007/978-981-99-3708-0_36"
+    },
+    {
+      "key": "117_CR59",
+      "doi-asserted-by": "crossref",
+      "unstructured": "CIGB, I. Sedimentation and Sustainable Use of Reservoirs and River Systems/Sédimentation et Utilisation Durable Des Réservoirs et Systèmes Fluviaux (CRC Press, 2023).",
+      "DOI": "10.1201/9781003316428"
+    },
+    {
+      "key": "117_CR60",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.54302/mausam.v65i1.851",
+      "volume": "65",
+      "author": "D Pai",
+      "year": "2014",
+      "unstructured": "Pai, D. et al. Development of a new high spatial resolution (0.25° × 0.25°) long period (1901–2010) daily gridded rainfall data set over India and its comparison with existing data sets over the region. Mausam 65, 1–18 (2014).",
+      "journal-title": "Mausam"
+    },
+    {
+      "key": "117_CR61",
+      "doi-asserted-by": "publisher",
+      "first-page": "249",
+      "DOI": "10.1002/asl.232",
+      "volume": "10",
+      "author": "AK Srivastava",
+      "year": "2009",
+      "unstructured": "Srivastava, A. K., Rajeevan, M. & Kshirsagar, S. R. Development of a high resolution daily gridded temperature data set (1969–2005) for the Indian region. Atmos. Sci. Lett. 10, 249–254 (2009).",
+      "journal-title": "Atmos. Sci. Lett."
+    },
+    {
+      "key": "117_CR62",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Chuphal, D. S. & Mishra, V. Reconstructed streamflow for Indian sub-continental river basins, 1951–2021. Zenodo https://doi.org/10.5281/zenodo.8004633 (2023).",
+      "DOI": "10.5281/zenodo.8004633"
+    },
+    {
+      "key": "117_CR63",
+      "doi-asserted-by": "publisher",
+      "first-page": "615",
+      "DOI": "10.1175/JHM-D-15-0115.1",
+      "volume": "17",
+      "author": "HL Shah",
+      "year": "2016",
+      "unstructured": "Shah, H. L. & Mishra, V. Uncertainty and bias in satellite-based precipitation estimates over Indian subcontinental basins: Implications for real-time streamflow simulation and flood prediction. J. Hydrometeorol. 17, 615–636 (2016).",
+      "journal-title": "J. Hydrometeorol."
+    },
+    {
+      "key": "117_CR64",
+      "doi-asserted-by": "publisher",
+      "first-page": "1107",
+      "DOI": "10.5194/hess-28-1107-2024",
+      "volume": "28",
+      "author": "U Vegad",
+      "year": "2024",
+      "unstructured": "Vegad, U., Pokhrel, Y. & Mishra, V. Flood risk assessment for Indian sub-continental river basins. Hydrol. Earth Syst. Sci. 28, 1107–1126 (2024).",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "117_CR65",
+      "doi-asserted-by": "publisher",
+      "first-page": "3088",
+      "DOI": "10.1175/JCLI3790.1",
+      "volume": "19",
+      "author": "J Sheffield",
+      "year": "2006",
+      "unstructured": "Sheffield, J., Goteti, G. & Wood, E. F. Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling. J. Clim. 19, 3088–3111 (2006).",
+      "journal-title": "J. Clim."
+    },
+    {
+      "key": "117_CR66",
+      "doi-asserted-by": "publisher",
+      "first-page": "2667",
+      "DOI": "10.1175/JHM-D-15-0231.1",
+      "volume": "17",
+      "author": "HL Shah",
+      "year": "2016",
+      "unstructured": "Shah, H. L. & Mishra, V. Hydrologic Changes in Indian Subcontinental River Basins (1901–2012). J. Hydrometeorol. 17, 2667–2687 (2016).",
+      "journal-title": "J. Hydrometeorol."
+    },
+    {
+      "key": "117_CR67",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kushwaha, A. P. et al. Multimodel assessment of water budget in Indian sub-continental river basins. J. Hydrol. 603 (2021).",
+      "DOI": "10.1016/j.jhydrol.2021.126977"
+    },
+    {
+      "key": "117_CR68",
+      "unstructured": "GRDC. The Global Runoff Data Centre, 56068 Koblenz, Germany."
+    },
+    {
+      "key": "117_CR69",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41467-023-38843-5",
+      "volume": "14",
+      "author": "Y Li",
+      "year": "2023",
+      "unstructured": "Li, Y., Zhao, G., Allen, G. H. & Gao, H. Diminishing storage returns of reservoir construction. Nat. Commun. 14, 3203 (2023).",
+      "journal-title": "Nat. Commun."
+    },
+    {
+      "key": "117_CR70",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Aadhar, S. & Mishra, V. On the projected decline in droughts over South Asia in CMIP6 multimodel ensemble. J. Geophys. Res. Atmos. 125, (2020).",
+      "DOI": "10.1029/2020JD033587"
+    },
+    {
+      "key": "117_CR71",
+      "doi-asserted-by": "publisher",
+      "first-page": "3461",
+      "DOI": "10.5194/gmd-9-3461-2016",
+      "volume": "9",
+      "author": "BC O’Neill",
+      "year": "2016",
+      "unstructured": "O’Neill, B. C. et al. The Scenario Model Intercomparison Project (ScenarioMIP) for CMIP6. Geosci. Model Dev. 9, 3461–3482 (2016).",
+      "journal-title": "Geosci. Model Dev."
+    },
+    {
+      "key": "117_CR72",
+      "unstructured": "Climate Action Tracker - India. https://climateactiontracker.org/countries/india/ (2024)."
+    },
+    {
+      "key": "117_CR73",
+      "doi-asserted-by": "publisher",
+      "first-page": "219",
+      "DOI": "10.5194/esd-4-219-2013",
+      "volume": "4",
+      "author": "S Hempel",
+      "year": "2013",
+      "unstructured": "Hempel, S., Frieler, K., Warszawski, L., Schewe, J. & Piontek, F. A trend-preserving bias correction & the ISI-MIP approach. Earth Syst. Dyn. 4, 219–236 (2013).",
+      "journal-title": "Earth Syst. Dyn."
+    },
+    {
+      "key": "117_CR74",
+      "doi-asserted-by": "publisher",
+      "first-page": "1007",
+      "DOI": "10.5194/hess-12-1007-2008",
+      "volume": "12",
+      "author": "N Hanasaki",
+      "year": "2008",
+      "unstructured": "Hanasaki, N. et al. An integrated model for the assessment of global water resources – Part 1: model description and input meteorological forcing. Hydrol Earth Syst Sci 12, 1007–1025 (2008).",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "117_CR75",
+      "doi-asserted-by": "publisher",
+      "first-page": "1381",
+      "DOI": "10.1175/BAMS-87-10-1381",
+      "volume": "87",
+      "author": "PA Dirmeyer",
+      "year": "2006",
+      "unstructured": "Dirmeyer, P. A. et al. GSWP-2: multimodel analysis and implications for our perception of the land surface. Bull. Am. Meteorol. Soc. 87, 1381–1398 (2006).",
+      "journal-title": "Bull. Am. Meteorol. Soc."
+    },
+    {
+      "key": "117_CR76",
+      "doi-asserted-by": "publisher",
+      "first-page": "7221",
+      "DOI": "10.1002/wrcr.20552",
+      "volume": "49",
+      "author": "D Yamazaki",
+      "year": "2013",
+      "unstructured": "Yamazaki, D., Almeida, G. A. M. D. & Bates, P. D. Improving computational efficiency in global river models by implementing the local inertial flow equation and a vector-based river network map. Water Resour. Res. 49, 7221–7235 (2013).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR77",
+      "doi-asserted-by": "publisher",
+      "first-page": "064017",
+      "DOI": "10.1088/1748-9326/9/6/064017",
+      "volume": "9",
+      "author": "S Koirala",
+      "year": "2014",
+      "unstructured": "Koirala, S., Hirabayashi, Y., Mahendran, R. & Kanae, S. Global assessment of agreement among streamflow projections using CMIP5 model outputs. Environ. Res. Lett. 9, 064017 (2014).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "117_CR78",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zhao, F. et al. The critical role of the routing scheme in simulating peak river discharge in global hydrological models. Environ. Res. Lett. 12, 075003 (2017).",
+      "DOI": "10.1088/1748-9326/aa7250"
+    },
+    {
+      "key": "117_CR79",
+      "doi-asserted-by": "publisher",
+      "first-page": "e2021MS002944",
+      "DOI": "10.1029/2021MS002944",
+      "volume": "14",
+      "author": "R Hanazaki",
+      "year": "2022",
+      "unstructured": "Hanazaki, R., Yamazaki, D. & Yoshimura, K. Development of a reservoir flood control scheme for global flood models. J. Adv. Model. Earth Syst. 14, e2021MS002944 (2022).",
+      "journal-title": "J. Adv. Model. Earth Syst."
+    },
+    {
+      "key": "117_CR80",
+      "doi-asserted-by": "publisher",
+      "first-page": "7245",
+      "DOI": "10.1002/2013WR014845",
+      "volume": "50",
+      "author": "CM Mateo",
+      "year": "2014",
+      "unstructured": "Mateo, C. M. et al. Assessing the impacts of reservoir operation to floodplain inundation by combining hydrological, reservoir management, and hydrodynamic models. Water Resour. Res. 50, 7245–7266 (2014).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "117_CR81",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Singh, R. & Mishra, V. Atmospheric and land drivers of streamflow flash droughts in India. J. Geophys. Res. Atmos. 129, e2023JD040257 (2024).",
+      "DOI": "10.1029/2023JD040257"
+    },
+    {
+      "key": "117_CR82",
+      "doi-asserted-by": "publisher",
+      "first-page": "154833",
+      "DOI": "10.1016/j.scitotenv.2022.154833",
+      "volume": "831",
+      "author": "H Dang",
+      "year": "2022",
+      "unstructured": "Dang, H. et al. Hydrologic balance and inundation dynamics of Southeast Asia’s largest inland lake altered by hydropower dams in the Mekong River basin. Sci. Total Environ. 831, 154833 (2022).",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "117_CR83",
+      "unstructured": "Shin, S. Investigating the Impact of Manmade Reservoirs on Large-Scale Hydrology and Water Resources Using High-Resolution Modeling (Michigan State University, 2019)."
+    },
+    {
+      "key": "117_CR84",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Huang, S. & Hattermann, F. F. Coupling a global hydrodynamic algorithm and a regional hydrological model for large-scale flood inundation simulations. Hydrol. Res. 49, 438–449 (2018).",
+      "DOI": "10.2166/nh.2017.061"
+    },
+    {
+      "key": "117_CR85",
+      "doi-asserted-by": "publisher",
+      "first-page": "3151",
+      "DOI": "10.5194/hess-26-3151-2022",
+      "volume": "26",
+      "author": "TR Marthews",
+      "year": "2022",
+      "unstructured": "Marthews, T. R. et al. Inundation prediction in tropical wetlands from JULES-CaMa-Flood global land surface simulations. Hydrol. Earth Syst. Sci. 26, 3151–3175 (2022).",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "117_CR86",
+      "doi-asserted-by": "publisher",
+      "first-page": "101806",
+      "DOI": "10.1016/j.ejrh.2024.101806",
+      "volume": "53",
+      "author": "J Stelly",
+      "year": "2024",
+      "unstructured": "Stelly, J. et al. Reconstruction of long-term hydrologic change and typhoon-induced flood events over the entire island of Taiwan. J. Hydrol. Reg. Stud. 53, 101806 (2024).",
+      "journal-title": "J. Hydrol. Reg. Stud."
+    },
+    {
+      "key": "117_CR87",
+      "doi-asserted-by": "publisher",
+      "first-page": "850",
+      "DOI": "10.1016/j.scitotenv.2018.06.188",
+      "volume": "643",
+      "author": "F Habets",
+      "year": "2018",
+      "unstructured": "Habets, F., Molénat, J., Carluer, N., Douez, O. & Leenhardt, D. The cumulative impacts of small reservoirs on hydrology: A review. Sci. Total Environ. 643, 850–867 (2018).",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "key": "117_CR88",
+      "doi-asserted-by": "publisher",
+      "first-page": "114009",
+      "DOI": "10.1088/1748-9326/ac2ceb",
+      "volume": "16",
+      "author": "S Dangar",
+      "year": "2021",
+      "unstructured": "Dangar, S. & Mishra, V. Natural and anthropogenic drivers of the lost groundwater from the Ganga River basin. Environ. Res. Lett. 16, 114009 (2021).",
+      "journal-title": "Environ. Res. Lett."
+    },
+    {
+      "key": "117_CR89",
+      "doi-asserted-by": "publisher",
+      "first-page": "87",
+      "DOI": "10.1007/s12040-023-02102-4",
+      "volume": "132",
+      "author": "P Raghav",
+      "year": "2023",
+      "unstructured": "Raghav, P. & Eldho, T. I. Investigations on the hydrological impacts of climate change on a river basin using macroscale model H08. J. Earth Syst. Sci. 132, 87 (2023).",
+      "journal-title": "J. Earth Syst. Sci."
+    },
+    {
+      "key": "117_CR90",
+      "doi-asserted-by": "publisher",
+      "first-page": "282",
+      "DOI": "10.1016/0022-1694(70)90255-6",
+      "volume": "10",
+      "author": "JE Nash",
+      "year": "1970",
+      "unstructured": "Nash, J. E. & Sutcliffe, J. V. River flow forecasting through conceptual models part I — a discussion of principles. J. Hydrol. 10, 282–290 (1970).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "117_CR91",
+      "doi-asserted-by": "publisher",
+      "first-page": "80",
+      "DOI": "10.1016/j.jhydrol.2009.08.003",
+      "volume": "377",
+      "author": "HV Gupta",
+      "year": "2009",
+      "unstructured": "Gupta, H. V., Kling, H., Yilmaz, K. K. & Martinez, G. F. Decomposition of the mean squared error and NSE performance criteria: Implications for improving hydrological modelling. J. Hydrol. 377, 80–91 (2009).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "117_CR92",
+      "doi-asserted-by": "publisher",
+      "first-page": "713",
+      "DOI": "10.1016/j.jhydrol.2016.04.062",
+      "volume": "538",
+      "author": "D Walker",
+      "year": "2016",
+      "unstructured": "Walker, D., Forsythe, N., Parkin, G. & Gowing, J. Filling the observational void: Scientific value and quantitative validation of hydrometeorological data from a community-based monitoring programme. J. Hydrol. 538, 713–725 (2016).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "117_CR93",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ajami, N. K., Hornberger, G. M. & Sunding, D. L. Sustainable water resource management under hydrological uncertainty. Water Resour. Res. 44, (2008).",
+      "DOI": "10.1029/2007WR006736"
+    },
+    {
+      "key": "117_CR94",
+      "doi-asserted-by": "publisher",
+      "first-page": "1377",
+      "DOI": "10.1175/JHM-D-21-0139.1",
+      "volume": "24",
+      "author": "V Prakash",
+      "year": "2023",
+      "unstructured": "Prakash, V. & Mishra, V. Soil moisture and streamflow data assimilation for streamflow prediction in the Narmada River Basin. J. Hydrometeorol. 24, 1377–1392 (2023).",
+      "journal-title": "J. Hydrometeorol."
+    },
+    {
+      "key": "117_CR95",
+      "doi-asserted-by": "publisher",
+      "first-page": "23",
+      "DOI": "10.1016/j.advwatres.2017.03.003",
+      "volume": "104",
+      "author": "M Feng",
+      "year": "2017",
+      "unstructured": "Feng, M. et al. Identifying changing patterns of reservoir operating rules under various inflow alteration scenarios. Adv. Water Resour. 104, 23–36 (2017).",
+      "journal-title": "Adv. Water Resour."
+    }
+  ],
+  "container-title": [
+    "npj Natural Hazards"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s44304-025-00117-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s44304-025-00117-z",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s44304-025-00117-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        7
+      ]
+    ],
+    "date-time": "2025-09-07T14:02:36Z",
+    "timestamp": 1757253756000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s44304-025-00117-z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        17
+      ]
+    ]
+  },
+  "references-count": 95,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "117"
+  ],
+  "URL": "https://doi.org/10.1038/s44304-025-00117-z",
+  "relation": {},
+  "ISSN": [
+    "2948-2100"
+  ],
+  "issn-type": [
+    {
+      "value": "2948-2100",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        7,
+        17
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "19 March 2025",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "30 June 2025",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "17 July 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "63"
+}

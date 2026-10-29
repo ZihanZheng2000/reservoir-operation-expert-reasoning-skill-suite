@@ -1,0 +1,932 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        4
+      ]
+    ],
+    "date-time": "2026-06-04T12:33:37Z",
+    "timestamp": 1780576417096,
+    "version": "3.54.1"
+  },
+  "reference-count": 45,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            12,
+            1
+          ]
+        ],
+        "date-time": "2022-12-01T00:00:00Z",
+        "timestamp": 1669852800000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51779030"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51779030"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "52079015"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "52079015"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012401",
+      "name": "Beijing Science and Technology Planning Project",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "Z191100006919002"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "Z191100006919002"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012401",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2022,
+        12
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2022.128665",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        3
+      ]
+    ],
+    "date-time": "2022-11-03T21:35:38Z",
+    "timestamp": 1667511338000
+  },
+  "page": "128665",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 20,
+  "special_numbering": "PA",
+  "title": [
+    "Deriving optimal operating rules for flood control considering pre-release based on forecast information"
+  ],
+  "prefix": "10.1016",
+  "volume": "615",
+  "author": [
+    {
+      "given": "Guozhen",
+      "family": "Wei",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Guohua",
+      "family": "Liang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Wei",
+      "family": "Ding",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bin",
+      "family": "He",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jian",
+      "family": "Wu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Minglei",
+      "family": "Ren",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Huicheng",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "171",
+      "DOI": "10.1002/2016EF000485",
+      "article-title": "Global projections of river flood risk in a warmer world",
+      "volume": "5",
+      "author": "Alfieri",
+      "year": "2017",
+      "journal-title": "Earth's Future"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2022.128665_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "4363",
+      "DOI": "10.1007/s11269-016-1425-4",
+      "article-title": "An efficient method to correct under-dispersion in ensemble streamflow prediction of inflow volumes for reservoir optimization",
+      "volume": "30",
+      "author": "Arsenault",
+      "year": "2016",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0015",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Berz, G. (2000), Flood disasters: lessons from the past—worries for the future, Proceedings of the Institution of Civil Engineers - Water and Maritime Engineering, 142(1), 3-8.",
+      "DOI": "10.1680/wame.2000.142.1.3"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/0309-1708(93)90028-E",
+      "article-title": "Prophecy, reality and uncertainty in distributed hydrological modelling",
+      "volume": "16",
+      "author": "Beven",
+      "year": "1993",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2022.128665_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "2605",
+      "DOI": "10.1002/1099-1085(20001015)14:14<2605::AID-HYP400>3.0.CO;2-W",
+      "article-title": "On model uncertainty, risk and decision making",
+      "volume": "12",
+      "author": "Beven",
+      "year": "2000",
+      "journal-title": "Hydrol. Process."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2022.128665_b0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "733",
+      "DOI": "10.1193/1.1623497",
+      "article-title": "A framework to quantitatively assess and enhance the seismic resilience of communities",
+      "volume": "19",
+      "author": "Bruneau",
+      "year": "2003",
+      "journal-title": "Earthquake Spectra"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0035",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1111/jfr3.12607",
+      "article-title": "Flood risk assessment for Davao Oriental in the Philippines using geographic information system-based multi-criteria analysis and the maximum entropy model",
+      "volume": "13",
+      "author": "Cabrera",
+      "year": "2020",
+      "journal-title": "J. Flood Risk Manage."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2022.128665_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "2285",
+      "DOI": "10.1007/s11269-017-1644-3",
+      "article-title": "Application of an optimization/simulation model for real-time flood-control operation of river-reservoirs systems",
+      "volume": "31",
+      "author": "Che",
+      "year": "2017",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2022.128665_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "749",
+      "DOI": "10.1007/s11269-012-0213-z",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for cascade reservoirs",
+      "volume": "27",
+      "author": "Chen",
+      "year": "2012",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0050",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/e20020117",
+      "article-title": "Bayesian technique for the selection of probability distributions for frequency analyses of hydrometeorological extremes",
+      "volume": "20",
+      "author": "Chen",
+      "year": "2018",
+      "journal-title": "Entropy (Basel)"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0055",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen, and Leandro (2019), A Conceptual Time-Varying Flood Resilience Index for Urban Areas: Munich City, Water, 11(4).",
+      "DOI": "10.3390/w11040830"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhydrol.2013.05.039",
+      "article-title": "Expected shortage based pre-release strategy for reservoir flood control",
+      "volume": "497",
+      "author": "Chou",
+      "year": "2013",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2022.128665_b0065",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/w11030517",
+      "article-title": "Flood resilience of critical infrastructure: Approach and method applied to fort lauderdale florida",
+      "volume": "11",
+      "author": "de Bruijn",
+      "year": "2019",
+      "journal-title": "Water"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2022.128665_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "1949",
+      "DOI": "10.1007/s11431-010-3124-3",
+      "article-title": "Risk analysis of flood control operation mode with forecast information based on a combination of risk sources",
+      "volume": "53",
+      "author": "Diao",
+      "year": "2010",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0075",
+      "article-title": "Study on distribution of flood forecasting errors by the method based on maximum entropy",
+      "volume": "5",
+      "author": "Diao",
+      "year": "2007",
+      "journal-title": "J. Hydraul. Eng."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2022.128665_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "113",
+      "DOI": "10.1016/S0022-1694(01)00419-X",
+      "article-title": "Reservoir optimization using sampling SDP with ensemble streamflow prediction (ESP) forecasts",
+      "volume": "249",
+      "author": "Faber",
+      "year": "2001",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "68",
+      "DOI": "10.1007/s12583-016-0615-6",
+      "article-title": "Assessing flood risk using reservoir flood control rules",
+      "volume": "27",
+      "author": "Fu",
+      "year": "2016",
+      "journal-title": "J. Earth Sci."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2022.128665_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "196",
+      "DOI": "10.1111/jfr3.12222",
+      "article-title": "Quantifying resilience to flooding among households and local government units using system dynamics: A case study in Metro Manila",
+      "volume": "9",
+      "author": "Gotangco",
+      "year": "2016",
+      "journal-title": "J. Flood Risk Manage."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.jhydrol.2022.128665_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "816",
+      "DOI": "10.1038/nclimate1911",
+      "article-title": "Global flood risk under climate change",
+      "volume": "3",
+      "author": "Hirabayashi",
+      "year": "2013",
+      "journal-title": "Nat. Clim. Change"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0105",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1146/annurev.es.04.110173.000245",
+      "article-title": "Resilience and stability of ecological systems",
+      "volume": "4",
+      "author": "Holling",
+      "year": "1973",
+      "journal-title": "Annu. Rev. Ecol. Syst."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2022.128665_b0110",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2009WR008422",
+      "article-title": "Real-time reservoir flood operation during typhoon attacks",
+      "volume": "46",
+      "author": "Huang",
+      "year": "2010",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2022.128665_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "620",
+      "DOI": "10.1103/PhysRev.106.620",
+      "article-title": "Information theory and statistical mechanics",
+      "volume": "106",
+      "author": "Jaynes",
+      "year": "1957",
+      "journal-title": "Phys. Rev."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0120",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000724",
+      "article-title": "Quantifying resilience and uncertainty in coastal flooding events: Framework for assessing urban vulnerability",
+      "volume": "143",
+      "author": "Karamouz",
+      "year": "2017",
+      "journal-title": "J. Water Resour. Plann. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "45",
+      "DOI": "10.1016/j.ecolind.2015.06.018",
+      "article-title": "Piloting a social-ecological index for measuring flood resilience: A composite index approach",
+      "volume": "60",
+      "author": "Kotzee",
+      "year": "2016",
+      "journal-title": "Ecol. Ind."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2022.128665_b0130",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.3390/w9060428",
+      "article-title": "Development of resilience index based on flooding damage in urban areas",
+      "volume": "9",
+      "author": "Lee",
+      "year": "2017",
+      "journal-title": "Water"
+    },
+    {
+      "issue": "1–2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0140",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.ijdrr.2019.101140",
+      "article-title": "A multi-criteria decision making method for urban flood resilience evaluation with hybrid uncertainties",
+      "volume": "36",
+      "author": "Li",
+      "year": "2019",
+      "journal-title": "Int. J. Disaster Risk Reduct."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2022.128665_b0145",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.5751/ES-05231-170448",
+      "article-title": "A theory on urban resilience to floods – A basis for alternative planning practices",
+      "volume": "17",
+      "author": "Liao",
+      "year": "2012",
+      "journal-title": "Ecol. Soc."
+    },
+    {
+      "issue": "6871",
+      "key": "10.1016/j.jhydrol.2022.128665_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "514",
+      "DOI": "10.1038/415514a",
+      "article-title": "Increasing risk of great floods in a changing climate",
+      "volume": "415",
+      "author": "Milly",
+      "year": "2002",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "15",
+      "DOI": "10.1016/j.watres.2015.05.030",
+      "article-title": "A global analysis approach for investigating structural resilience in urban drainage systems",
+      "volume": "81",
+      "author": "Mugume",
+      "year": "2015",
+      "journal-title": "Water Res"
+    },
+    {
+      "issue": "21",
+      "key": "10.1016/j.jhydrol.2022.128665_b0160",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s12665-017-7088-5",
+      "article-title": "A method for implementing the real-time dynamic control of flood-limited water level",
+      "volume": "76",
+      "author": "Peng",
+      "year": "2017",
+      "journal-title": "Environ. Earth Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0165",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.envres.2020.109406",
+      "article-title": "Spatial and temporal distribution and trend in flood and drought disasters in East China",
+      "volume": "185",
+      "author": "Shi",
+      "year": "2020",
+      "journal-title": "Environ. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "153",
+      "DOI": "10.1007/s10700-006-7333-y",
+      "article-title": "Variable fuzzy sets and its application in comprehensive risk evaluation for flood-control engineering system",
+      "volume": "5",
+      "author": "Shouyu",
+      "year": "2006",
+      "journal-title": "Fuzzy Optim. Decis. Making"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2022.128665_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "2783",
+      "DOI": "10.5194/hess-16-2783-2012",
+      "article-title": "Adaptive correction of deterministic models to produce probabilistic forecasts",
+      "volume": "16",
+      "author": "Smith",
+      "year": "2012",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0180",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.watres.2019.114852",
+      "article-title": "Assessing catchment scale flood resilience of urban areas using a grid cell based metric",
+      "volume": "163",
+      "author": "Wang",
+      "year": "2019",
+      "journal-title": "Water Res"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "227",
+      "DOI": "10.1016/j.jhydrol.2018.10.026",
+      "article-title": "Nierji reservoir flood forecasting based on a Data-Based Mechanistic methodology",
+      "volume": "567",
+      "author": "Wei",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2022.128665_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "1389",
+      "DOI": "10.1007/s11069-014-1385-z",
+      "article-title": "Determination of the distribution of flood forecasting error",
+      "volume": "75",
+      "author": "Zhang",
+      "year": "2014",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2022.128665_b0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "1888",
+      "DOI": "10.1007/s11431-011-4392-2",
+      "article-title": "Risk analysis of dynamic control of reservoir limited water level by considering flood forecast error",
+      "volume": "54",
+      "author": "Zhang",
+      "year": "2011",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2022.128665_b0200",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2011WR010623",
+      "article-title": "Identifying effective forecast horizon for real-time reservoir operation under a limited inflow forecast",
+      "volume": "48",
+      "author": "Zhao",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2022.128665_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "2047",
+      "DOI": "10.1007/s11269-017-1599-4",
+      "article-title": "Improved dynamic programming for reservoir flood control operation",
+      "volume": "31",
+      "author": "Zhao",
+      "year": "2017",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2022.128665_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "1521",
+      "DOI": "10.3390/su12041521",
+      "article-title": "A framework to evaluate community resilience to urban floods: A case study in three communities",
+      "volume": "12",
+      "author": "Zhong",
+      "year": "2020",
+      "journal-title": "Sustainability"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2022.128665_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "1006",
+      "DOI": "10.1080/02626667.2014.901515",
+      "article-title": "Risk analysis for flood control operation of seasonal flood-limited water level incorporating inflow forecasting error",
+      "volume": "59",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "article-title": "Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs",
+      "volume": "143",
+      "author": "Zhou",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2022.128665_b0225",
+      "first-page": "135",
+      "article-title": "Risk analysis of raising reservoir flood limited water level based on Bayes theorem and flood forecast error",
+      "volume": "32",
+      "author": "Zhou",
+      "year": "2016",
+      "journal-title": "Trans. Chin. Soc. Agric. Eng."
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169422012355?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169422012355?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ],
+    "date-time": "2025-09-19T15:56:17Z",
+    "timestamp": 1758297377000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169422012355"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        12
+      ]
+    ]
+  },
+  "references-count": 45,
+  "alternative-id": [
+    "S0022169422012355"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2022.128665",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        12
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Deriving optimal operating rules for flood control considering pre-release based on forecast information",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2022.128665",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2022 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "128665"
+}

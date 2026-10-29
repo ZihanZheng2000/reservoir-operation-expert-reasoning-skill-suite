@@ -1,0 +1,660 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        6,
+        27
+      ]
+    ],
+    "date-time": "2026-06-27T09:43:05Z",
+    "timestamp": 1782553385317,
+    "version": "3.54.5"
+  },
+  "reference-count": 37,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "1",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            10
+          ]
+        ],
+        "date-time": "2022-03-10T00:00:00Z",
+        "timestamp": 1646870400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2022,
+            3,
+            10
+          ]
+        ],
+        "date-time": "2022-03-10T00:00:00Z",
+        "timestamp": 1646870400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Sci Rep"
+  ],
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Real-time management of hydraulic systems composed of multi-reservoir involves conflicting objectives. Its representation requires complex variables to consider all the systems dynamics. Interfacing simulation model with optimization algorithm permits to integrate flow routing into reservoir operation decisions and consists in solving separately hydraulic and operational constraints, but it requires that the water resource management model is based on an evolutionary algorithm. Considering channel routing in optimization algorithm can be done using conceptual models such as the Muskingum model. However, the structure of algorithms based on a network flow approach, inhibits the integration of the Muskingum model in the approach formulation. In this work, a flood routing model, corresponding to a singular form of the Muskingum model, constructed as a network flow is proposed and integrated into the water management optimization. A genetic algorithm is involved for the calibration of the model. The proposed flood routing model was applied on the standard Wilson test and on a 40 km reach of the Arrats river (southwest of France). The results were compared with the results of the Muskingum model. Finally, operational results for a water resource management system including this model are illustrated on a rainfall event.</jats:p>",
+  "DOI": "10.1038/s41598-022-06075-0",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        10
+      ]
+    ],
+    "date-time": "2022-03-10T06:06:26Z",
+    "timestamp": 1646892386000
+  },
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 7,
+  "title": [
+    "Network flow and flood routing model for water resources optimization"
+  ],
+  "prefix": "10.1038",
+  "volume": "12",
+  "author": [
+    {
+      "given": "Ayoub",
+      "family": "Tahiri",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Daniel",
+      "family": "Che",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "David",
+      "family": "Ladeveze",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Pascale",
+      "family": "Chiron",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bernard",
+      "family": "Archimède",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        10
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "6075_CR1",
+      "doi-asserted-by": "publisher",
+      "first-page": "1624",
+      "DOI": "10.1016/j.jenvman.2007.08.004",
+      "volume": "88",
+      "author": "C-C Wei",
+      "year": "2008",
+      "unstructured": "Wei, C.-C. & Hsu, N.-S. Multireservoir real-time operations for flood control using balanced water level index method. J. Environ. Manag. 88, 1624–1639 (2008).",
+      "journal-title": "J. Environ. Manag."
+    },
+    {
+      "key": "6075_CR2",
+      "doi-asserted-by": "publisher",
+      "first-page": "1849",
+      "DOI": "10.1007/s11069-012-0444-6",
+      "volume": "65",
+      "author": "E-SMS Ahmed",
+      "year": "2013",
+      "unstructured": "Ahmed, E.-S.M.S. & Mays, L. W. Model for determining real-time optimal dam releases during flooding conditions. Nat. Hazards 65, 1849–1861 (2013).",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "6075_CR3",
+      "unstructured": "Wurbs, R. A. Comparative evaluation of generalized river/reservoir system models (Tech. Rep, Texas Water Resources Institute, 2005)."
+    },
+    {
+      "key": "6075_CR4",
+      "doi-asserted-by": "publisher",
+      "first-page": "93",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:2(93)",
+      "volume": "130",
+      "author": "JW Labadie",
+      "year": "2004",
+      "unstructured": "Labadie, J. W. Optimal operation of multireservoir systems: state-of-the-art review. J. Water Resour. Plan. Manag. 130, 93–111 (2004).",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "6075_CR5",
+      "doi-asserted-by": "publisher",
+      "first-page": "1797",
+      "DOI": "10.1029/WR021i012p01797",
+      "volume": "21",
+      "author": "WW-G Yeh",
+      "year": "1985",
+      "unstructured": "Yeh, W.W.-G. Reservoir management and operations models: A state-of-the-art review. Water Resour. Res. 21, 1797–1818 (1985).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6075_CR6",
+      "doi-asserted-by": "publisher",
+      "first-page": "1403",
+      "DOI": "10.1007/s11269-008-9333-x",
+      "volume": "23",
+      "author": "H Koch",
+      "year": "2009",
+      "unstructured": "Koch, H. & Grünewald, U. A comparison of modelling systems for the development and revision of water resources management plans. Water Resour. Manag. 23, 1403 (2009).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR7",
+      "volume-title": "Applied Hydrology",
+      "author": "VT Chow",
+      "year": "1988",
+      "unstructured": "Chow, V. T., Maidment, D. R. & Mays, L. W. Applied Hydrology (McGraw-Hill Series in Water Resources and Environmental Engineering (McGraw-Hill, New York, 1988)."
+    },
+    {
+      "key": "6075_CR8",
+      "first-page": "2",
+      "volume": "2",
+      "author": "R Barat",
+      "year": "2013",
+      "unstructured": "Barat, R., Akbari, G. H. & Rahimi, S. Flood routing of an unmanaged river basin using muskingum-cunge model; Field application and numerical experiments. Casp. J. Appl. Sci. Res. 2, 2 (2013).",
+      "journal-title": "Casp. J. Appl. Sci. Res."
+    },
+    {
+      "key": "6075_CR9",
+      "doi-asserted-by": "publisher",
+      "first-page": "3987",
+      "DOI": "10.1007/s11269-015-1041-8",
+      "volume": "29",
+      "author": "D Che",
+      "year": "2015",
+      "unstructured": "Che, D. & Mays, L. W. Development of an optimization/simulation model for real-time flood-control operation of river-reservoirs systems. Water Resour. Manag. 29, 3987–4005 (2015).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR10",
+      "doi-asserted-by": "publisher",
+      "first-page": "4569",
+      "DOI": "10.1007/s11269-012-0167-1",
+      "volume": "26",
+      "author": "J Yazdi",
+      "year": "2012",
+      "unstructured": "Yazdi, J. & Neyshabouri, S. S. A simulation-based optimization model for flood management on a watershed scale. Water Resources Management. Publ. Eur. Water Resour. Assoc. (EWRA) 26, 4569–4586. https://doi.org/10.1007/s11269-012-0167-1 (2012).",
+      "journal-title": "Publ. Eur. Water Resour. Assoc. (EWRA)"
+    },
+    {
+      "key": "6075_CR11",
+      "doi-asserted-by": "publisher",
+      "first-page": "459",
+      "DOI": "10.1007/s11069-009-9442-8",
+      "volume": "53",
+      "author": "B Malekmohammadi",
+      "year": "2010",
+      "unstructured": "Malekmohammadi, B., Zahraie, B. & Kerachian, R. A real-time operation optimization model for flood management in river-reservoir systems. Nat. Hazards 53, 459–482. https://doi.org/10.1007/s11069-009-9442-8 (2010).",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "6075_CR12",
+      "doi-asserted-by": "publisher",
+      "first-page": "21",
+      "DOI": "10.1007/BF00429923",
+      "volume": "4",
+      "author": "OI Unver",
+      "year": "1990",
+      "unstructured": "Unver, O. I. & Mays, L. W. Model for real-time optimal flood control operation of a reservoir system. Water Resour. Manag. 4, 21–46. https://doi.org/10.1007/BF00429923 (1990).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carson, Y. & Maria, A. Simulation optimization: Methods and applications. In Winter Simulation Conference Proceedings,, 118–126 (1997).",
+      "DOI": "10.1145/268437.268460"
+    },
+    {
+      "key": "6075_CR14",
+      "doi-asserted-by": "publisher",
+      "first-page": "3391",
+      "DOI": "10.1007/s11269-014-0700-5",
+      "volume": "28",
+      "author": "A Ahmad",
+      "year": "2014",
+      "unstructured": "Ahmad, A., El-Shafie, A., Razali, S. F. M. & Mohamad, Z. S. Reservoir optimization in water resources: A review. Water Resour. Manag. 28, 3391–3405. https://doi.org/10.1007/s11269-014-0700-5 (2014).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR15",
+      "doi-asserted-by": "publisher",
+      "first-page": "1107",
+      "DOI": "10.1007/s11269-009-9488-0",
+      "volume": "24",
+      "author": "D Rani",
+      "year": "2010",
+      "unstructured": "Rani, D. & Moreira, M. M. Simulation-optimization modeling: A survey and potential application in reservoir systems operation. Water Resour. Manag. 24, 1107–1138 (2010).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR16",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Dhar, A. & Datta, B. Optimal operation of reservoirs for downstream water quality control using linked simulation optimization. Hydrol. Process.22, 842–853, https://doi.org/10.1002/hyp.6651 (2008). https://onlinelibrary.wiley.com/doi/pdf/10.1002/hyp.6651.",
+      "DOI": "10.1002/hyp.6651"
+    },
+    {
+      "key": "6075_CR17",
+      "doi-asserted-by": "publisher",
+      "first-page": "125878",
+      "DOI": "10.1016/j.jhydrol.2020.125878",
+      "volume": "593",
+      "author": "J Yin",
+      "year": "2021",
+      "unstructured": "Yin, J. et al. Blending multi-satellite, atmospheric reanalysis and gauge precipitation products to facilitate hydrological modelling. J. Hydrol. 593, 125878. https://doi.org/10.1016/j.jhydrol.2020.125878 (2021).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6075_CR18",
+      "doi-asserted-by": "publisher",
+      "first-page": "e28491",
+      "DOI": "10.1029/2020WR028491",
+      "volume": "57",
+      "author": "J Yin",
+      "year": "2021",
+      "unstructured": "Yin, J. et al. Does the hook structure constrain future flood intensification under anthropogenic climate warming?. Water Resour. Res. 57, e28491. https://doi.org/10.1029/2020WR028491 (2021).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6075_CR19",
+      "volume-title": "Engineering Hydrology",
+      "author": "K Subramanya",
+      "year": "2007",
+      "unstructured": "Subramanya, K. Engineering Hydrology (Tata McGraw-Hill Publishing, 2007)."
+    },
+    {
+      "key": "6075_CR20",
+      "doi-asserted-by": "publisher",
+      "first-page": "979",
+      "DOI": "10.1007/s11269-006-9018-2",
+      "volume": "20",
+      "author": "JM Al-Humoud",
+      "year": "2006",
+      "unstructured": "Al-Humoud, J. M. & Esen, I. I. Approximate methods for the estimation of muskingum flood routing parameters. Water Resour. Manag. 20, 979–990 (2006).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR21",
+      "doi-asserted-by": "publisher",
+      "first-page": "1219",
+      "DOI": "10.1029/WR009i005p01219",
+      "volume": "9",
+      "author": "JS Windsor",
+      "year": "1973",
+      "unstructured": "Windsor, J. S. Optimization model for the operation of flood control systems. Water Resour. Res. 9, 1219–1226. https://doi.org/10.1029/WR009i005p01219 (1973).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6075_CR22",
+      "doi-asserted-by": "publisher",
+      "first-page": "282",
+      "DOI": "10.1016/j.jhydrol.2007.01.001",
+      "volume": "336",
+      "author": "N-S Hsu",
+      "year": "2007",
+      "unstructured": "Hsu, N.-S. & Wei, C.-C. A multipurpose reservoir real-time operation model for flood control during typhoon invasion. J. Hydrol. 336, 282–293. https://doi.org/10.1016/j.jhydrol.2007.01.001 (2007).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6075_CR23",
+      "doi-asserted-by": "publisher",
+      "first-page": "1045",
+      "DOI": "10.1007/s11269-009-9485-3",
+      "volume": "24",
+      "author": "DN Kumar",
+      "year": "2010",
+      "unstructured": "Kumar, D. N., Baliarsingh, F. & Raju, K. S. Optimal reservoir operation for flood control using folded dynamic programming. Water Resour. Manag. 24, 1045–1064 (2010).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR24",
+      "doi-asserted-by": "publisher",
+      "first-page": "118",
+      "DOI": "10.1061/(ASCE)0733-9496(2000)126:3(118)",
+      "volume": "126",
+      "author": "JT Needham",
+      "year": "2000",
+      "unstructured": "Needham, J. T., Watkins, D. W. Jr., Lund, J. R. & Nanda, S. Linear programming for flood control in the iowa and des moines rivers. J. Water Resour. Plan. Manag. 126, 118–127 (2000).",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "6075_CR25",
+      "doi-asserted-by": "publisher",
+      "first-page": "17",
+      "DOI": "10.1007/BF01543425",
+      "volume": "3",
+      "author": "K Ponnambalam",
+      "year": "1989",
+      "unstructured": "Ponnambalam, K., Vannelli, A. & Unny, T. An application of karmarkar’s interior-point linear programming algorithm for multi-reservoir operations optimization. Stoch. Hydrol. Hydraul. 3, 17–29 (1989).",
+      "journal-title": "Stoch. Hydrol. Hydraul."
+    },
+    {
+      "key": "6075_CR26",
+      "doi-asserted-by": "publisher",
+      "first-page": "1",
+      "DOI": "10.1016/S0927-0507(05)80118-5",
+      "volume": "7",
+      "author": "RK Ahuja",
+      "year": "1995",
+      "unstructured": "Ahuja, R. K., Magnanti, T. L., Orlin, J. B. & Reddy, M. Applications of network optimization. Handbooks Oper. Res. Manag. Sci. 7, 1–83 (1995).",
+      "journal-title": "Handbooks Oper. Res. Manag. Sci."
+    },
+    {
+      "key": "6075_CR27",
+      "doi-asserted-by": "publisher",
+      "first-page": "412",
+      "DOI": "10.1061/(ASCE)0733-9496(1993)119:3(412)",
+      "volume": "119",
+      "author": "G Kuczera",
+      "year": "1993",
+      "unstructured": "Kuczera, G. Network linear programming codes for water-supply headworks modeling. J. Water Resour. Plan. Manag. 119, 412–417 (1993).",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "6075_CR28",
+      "doi-asserted-by": "publisher",
+      "first-page": "2",
+      "DOI": "10.1029/2007WR006192",
+      "volume": "44",
+      "author": "N Ilich",
+      "year": "2008",
+      "unstructured": "Ilich, N. Shortcomings of linear programming in optimizing river basin allocation. Water Resour. Res. 44, 2 (2008).",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "6075_CR29",
+      "doi-asserted-by": "publisher",
+      "first-page": "837",
+      "DOI": "10.1111/j.1752-1688.2001.tb05516.x",
+      "volume": "37",
+      "author": "B Braga",
+      "year": "2001",
+      "unstructured": "Braga, B. & Barbosa, P. S. Multiobjective real-time reservoir operation with a network flow algorithm 1. JAWRA J. Am. Water Resour. Assoc. 37, 837–852 (2001).",
+      "journal-title": "JAWRA J. Am. Water Resour. Assoc."
+    },
+    {
+      "key": "6075_CR30",
+      "volume-title": "Deriving Unit Cost Coefficients for Linear Programming-Driven Priority-Based Simulations",
+      "author": "ICL Ferreira",
+      "year": "2007",
+      "unstructured": "Ferreira, I. C. L. Deriving Unit Cost Coefficients for Linear Programming-Driven Priority-Based Simulations (University of California, 2007)."
+    },
+    {
+      "key": "6075_CR31",
+      "doi-asserted-by": "publisher",
+      "first-page": "1857",
+      "DOI": "10.5194/hess-18-1857-2014",
+      "volume": "18",
+      "author": "F-F Chou",
+      "year": "2014",
+      "unstructured": "Chou, F.-F. & Wu, C.-W. Determination of cost coefficients of a priority-based water allocation linear programming model-a network flow approach. Hydrol. Earth Syst. Sci. 18, 1857–1872 (2014).",
+      "journal-title": "Hydrol. Earth Syst. Sci."
+    },
+    {
+      "key": "6075_CR32",
+      "first-page": "1",
+      "volume": "2",
+      "author": "A Tahiri",
+      "year": "2018",
+      "unstructured": "Tahiri, A., Ladeveze, D., Chiron, P., Archimede, B. & Lhuissier, L. Reservoir management using a network flow optimization model considering quadratic convex cost functions on arcs. Water Resour. Manag. 2, 1–14 (2018).",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "6075_CR33",
+      "volume-title": "Engineering Hydrology",
+      "author": "E Wilson",
+      "year": "1983",
+      "unstructured": "Wilson, E. Engineering Hydrology (Macmillan, 1983)."
+    },
+    {
+      "key": "6075_CR34",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Gill, M. A. Routing of Floods in River Channels. Hydrology Research8, 163–170, https://doi.org/10.2166/nh.1977.0013 (1977). https://iwaponline.com/hr/article-pdf/8/3/163/9361/163.pdf.",
+      "DOI": "10.2166/nh.1977.0013"
+    },
+    {
+      "key": "6075_CR35",
+      "doi-asserted-by": "publisher",
+      "first-page": "343",
+      "DOI": "10.1016/0022-1694(80)90125-0",
+      "volume": "48",
+      "author": "VP Singh",
+      "year": "1980",
+      "unstructured": "Singh, V. P. & McCann, R. C. Some notes on muskingum method of flood routing. J. Hydrol. 48, 343–361 (1980).",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "6075_CR36",
+      "doi-asserted-by": "publisher",
+      "first-page": "600",
+      "DOI": "10.1061/(ASCE)0733-9496(1993)119:5(600)",
+      "volume": "119",
+      "author": "J Yoon",
+      "year": "1993",
+      "unstructured": "Yoon, J. & Padmanabhan, G. Parameter estimation of linear and nonlinear muskingum models. J. Water Resour. Plan. Manag. 119, 600–610 (1993).",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "6075_CR37",
+      "doi-asserted-by": "publisher",
+      "first-page": "19",
+      "DOI": "10.1016/j.ifacol.2018.06.193",
+      "volume": "51",
+      "author": "A Tahiri",
+      "year": "2018",
+      "unstructured": "Tahiri, A., Ladeveze, D., Chiron, P. & Archimede, B. Improving the characterization of initial conditions for streamflow prediction using a precipitation reconstruction algorithm. IFAC-PapersOnLine 51, 19–24 (2018).",
+      "journal-title": "IFAC-PapersOnLine"
+    }
+  ],
+  "container-title": [
+    "Scientific Reports"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06075-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06075-0",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://www.nature.com/articles/s41598-022-06075-0.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2022,
+        11,
+        24
+      ]
+    ],
+    "date-time": "2022-11-24T19:03:01Z",
+    "timestamp": 1669316581000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.nature.com/articles/s41598-022-06075-0"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        10
+      ]
+    ]
+  },
+  "references-count": 37,
+  "journal-issue": {
+    "issue": "1",
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          12
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "6075"
+  ],
+  "URL": "https://doi.org/10.1038/s41598-022-06075-0",
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "doi",
+        "id": "10.21203/rs.3.rs-914804/v1",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "2045-2322"
+  ],
+  "issn-type": [
+    {
+      "value": "2045-2322",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2022,
+        3,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "17 September 2021",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "21 January 2022",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "10 March 2022",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "The authors declare no competing interests.",
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Competing interests"
+      }
+    }
+  ],
+  "article-number": "3937"
+}

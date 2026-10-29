@@ -1,0 +1,761 @@
+﻿step_key,paper_id,layer,step_title,primary,secondary,rationale
+E01-R1,E01,R,Reframe fixed FLWL as a flood-control/conservation trade-off,RP01,RP06,Fixed FLWL over-prioritizes rare floods and loses floodwater use; rule limitation.
+E01-R2,E01,R,Treat both forecast error and flood-shape uncertainty as risk sources,RP02,,Forecast error and hydrograph-shape uncertainty both change risk.
+E01-R3,E01,R,Use lead time and release capacity to define an admissible upper level,RP05,RP03,"Lead time, release capacity, and safe discharge bound how high the level can go."
+E01-R4,E01,R,"Select among pre-release, normal control, and refill according to forecast thresholds",RP07,,Switches pre-release / normal / refill by forecast thresholds.
+E01-R5,E01,R,Require total modeled risk to be no greater than the current-rule risk,RP04,,Acceptable risk = no greater than current-rule design-flood risk.
+E01-R6,E01,R,Represent forecast error probabilistically and calibrate forecast adequacy,RP02,RP03,Represents forecast error as a distribution calibrated from forecast accuracy.
+E01-R7,E01,R,Use Monte Carlo convergence to select the upper dynamic bound,RP08,,Justifies Monte Carlo search as the solution method; method choice not covered.
+E01-R8,E01,R,Interpret gains only after checking case constraints and the baseline comparison,RP09,,Interprets gains only against the baseline under case constraints.
+E01-E1,E01,E,Assemble the TGR case and current-rule baseline,EP01,,Assembles TGR case and current-rule baseline.
+E01-E2,E01,E,Calibrate and validate the TGR inflow forecast,EP02,,Calibrates and validates the inflow forecast model.
+E01-E3,E01,E,Check forecast accuracy and derive forecast-error realizations,EP02,EP03,"Checks forecast accuracy, then derives error realizations."
+E01-E4,E01,E,Calculate the candidate upper bound from capacity-constrained pre-release,EP05,,Calculates the capacity-constrained admissible upper level.
+E01-E5,E01,E,Execute the refill branch during flood recession,EP09,,Executes the recession refill branch.
+E01-E6,E01,E,Apply threshold-based TGR decision logic and safety constraints,EP09,EP05,Applies threshold decision logic under downstream safety constraints.
+E01-E7,E01,E,Quantify risk for each candidate decision/level,EP07,,Quantifies risk terms for each candidate level.
+E01-E8,E01,E,Search for a converged Monte Carlo dynamic bound,EP06,EP03,Monte Carlo search for the converged dynamic bound.
+E01-E9,E01,E,Compare simulated schemes with the current rule,EP10,EP07,"Compares schemes with the current rule on spill, utilization, generation."
+E02-R1,E02,R,Frame the decision as an uncertainty-propagation chain,RP02,,Frames uncertainty propagating from forecast to optimization to decision.
+E02-R2,E02,R,Represent evolving forecast uncertainty,RP02,,Represents evolving forecast uncertainty with MMFE.
+E02-R3,E02,R,Define the competing operating objectives,RP06,RP04,Dam/upstream level vs downstream release conflict kept as two objectives.
+E02-R4,E02,R,Preserve physical and operational feasibility,RP05,,Physical and operational limits on candidate releases.
+E02-R5,E02,R,Construct an uncertain Pareto front,RP06,,Seeks a noninferior set rather than one optimum.
+E02-R6,E02,R,Convert stochastic objectives into operational risk indicators,RP04,,Converts objectives into overtopping and downstream exceedance risk.
+E02-R7,E02,R,Make a preference-sensitive stochastic selection,RP06,,Selection under uncertain criteria and weights (SMAA-TOPSIS).
+E02-R8,E02,R,Implement only the immediate release and re-plan,RP07,,"Implement only immediate release, then re-plan."
+E02-R9,E02,R,Test how uncertainty affects reliability,RP09,,Tests how uncertainty level and correlation affect reliability of the decision.
+E02-E1,E02,E,Configure the case study and horizon,EP01,,"Configures case reservoir, control point, horizon, curves."
+E02-E2,E02,E,Generate synthetic ensemble inflow forecasts,EP03,,Generates MMFE scenario trees.
+E02-E3,E02,E,Build and solve the scenario-based stochastic program,EP06,EP05,Builds and solves the scenario stochastic program with constraints.
+E02-E4,E02,E,Trace the uncertain Pareto front,EP06,EP08,Generates ten noninferior alternatives by constraint method.
+E02-E5,E02,E,Calculate alternative-specific exceedance risks,EP07,,Calculates exceedance risks per alternative.
+E02-E6,E02,E,Assemble the stochastic MCDM decision matrix,EP08,,Builds the stochastic MCDM decision matrix.
+E02-E7,E02,E,Sample uncertain preferences and rank alternatives,EP08,,Samples preferences and ranks alternatives.
+E02-E8,E02,E,Apply the current-period release and update the state,EP09,,"Applies current-period release, updates state, repeats."
+E02-E9,E02,E,Evaluate update value and uncertainty effects,EP10,,"Experiments on update value, uncertainty level, correlation."
+E03-R1,E03,R,Reframe static FLWL as a forecast-responsive trade-off,RP01,RP06,Static FLWL ignores seasonal variation and real-time information.
+E03-R2,E03,R,Choose a two-stage rolling-horizon decision structure,RP07,,Two-stage rolling-horizon decision structure.
+E03-R3,E03,R,Allocate residual capacity between conservation and future flood safety,RP06,,Allocates residual capacity between conservation and future safety.
+E03-R4,E03,R,Translate forecast uncertainty and acceptable risk into a safety requirement,RP04,RP02,Turns forecast error and acceptable risk into a minimum safety margin.
+E03-R5,E03,R,Define a weighted loss and marginal utilities for the two objectives,RP06,,Weighted loss and marginal utilities as the comparison principle.
+E03-R6,E03,R,Use KKT conditions to identify the allocation regime,RP08,,KKT optimality argument; mathematical method justification not covered.
+E03-R7,E03,R,"Classify cases by uncertainty, acceptable risk, and expected inflow",RP06,RP02,"Allocation regime depends on uncertainty, acceptable risk, inflow."
+E03-R8,E03,R,Interpret sensitivity and case results within the model's claim boundary,RP09,,Interprets sensitivity and case results within claim boundary.
+E03-E1,E03,E,"Set the flood-season state, boundaries, and targets",EP01,,"Sets horizon, boundaries, targets, balance definitions."
+E03-E2,E03,E,Describe the real-time DC-FLWL operational trigger,EP09,,Real-time prefill / prerelease / crisis trigger logic.
+E03-E3,E03,E,Build the rolling two-stage water balance,EP04,,Rolling two-stage water balance.
+E03-E4,E03,E,Represent Stage-2 forecast error and release uncertainty,EP03,,Represents Stage-2 forecast error.
+E03-E5,E03,E,Convert downstream risk and water-supply requirements into bounds,EP05,,Converts risk and supply requirements into release/margin bounds.
+E03-E6,E03,E,Test the reduced DC-FLWL feasibility conditions,EP05,,Tests reduced feasibility conditions.
+E03-E7,E03,E,Optimize carryover storage and safety margin,EP06,,Optimizes carryover storage and safety margin.
+E03-E8,E03,E,Select the piecewise analytical hedging branch,EP06,EP09,Selects piecewise analytical hedging branch.
+E03-E9,E03,E,Convert optimal storage to Stage-1 release and enforce the release floor,EP09,EP05,Converts optimum to current release with release floor.
+E03-E10,E03,E,Roll the horizon and update decisions,EP09,,Rolls horizon and updates decisions.
+E03-E11,E03,E,Estimate the case-study forecast and error model,EP02,EP03,Builds case forecast and tests error distribution.
+E03-E12,E03,E,Derive case rules and parameter scenarios,EP06,EP10,Derives case rules across uncertainty scenarios.
+E03-E13,E03,E,Compare three operation policies,EP10,,Compares three operation policies.
+E03-E14,E03,E,Evaluate water conservation and modelled flood risk,EP10,EP07,Evaluates conservation and modelled risk over 30 years.
+E04-R1,E04,R,Frame forecast uncertainty as an operating-risk input,RP02,,Forecast uncertainty evolution is decision-relevant.
+E04-R2,E04,R,Replace restrictive uncertainty-evolution assumptions,RP02,,Needs uncertainty model without restrictive assumptions.
+E04-R3,E04,R,Normalize and decompose forecast-error evolution,RP02,,Normalizes and decomposes error evolution.
+E04-R4,E04,R,Respect seasonal nonstationarity,RP02,,Seasonal nonstationarity of error.
+E04-R5,E04,R,Select a marginal family from empirical fit evidence,RP02,RP09,Chooses marginal family from fit evidence.
+E04-R6,E04,R,Select a dependence model that can represent extreme dependence,RP02,,Dependence model capturing extreme dependence.
+E04-R7,E04,R,Define the operational threshold and comparison route,RP04,RP09,Defines 180.4 m threshold and comparison route for risk.
+E04-E1,E04,E,Assemble the TGR forecast-operation data,EP01,,Assembles TGR forecast-operation data.
+E04-E2,E04,E,Compute rolling relative-error reductions,EP02,EP03,Computes rolling forecast-error reductions.
+E04-E3,E04,E,Split reductions by season,EP03,,Splits reductions by season.
+E04-E4,E04,E,Fit and screen marginal distributions,EP03,,Fits marginal distributions.
+E04-E5,E04,E,Check serial dependence and fit joint copulas,EP03,,Fits joint copulas.
+E04-E6,E04,E,Generate single-period reduction samples and check moments,EP03,,Generates reduction samples and checks moments.
+E04-E7,E04,E,Reconstruct forecast uncertainty at each lead time,EP03,,Reconstructs lead-time uncertainty.
+E04-E8,E04,E,Generate synthetic daily flows and predicted inflows,EP03,,Generates synthetic flows and predicted inflows.
+E04-E9,E04,E,Apply forecast-informed pre-release and routing rules,EP04,EP09,Routes predicted inflows with rolling pre-release rules.
+E04-E10,E04,E,Estimate and compare extreme flood risk,EP07,EP10,Estimates and compares extreme flood risk.
+E05-R1,E05,R,Reframe fixed flood-control storage as an adaptive trade-off,RP01,RP06,Fixed flood space is unused in small floods and insufficient in large ones.
+E05-R2,E05,R,Encode the competing objectives in two linked stages,RP06,,Weighted conservation vs flood-control objective across two stages.
+E05-R3,E05,R,Define feasible storage–safety allocations before optimizing,RP05,RP04,Defines the feasible storage-safety allocation region before optimizing.
+E05-R4,E05,R,Use marginal-utility equality or a boundary condition to select the rule,RP08,,Marginal-utility/boundary optimality argument; mathematical method justification.
+E05-R5,E05,R,Classify the hedging-rule type from the starting boundary,RP06,,Rule type follows which objective has larger marginal utility (selection principle).
+E05-R6,E05,R,Treat forecast uncertainty as useful only up to a constraint-dependent threshold,RP03,RP02,Forecast uncertainty is usable only up to a constraint-dependent threshold.
+E05-R7,E05,R,"Jointly interpret preference, forecast quality, and operating context",RP06,RP03,Preference and forecast quality jointly bound the decision space.
+E05-E1,E05,E,Set up the two-stage reservoir representation,EP01,,Sets up two-stage reservoir representation and assumptions.
+E05-E2,E05,E,"Construct losses, risk, and constraints",EP06,EP05,"Formulates losses, risk, and constraints of the optimization."
+E05-E3,E05,E,Reduce stage-2 mass balance to an allocation problem,EP06,EP05,Reformulates the stage-2 balance as an allocation problem.
+E05-E4,E05,E,Generate the feasible zone and endpoint conditions,EP05,,Maps the feasible zone and endpoint conditions.
+E05-E5,E05,E,Derive and classify preference-dependent hedging rules,EP06,,Derives and classifies preference-dependent hedging rules.
+E05-E6,E05,E,Calculate the mass-balance uncertainty threshold,EP06,,Analytically derives the uncertainty threshold r_c (rule parameter). Weak fit.
+E05-E7,E05,E,Select the active constraint branch for (r_{max}),EP05,EP06,Selects the binding-constraint branch for r_max.
+E05-E8,E05,E,Evaluate preference–uncertainty interaction,EP10,,Sensitivity of rule regions to preference and uncertainty.
+E05-E9,E05,E,Illustrate the procedure with Nierji Reservoir,EP06,EP10,Applies the derivation to Nierji to compute case thresholds.
+E06-R1,E06,R,Frame the uncertain operating risk,RP04,RP02,Defines risk as load exceeding safe resistance under listed uncertainties.
+E06-R2,E06,R,Reject restrictive distribution/independence assumptions,RP02,,Rejects normal/independent assumptions for forecast errors.
+E06-R3,E06,R,Select forecast-error marginals and dependence model,RP02,,Selects error marginals and dependence model.
+E06-R4,E06,R,Match hydrograph simulation to temporal dependence and tails,RP02,,Hydrograph shape/temporal dependence and upper-tail dependence matter.
+E06-R5,E06,R,Represent remaining uncertainties with tractable distributions and sampling,RP02,,"Represents hydraulic, storage, wind uncertainties."
+E06-R6,E06,R,Propagate uncertainty through the operating policy,RP02,RP04,Propagates input uncertainty through the operating rule to outcomes.
+E06-R7,E06,R,Compare threshold risk and entropy-based risk,RP04,,Compares threshold-exceedance and entropy risk measures.
+E06-R8,E06,R,Interpret contribution and design-criterion results within the case,RP09,,Interprets uncertainty contributions and design-criterion conformity.
+E06-E1,E06,E,Configure TGR case and operating thresholds,EP01,,Configures TGR case and operating rules.
+E06-E2,E06,E,Fit three-day forecast-error model,EP03,EP02,Fits forecast-error marginals and copula.
+E06-E3,E06,E,Generate dependent forecast-error vectors,EP03,,Generates dependent forecast-error vectors.
+E06-E4,E06,E,Generate synthetic daily flood hydrographs,EP03,,Generates synthetic hydrographs.
+E06-E5,E06,E,Fit distributions for hydraulic/storage/wind uncertainty,EP03,,Fits hydraulic/storage/wind uncertainty distributions.
+E06-E6,E06,E,Construct LHS uncertainty samples,EP03,,Constructs LHS samples.
+E06-E7,E06,E,Route each simulated flood with pre-release and sampled uncertainties,EP04,,Routes each simulated flood with sampled uncertainties.
+E06-E8,E06,E,Calculate traditional threshold exceedance risk,EP07,,Calculates threshold exceedance risk.
+E06-E9,E06,E,Calculate component and system entropy,EP07,,Calculates component and system entropy.
+E06-E10,E06,E,Check simulations and interpret risk results,EP10,EP03,Checks simulation statistics and compares risk across uncertainty conditions.
+E07-R1,E07,R,Diagnose the guide-curve trade-off,RP01,RP06,Static guide curve from climatology is over-conservative and costs supply.
+E07-R2,E07,R,Choose ensemble risk-based decision support,RP02,,Chooses ensemble forecasts so every member's consequence is examined.
+E07-R3,E07,R,Set the critical threshold and lead-time tolerance,RP04,RP03,Sets storage threshold and lead-time-dependent risk tolerance.
+E07-R4,E07,R,Resolve excess risk with a constrained prerelease,RP07,RP05,"When risk test fails, prerelease only enough within physical/downstream limits."
+E07-R5,E07,R,Use a rolling one-day decision horizon,RP07,,Rolling one-day implementation horizon.
+E07-R6,E07,R,Delegate between flood control and water supply by forecasted risk,RP07,,Switches between flood-control and supply operations by forecast risk.
+E07-R7,E07,R,Judge viability against operationally meaningful comparators,RP09,,Judges viability against current practice and perfect-forecast bound.
+E07-R8,E07,R,Bound the conclusion by forecast skill and site conditions,RP09,RP03,Bounds benefit by forecast skill and site conditions.
+E07-E1,E07,E,Build the LMO water-balance simulator,EP04,,Builds the reservoir and junction water-balance simulator.
+E07-E2,E07,E,Assemble hindcast and common operational inputs,EP01,EP02,Assembles hindcast ensembles and common inputs.
+E07-E3,E07,E,Test model assumptions against historical operations,EP10,EP04,Tests model assumptions against historical operations.
+E07-E4,E07,E,Configure the EFO risk test,EP07,EP05,Computes ensemble exceedance risk vs tolerance.
+E07-E5,E07,E,Simulate member trajectories under no release and detect risky horizons,EP04,EP07,Simulates member storage trajectories to detect risky horizons.
+E07-E6,E07,E,Construct and constrain member release schedules,EP06,EP05,Constructs release schedules capped by release and ramping limits.
+E07-E7,E07,E,Select the current release across risky members and horizons,EP09,EP06,Selects today's release across risky members.
+E07-E8,E07,E,"Combine releases, update state, and roll forward",EP09,,"Combines releases, updates state, rolls forward."
+E07-E9,E07,E,Run the EO and PFO comparison branches,EP10,,Runs EO and PFO comparison branches.
+E07-E10,E07,E,"Evaluate storage, releases, and downstream flood indicators",EP10,EP07,"Evaluates storage, release, downstream indicators vs comparators."
+E08-R1,E08,R,Frame the DC-FLWL trade-off and uncertainty scope,RP02,RP06,Selects initial level and forecast error as the uncertainty scope; excludes others.
+E08-R2,E08,R,Derive distributions for initial storage and forecast inflows,RP02,,Derives distributions for initial storage and forecast inflow.
+E08-R3,E08,R,Choose an interpretable dependency representation,RP08,RP02,Chooses Bayesian network for interpretability; method choice not covered.
+E08-R4,E08,R,Generate and discretize training evidence,RP08,,Designs training-sample generation and discretization for the BN; method design.
+E08-R5,E08,R,Learn BN and select inference direction,RP08,,Chooses BN learning and inference direction; method design.
+E08-R6,E08,R,Convert distributions into risk and assess uncertainty interactions,RP04,RP09,Risk as threshold exceedance; compares which uncertainty drives risk.
+E08-E1,E08,E,Compute uncertain initial conditions,EP03,,Computes uncertain initial-storage distribution.
+E08-E2,E08,E,Specify uncertain routing inputs,EP03,,Specifies uncertain forecast inputs.
+E08-E3,E08,E,Generate feasible operation samples,EP06,EP04,Solves flood-control model per sample.
+E08-E4,E08,E,Build and fit BN,EP04,,Builds BN as probabilistic response model.
+E08-E5,E08,E,Perform prior risk inference,EP07,EP04,Prior inference of exceedance risk.
+E08-E6,E08,E,Perform posterior prediction or diagnosis,EP07,EP04,Posterior prediction / diagnosis of risk and causes.
+E08-E7,E08,E,Compare and interpret risk,EP10,EP07,Compares risk across uncertainty cases and horizons.
+E09-R1,E09,R,Identify when water-use pre-release is valid,RP07,RP03,When to start water-use pre-release and when to switch to flood-control pre-release.
+E09-R2,E09,R,Estimate duration/lead-time information conservatively,RP03,RP02,Estimates dry duration and lead time conservatively from history.
+E09-R3,E09,R,Quantify allowable added storage,RP05,,"Allowable added storage from release capacity, safety margin, lead time."
+E09-R4,E09,R,Stress-test forecast failure and capacity,RP05,RP09,Worst case: can stored water be released before next flood.
+E09-R5,E09,R,Judge practical benefit and boundaries,RP09,,Benefit varies by event; safe bound more useful than planned volume.
+E09-E1,E09,E,Fit dry-period distribution,EP03,,Fits dry-period distribution.
+E09-E2,E09,E,Estimate effective forecast lead time,EP02,EP03,Estimates effective forecast lead-time distribution.
+E09-E3,E09,E,Calculate two-period over-FLWL volume,EP05,,Calculates allowable over-FLWL volume.
+E09-E4,E09,E,Run worst-case release calculation,EP05,EP10,Worst-case release-time feasibility calculation.
+E09-E5,E09,E,Check historical event behavior,EP10,,Checks behavior on historical events.
+E10-R1,E10,R,Separate forecast stages by reliability,RP03,,Separates forecast stages by reliability.
+E10-R2,E10,R,Formulate dependent flood-risk objective,RP04,,Formulates dependent multi-stage levee-failure risk.
+E10-R3,E10,R,Allocate storage across RFH and outside RFH,RP06,RP07,Allocates storage across forecast stages by marginal risk.
+E10-R4,E10,R,Allocate RFH storage to current action,RP06,RP07,Allocates within reliable horizon between detention and prerelease.
+E10-R5,E10,R,Recompute and adapt through flood,RP07,,Recomputes as information arrives.
+E10-R6,E10,R,Evaluate by safety/utilization trade-off,RP09,RP06,Evaluates where stage-aware forecasts help across floods and perturbations.
+E10-E1,E10,E,Define RFH and uncertainty,EP03,EP02,Defines reliable horizon and stage-wise error model.
+E10-E2,E10,E,Solve outer allocation,EP06,,Solves outer storage allocation.
+E10-E3,E10,E,Solve inner allocation,EP06,,Solves inner allocation.
+E10-E4,E10,E,Route and update,EP09,EP04,"Routes, enforces constraints, updates and repeats."
+E10-E5,E10,E,Compare operation rules,EP10,,Compares operation rules on 12 floods.
+E10-E6,E10,E,Stress forecast and horizon choices,EP10,,"Stress tests forecast error, horizon, amplified floods."
+E11-R1,E11,R,Choose volume-based control target,RP03,,Chooses multi-day flood volume as the forecast quantity that supports the decision.
+E11-R2,E11,R,Convert forecast skill into an acceptable error bound,RP04,RP03,Keeps design flood probability unchanged under forecast error.
+E11-R3,E11,R,Derive period-specific D-PSL,RP05,,Storage must accommodate design inflow given releasable volume and capacity.
+E11-R4,E11,R,Select controlling period,RP05,,Takes the most restrictive period so all periods are satisfied.
+E11-R5,E11,R,Evaluate robustness and benefit,RP09,,"Value depends on skill, capacity, reservoir size, flood pattern."
+E11-E1,E11,E,Estimate forecast skill/error,EP02,EP03,Estimates forecast skill and error threshold.
+E11-E2,E11,E,Build flood-volume scenarios,EP03,,Simulates flood-volume scenarios.
+E11-E3,E11,E,Calculate candidate and selected D-PSL,EP05,,Calculates candidate and selected pre-storm levels.
+E11-E4,E11,E,Simulate operation under D-PSL,EP04,EP09,Routes forecast floods under D-PSL.
+E11-E5,E11,E,Compare scenarios and current practice,EP10,,Compares scenarios with current practice.
+E12-R1,E12,R,Define forecast-informed pre-release decision,RP05,RP06,Pre-release allowed only if future inflow can restore FLWL (feasibility safeguard).
+E12-R2,E12,R,Represent forecast uncertainty by its distribution,RP02,RP06,Uses full error distribution rather than extreme-error rules.
+E12-R3,E12,R,Include process resilience in the objective,RP04,RP06,"Damage depends on magnitude and duration, so resilience enters the risk definition."
+E12-R4,E12,R,Resolve conflicting objectives/preferences,RP06,,No universal Pareto optimum; preferences select rules.
+E12-R5,E12,R,Check safety and transfer limits,RP09,,Checks safety under forecast error and benefit vs current approaches.
+E12-E1,E12,E,Fit forecast-error distribution,EP03,EP02,Fits maximum-entropy forecast-error distribution.
+E12-E2,E12,E,Calculate early pre-release,EP06,EP05,Calculates pre-release with restoration safeguard.
+E12-E3,E12,E,Optimize flood-regulating trajectories,EP06,,Optimizes Pareto flood-regulating trajectories.
+E12-E4,E12,E,Select preferred rules,EP08,,Fuzzy optimum selection among Pareto rules.
+E12-E5,E12,E,Simulate and compare,EP10,EP07,Simulates and compares rules under typical/extreme forecasts.
+E13-R1,E13,R,Diagnose hindcast coverage risk,RP09,RP02,Short hindcasts may not reveal rare error patterns; policy may not generalize.
+E13-R2,E13,R,Preserve decision-relevant forecast structure,RP02,,"Generator must preserve bias, spread, temporal/spatial dependence, extremes."
+E13-R3,E13,R,Select the synthesis space,RP08,,Chooses synthesis space by cost vs process pathway; method choice.
+E13-R4,E13,R,Adapt the prior multivariate error route for ensembles,RP02,,Independent member treatment loses inter-member correlation.
+E13-R5,E13,R,Check statistical parity before operational interpretation,RP09,,Statistical parity required before operational interpretation.
+E13-R6,E13,R,Attribute operational differences cautiously,RP09,,Separates generator artifact from genuine EFO vulnerability.
+E13-R7,E13,R,Extend to pre-hindcast observations with explicit limits,RP09,,Pre-hindcast extension valid only if error relationships hold.
+E13-E1,E13,E,Assemble case data and operating context,EP01,,Assembles case data and operating context.
+E13-E2,E13,E,Represent EFO storage and release decisions,EP04,EP09,Simulates EFO storage and release policy.
+E13-E3,E13,E,Construct multivariate forecast-error records,EP03,EP02,Constructs multivariate forecast-error records.
+E13-E4,E13,E,Model conditional bias and heteroscedasticity,EP03,,Models conditional bias and heteroscedasticity.
+E13-E5,E13,E,Remove dependence and fit residual distributions,EP03,,"Removes dependence, fits residual distributions."
+E13-E6,E13,E,Reimpose dependence by Schaake shuffle and kNN,EP03,,Reimposes dependence via Schaake shuffle and kNN.
+E13-E7,E13,E,Reconstruct syn-HEFS forecasts,EP03,,Reconstructs synthetic HEFS ensembles.
+E13-E8,E13,E,Reconstruct syn-GEFS and force HEFS,EP03,EP02,Synthetic GEFS forcing run through HEFS.
+E13-E9,E13,E,Verify synthetic forecast ensembles,EP02,EP03,Verifies synthetic ensembles against HEFS.
+E13-E10,E13,E,Validate rare-event forecast attributes,EP02,EP03,Validates rare-event forecast attributes.
+E13-E11,E13,E,Run hindcast EFO operational validation,EP10,,Hindcast EFO operational comparison of synthetic vs actual.
+E13-E12,E13,E,Extend EFO testing to pre-hindcast events,EP10,,Tests EFO on pre-hindcast events.
+E14-R1,E14,R,Classify event scale before fitting,RP08,RP09,Clusters events before model fitting to reduce error; data/method design.
+E14-R2,E14,R,Select forecast information by association,RP08,,Selects forecast inputs by MIC; forecasting method choice.
+E14-R3,E14,R,Combine heterogeneous deterministic models by distributional similarity,RP08,RP03,Chooses Cloud model to combine forecasters; method choice.
+E14-R4,E14,R,Represent uncertainty through forecast errors with temporal dependence,RP02,,Forecast errors as temporally dependent stochastic process.
+E14-R5,E14,R,Evaluate forecast quality and forecast value separately,RP03,RP09,Separates forecast quality from forecast value.
+E14-R6,E14,R,Match objective complexity to flood scale,RP04,RP06,Risk/resilience objectives needed for large but not small floods.
+E14-R7,E14,R,"Seek a Pareto set, then make a preference-based compromise",RP06,,Pareto set then preference compromise.
+E14-R8,E14,R,Test robustness under scenario quantity and measurement uncertainty,RP09,,Robustness to scenario count and measurement uncertainty.
+E14-E1,E14,E,Assemble and classify the case data,EP01,,Assembles and classifies event data.
+E14-E2,E14,E,Select inputs and train base forecasters,EP02,,Trains base forecasters.
+E14-E3,E14,E,Build Cloud deterministic forecasts,EP02,,Builds Cloud weighted forecasts.
+E14-E4,E14,E,Fit error marginals and adjacent copula,EP03,,Fits error marginals and copula.
+E14-E5,E14,E,Generate SE-Cloud scenarios with Gibbs sampling,EP03,,Generates scenarios by Gibbs sampling.
+E14-E6,E14,E,Create comparator forecast scenarios,EP02,EP10,Creates BMA comparator forecasts.
+E14-E7,E14,E,Simulate constrained reservoir operation,EP04,EP06,Simulates constrained operation per forecast type.
+E14-E8,E14,E,Run deterministic forecast-value experiment,EP10,,Deterministic forecast-value experiment.
+E14-E9,E14,E,Run TSO ensemble-versus-deterministic comparison,EP10,,Ensemble vs deterministic Pareto comparison.
+E14-E10,E14,E,Run MRO for large-flood trade-offs,EP06,,Many-objective optimization under scenarios.
+E14-E11,E14,E,Post-assess under actual and noisy inflows,EP10,,Post-assesses strategies under actual and noisy inflow.
+E14-E12,E14,E,Test confidence/scenario sensitivity and limitations,EP10,,Confidence/scenario sensitivity.
+E15-R1,E15,R,Identify the fixed-rule limitation,RP01,,Conventional rules ignore forecasts and their uncertainty.
+E15-R2,E15,R,Produce a probabilistic inflow input,RP02,RP03,Point forecasts insufficient; probabilistic inflow needed.
+E15-R3,E15,R,Translate forecast uncertainty into a safety bound,RP04,RP05,Acceptable risk sets the forecast percentile the release must accommodate.
+E15-R4,E15,R,Use hierarchical pre-fill/pre-release branches,RP07,,Hierarchical pre-fill/pre-release branches by forecast magnitude.
+E15-R5,E15,R,Define a many-objective rule rather than one optimum,RP06,,Many conflicting objectives treated as Pareto problem.
+E15-R6,E15,R,Choose constrained evolutionary search,RP08,RP05,Chooses constrained evolutionary algorithm; method choice.
+E15-R7,E15,R,Select and interpret representative rules,RP09,RP06,Representative rules and HFOR comparison clarify forecast role.
+E15-R8,E15,R,Bound robustness claims by case and omitted uncertainty,RP09,,Bounds robustness claims by case and omitted uncertainty.
+E15-E1,E15,E,Generate multi-step probabilistic forecasts,EP02,,Generates multi-step probabilistic forecasts.
+E15-E2,E15,E,Apply two-stage water-balance constraints,EP05,,Derives safe current-release interval from water balance and risk.
+E15-E3,E15,E,Execute HPFOR branch logic,EP09,,Executes pre-fill/pre-release/normal branches.
+E15-E4,E15,E,Encode rule parameters and cascade constraints,EP06,,Encodes rule parameters for search.
+E15-E5,E15,E,Evaluate five objectives under cascade dynamics,EP04,EP07,Simulates cascade and computes objectives.
+E15-E6,E15,E,Repair/rank constraint violations,EP05,EP06,Repairs/ranks constraint violations.
+E15-E7,E15,E,Run RSEA and comparator algorithms,EP06,,Runs RSEA and comparators.
+E15-E8,E15,E,Summarize final HPFOR solutions,EP10,EP05,Compares optimized outcomes with conventional rule and checks limits.
+E15-E9,E15,E,Inspect representative operational traces,EP10,EP09,Inspects representative traces.
+E15-E10,E15,E,Compare with HFOR and state limits,EP10,,Compares with HFOR.
+E16-R1,E16,R,Diagnose robustness gaps,RP09,,Short hindcasts may hide overfitting and out-of-sample sensitivity.
+E16-R2,E16,R,Define a flood-pool objective with drawdown guardrail,RP06,RP04,Flood-pool objective with drawdown penalty balances safety and conservation.
+E16-R3,E16,R,Compare distinct policy information pathways,RP09,,Compares policy pathways against lower/upper benchmarks.
+E16-R4,E16,R,Train EFO under uncertainty and holdout branches,RP09,,Training on synthetic ensembles and holdout to test generalization.
+E16-R5,E16,R,Stress policies with scaled events and independent synthetic forecasts,RP09,,Stress tests with scaled events and synthetic forecasts.
+E16-R6,E16,R,Interpret forecast skill and operational response jointly,RP03,RP09,Diagnoses forecast skill alongside operational response.
+E16-R7,E16,R,Bound water-supply and feasibility conclusions,RP05,RP09,Refill and authority determine whether drawdown benefit is feasible.
+E16-E1,E16,E,"Assemble Oroville forecasts, inflows, and constraints",EP01,,"Assembles Oroville forecasts, inflows, constraints."
+E16-E2,E16,E,Define storage objective and shared constraints,EP04,EP05,Defines storage simulation and shared constraints.
+E16-E3,E16,E,Train EFO risk-curve policies,EP06,,Trains EFO risk-curve policies.
+E16-E4,E16,E,Run daily MPC,EP09,EP06,"Daily MPC, implement first action."
+E16-E5,E16,E,Run cumulative guide-curve policy,EP09,,Runs cumulative guide-curve rule.
+E16-E6,E16,E,Run baseline and perfect MPC benchmarks,EP10,,Baseline and perfect benchmarks.
+E16-E7,E16,E,Construct event and training designs,EP10,EP03,Constructs scaled stress events and training designs.
+E16-E8,E16,E,Evaluate flood-pool robustness,EP10,EP07,Evaluates flood-pool robustness.
+E16-E9,E16,E,Assess water-supply refill and forecast diagnostics,EP10,EP02,Refill check and forecast diagnostics.
+E17-R1,E17,R,Frame a cross-site screening problem,RP09,RP05,Single-site results do not show where FIRO transfers; cross-site applicability.
+E17-R2,E17,R,Select MPC for scalable control,RP08,RP07,Chooses MPC for scalability and no policy training; method choice.
+E17-R3,E17,R,Define benefit as flood-pool reduction,RP04,RP06,Defines performance as required flood-pool reduction.
+E17-R4,E17,R,Vary the parameters that govern pre-release feasibility,RP05,RP03,"Release, ramping, lead time govern whether pre-release is feasible."
+E17-R5,E17,R,Convert response surfaces to interpretable thresholds,RP09,,Turns response surfaces into interpretable screening thresholds.
+E17-R6,E17,R,Compare HEFS with perfect and baseline references,RP09,RP03,Baseline and perfect references bound forecast value.
+E17-R7,E17,R,Bound threshold generalization,RP09,,Thresholds vary by reservoir/event; bounds generalization.
+E17-E1,E17,E,Assemble six-site event and forecast inputs,EP01,,Assembles six-site event and forecast inputs.
+E17-E2,E17,E,Form scenario-based MPC state forecasts,EP06,EP04,Builds ensemble storage forecasts and optimizes release sequence.
+E17-E3,E17,E,Enforce release and ramp constraints; roll forward,EP09,EP05,"Enforces release/ramp limits, implements first action, rolls."
+E17-E4,E17,E,Define required flood pool and performance,EP07,,Calculates required flood pool performance.
+E17-E5,E17,E,Define forecast-policy branches,EP10,,Baseline/perfect/HEFS comparison branches.
+E17-E6,E17,E,Enumerate global parameter combinations,EP10,,Enumerates parameter combinations for response sampling.
+E17-E7,E17,E,Train and evaluate individual DT classifiers,EP10,,Trains decision-tree classifiers on outcomes.
+E17-E8,E17,E,Extract cross-reservoir thresholds,EP10,,Extracts cross-reservoir thresholds.
+E17-E9,E17,E,Diagnose interactions and event dependence,EP10,,Diagnoses interactions and event dependence.
+E18-R1,E18,R,Diagnose the WCM/forecast mismatch,RP01,,Old WCMs omit changed watersheds and modern forecasts.
+E18-R2,E18,R,Constrain the candidate approach to USACE practice,RP05,,Approach must fit USACE rule-curve practice and required tools.
+E18-R3,E18,R,Match assessment objectives to site characteristics,RP06,RP09,Defines site-specific objectives for distinct pilots.
+E18-R4,E18,R,Treat forecast skill and lead time as decision prerequisites,RP03,RP05,Sufficient forecast skill at lead time is a prerequisite.
+E18-R5,E18,R,Form alternatives that trade storage/use benefits against flood protection,RP06,,Alternatives trade storage/use against flood protection.
+E18-R6,E18,R,Compare each candidate with the current baseline on multiple metrics,RP09,,Compares each candidate to current baseline.
+E18-R7,E18,R,Select an implementable pilot strategy when performance is favorable,RP06,RP05,Retains a strategy only if favorable and implementable.
+E18-R8,E18,R,Scale from pilots through staged portfolio screening,RP09,RP05,Staged screening to scale across 400 reservoirs.
+E18-R9,E18,R,Codify and future-proof suitable adjustments in WCMs,RP09,RP05,Future tools enter WCM only after verified improvement.
+E18-E1,E18,E,Organize a FIRO pilot and workplan,EP11,,Steering committee and staged viability workplan.
+E18-E2,E18,E,Establish site baseline and operating constraints,EP01,,Establishes site baseline and constraints.
+E18-E3,E18,E,Assemble forecasts and monitoring capability,EP02,EP05,Assesses forecast and monitoring capability.
+E18-E4,E18,E,Define site-specific FIRO alternatives,EP06,,Defines site-specific FIRO alternatives.
+E18-E5,E18,E,Simulate/evaluate candidate scenarios with required decision tools,EP04,EP10,Simulates alternatives with HEC-ResSim.
+E18-E6,E18,E,Compare outcomes across multiple site metrics,EP10,,Compares outcomes against baseline on multiple metrics.
+E18-E7,E18,E,"Check physical, data, and implementation adequacy",EP05,,"Checks physical, data, implementation adequacy."
+E18-E8,E18,E,Temporarily implement and observe a pilot modification,EP11,,Temporary pilot implementation and observation.
+E18-E9,E18,E,Route candidates through the FIRO Screening Process,EP11,EP08,Routes candidates through staged screening.
+E18-E10,E18,E,"Branch to defer, research, assess, or update",EP11,,"Defer, research, assess, or update disposition."
+E18-E11,E18,E,Update WCM/WCP and preserve future adaptability,EP11,,Updates WCM/WCP with adaptability.
+E19-R1,E19,R,Diagnose the fixed-FLWL trade-off,RP01,,Static FLWL causes spills and later shortages.
+E19-R2,E19,R,Identify the forecast-horizon gap in PS-FIRO,RP03,RP01,Precipitation/streamflow horizon limits early preparation.
+E19-R3,E19,R,Define PP as a conservative physical upper bound,RP03,RP04,Constructs a conservative upper-bound early indicator (PP).
+E19-R4,E19,R,Convert PP into an operational water-level bound,RP05,RP04,Converts PP into a water level compatible with prerelease.
+E19-R5,E19,R,Sequence the three forecast defenses,RP07,RP03,"Sequences vapor, precipitation, streamflow defenses across stages."
+E19-R6,E19,R,Establish a common capacity-constrained FLWL upper bound,RP05,,Capacity-constrained upper bound for return to FLWL.
+E19-R7,E19,R,Separate the proposed comparison from the historical comparator,RP09,,Isolates the vapor effect with a matched comparator.
+E19-R8,E19,R,Test physical relation and operational mechanism before aggregate evaluation,RP09,,Tests physical relation and mechanism before aggregate claims.
+E19-R9,E19,R,Quantify benefits and safety across a flood-event sample,RP09,RP06,Quantifies benefit and safety across 50 floods with confounding noted.
+E19-R10,E19,R,Check data/model adequacy and state operational limits,RP09,,Checks data/model adequacy and limitations.
+E19-E1,E19,E,Define the reservoir and seasonal operating context,EP01,,Defines reservoir and seasonal context.
+E19-E2,E19,E,"Assemble atmospheric, hydrologic, and reservoir data",EP01,EP02,"Assembles atmospheric, hydrologic, reservoir data."
+E19-E3,E19,E,Set idealized forecast horizons for scheme comparison,EP01,,Sets idealized forecast horizons for comparison.
+E19-E4,E19,E,Compute PP from atmospheric water balance,EP02,,Computes PP from atmospheric water balance.
+E19-E5,E19,E,Transform PP into floodwater volume,EP02,EP04,Transforms PP into floodwater volume.
+E19-E6,E19,E,Derive VCWL under a prerelease sequence,EP05,,Derives VCWL level bound under prerelease sequence.
+E19-E7,E19,E,Establish the common FIRO upper bound,EP05,,Establishes capacity-constrained upper bound.
+E19-E8,E19,E,Execute VPS-FIRO's three-line operating sequence,EP09,,Executes three-line staged operation.
+E19-E9,E19,E,Run the PS-FIRO and historical comparator scenarios,EP10,,Runs PS-FIRO and historical comparators.
+E19-E10,E19,E,Inspect representative Typhoon In-Fa and Muifa/Hinnamnor events,EP10,EP09,Inspects representative events by period.
+E19-E11,E19,E,Compute 50-event statistics and interpret indexes,EP10,EP07,Computes 50-event statistics.
+E19-E12,E19,E,Validate hydrological and vapor-data components,EP02,EP10,Validates hydrological model and ERA5 vapor.
+E20-R1,E20,R,Frame flood operation as a conflict between two consequences,RP06,RP04,Frames flood operation as a conflict between downstream release damage and dam-safety storage risk; also defines the two unsafe outcomes.
+E20-R2,E20,R,Diagnose the weakness of few-event or user-tuned calibration,RP01,RP09,"Diagnoses that rule parameters calibrated on few events or user tuning fail outside those conditions, motivating adjustment; generalization concern is secondary evidence reasoning."
+E20-R3,E20,R,Represent uncertain forcing and initial state stochastically,RP02,,Identifies inflow hydrograph and initial storage as uncertainties that must be propagated.
+E20-R4,E20,R,Choose output descriptors that represent flood-operation consequences,RP04,,"Chooses maximum release and maximum storage because they map to downstream damage and dam-safety risk, i.e., defines unsafe-outcome measures."
+E20-R5,E20,R,Convert outputs into thresholded damage and conditional failure risk,RP04,,Defines thresholds below which damage is zero and dam-break conditional risk above FCL.
+E20-R6,E20,R,Select aggregation versus Pareto treatment based on objective comparability,RP06,,"Selection principle: aggregate commensurable objectives, otherwise keep a Pareto set."
+E20-R7,E20,R,Separate calibration score from per-event operating objective,RP06,,Decides which criterion governs selection (ensemble risk index vs per-event penalty). Residual: largely method-design reasoning that RP06 only partly covers.
+E20-R8,E20,R,Explore parameter behavior and inspect sensitivity before choosing a case policy,RP09,,Uses sensitivity and risk-surface inspection to judge what the calibration result supports.
+E20-R9,E20,R,"Interpret the balanced solution as a compromise, not universal superiority",RP06,RP09,"Interprets the balanced solution as a trade-off compromise, bounding it as case-specific."
+E20-R10,E20,R,Identify deployment prerequisites and limitations,RP09,RP05,"States what evidence is missing before adoption; deployment prerequisites (authority damage curves, real-time) are institutional feasibility."
+E20-E1,E20,E,Define case reservoir and risk thresholds,EP01,EP05,Assembles case reservoir data and sets kq/kv thresholds that later act as limits.
+E20-E2,E20,E,Generate a stochastic flash-flood ensemble,EP03,,Generates a 1000-event stochastic flood ensemble.
+E20-E3,E20,E,Set model inputs and initial state,EP01,,Sets model inputs and the initial state for every event.
+E20-E4,E20,E,Encode and run the per-event MILP RFCM,EP06,EP04,Solves per-event MILP to produce release/storage trajectories under constraints.
+E20-E5,E20,E,Define and enumerate candidate RFCM parameters,EP06,,Defines and enumerates candidate rule parameter sets.
+E20-E6,E20,E,Extract maximum release and storage per event,EP07,EP04,Extracts event maxima from simulated trajectories as inputs to risk calculation.
+E20-E7,E20,E,Estimate empirical distributions and release/storage risk indices,EP07,,Calculates release and storage risk indices (expected damage).
+E20-E8,E20,E,Aggregate risk and select the balanced parameter set,EP08,EP07,Aggregates risk indices and selects the minimum-risk parameter set.
+E20-E9,E20,E,Construct and inspect the Pareto front,EP08,,Constructs the Pareto front and locates the compromise.
+E20-E10,E20,E,"Compare cases, sensitivity, and calibrated versus non-calibrated behavior",EP10,,"Compares cases, sensitivity, and calibrated vs non-calibrated behavior."
+E20-E11,E20,E,Record limitations before operational transfer,,,"Records limitations and future work; no execution pattern covers documentation of limitations (closest EP10/EP11, neither fits)."
+E21-R1,E21,R,Frame the cascade as a coupled flood-control system,RP01,,Diagnoses that independent local rule following omits basin coupling and peak encounters (omitted system object).
+E21-R2,E21,R,Make competing objectives explicit,RP06,,"Makes competing flood, power, shipping, ecology objectives explicit."
+E21-R3,E21,R,Use forecast lead time as a staged information basis,RP03,RP07,Matches decision specificity to forecast skill by lead time; staged use across the event.
+E21-R4,E21,R,"Allocate reserved capacity by flood type, role, and encounter timing",RP06,RP07,Allocates reserved capacity across reservoirs by flood type and timing; stage-dependent order.
+E21-R5,E21,R,Let surplus upstream capacity compensate downstream tasks,RP06,RP04,Shifts flood burden upstream to preserve downstream benefits while basin risk stays controlled.
+E21-R6,E21,R,Generate an ensemble and use consultation for final authorization,RP06,RP05,Final scheme selected through multi-department consultation (selection principle); institutional authority.
+E21-R7,E21,R,Roll decisions as forecasts update,RP07,,Rolls decisions as forecasts update.
+E21-R8,E21,R,Verify multiple outcomes and reflect after the event,RP09,,Evaluates multiple outcomes after the event and reflects on what the evidence supports.
+E21-E1,E21,E,Acquire and manage basin data,EP01,,Acquires and manages basin hydro-meteorological and operational data.
+E21-E2,E21,E,Simulate upstream reservoir effects and naturalized flows,EP04,EP02,Simulates upstream operation effects and naturalized flows as routing/forecast inputs.
+E21-E3,E21,E,Forecast precipitation/floods at multiple lead times,EP02,,Produces qualitative and quantitative forecasts at multiple lead times.
+E21-E4,E21,E,Generate candidate cooperation schemes,EP06,EP07,Generates candidate cooperation schemes with NSGA-II; risk-benefit analysis.
+E21-E5,E21,E,Submit schemes for multi-department consultation,EP11,EP08,Multi-department consultation to authorize the final scheme.
+E21-E6,E21,E,Pre-discharge TGR using long-lead warning,EP09,,Pre-discharges TGR from long-lead warning as a staged action.
+E21-E7,E21,E,Release upstream reserved capacity to stagger peaks,EP09,,Releases upstream reserved capacity to stagger peaks as coordinated actions.
+E21-E8,E21,E,"Adjust generation, shipping, and levels during execution",EP09,,"Adjusts generation, shipping, and levels during execution."
+E21-E9,E21,E,Reanalyze performance and maintain crisis branches,EP11,EP10;EP09,Post-event reanalysis and scheme revision; crisis branches are fallback actions.
+E22-R1,E22,R,Treat inflow forecast uncertainty as an operational decision issue,RP02,,Inflow forecast uncertainty is decision-relevant.
+E22-R2,E22,R,Use NWP precipitation and LSTM for a fast ensemble inflow product,RP08,RP02,Chooses LSTM with NWP ensembles for speed; forecasting method choice.
+E22-R3,E22,R,Balance release-peak reduction against storage retention,RP06,,Peak release vs storage retention trade-off.
+E22-R4,E22,R,Bind optimization to physical and operational constraints,RP05,,Physical and operational constraints on policies.
+E22-R5,E22,R,Select objective weights through grid search,RP06,,Chooses objective weights expressing the trade-off.
+E22-R6,E22,R,Use GA to search release/storage decisions for each scenario,RP08,,Chooses GA for robustness/flexibility; solver choice.
+E22-R7,E22,R,Compare ensemble scenarios with deterministic/no-forecast and observed operation,RP09,,Compares ensemble with deterministic and observed operation.
+E22-R8,E22,R,Prefer policies that preserve flood safety while increasing storage,RP04,RP06,Accepts policies only below the critical storage limit.
+E22-R9,E22,R,Assess practical transfer and computational feasibility,RP09,RP05,Transfer and computational feasibility limits.
+E22-E1,E22,E,Set the Dez Dam case and operation data,EP01,,Sets Dez Dam case and floods.
+E22-E2,E22,E,Assemble and bias-correct NWP precipitation ensembles,EP02,,Assembles and bias-corrects NWP ensembles.
+E22-E3,E22,E,Train the sequential LSTM inflow forecaster,EP02,,Trains LSTM inflow forecaster.
+E22-E4,E22,E,Evaluate forecast skill and uncertainty representation,EP02,,Evaluates forecast skill and uncertainty.
+E22-E5,E22,E,Formulate multiobjective flood-operation functions,EP06,,Formulates multiobjective functions.
+E22-E6,E22,E,"Apply water-balance, release, storage, and fluctuation constraints",EP06,EP05,"Encodes balance, release, storage, fluctuation constraints."
+E22-E7,E22,E,Grid-search objective weights and run GA,EP06,,Grid search weights and GA runs.
+E22-E8,E22,E,Run the deterministic/no-forecast policy,EP10,EP06,Deterministic comparator policy.
+E22-E9,E22,E,Run ensemble-member and ensemble-mean policies,EP06,EP10,Ensemble-member and mean policies.
+E22-E10,E22,E,"Compare release, storage, and safety outcomes",EP10,EP07,"Compares release, storage, safety outcomes."
+E22-E11,E22,E,Document limitations and future operating route,,,Documents limitations and future route; no execution pattern.
+E23-R1,E23,R,Frame the operating decision under uncertainty,RP01,RP02,Offline rules ignore forecasts; deterministic MPC fragile.
+E23-R2,E23,R,Establish whether ensemble forecasts merit operational use,RP03,,Establishes whether ensemble forecasts merit operational use.
+E23-R3,E23,R,Align branching with uncertainty resolution,RP07,RP02,Branching aligned with when uncertainty resolves.
+E23-R4,E23,R,Select a routing representation that can support optimization,RP08,,Selects routing model by accuracy vs cost for optimization; method choice.
+E23-R5,E23,R,Formulate risk-aware multi-stage control,RP07,RP04,Multi-stage recourse control with hard constraints.
+E23-R6,E23,R,Interpret comparative behavior within the event,RP09,RP06,Interprets conservative stochastic behavior within event.
+E23-E1,E23,E,Assimilate observations and generate hydrological disturbances,EP02,,Assimilates observations and runs hydrological forecast.
+E23-E2,E23,E,Verify forecast products before optimization use,EP02,,Verifies forecast products.
+E23-E3,E23,E,Reduce ensemble to a scenario tree,EP03,,Reduces ensemble to scenario tree.
+E23-E4,E23,E,Choose and embed downstream routing model,EP04,,Tests and embeds routing model.
+E23-E5,E23,E,Solve multi-stage stochastic MPC,EP06,EP09,Solves multi-stage stochastic MPC.
+E23-E6,E23,E,Compare event trajectories and constraint behavior,EP10,,Compares event trajectories and constraint behavior.
+E24-R1,E24,R,Define the intertemporal flood trade-off,RP06,RP07,Current vs future use of conveyance capacity as intertemporal trade-off.
+E24-R2,E24,R,Consolidate forecast uncertainty at the protected area,RP02,,Combines correlated upstream and intermediate forecast errors.
+E24-R3,E24,R,Translate conveyance gap into a safety resource,RP04,,Levee failure defined as total flow exceeding conveyance; margin as safety resource.
+E24-R4,E24,R,Establish marginal-value allocation logic,RP08,,KKT and convexity argument; mathematical method justification.
+E24-R5,E24,R,Classify risk from uncertainty and total margin,RP06,RP02,Uncertainty and total margin determine the allocation regime.
+E24-R6,E24,R,Convert allocation into operational targets and boundary actions,RP05,RP07,Turns allocation into release/storage targets clipped by capacity.
+E24-E1,E24,E,Specify two-stage water balance and forecast variables,EP01,EP03,Specifies two-stage balance and forecast variables.
+E24-E2,E24,E,Compute uncertainty and expected damage,EP07,,Computes expected levee-failure damage.
+E24-E3,E24,E,Compute total EFSM and critical thresholds,EP05,EP06,Computes total safety margin and critical thresholds.
+E24-E4,E24,E,Select and solve the EFSM allocation rule,EP06,,Selects and solves the allocation rule.
+E24-E5,E24,E,Convert EFSM to release and storage decisions,EP09,,Converts margins into release and storage decisions.
+E24-E6,E24,E,Enforce storage capacity and extreme-flood response,EP05,EP09,Enforces storage capacity and extreme-flood branch.
+E24-E7,E24,E,Demonstrate three cases,EP10,,Demonstrates three cases vs no hedging.
+E25-R1,E25,R,Identify the current/future trade-off,RP06,,Pre-storm release trades current damage against future risk.
+E25-R2,E25,R,Represent engineering failure modes and stage risk,RP04,,Fragility curve between safe and overtopping capacity defines failure.
+E25-R3,E25,R,Determine whether hedging can affect forecasted storms,RP05,,Storage/release mechanics decide whether hedging can affect a storm.
+E25-R4,E25,R,Derive the optimality condition,RP08,,Derives optimality condition by differentiation; method justification.
+E25-R5,E25,R,Assess convexity and parameter effects,RP09,RP04,"Conditions (curve convexity, parameters) under which the result holds."
+E25-R6,E25,R,Interpret practical operating conditions,RP09,RP05,Practical conditions and institutional reluctance bound the theory.
+E25-E1,E25,E,Parameterize forecast ensemble and reservoir state,EP01,EP03,Parameterizes storm ensemble and reservoir state.
+E25-E2,E25,E,Compute candidate storm releases,EP04,,Computes storm releases from storage balance.
+E25-E3,E25,E,Evaluate failure and expected damage,EP07,,Evaluates failure probability and expected damage.
+E25-E4,E25,E,Categorize storms and simplify cost,EP07,,Categorizes storms and simplifies cost.
+E25-E5,E25,E,Search feasible Qh and identify optimum,EP06,,Enumerates hedging releases and selects optimum.
+E25-E6,E25,E,Run sensitivity and comparison branches,EP10,,Sensitivity and comparison branches.
+E26-R1,E26,R,Frame conservation as a flood/shortage trade-off,RP06,RP01,Post-flood conservation vs flood/shortage risk; existing rules ignore forecast error.
+E26-R2,E26,R,Track how forecast errors propagate,RP02,,Tracks how phase forecast errors propagate.
+E26-R3,E26,R,Define consequence risks and acceptable flood bound,RP04,,"Defines upstream, downstream, shortage risks and acceptable flood bound."
+E26-R4,E26,R,Reduce to one conservation variable and derive optimality,RP08,,Reduction to one variable and KKT; method justification.
+E26-R5,E26,R,Turn KKT solution into three operational zones,RP07,RP06,Three operating zones switched by expected availability thresholds.
+E26-R6,E26,R,Test whether forecast precision changes the trade-off,RP03,RP09,Forecast precision changes zones and trade-off.
+E26-E1,E26,E,Build phase-wise inputs and benchmark rules,EP01,,Builds phase inputs and benchmark rules.
+E26-E2,E26,E,Prepare uncertainty and risk functions,EP03,EP07,Prepares error model and risk functions.
+E26-E3,E26,E,Calculate feasible V1 and solve the analytical HR,EP06,,Solves analytical hedging rule.
+E26-E4,E26,E,Generate and apply three-zone rule,EP06,EP09,Generates and applies three-zone rule.
+E26-E5,E26,E,Run event and rolling-horizon simulations,EP10,EP09,Event and rolling-horizon simulations of rule alternatives.
+E26-E6,E26,E,Compare rule performance and forecast-precision sensitivity,EP10,,Compares rules and forecast-precision sensitivity.
+E27-R1,E27,R,Distinguish forecast-based decision uncertainty,RP02,,Forecast mismatch as decision uncertainty.
+E27-R2,E27,R,Select the 6-hour runoff rule indicator,RP03,,Chooses 6-h horizon matching forecast reliability and response time.
+E27-R3,E27,R,Estimate forecast-error process and simplify applicability,RP02,RP03,Error statistics by lead time and flow; stationary only at high flow.
+E27-R4,E27,R,Propagate error through deterministic routing/rules,RP02,RP04,Propagates errors through routing and rule.
+E27-R5,E27,R,Use Monte Carlo MWL distributions as operator risk evidence,RP04,RP09,Maximum-level distribution as exceedance-risk evidence.
+E27-R6,E27,R,Interpret acceptability and limits,RP09,RP04,Acceptability judged with unquantified conventional risk disclosed.
+E27-E1,E27,E,Define routing and operating-rule inputs,EP04,,Defines routing and rule inputs.
+E27-E2,E27,E,Estimate lead-time error statistics,EP02,EP03,Estimates lead-time error statistics.
+E27-E3,E27,E,Select and parameterize forecast rule,EP09,EP01,Parameterizes piecewise forecast rule thresholds.
+E27-E4,E27,E,Generate random inflow scenarios,EP03,,Generates random inflow scenarios.
+E27-E5,E27,E,Route Monte Carlo floods and record MWL,EP04,,Routes Monte Carlo floods.
+E27-E6,E27,E,Magnify return-period floods and estimate exceedance risk,EP03,EP04,Magnifies return-period floods and routes.
+E27-E7,E27,E,Summarize thresholds and interpret risk,EP07,,Computes exceedance probabilities.
+E28-R1,E28,R,Frame the forecast-enabled operating trade-off,RP06,RP04,Higher level for water use vs exceedance risk.
+E28-R2,E28,R,Convert forecast accuracy into an error distribution,RP02,RP03,Converts forecast accuracy into error distribution.
+E28-R3,E28,R,Choose stochastic routing to carry uncertainty through time,RP02,,Temporal persistence of uncertainty via stochastic routing.
+E28-R4,E28,R,Define the risk event at the correct safety reference,RP04,,Risk event at design vs check safety reference.
+E28-R5,E28,R,Calibrate and test the case route,RP03,RP09,Risk estimate requires a verified forecast.
+E28-R6,E28,R,Interpret accuracy sensitivity and reverse-use the risk curve,RP03,RP04,Accuracy required for accepted risk read from curve.
+E28-E1,E28,E,Calibrate and verify the inflow forecast,EP02,,Calibrates and verifies inflow forecast.
+E28-E2,E28,E,Estimate relative forecast-error scale,EP03,EP02,Estimates relative error scale.
+E28-E3,E28,E,Specify flood input and operating rules,EP01,EP09,"Specifies design floods, levels, prerelease rules."
+E28-E4,E28,E,Transfer error to stochastic routing,EP04,EP03,Stochastic routing SDE.
+E28-E5,E28,E,Convert and summarize level paths,EP04,EP07,Converts storage paths to level summaries.
+E28-E6,E28,E,Compute design/check operation risk,EP07,,Computes design/check risk.
+E28-E7,E28,E,Run sensitivity and threshold analyses,EP10,,Sensitivity to accuracy and threshold inversion.
+E29-R1,E29,R,Frame the static-FLWL limitation as a benefit–safety trade-off,RP01,RP06,Fixed FLWL leaves reservoir underused when timing differs.
+E29-R2,E29,R,Decide what uncertainty can be represented,RP02,,Decides which uncertainty can be represented.
+E29-R3,E29,R,Choose a quantile as an operational surrogate for forecast uncertainty,RP03,RP06,Chooses forecast quantile as usable path judged by outcomes.
+E29-R4,E29,R,Set dynamic bounds to reflect flood timing and lead time,RP07,RP05,Bounds vary by flood-season segment and lead time.
+E29-R5,E29,R,Apply forecast-triggered prerelease/refill logic,RP07,,Forecast-triggered prerelease/refill switching.
+E29-R6,E29,R,Judge a scheme by safety and benefits together,RP06,RP04,Favors schemes only if benefit does not cross safety thresholds.
+E29-E1,E29,E,Fit and validate the BFS,EP02,,Fits and validates Bayesian forecasting system.
+E29-E2,E29,E,Generate candidate inflow paths,EP03,,Generates quantile inflow paths.
+E29-E3,E29,E,Instantiate dynamic FLWL bounds,EP05,,Instantiates dynamic FLWL bounds.
+E29-E4,E29,E,Execute the forecast-triggered control step,EP09,,Executes forecast-triggered control step.
+E29-E5,E29,E,Evaluate downstream safety,EP07,EP04,Evaluates downstream safety categories.
+E29-E6,E29,E,Evaluate water-use and energy benefits,EP07,,Evaluates utilization and energy benefits.
+E29-E7,E29,E,Compare schemes and paired forecast runs,EP10,,"Compares schemes, lead times, quantiles."
+E30-R1,E30,R,Define the uncertainty-bearing decision problem,RP04,RP02,Uncertain level as load vs safe level as threshold.
+E30-R2,E30,R,Select correlated SDE propagation,RP08,RP02,Chooses SDE over simulation/FOSM; method choice.
+E30-R3,E30,R,Represent hydraulic relationships locally,RP08,,Local linearization of hydraulic curves; method design.
+E30-R4,E30,R,Propagate moments and temporal dependence,RP02,,Adjacent forecast errors are correlated; covariance retained.
+E30-R5,E30,R,Define point and whole-process risk,RP04,,Point vs whole-process union risk.
+E30-R6,E30,R,Read risk curves for action or design targets,RP04,RP07,Compare risk to acceptable level; revise program or emergency response.
+E30-E1,E30,E,Set uncertainty model and case data,EP03,,"Sets stochastic inflow, outflow, storage error model."
+E30-E2,E30,E,Obtain deterministic mean routing,EP04,,Deterministic mean routing.
+E30-E3,E30,E,Fit local discharge/storage coefficients,EP04,,Fits local discharge/storage coefficients.
+E30-E4,E30,E,Recursively calculate level-error moments,EP04,EP03,Propagates level-error moments.
+E30-E5,E30,E,Calculate temporal covariance and risk,EP07,,Computes point and process risk.
+E30-E6,E30,E,Run case sensitivity and action examples,EP10,,Correlation and controlled-level sensitivity.
+E31-R1,E31,R,Expand the uncertainty representation,RP02,,Adds outflow and storage errors with temporal correlation.
+E31-R2,E31,R,Define risks at point and process levels,RP04,,Point vs total union risk.
+E31-R3,E31,R,Choose SDE plus local linearization,RP08,RP02,SDE plus local linearization; method choice.
+E31-R4,E31,R,Propagate source moments and correlations,RP02,,Source magnitudes and correlations alter level variance.
+E31-R5,E31,R,Compare uncertainty scenarios and model alternatives,RP09,,Isolates factors and tests simplified risk definitions.
+E31-R6,E31,R,Translate risk information into operating implications,RP04,RP07,Compare with acceptable risk to revise operation.
+E31-E1,E31,E,Parameterize uncertainty sources,EP03,,Parameterizes uncertainty sources.
+E31-E2,E31,E,Obtain mean routing and local curve coefficients,EP04,,Mean routing and local coefficients.
+E31-E3,E31,E,Recursively calculate level-error moments,EP04,,Recursive level-error moments.
+E31-E4,E31,E,Recursively calculate level-error dependence and risks,EP07,EP04,Dependence and exceedance risks.
+E31-E5,E31,E,Run Experiments 1–4,EP10,,Experiments on uncertainty levels and correlation.
+E31-E6,E31,E,Isolate factors and compare combined models,EP10,,Isolates factors and compares models.
+E31-E7,E31,E,Produce decision-support interpretations,EP07,,Reports exceedance probability vs accepted risk.
+E32-R1,E32,R,"Frame the dynamic, spatial risk problem",RP02,,Forecast errors propagate across time and connected reservoirs.
+E32-R2,E32,R,Choose DBN factorization and transfer links,RP08,,Chooses dynamic Bayesian network factorization; method choice.
+E32-R3,E32,R,Combine physical simulation data with expert structure,RP08,,Combines simulation data with expert structure; method design.
+E32-R4,E32,R,Make continuous risk variables learnable,RP08,,Discretizes continuous variables for learning; method design.
+E32-R5,E32,R,Select inference direction and risk event,RP04,RP09,Risk event as mass above threshold; prediction vs diagnosis.
+E32-R6,E32,R,Judge uncertainty sensitivity and usefulness,RP09,,Judges sensitivity and usefulness vs comparators.
+E32-E1,E32,E,Define the multi-reservoir case and variables,EP01,,Defines multi-reservoir case and variables.
+E32-E2,E32,E,Generate physically consistent training samples,EP03,EP04,Generates LHS samples routed physically.
+E32-E3,E32,E,Build the DBN structure,EP04,,Builds DBN structure as response model.
+E32-E4,E32,E,Discretize and learn parameters,EP04,,Discretizes and learns DBN parameters.
+E32-E5,E32,E,Run prediction inference and threshold risks,EP07,EP04,Prediction inference and threshold risks.
+E32-E6,E32,E,Run diagnosis inference,EP07,EP04,Diagnosis inference.
+E32-E7,E32,E,"Test uncertainty level, comparators, and limitations",EP10,,Tests uncertainty levels and comparators.
+E33-R1,E33,R,Frame forecast uncertainty as an operational risk,RP02,RP06,Forecast error can make an optimal decision unsafe.
+E33-R2,E33,R,Split the horizon at each forecast boundary,RP04,RP03,Risk beyond the forecast horizon must be counted.
+E33-R3,E33,R,Reconcile heterogeneous lead-times across reservoirs,RP03,,Different lead times across reservoirs.
+E33-R4,E33,R,Define failure probability over reservoir/scenario states,RP04,,Failure defined over reservoirs and scenarios.
+E33-R5,E33,R,Treat the flood-protection standard as the acceptable risk,RP04,,Flood-protection standard as acceptable risk.
+E33-R6,E33,R,Verify that the two-stage estimate does not understate risk,RP09,,Verifies two-stage estimate does not understate risk.
+E33-R7,E33,R,Optimize benefit within risk and physical constraints,RP06,RP07,Maximize hydropower within risk constraint; rolling implementation.
+E33-E1,E33,E,Specify state and routing equations,EP04,,State and routing equations.
+E33-E2,E33,E,Build lead-time forecast scenarios,EP03,,Builds lead-time forecast scenarios.
+E33-E3,E33,E,Evaluate stage-1 scenario failures,EP07,,Stage-1 scenario failures.
+E33-E4,E33,E,Construct aligned stage-2 design-event inputs,EP03,EP01,Aligned stage-2 design-event inputs.
+E33-E5,E33,E,Precompute the stage-2 risk relationship,EP07,EP04,Precomputes stage-2 risk relationship.
+E33-E6,E33,E,Combine the two risk stages,EP07,,Combines two risk stages.
+E33-E7,E33,E,Generate Monte Carlo verification samples,EP03,EP10,Generates Monte Carlo verification samples.
+E33-E8,E33,E,Verify risk against the reference statistic,EP10,,Verifies risk against reference statistic.
+E33-E9,E33,E,Solve the constrained rolling-horizon operation,EP06,EP09,Solves constrained rolling-horizon operation.
+E33-E10,E33,E,Compare regular and optimized case operation,EP10,,Compares regular and optimized operation.
+E34-R1,E34,R,Frame conservation as a coupled risk trade-off,RP06,RP01,Keeping below FLWL causes spills; conservation vs flood risk.
+E34-R2,E34,R,Preserve dependence in the uncertainty representation,RP02,,Preserves temporal and spatial dependence of errors.
+E34-R3,E34,R,Use scenarios to expose risk and recourse needs,RP02,,Scenarios needed instead of single forecast.
+E34-R4,E34,R,Separate benchmark boundary construction from stochastic risk optimization,RP09,,Separates deterministic benchmark design from stochastic model.
+E34-R5,E34,R,Make risk objectives commensurable for multiobjective selection,RP06,,Noninferior solutions across three risk objectives.
+E34-R6,E34,R,Restrict current decisions to information available now,RP07,,"Nonanticipative current release, later wait-and-see."
+E34-R7,E34,R,Use recourse to correct forecast-driven decisions,RP07,,Rolling recourse corrects decisions.
+E34-R8,E34,R,Bound the claim by scenario and horizon evidence,RP09,,Means may hide severe scenarios; horizon limits.
+E34-E1,E34,E,Define forecast-error variables and system links,EP03,EP02,Defines forecast-error variables and links.
+E34-E2,E34,E,Calibrate a correlated t-copula,EP03,,Calibrates t-copula.
+E34-E3,E34,E,Sample discretized inflow scenarios,EP03,,Samples scenarios.
+E34-E4,E34,E,Build the deterministic benchmark,EP06,EP05;EP10,Builds deterministic benchmark with bounds and optimization.
+E34-E5,E34,E,Formulate MOSP scenario objectives and constraints,EP06,EP07,Formulates MOSP objectives and constraints.
+E34-E6,E34,E,Generate and select noninferior solutions,EP06,EP08,Generates and selects noninferior solutions.
+E34-E7,E34,E,Solve nonlinear models,EP06,,Solves nonlinear models.
+E34-E8,E34,E,Run rolling-horizon recourse,EP09,,Rolling-horizon recourse.
+E34-E9,E34,E,Diagnose scenario coverage and forecast behavior,EP03,EP02,Diagnoses scenario coverage vs actual flow.
+E34-E10,E34,E,Compare solutions and historical events,EP10,,Compares solutions and historical events.
+E35-R1,E35,R,Identify the short-term control conflict,RP06,RP02,Flood mitigation vs end-of-event supply recovery conflict; forecast error delays releases.
+E35-R2,E35,R,Establish a horizon reference under perfect information,RP03,RP05,Determines the forecast horizon needed to release early enough even with perfect information.
+E35-R3,E35,R,Diagnose deterministic forecast vulnerability,RP02,,Argues a single deterministic forecast cannot hedge unresolved uncertainty.
+E35-R4,E35,R,Represent uncertainty as evolving and flow-dependent,RP02,,Represents uncertainty as growing with lead time and flow-dependent.
+E35-R5,E35,R,Resolve uncertainty through a scenario tree,RP07,RP05,Scenario tree gives a multistage recourse structure; fully independent controls are not implementable. Residual: method-design reasoning.
+E35-R6,E35,R,"Balance flood safety, water supply, and operability",RP06,RP04,"Combines flood safety, supply, operability penalties with a downstream threshold."
+E35-R7,E35,R,Use feedback to correct forecast errors,RP07,,"Receding-horizon feedback: apply first control, update, recompute."
+E35-R8,E35,R,Treat branch/horizon selection as a performance-computation trade-off,RP08,RP09,Chooses branch count and horizon by performance-vs-computation trade-off; computational tractability is not covered (closest RP08 sensitivity).
+E35-E1,E35,E,Define the design event and hindcast frame,EP01,,"Defines the design event, initial state, threshold, and hindcast frame."
+E35-E2,E35,E,Generate deterministic forecast scenarios,EP03,,Generates deterministic perturbed forecast scenarios.
+E35-E3,E35,E,Generate evolving probabilistic forecast ensembles,EP03,,Generates evolving probabilistic forecast ensembles.
+E35-E4,E35,E,Assess forecast ensemble behavior,EP02,,Verifies forecast ensembles with CRPS and coverage.
+E35-E5,E35,E,Build the reservoir dynamic/constraint model,EP04,EP05,Builds the reservoir mass-balance model with physical limits.
+E35-E6,E35,E,Define and solve MPC objective,EP06,,Defines and solves the MPC objective.
+E35-E7,E35,E,Reduce PSF ensemble to a mass-conservative tree,EP03,,Reduces ensemble to a mass-conservative scenario tree.
+E35-E8,E35,E,Run closed-loop deterministic or tree MPC,EP09,EP06,"Closed-loop execution: implement root release, update, re-solve."
+E35-E9,E35,E,Sweep branch counts and horizons,EP10,,Sweeps branch counts and horizons as sensitivity tests.
+E35-E10,E35,E,Evaluate flood-control and supply outcomes,EP07,EP10,Calculates flood and supply indicators for comparison.
+E36-R1,E36,R,Treat forecast uncertainty as decision-relevant,RP02,,Treats forecast uncertainty as decision-relevant.
+E36-R2,E36,R,Choose an error distribution from a forecast metric,RP02,RP03,Translates a forecast-quality metric into an error distribution.
+E36-R3,E36,R,Represent uncertain forecasts as scenario paths,RP02,,Represents forecast uncertainty as time-ordered scenario paths.
+E36-R4,E36,R,Optimize an expected safety-oriented trajectory,RP06,RP04,Adopts minimize expected highest level as the selection principle under scenarios.
+E36-R5,E36,R,Solve the deterministic equivalent globally,RP08,,"Solver choice (deterministic equivalent, global solver); method tractability not covered by any RP."
+E36-R6,E36,R,Define risk as maximum-level exceedance,RP04,,Defines risk as probability that max level exceeds the safe level.
+E36-R7,E36,R,Infer the maximum-level density with POME,RP08,RP09,Chooses POME because the sample is too small for direct density estimation; estimation-method justification is not covered (closest RP08 data/model adequacy).
+E36-R8,E36,R,Use risk curves to guide forecast/level requirements,RP04,RP03,Uses risk curves to set acceptable-risk thresholds and required forecast accuracy.
+E36-E1,E36,E,Estimate forecast quality,EP02,,Estimates forecast quality from historical forecasts.
+E36-E2,E36,E,Convert quality metric to error σ,EP03,,Converts quality metric to an error spread for sampling.
+E36-E3,E36,E,Generate and structure inflow scenarios,EP03,,Generates and structures the inflow scenario tree.
+E36-E4,E36,E,Formulate scenario-wise operation,EP06,EP05,Formulates scenario-wise operation model with level and release constraints.
+E36-E5,E36,E,Minimize expected highest level,EP06,,Solves the stochastic objective.
+E36-E6,E36,E,Extract scenario maximum levels,EP07,EP04,Extracts scenario max levels as risk input.
+E36-E7,E36,E,Fit POME density and check its form,EP07,,Fits POME density for risk integration.
+E36-E8,E36,E,Integrate risk and conduct sensitivity sweeps,EP07,EP10,Integrates exceedance risk and sweeps forecast quality and safe level.
+E37-R1,E37,R,Compare uncertainty structures of CO and FBO,RP02,RP09,Both modes carry uncertainty; compare pathways.
+E37-R2,E37,R,Prioritize forecast/net-rainfall uncertainty,RP02,,Prioritizes forecast net-rainfall uncertainty.
+E37-R3,E37,R,Test the forecast-error distribution before simulation,RP02,RP09,Tests error distribution before simulation.
+E37-R4,E37,R,Formulate FBO as a forecast-indexed rising-stage rule,RP07,RP03,Forecast-rainfall bands switch release actions.
+E37-R5,E37,R,Compare CO/FBO risk under common flood scenarios,RP09,,Fair comparison of CO and FBO under common scenarios.
+E37-R6,E37,R,Interpret the risk metric with event probability,RP04,,Risk rate combines exceedance frequency with event probability.
+E37-R7,E37,R,Classify forecast bias for response,RP07,RP03,Corrective discharge direction by forecast error sign.
+E37-R8,E37,R,Prefer gradual correction when a jump is unsafe,RP07,RP05,Gradual correction when a jump is unsafe.
+E37-E1,E37,E,Inventory operation modes and risk factors,EP03,,Inventories uncertainty factors. Weak fit.
+E37-E2,E37,E,Fit and test forecast net-rainfall error,EP03,EP02,Fits and tests forecast-error distribution.
+E37-E3,E37,E,Apply the FBO rule to forecast input,EP09,,Applies FBO release rule.
+E37-E4,E37,E,Construct CO comparison operation,EP01,EP10,Constructs conventional-operation comparator.
+E37-E5,E37,E,Generate CO Monte Carlo floods and route them,EP04,EP03;EP07,Monte Carlo routing under CO and exceedance counting.
+E37-E6,E37,E,Generate FBO Monte Carlo forecasts and route actual inflow,EP04,EP03;EP07,Monte Carlo routing under FBO.
+E37-E7,E37,E,Scale counts to risk rates and compare modes,EP07,EP10,Risk rates and mode comparison.
+E37-E8,E37,E,Probe forecast-error remedies,EP09,,Corrective discharge procedure for forecast error.
+E38-R1,E38,R,Define the decision object and risk variable,RP04,,Maximum occupied storage as common risk variable.
+E38-R2,E38,R,Replace a single failure probability with complementary risk views,RP04,,"Mean, CVaR, entropy as complementary risk measures."
+E38-R3,E38,R,Match simulation structure to uncertainty dependence,RP02,,Simulation structure matched to error dependence.
+E38-R4,E38,R,Resolve reservoir-level importance before system aggregation,RP04,RP06,Reservoir weights for system-level risk aggregation.
+E38-R5,E38,R,Reconcile conflicting indicators for a final scheme decision,RP06,,Reconciles conflicting indicators for final scheme.
+E38-R6,E38,R,Test whether the selected scheme is flood-type dependent,RP09,,Tests whether best scheme depends on flood type.
+E38-E1,E38,E,Generate feasible joint-operation schemes,EP06,,Generates feasible joint-operation schemes.
+E38-E2,E38,E,Define forecast-error samples,EP03,EP02,Defines and fits forecast-error samples.
+E38-E3,E38,E,Represent discharge and storage uncertainty,EP03,,Represents discharge and storage uncertainty.
+E38-E4,E38,E,Jointly sample uncertainty realizations,EP03,,Jointly samples uncertainty realizations.
+E38-E5,E38,E,Run uncertain operation simulations,EP04,,Runs uncertain operation simulations.
+E38-E6,E38,E,Calculate complementary risk indicators,EP07,,"Calculates mean, CVaR, entropy."
+E38-E7,E38,E,Aggregate reservoir indicators with AHP weights,EP07,EP08,Aggregates reservoir indicators with weights.
+E38-E8,E38,E,Rank schemes with weighted TOPSIS,EP08,,Ranks schemes with weighted TOPSIS.
+E38-E9,E38,E,Repeat and compare across flood hydrographs,EP10,EP08,Repeats ranking across flood hydrographs.
+E39-R1,E39,R,Select risk sources tied to forecast-informed control,RP02,,Selects flood volume and rainfall forecast error as risk sources.
+E39-R2,E39,R,"Distinguish single, union, and intersection hazards",RP04,,"Single, union, intersection hazards."
+E39-R3,E39,R,Prefer continuous integration to conditional interval approximation,RP08,RP04,Prefers continuous integration over MLTP; method choice.
+E39-R4,E39,R,Build the hazard domain from physical boundary conditions,RP04,,Hazard domain from physical boundary conditions.
+E39-R5,E39,R,Choose source distributions and dependence representation,RP02,,Source distributions and dependence.
+E39-R6,E39,R,Use FLWL as the controllable operating trade-off,RP06,RP04,Highest FLWL within design risk.
+E39-E1,E39,E,Establish case thresholds and operating rules,EP01,EP09,Case thresholds and operating rules.
+E39-E2,E39,E,Fit the forecast-error density,EP03,,Fits forecast-error density.
+E39-E3,E39,E,Derive cumulative-rainfall density,EP03,,Derives rainfall density.
+E39-E4,E39,E,Construct the hazard surface and single-hazard boundary,EP04,EP07,Routes samples to build hazard surface.
+E39-E5,E39,E,Form UHE and IHE domains,EP07,,Forms union/intersection hazard domains.
+E39-E6,E39,E,Calculate joint density and integrate risk,EP07,,Integrates joint density over hazard domain.
+E39-E7,E39,E,Compare AMIT with MLTP,EP10,,Compares with MLTP.
+E39-E8,E39,E,Sweep FLWL and report operational implication,EP10,EP07,Sweeps FLWL.
+E40-R1,E40,R,Represent inflow uncertainty by scenarios,RP02,,Chooses ensemble hydrographs as the uncertainty object.
+E40-R2,E40,R,Split predictable and unpredicted time,RP04,RP03,Splits risk into lead-time and post-horizon parts so risk is not undercounted.
+E40-R3,E40,R,Set risk events and control mode,RP04,,"Defines failure events (release above Qc, level above Zc)."
+E40-R4,E40,R,Use protection standards as acceptable risk,RP04,,Uses protection standards as the acceptable-risk benchmark.
+E40-R5,E40,R,Compare risk and hydropower jointly,RP06,,Trades flood risk against hydropower with weights and Pareto selection.
+E40-E1,E40,E,Build ensemble inflow forecasts,EP02,EP03,Builds and validates ensemble inflow forecasts with parameter/precipitation uncertainty.
+E40-E2,E40,E,Simulate reservoir with scenario inputs,EP04,,Routes scenarios through the reservoir mass-balance model.
+E40-E3,E40,E,Count forecast-horizon failures,EP07,,Counts forecast-horizon failures as risk.
+E40-E4,E40,E,Estimate post-horizon risk conditionally,EP07,EP04,Estimates post-horizon risk by routing design floods from end levels.
+E40-E5,E40,E,Combine the two risk stages,EP07,,Combines the two risk stages.
+E40-E6,E40,E,Define scenario-optimized operation,EP06,EP08,Formulates and solves scenario optimization; weighted Pareto selection.
+E40-E7,E40,E,Compare historical and optimized schemes,EP10,,Compares historical and optimized schemes.
+E41-R1,E41,R,Make FLWL stage-specific,RP01,RP07,Whole-season fixed FLWL ignores seasonal differences.
+E41-R2,E41,R,Represent forecast error as fuzzy uncertainty,RP02,,Forecast error as fuzzy uncertainty.
+E41-R3,E41,R,Formulate a safety-constrained benefit objective,RP06,RP04,Maximize IOWL subject to credibility safety constraint.
+E41-R4,E41,R,Use dense frequency coverage and fuzzy simulation,RP08,RP04,Dense frequency coverage and fuzzy simulation; method design.
+E41-R5,E41,R,Select the highest feasible IOWL per stage,RP04,RP06,Highest IOWL whose risk does not exceed design standard.
+E41-R6,E41,R,Check credibility results against extreme risk,RP09,RP04,Cross-checks with extreme-risk calculation.
+E41-E1,E41,E,Divide the flood season and prepare design floods,EP01,EP03,Divides season and prepares design floods.
+E41-E2,E41,E,Quantify forecast error as a fuzzy variable,EP03,EP02,Quantifies forecast error as fuzzy variable.
+E41-E3,E41,E,Generate candidate IOWLs,EP06,,Generates candidate IOWL grid.
+E41-E4,E41,E,Run fuzzy simulation for each IOWL/frequency,EP04,EP03,Fuzzy simulation routing.
+E41-E5,E41,E,Form K and test feasibility,EP07,EP05,Computes K and tests feasibility.
+E41-E6,E41,E,Select stage bounds,EP05,EP06,Selects largest feasible bound per stage.
+E41-E7,E41,E,Verify with extreme-risk rate,EP10,EP07,Verifies with extreme-risk rate.
+E42-R1,E42,R,Preserve heterogeneous forecast-error structure,RP02,,"Heterogeneous, multimodal error structure."
+E42-R2,E42,R,Make mixture complexity and initialization data-driven,RP08,RP02,Mixture complexity and initialization; method design.
+E42-R3,E42,R,Require distributional adequacy before propagating risk,RP09,,Distributional adequacy before risk propagation.
+E42-R4,E42,R,Translate modeled error into operational scenarios,RP02,RP09,Error model to scenarios; coverage check.
+E42-R5,E42,R,Separate flood and curtailment pathways,RP04,RP06,Separate flood and curtailment consequences.
+E42-R6,E42,R,Interpret lead-time/return-period dependence,RP03,RP09,Lead-time and return-period dependence.
+E42-E1,E42,E,Construct lead-time-specific error samples,EP02,EP03,Lead-time error samples.
+E42-E2,E42,E,Fit and select IGMD,EP03,,Fits mixture error model.
+E42-E3,E42,E,Validate error-model fit,EP03,EP02,Validates error-model fit.
+E42-E4,E42,E,Sample uncertainty and construct ensembles,EP03,,Samples errors and builds ensembles.
+E42-E5,E42,E,Assess ensemble coverage,EP02,EP03,Ensemble coverage check.
+E42-E6,E42,E,Count design-flood exceedance risk,EP07,,Design-flood exceedance risk.
+E42-E7,E42,E,Optimize generation for each inflow input,EP06,,Optimizes generation per inflow input.
+E42-E8,E42,E,Calculate curtailment and compare periods,EP07,EP10,Curtailment and comparison.
+E43-R1,E43,R,Diagnose the control gap,RP01,,Local rules ignore downstream Taungoo flood risk.
+E43-R2,E43,R,Select a tractable predictive control architecture,RP08,RP07,Chooses MPC with simplified internal model; method choice.
+E43-R3,E43,R,Choose objective and constraint priorities,RP06,,Flood-priority vs conservation scenarios.
+E43-R4,E43,R,Set the prediction and safety envelope,RP04,RP05,Safety buffer below danger level; horizon covers travel time.
+E43-R5,E43,R,Interpret residual risk and model limits,RP09,RP05,Residual risk due to physical and information limits.
+E43-E1,E43,E,Assemble hydrologic and hydraulic inputs,EP01,,Assembles hydrologic and hydraulic inputs.
+E43-E2,E43,E,Calibrate rainfall-runoff prediction,EP02,,Calibrates rainfall-runoff prediction.
+E43-E3,E43,E,Build the internal control model,EP04,,Builds internal control model.
+E43-E4,E43,E,Formulate and solve each MPC problem,EP06,,Formulates and solves MPC.
+E43-E5,E43,E,Advance the closed-loop simulation,EP09,EP04,Closed-loop advance with state update.
+E43-E6,E43,E,Compare operation scenarios and inspect bottlenecks,EP10,,Compares operation scenarios.
+E44-R1,E44,R,Frame dynamic boundary need,RP01,RP06,Static FLWL spills and creates shortages.
+E44-R2,E44,R,Reduce system dimension at flood-control stations,RP08,,Aggregation into virtual reservoirs to reduce dimension; method design.
+E44-R3,E44,R,Represent channel storage explicitly,RP08,RP05,Represents channel storage explicitly; modeling choice.
+E44-R4,E44,R,Link pre-discharge storage to flood risk,RP04,RP05,Risk depends on end storage after pre-discharge.
+E44-R5,E44,R,Trade hydropower against safety and refill,RP06,RP05,Raise boundaries for hydropower within risk and refill constraints.
+E44-R6,E44,R,Interpret benefits and boundaries,RP09,,Benefit vs static with channel and lead-time caveats.
+E44-E1,E44,E,Form aggregation reservoirs,EP01,EP04,Forms aggregation reservoirs.
+E44-E2,E44,E,Calculate CSR and aggregate storage,EP04,EP05,Calculates channel and aggregate storage.
+E44-E3,E44,E,Run pre-discharge operation,EP09,,Runs pre-discharge operation.
+E44-E4,E44,E,Compute two-stage flood risk,EP07,,Computes two-stage flood risk.
+E44-E5,E44,E,Optimize and decompose WLFS boundaries,EP06,,Optimizes and decomposes boundaries.
+E44-E6,E44,E,Compare and verify candidate operations,EP10,,Compares and verifies operations.
+E45-R1,E45,R,Diagnose stationarity and consequence gap,RP01,RP04,Stationary assumption fails under changing flood probability; probability omits loss size.
+E45-R2,E45,R,Choose CVaR and derive a horizon measure,RP04,,CVaR and horizon-aggregated tail-loss measure.
+E45-R3,E45,R,Establish a stationary benchmark,RP04,RP09,Stationary benchmark defines acceptable risk and loss.
+E45-R4,E45,R,Optimize adaptive FLWL with risk only,RP06,RP07,Raise FLWL for generation within cumulative risk.
+E45-R5,E45,R,Add tail-loss protection,RP04,RP06,Adds tail-loss constraint when CVaR exceeds benchmark.
+E45-R6,E45,R,Interpret the stricter metric and claim scope,RP09,RP04,Interprets stricter metric and claim scope.
+E45-E1,E45,E,Define probability and loss measures,EP07,,Defines probability and loss measures.
+E45-E2,E45,E,Aggregate CVaR over the planning horizon,EP07,,Aggregates CVaR over horizon.
+E45-E3,E45,E,Establish Scheme A,EP01,EP07,Establishes conventional baseline scheme.
+E45-E4,E45,E,Build and route nonstationary scenarios,EP03,EP04,Builds and routes nonstationary scenarios.
+E45-E5,E45,E,Solve B1 risk-constrained adaptation,EP06,,Solves risk-constrained adaptation.
+E45-E6,E45,E,Solve B2 with CVaR protection,EP06,EP05,Solves with added CVaR constraint.
+E45-E7,E45,E,Compare metrics and infer operating implication,EP10,,Compares schemes and metrics.
+E46-R1,E46,R,Decompose the flood response into stages,RP07,,"Pre-arrival, peak, post-peak stages need separate rules."
+E46-R2,E46,R,Prefer robust measurement-based rules under forecast uncertainty,RP03,RP07,Forecasts may fail in severe storms; measurement-based fallback.
+E46-R3,E46,R,Set target and safety levels by objective priority,RP04,RP06,Target and safety levels by objective priority.
+E46-R4,E46,R,Choose rule parameters by stage-specific trade-off,RP06,RP07,Stage-specific objective trade-offs.
+E46-R5,E46,R,Preserve safety under extreme events and constraints,RP05,RP04,Constraints and PMF checks prevent overtopping.
+E46-R6,E46,R,Validate generalization and identify forecast value,RP09,RP03,Held-out typhoons and perfect-forecast gap.
+E46-E1,E46,E,Simulate reservoir continuity,EP04,,Reservoir continuity simulation.
+E46-E2,E46,E,Execute pre-release rule,EP09,,Pre-release rule execution.
+E46-E3,E46,E,Execute peak-stage rule,EP09,,Peak-stage rule execution.
+E46-E4,E46,E,Execute post-peak release reduction,EP09,,Post-peak release reduction.
+E46-E5,E46,E,Estimate recession inflow,EP02,,Recession inflow prediction.
+E46-E6,E46,E,Calibrate rules sequentially with BOBYQA,EP06,,Sequential rule calibration with BOBYQA.
+E46-E7,E46,E,Validate and benchmark,EP10,,Validation and perfect-forecast benchmark.
+E47-R1,E47,R,Separate criterion selection from alternative ranking,RP06,RP09,Criteria must be examined before ranking alternatives.
+E47-R2,E47,R,Represent overall alternative quality by ideal-point closeness,RP06,,Ideal-point closeness as overall quality.
+E47-R3,E47,R,Use BP weights for inherent importance,RP08,,Uses network weights for criterion importance; method choice.
+E47-R4,E47,R,Add one-at-a-time sensitivity,RP08,,Adds one-at-a-time sensitivity; method design.
+E47-R5,E47,R,Combine importance and sensitivity into a deletion rule,RP06,,Deletion rule combining importance and sensitivity.
+E47-R6,E47,R,Test whether deletion preserves decisions,RP09,,Tests that deletion preserves rankings.
+E47-E1,E47,E,Generate non-dominated operating alternatives,EP06,,Generates non-dominated operating alternatives.
+E47-E2,E47,E,Define the original criteria system,EP08,,Defines the criteria system. Coder not blind: flagged earlier as EP08.
+E47-E3,E47,E,Construct BP training samples,EP08,,Constructs training samples for criterion evaluation.
+E47-E4,E47,E,Train and verify BP network,EP08,,Trains evaluator network.
+E47-E5,E47,E,Calculate importance and sensitivity,EP08,EP10,Importance and sensitivity of criteria.
+E47-E6,E47,E,Apply comprehensive discrimination threshold,EP08,,Applies criterion deletion threshold.
+E47-E7,E47,E,Compare MCDM rankings before and after selection,EP08,EP10,Compares rankings before and after selection.
+E48-R1,E48,R,Frame flood-control choice as MCDM,RP06,,No single optimum; choose most satisfying alternative.
+E48-R2,E48,R,Define the safety hierarchy and measurable criteria,RP04,,Safety hierarchy and measurable cost criteria.
+E48-R3,E48,R,Generate feasible alternatives under event-specific operational logic,RP05,RP06,Admissible operation options per reservoir given capacity and dam risk.
+E48-R4,E48,R,Diagnose correlation and choose PCA over deletion,RP08,RP06,PCA rather than deletion for correlated criteria; method choice.
+E48-R5,E48,R,Derive weights without unstable entropy conversion,RP08,RP06,Improved entropy weighting; method choice.
+E48-R6,E48,R,Use multiple ranking methods and consistency as the evaluation check,RP09,,Ranking consistency across methods as evaluation check.
+E48-R7,E48,R,Interpret the compromise and state claim limits,RP06,RP09,Interprets compromise between reservoir and downstream safety.
+E48-E1,E48,E,Define the cascade case and flood inputs,EP01,,Defines cascade case and flood inputs.
+E48-E2,E48,E,Enumerate and route six alternatives,EP06,EP04,Enumerates and routes six alternatives.
+E48-E3,E48,E,Calculate the criterion matrix,EP08,EP07,Computes alternative-by-criterion matrix. Coder not blind: flagged earlier.
+E48-E4,E48,E,Diagnose correlation and transform criteria,EP08,,Correlation diagnosis and PCA of criteria.
+E48-E5,E48,E,Compute improved entropy weights,EP08,,Improved entropy weights.
+E48-E6,E48,E,Score alternatives using three MCDM methods,EP08,,Scores alternatives with three MCDM methods.
+E48-E7,E48,E,Compare rankings and inspect selected policy,EP08,EP10,Compares rankings.
+E48-E8,E48,E,Record omitted uncertainty and deployment checks,,,Records omitted uncertainty; no execution pattern.
+E49-R1,E49,R,Treat forecast uncertainty as the primary operational risk source,RP02,,Forecast uncertainty as primary risk source.
+E49-R2,E49,R,Preserve multi-order temporal dependence when generating scenarios,RP02,,Multi-order temporal dependence.
+E49-R3,E49,R,"Represent flood risk with complementary probability, loss, and resilience surrogates",RP04,,"Probability, loss (CVaR), duration as complementary risk."
+E49-R4,E49,R,Choose robust multiobjective optimization over single-risk SP/CCP,RP06,,Noninferior set across risk dimensions instead of single-risk models.
+E49-R5,E49,R,Select a compromise from noninferior policies using preferences,RP06,,Preference-based compromise.
+E49-R6,E49,R,Explain risk hedging through release timing,RP09,RP07,Explains risk hedging mechanism via release timing.
+E49-R7,E49,R,Condition conclusions on flood magnitude and training information,RP09,,Conclusions conditioned on flood magnitude.
+E49-E1,E49,E,Define forecast error and case data,EP02,EP03,Defines forecast error samples and case.
+E49-E2,E49,E,Fit marginals and construct dependent uncertainty scenarios,EP03,,Fits marginals and copula; generates scenarios.
+E49-E3,E49,E,Set XHD operation parameters and thresholds,EP01,EP05,Sets operation parameters and thresholds.
+E49-E4,E49,E,Calculate the six RMOO objectives,EP07,,Calculates six risk objectives.
+E49-E5,E49,E,Enforce physical and boundary constraints,EP05,EP06,Physical and boundary constraints.
+E49-E6,E49,E,Solve RMOO and CCP and evaluate search quality,EP06,,Solves RMOO and CCP.
+E49-E7,E49,E,Compare objective distributions and select compromises,EP08,EP10,Compares distributions and selects compromises.
+E49-E8,E49,E,Diagnose the selected mechanism in adverse scenarios,EP10,,Diagnoses mechanism in adverse scenarios.
+E49-E9,E49,E,Test event-scale behavior and document limitations,EP10,,Event-scale behavior.
+E50-R1,E50,R,Identify the fixed-rule conflict and forecast opportunity,RP01,,Seasonal rule curves release wet-season water and lose dry-season storage.
+E50-R2,E50,R,Use a compact risk-curve representation of EFO,RP08,RP09,Compact parameterization to limit overfitting; method design. Coder not blind.
+E50-R3,E50,R,Preserve physical and downstream safety constraints,RP05,,"Safe release, ramping, capacity constraints."
+E50-R4,E50,R,Design comparisons to isolate forecast value,RP09,,Comparison variants isolate forecast value.
+E50-R5,E50,R,Optimize storage subject to flood-release penalties,RP06,RP04,Storage objective with flood-release penalty.
+E50-R6,E50,R,Treat storage and release frequency as joint viability checks,RP09,RP04,Storage and release frequency as joint viability checks.
+E50-R7,E50,R,Use attributes and diagnostics to qualify transferability,RP09,,Attributes and LOOCV qualify transferability.
+E50-R8,E50,R,Bound conclusions by hydrology and data coverage,RP09,,Bounded by hydrology and data coverage.
+E50-E1,E50,E,Set the multireservoir case and daily baseline data,EP01,,Sets multireservoir case and baseline data.
+E50-E2,E50,E,Implement baseline release rules and constraints,EP01,EP09,Implements baseline release rules.
+E50-E3,E50,E,Specify infrastructure and hydrologic inputs,EP01,,Specifies infrastructure inputs.
+E50-E4,E50,E,Add FIRO risk tolerance and TOCS multiplier,EP09,EP05,Executes FIRO risk-tolerance release logic.
+E50-E5,E50,E,Evaluate forecast skill and form forecast inputs,EP02,,"Evaluates forecast skill, forms inputs."
+E50-E6,E50,E,Simulate four policy variants,EP10,,Simulates four policy variants.
+E50-E7,E50,E,Optimize Forecast and Perfect parameters,EP06,,Optimizes policy parameters.
+E50-E8,E50,E,Compare storage and flood-control outcomes,EP10,EP07,Compares storage and flood outcomes.
+E50-E9,E50,E,Analyze site attributes and policy equifinality,EP10,,Site attributes and equifinality.
+E50-E10,E50,E,Perform LOOCV and restrict the TOCS bound after failures,EP10,,LOOCV and TOCS bound restriction.

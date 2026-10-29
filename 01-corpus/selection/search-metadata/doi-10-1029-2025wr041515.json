@@ -1,0 +1,672 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2026-08-31T14:14:29Z",
+    "timestamp": 1788185669920,
+    "version": "build-2803163510"
+  },
+  "reference-count": 59,
+  "publisher": "American Geophysical Union (AGU)",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            4
+          ]
+        ],
+        "date-time": "2026-04-04T00:00:00Z",
+        "timestamp": 1775260800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 3,
+      "URL": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            4,
+            1
+          ]
+        ],
+        "date-time": "2026-04-01T00:00:00Z",
+        "timestamp": 1775001600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/100006752",
+      "name": "U.S. Army Corps of Engineers",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "707178"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "707178"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100006752",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/100000001",
+      "name": "National Science Foundation",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2205239"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2205239"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/100000001",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "agupubs.onlinelibrary.wiley.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Water Resources Research"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Hydrologic forecasts have demonstrated considerable benefits for flood risk reduction and water supply operations in specific basins. However, it remains unclear how these benefits depend on key parameters of the reservoir infrastructure and forecasts. In this study, we propose a global sensitivity and threshold analysis framework using Model Predictive Control (MPC) to evaluate the ability of forecast‐informed operations to safely manage large floods while also improving water supply storage. The approach is demonstrated for six major reservoirs in California using daily ensemble hydrologic forecasts. We first benchmark MPC performance with ensemble forecasts against a baseline policy (no forecast) and a perfect forecast policy. We then perform global sensitivity analysis using Decision Tree (DT) classifiers to assess the impact of maximum release, ramping rate, and available forecast lead time on the required flood pool for the event of record across all sites. This large parameter sample reflects many potential reservoir configurations and scaled events. We find that the ensemble forecast release sequence captures most of the value of a perfect forecast release sequence, but this value is highly sensitive to parameters. The classifiers accurately predict the extent of flood pool reduction and identify maximum release as the most important feature for both ensemble and perfect forecast release sequences. Finally, we extract generalized parameter thresholds from the DT classifier across all reservoirs, identifying conditions required to achieve varying levels of flood pool reduction. Overall, this framework represents an efficient screening tool to identify system properties where forecast‐informed policies likely provide the greatest benefits.</jats:p>",
+  "DOI": "10.1029/2025wr041515",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        4
+      ]
+    ],
+    "date-time": "2026-04-04T13:44:54Z",
+    "timestamp": 1775310294000
+  },
+  "update-policy": "https://doi.org/10.1002/crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Global Parameter Sensitivity in Forecast‐Informed Reservoir Operations Using Model Predictive Control"
+  ],
+  "prefix": "10.1029",
+  "volume": "62",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0001-8893-5721",
+      "authenticated-orcid": false,
+      "given": "Alexander B.",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Department of Civil and Environmental Engineering University of California  Davis CA USA"
+        },
+        {
+          "name": "Center for Western Weather and Water Extremes, Scripps Institution of Oceanography University of California San Diego  San Diego CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4081-3175",
+      "authenticated-orcid": false,
+      "given": "Jonathan D.",
+      "family": "Herman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Civil and Environmental Engineering University of California  Davis CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5242-7696",
+      "authenticated-orcid": false,
+      "given": "Zachary P.",
+      "family": "Brodeur",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Center for Western Weather and Water Extremes, Scripps Institution of Oceanography University of California San Diego  San Diego CA USA"
+        },
+        {
+          "name": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-8882-1908",
+      "authenticated-orcid": false,
+      "given": "Scott",
+      "family": "Steinschneider",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Biological and Environmental Engineering Cornell University  Ithaca NY USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0009-0000-2717-8974",
+      "authenticated-orcid": false,
+      "given": "Brett",
+      "family": "Whitin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "NOAA/NWS California‐Nevada River Forecast Center  Sacramento CA USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "13",
+  "published-online": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        4
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "e_1_2_9_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015WR017864"
+    },
+    {
+      "key": "e_1_2_9_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ENVSOFT.2015.02.006"
+    },
+    {
+      "key": "e_1_2_9_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR028112"
+    },
+    {
+      "key": "e_1_2_9_5_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Breiman L. Friedman J. H. Olshen R. A. &Stone C. J.(2017).Classification and regression trees.1–358.https://doi.org/10.1201/9781315139470",
+      "DOI": "10.1201/9781315139470-1"
+    },
+    {
+      "key": "e_1_2_9_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2023WR034898"
+    },
+    {
+      "key": "e_1_2_9_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015WR017114"
+    },
+    {
+      "key": "e_1_2_9_8_1",
+      "unstructured": "California Department of Water Resources. (2018).Lake Oroville 2018/2019 flood operations plan. Retrieved fromhttps://water.ca.gov/‐/media/DWR‐Website/Web‐Pages/Programs/State‐Water‐Project/Oroville/Misc/Lake_Oroville_2018‐2019_FloodOps_Plan_011819_ay_19.pdf"
+    },
+    {
+      "key": "e_1_2_9_9_1",
+      "unstructured": "California Department of Water Resources. (2025a).California data exchange Center. Retrieved fromhttps://cdec.water.ca.gov/"
+    },
+    {
+      "key": "e_1_2_9_10_1",
+      "unstructured": "California Department of Water Resources. (2025b).Full natural flows. Retrieved fromhttps://cdec.water.ca.gov/reportapp/javareports?name=FNF"
+    },
+    {
+      "key": "e_1_2_9_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ARCONTROL.2023.03.013"
+    },
+    {
+      "key": "e_1_2_9_12_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.IFACOL.2023.12.043"
+    },
+    {
+      "key": "e_1_2_9_13_1",
+      "unstructured": "Chen A. B.(2025).MPC_SA_FIRO data and codes.https://github.com/alexyhchen/MPC_SA_FIRO"
+    },
+    {
+      "key": "e_1_2_9_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2024WR037372"
+    },
+    {
+      "key": "e_1_2_9_15_1",
+      "unstructured": "CNRFC. (2026).Ensemble forecasting with the Hydrologic Ensemble Forecast Service (HEFS). Retrieved fromhttps://www.cnrfc.noaa.gov/documentation/hefsAtCnrfc.pdf"
+    },
+    {
+      "key": "e_1_2_9_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/BAMS‐D‐23‐0004.1"
+    },
+    {
+      "key": "e_1_2_9_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR030433"
+    },
+    {
+      "key": "e_1_2_9_18_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR020I008P01039"
+    },
+    {
+      "key": "e_1_2_9_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2019WR026604"
+    },
+    {
+      "key": "e_1_2_9_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/BAMS‐D‐12‐00081.1"
+    },
+    {
+      "key": "e_1_2_9_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015WR017127"
+    },
+    {
+      "key": "e_1_2_9_22_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022‐1694(01)00419‐X"
+    },
+    {
+      "key": "e_1_2_9_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943‐5452.0000571"
+    },
+    {
+      "key": "e_1_2_9_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/JFR3.13051"
+    },
+    {
+      "key": "e_1_2_9_25_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1353/PCG.2000.0004"
+    },
+    {
+      "key": "e_1_2_9_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR029927"
+    },
+    {
+      "key": "e_1_2_9_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2015WR017044"
+    },
+    {
+      "key": "e_1_2_9_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2019WR025502"
+    },
+    {
+      "key": "e_1_2_9_29_1",
+      "unstructured": "Jasperse J. Ralph F. M. Anderson M. Brekke L. Malasavage N. Dettinger M. D. et al. (2020).Lake Mendocino forecast informed Reservoir operations final viability assessment.https://escholarship.org/uc/item/3b63q04n"
+    },
+    {
+      "key": "e_1_2_9_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ENVSOFT.2011.04.003"
+    },
+    {
+      "key": "e_1_2_9_31_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR026I003P00447"
+    },
+    {
+      "key": "e_1_2_9_32_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ECOHYD.2016.09.004"
+    },
+    {
+      "key": "e_1_2_9_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943‐5452.0000915"
+    },
+    {
+      "key": "e_1_2_9_34_1",
+      "unstructured": "Lott N. Sittel M. C. &Ross D.(1997).The winter of ’96‐’97: West coast flooding.https://repository.library.noaa.gov/view/noaa/13812"
+    },
+    {
+      "key": "e_1_2_9_35_1",
+      "unstructured": "MBK Engineers. (2020).Geographical trends in central Valley flood control reservoirs—MBK engineers blog. Retrieved fromhttps://blog.mbkapps.com/posts/res‐prop/"
+    },
+    {
+      "key": "e_1_2_9_36_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018WR023177"
+    },
+    {
+      "key": "e_1_2_9_37_1",
+      "unstructured": "Overloop P.‐J.(2006).Model predictive control on open water systems(Vol.182). Retrieved fromhttps://books.google.com/books/about/Model_Predictive_Control_on_Open_Water_S.html?id=Eshr5e98q‐8C"
+    },
+    {
+      "issue": "85",
+      "key": "e_1_2_9_38_1",
+      "first-page": "2825",
+      "article-title": "Scikit‐learn: Machine learning in python",
+      "volume": "12",
+      "author": "Pedregosa F.",
+      "year": "2011",
+      "journal-title": "Journal of Machine Learning Research"
+    },
+    {
+      "key": "e_1_2_9_39_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/HESS‐18‐3777‐2014"
+    },
+    {
+      "key": "e_1_2_9_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ENVSOFT.2016.02.008"
+    },
+    {
+      "key": "e_1_2_9_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018WR022743"
+    },
+    {
+      "key": "e_1_2_9_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1007/978‐3‐030‐28906‐5_8/FIGURES/10"
+    },
+    {
+      "key": "e_1_2_9_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ADVWATRES.2014.06.009"
+    },
+    {
+      "key": "e_1_2_9_44_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2014WR016527"
+    },
+    {
+      "key": "e_1_2_9_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.ENVSOFT.2020.104954"
+    },
+    {
+      "key": "e_1_2_9_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2023MS003793"
+    },
+    {
+      "key": "e_1_2_9_47_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/JWRMD5.WRENG‐5934/ASSET/70297BB9‐8373‐4349‐BBC5‐4066855C9273"
+    },
+    {
+      "key": "e_1_2_9_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR020I011P01499"
+    },
+    {
+      "key": "e_1_2_9_49_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Talbot C. Forbis J. &Ralph M.(2023).Phase III of forecast‐informed Reservoir operations in the USACE: National expansion pathfinder. ASCE inspire 2023: Infrastructure innovation and adaptation for a sustainable and resilient world—Selected papers from ASCE inspire 2023(pp.970–978).https://doi.org/10.1061/9780784485163.111",
+      "DOI": "10.1061/9780784485163.111"
+    },
+    {
+      "key": "e_1_2_9_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2006WR005813"
+    },
+    {
+      "key": "e_1_2_9_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/JWRMD5.WRENG‐7250"
+    },
+    {
+      "key": "e_1_2_9_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/JWRMD5.WRENG‐6471/SUPPL_FILE/SUPPLEMENTAL_MATERIALS_JWRMD5.WRENG‐6471_TAYLOR.ZIP"
+    },
+    {
+      "key": "e_1_2_9_53_1",
+      "unstructured": "USACE. (2017).Folsom dam auxiliary spillway. Retrieved fromhttps://www.spk.usace.army.mil/Missions/Civil‐Works/Folsom‐Dam‐Auxiliary‐Spillway/"
+    },
+    {
+      "key": "e_1_2_9_54_1",
+      "unstructured": "USACE. (2025).U.S. army corps of engineers Sacramento district water control data System. Retrieved fromhttps://www.spk‐wc.usace.army.mil/"
+    },
+    {
+      "key": "e_1_2_9_55_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/J.JHYDROL.2005.09.008"
+    },
+    {
+      "key": "e_1_2_9_56_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/WCC.772"
+    },
+    {
+      "key": "e_1_2_9_57_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/GWAT.13162"
+    },
+    {
+      "key": "e_1_2_9_58_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943‐5452.0001384/ASSET/D2B04316‐1466‐4411‐8B22‐889CBC479528/ASSETS/IMAGES/LARGE/FIGURE12.JPG"
+    },
+    {
+      "key": "e_1_2_9_59_1",
+      "unstructured": "Yuba Water Agency. (2025).Atmospheric River control spillway at new Bullards bar dam. Retrieved fromhttps://www.yubawater.org/252/ARC‐Spillway‐at‐New‐Bullards‐Bar‐Dam"
+    },
+    {
+      "key": "e_1_2_9_60_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR029329"
+    }
+  ],
+  "container-title": [
+    "Water Resources Research"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025WR041515",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/full-xml/10.1029/2025WR041515",
+      "content-type": "application/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2025WR041515",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        8,
+        31
+      ]
+    ],
+    "date-time": "2026-08-31T13:21:34Z",
+    "timestamp": 1788182494000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025WR041515"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "references-count": 59,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1029/2025WR041515"
+  ],
+  "URL": "https://doi.org/10.1029/2025wr041515",
+  "archive": [
+    "Portico"
+  ],
+  "relation": {
+    "has-preprint": [
+      {
+        "id-type": "doi",
+        "id": "10.22541/essoar.175250168.85275428/v1",
+        "asserted-by": "object"
+      }
+    ]
+  },
+  "ISSN": [
+    "0043-1397",
+    "1944-7973"
+  ],
+  "issn-type": [
+    {
+      "value": "0043-1397",
+      "type": "print"
+    },
+    {
+      "value": "1944-7973",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-07-03",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-03-09",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-04-04",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "e2025WR041515"
+}

@@ -1,0 +1,46 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E5,E01,Execute the refill branch during flood recession,primary,EP09-B,,Recession refill branch executed
+E01-E6,E01,Apply threshold-based TGR decision logic and safety constraints,primary,EP09-B,,"Hierarchical thresholds map inflow to pre-release, normal, refill"
+E02-E8,E02,Apply the current-period release and update the state,primary,EP09-C,,"Immediate release applied, state advanced, re-optimized"
+E03-E2,E03,Describe the real-time DC-FLWL operational trigger,primary,EP09-B,,"Prefill, prerelease, crisis triggers in recession"
+E03-E8,E03,Select the piecewise analytical hedging branch,secondary,EP09-B,,Analytical hedging branch applied by regime
+E03-E9,E03,Convert optimal storage to Stage-1 release and enforce the release floor,primary,EP09-A,,Optimal storage converted to current release with release floor
+E03-E10,E03,Roll the horizon and update decisions,primary,EP09-C,,Window rolled with updated forecasts
+E04-E9,E04,Apply forecast-informed pre-release and routing rules,secondary,EP09-A,,Pre-release set to mean forecast inflow over lead time
+E07-E7,E07,Select the current release across risky members and horizons,primary,EP09-A,,Today's release = maximum day-1 release of selected members
+E07-E8,E07,"Combine releases, update state, and roll forward",primary,EP09-C,,"Releases combined, state updated, 15-day horizon rerun"
+E10-E4,E10,Route and update,primary,EP09-A,,Allocation converted to physical release and next state
+E11-E4,E11,Simulate operation under D-PSL,secondary,EP09-A,,Pre-release or retention to reach pre-storm level
+E13-E2,E13,Represent EFO storage and release decisions,secondary,EP09-B,,Risk-tolerance policy rules executed daily
+E15-E3,E15,Execute HPFOR branch logic,primary,EP09-B,,"Pre-fill, pre-release, normal branches by thresholds"
+E15-E9,E15,Inspect representative operational traces,secondary,EP09-B,,Traces show stage behavior of optimized thresholds
+E16-E4,E16,Run daily MPC,primary,EP09-C,,Daily MPC implements first action
+E16-E5,E16,Run cumulative guide-curve policy,primary,EP09-B,,Cumulative ensemble rule computes release to hold TOCS
+E17-E3,E17,Enforce release and ramp constraints; roll forward,primary,EP09-C,,"First action implemented, re-optimized from updated state"
+E19-E8,E19,Execute VPS-FIRO's three-line operating sequence,primary,EP09-B,,"Vapor, precipitation, streamflow lines act by stage"
+E19-E10,E19,Inspect representative Typhoon In-Fa and Muifa/Hinnamnor events,secondary,EP09-B,,"Events split into pre-event, prerelease, regulation, prefill"
+E21-E6,E21,Pre-discharge TGR using long-lead warning,primary,EP09-D,,Long-lead pre-discharge of TGR
+E21-E7,E21,Release upstream reserved capacity to stagger peaks,primary,EP09-D,,Upstream reservoirs release reserved capacity to stagger peaks
+E21-E8,E21,"Adjust generation, shipping, and levels during execution",primary,EP09-D,,"Generation, shipping, levels adjusted across agencies"
+E21-E9,E21,Reanalyze performance and maintain crisis branches,secondary,EP09-D,,Crisis branches for equipment and emergencies
+E23-E5,E23,Solve multi-stage stochastic MPC,secondary,EP09-C,,"Shared early control, later controls adapt"
+E24-E5,E24,Convert EFSM to release and storage decisions,primary,EP09-A,,Safety margins converted to release and carryover targets
+E24-E6,E24,Enforce storage capacity and extreme-flood response,secondary,EP09-D,,Extreme-flood branch: retain volume and extend evacuation warning
+E26-E4,E26,Generate and apply three-zone rule,secondary,EP09-B,,Three-zone rule applied by availability
+E26-E5,E26,Run event and rolling-horizon simulations,secondary,EP09-C,,Hourly rolling application over flood seasons
+E27-E3,E27,Select and parameterize forecast rule,primary,EP09-B,,Piecewise forecast-runoff release rule
+E28-E3,E28,Specify flood input and operating rules,secondary,EP09-B,,Prerelease with level-dependent release caps
+E29-E4,E29,Execute the forecast-triggered control step,primary,EP09-B,,Store or prerelease by forecast maximum
+E33-E9,E33,Solve the constrained rolling-horizon operation,secondary,EP09-C,,"Current horizon implemented, remaining horizon re-solved"
+E34-E8,E34,Run rolling-horizon recourse,primary,EP09-C,,Rolling recourse vs no-recourse
+E35-E8,E35,Run closed-loop deterministic or tree MPC,primary,EP09-C,,"Root release applied hourly, then re-solved"
+E37-E3,E37,Apply the FBO rule to forecast input,primary,EP09-B,,Rainfall-band release rule in rising stage
+E37-E8,E37,Probe forecast-error remedies,primary,EP09-C,,Discharge corrected after forecast error detected
+E39-E1,E39,Establish case thresholds and operating rules,secondary,EP09-B,,"Initial, peak-avoidance, post-peak, design, check stages"
+E43-E5,E43,Advance the closed-loop simulation,primary,EP09-C,,High-resolution model updates controller state each step
+E44-E3,E44,Run pre-discharge operation,primary,EP09-B,,Pre-discharge from reservoir then channel storage
+E46-E2,E46,Execute pre-release rule,primary,EP09-B,,Pre-release rule by rainfall thresholds
+E46-E3,E46,Execute peak-stage rule,primary,EP09-B,,Peak-stage release as fraction of recent inflow
+E46-E4,E46,Execute post-peak release reduction,primary,EP09-B,,Post-peak stepwise release reduction
+E50-E2,E50,Implement baseline release rules and constraints,secondary,EP09-B,,Baseline hedging and flood-pool release logic
+E50-E4,E50,Add FIRO risk tolerance and TOCS multiplier,primary,EP09-B,,Risk-curve release logic each step

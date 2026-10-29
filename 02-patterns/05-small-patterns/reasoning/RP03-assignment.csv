@@ -1,0 +1,42 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R3,E01,Use lead time and release capacity to define an admissible upper level,secondary,RP03-B,,Upper level limited by whether drawdown can finish within the effective lead time
+E01-R6,E01,Represent forecast error probabilistically and calibrate forecast adequacy,secondary,RP03-C,,Qualified forecast accuracy from records used to calibrate forecast adequacy
+E05-R6,E05,Treat forecast uncertainty as useful only up to a constraint-dependent threshold,primary,RP03-E,,Forecast is useful only up to a constraint-dependent uncertainty threshold
+E05-R7,E05,"Jointly interpret preference, forecast quality, and operating context",secondary,RP03-E,,Higher conservation preference requires more accurate forecasts
+E07-R3,E07,Set the critical threshold and lead-time tolerance,secondary,RP03-A,,"Zero risk tolerance in first five days, rising with lead time"
+E07-R8,E07,Bound the conclusion by forecast skill and site conditions,secondary,RP03-D,,Benefit conditional on lead times where hindcast is reliable
+E09-R1,E09,Identify when water-use pre-release is valid,secondary,RP03-A,,Forecast dry interval used for water-use pre-release; switch when flood forecast
+E09-R2,E09,Estimate duration/lead-time information conservatively,primary,RP03-B,,Lead time and dry duration estimated conservatively from history
+E10-R1,E10,Separate forecast stages by reliability,primary,RP03-A,,Reliable horizon defined by error threshold; stages split by reliability
+E11-R1,E11,Choose volume-based control target,primary,RP03-B,,Multi-day flood volume chosen as forecast target matching reservoir smoothing
+E11-R2,E11,Convert forecast skill into an acceptable error bound,secondary,RP03-E,,Forecast skill converted to an error bound keeping design probability unchanged
+E14-R3,E14,Combine heterogeneous deterministic models by distributional similarity,secondary,RP03-C,,Base forecasters combined by distributional similarity before use
+E14-R5,E14,Evaluate forecast quality and forecast value separately,primary,RP03-D,,Forecast quality and operational value judged separately
+E15-R2,E15,Produce a probabilistic inflow input,secondary,RP03-G,,Point forecasts insufficient for safe release bound; probabilistic input used
+E16-R6,E16,Interpret forecast skill and operational response jointly,primary,RP03-D,,"Bias, eCRPS, timing affect policy actions differently from one skill score"
+E17-R4,E17,Vary the parameters that govern pre-release feasibility,secondary,RP03-B,,Lead time with release and ramping limits decides whether pre-release can start early enough
+E17-R6,E17,Compare HEFS with perfect and baseline references,secondary,RP03-D,,Baseline and perfect forecasts bound available forecast value
+E18-R4,E18,Treat forecast skill and lead time as decision prerequisites,primary,RP03-C,,Sufficient skill at lead time is a screening prerequisite
+E19-R2,E19,Identify the forecast-horizon gap in PS-FIRO,primary,RP03-B,,Precipitation/streamflow horizon too short for early preparation
+E19-R3,E19,Define PP as a conservative physical upper bound,primary,RP03-B,,Conservative physical upper bound extends usable horizon
+E19-R5,E19,Sequence the three forecast defenses,secondary,RP03-A,,"Vapor, precipitation, streamflow forecasts used in sequence by horizon"
+E21-R3,E21,Use forecast lead time as a staged information basis,primary,RP03-A,,"Qualitative long-lead for preparation, quantitative short-lead for detailed action"
+E23-R2,E23,Establish whether ensemble forecasts merit operational use,primary,RP03-C,,Ensemble skill and useful horizon verified before optimization use
+E26-R6,E26,Test whether forecast precision changes the trade-off,primary,RP03-E,,Forecast precision changes zones and the trade-off
+E27-R2,E27,Select the 6-hour runoff rule indicator,primary,RP03-B,,6-h horizon chosen to match forecast accuracy and travel time
+E27-R3,E27,Estimate forecast-error process and simplify applicability,secondary,RP03-A,,Error statistics by lead time and flow regime
+E28-R2,E28,Convert forecast accuracy into an error distribution,secondary,RP03-C,,Accuracy grade translated into usable error distribution
+E28-R5,E28,Calibrate and test the case route,primary,RP03-C,,Forecast model calibrated and verified before rule use
+E28-R6,E28,Interpret accuracy sensitivity and reverse-use the risk curve,primary,RP03-E,,Risk curve read backward to get required forecast accuracy
+E29-R3,E29,Choose a quantile as an operational surrogate for forecast uncertainty,primary,RP03-G,,Forecast quantile chosen as operating input by safety and benefit outcomes
+E33-R2,E33,Split the horizon at each forecast boundary,secondary,RP03-F,,Operation horizon extends beyond forecast lead time
+E33-R3,E33,Reconcile heterogeneous lead-times across reservoirs,primary,RP03-F,,Reservoirs have different forecast lead times
+E35-R2,E35,Establish a horizon reference under perfect information,primary,RP03-B,,Minimum horizon needed to release early enough under perfect information
+E36-R2,E36,Choose an error distribution from a forecast metric,secondary,RP03-C,,Forecast-quality metric translated into error distribution
+E36-R8,E36,Use risk curves to guide forecast/level requirements,secondary,RP03-E,,Accuracy required for acceptable risk
+E37-R4,E37,Formulate FBO as a forecast-indexed rising-stage rule,secondary,RP03-B,,Forecast rainfall gives an earlier indicator than level or inflow
+E37-R7,E37,Classify forecast bias for response,secondary,RP03-G,,Error sign decides corrective discharge when forecast is wrong
+E40-R2,E40,Split predictable and unpredicted time,secondary,RP03-F,,Risk continues after forecast horizon
+E42-R6,E42,Interpret lead-time/return-period dependence,primary,RP03-A,,Longer lead times broaden error and change risk
+E46-R2,E46,Prefer robust measurement-based rules under forecast uncertainty,primary,RP03-G,,Measurement-based rule as fallback when forecasts may fail
+E46-R6,E46,Validate generalization and identify forecast value,secondary,RP03-D,,Gap to perfect-forecast benchmark quantifies forecast value

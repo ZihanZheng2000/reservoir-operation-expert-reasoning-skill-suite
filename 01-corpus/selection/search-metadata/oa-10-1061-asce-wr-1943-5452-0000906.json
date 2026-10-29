@@ -1,0 +1,1280 @@
+{
+  "id": "https://openalex.org/W2783921708",
+  "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0000906",
+  "title": "Conditional Value-at-Risk for Nonstationary Streamflow and Its Application for Derivation of the Adaptive Reservoir Flood Limited Water Level",
+  "display_name": "Conditional Value-at-Risk for Nonstationary Streamflow and Its Application for Derivation of the Adaptive Reservoir Flood Limited Water Level",
+  "publication_year": 2018,
+  "publication_date": "2018-01-10",
+  "ids": {
+    "openalex": "https://openalex.org/W2783921708",
+    "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0000906",
+    "mag": "2783921708"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1061/(asce)wr.1943-5452.0000906",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000906",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S127754761",
+      "display_name": "Journal of Water Resources Planning and Management",
+      "issn_l": "0733-9496",
+      "issn": [
+        "0733-9496",
+        "1943-5452"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315747",
+      "host_organization_name": "American Society of Civil Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315747"
+      ],
+      "host_organization_lineage_names": [
+        "American Society of Civil Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Water Resources Planning and Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100755611",
+        "display_name": "Xiaoqi Zhang",
+        "orcid": "https://orcid.org/0000-0002-4708-2854"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105877",
+          "display_name": "Wuhan Donghu University",
+          "ror": "https://ror.org/017swdq34",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xiaoqi Zhang",
+      "raw_affiliation_strings": [
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336",
+            "https://openalex.org/I4210105877"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100358542",
+        "display_name": "Pan Liu",
+        "orcid": "https://orcid.org/0000-0002-3777-6561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105877",
+          "display_name": "Wuhan Donghu University",
+          "ror": "https://ror.org/017swdq34",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Pan Liu",
+      "raw_affiliation_strings": [
+        "Professor, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China (corresponding author)"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Professor, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China (corresponding author)",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100666387",
+        "display_name": "Chong‐Yu Xu",
+        "orcid": "https://orcid.org/0000-0003-4826-5350"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184942183",
+          "display_name": "University of Oslo",
+          "ror": "https://ror.org/01xtthb56",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chong-Yu Xu",
+      "raw_affiliation_strings": [
+        "Professor, Dept. of Geosciences, Univ. of Oslo, P.O. Box 1047, Blindern, 0316 Oslo, Norway",
+        "Professor, Dept. of Geosciences, Univ. of Oslo, P.O. Box 1047, Blindern, 0316 Oslo, Norway. E-mail:"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Professor, Dept. of Geosciences, Univ. of Oslo, P.O. Box 1047, Blindern, 0316 Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Professor, Dept. of Geosciences, Univ. of Oslo, P.O. Box 1047, Blindern, 0316 Oslo, Norway. E-mail:",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5087185356",
+        "display_name": "Bo Ming",
+        "orcid": "https://orcid.org/0000-0002-4477-1099"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105877",
+          "display_name": "Wuhan Donghu University",
+          "ror": "https://ror.org/017swdq34",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bo Ming",
+      "raw_affiliation_strings": [
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336",
+            "https://openalex.org/I4210105877"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5053601249",
+        "display_name": "Aili Xie",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105877",
+          "display_name": "Wuhan Donghu University",
+          "ror": "https://ror.org/017swdq34",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aili Xie",
+      "raw_affiliation_strings": [
+        "Master Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+        "Master Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Master Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336",
+            "https://openalex.org/I4210105877"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Master Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5090259596",
+        "display_name": "Maoyuan Feng",
+        "orcid": "https://orcid.org/0000-0002-8705-9800"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210105877",
+          "display_name": "Wuhan Donghu University",
+          "ror": "https://ror.org/017swdq34",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105877"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Maoyuan Feng",
+      "raw_affiliation_strings": [
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+        "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336",
+            "https://openalex.org/I4210105877"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Ph.D. Candidate, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., 8 Donghu South Rd., Wuhan 430072, China. E-mail:",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5100358542"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37461747",
+    "https://openalex.org/I4210105877"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.8358,
+  "has_fulltext": false,
+  "cited_by_count": 22,
+  "citation_normalized_percentile": {
+    "value": 0.88609322,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "144",
+    "issue": "3",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9980999827384949,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11413",
+      "display_name": "Risk and Portfolio Optimization",
+      "score": 0.9962999820709229,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cvar",
+      "display_name": "CVAR",
+      "score": 0.9971200823783875
+    },
+    {
+      "id": "https://openalex.org/keywords/expected-shortfall",
+      "display_name": "Expected shortfall",
+      "score": 0.7336784601211548
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6506963968276978
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-optimization",
+      "display_name": "Mathematical optimization",
+      "score": 0.49403315782546997
+    },
+    {
+      "id": "https://openalex.org/keywords/streamflow",
+      "display_name": "Streamflow",
+      "score": 0.45963674783706665
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.45850640535354614
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.37816235423088074
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-management",
+      "display_name": "Risk management",
+      "score": 0.3620028495788574
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.3462798297405243
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.2046830952167511
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.20146086812019348
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.0822766125202179
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779922397",
+      "wikidata": "https://www.wikidata.org/wiki/Q5014755",
+      "display_name": "CVAR",
+      "level": 4,
+      "score": 0.9971200823783875
+    },
+    {
+      "id": "https://openalex.org/C5496284",
+      "wikidata": "https://www.wikidata.org/wiki/Q5420856",
+      "display_name": "Expected shortfall",
+      "level": 3,
+      "score": 0.7336784601211548
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6506963968276978
+    },
+    {
+      "id": "https://openalex.org/C126255220",
+      "wikidata": "https://www.wikidata.org/wiki/Q141495",
+      "display_name": "Mathematical optimization",
+      "level": 1,
+      "score": 0.49403315782546997
+    },
+    {
+      "id": "https://openalex.org/C53739315",
+      "wikidata": "https://www.wikidata.org/wiki/Q29425295",
+      "display_name": "Streamflow",
+      "level": 3,
+      "score": 0.45963674783706665
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.45850640535354614
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.37816235423088074
+    },
+    {
+      "id": "https://openalex.org/C32896092",
+      "wikidata": "https://www.wikidata.org/wiki/Q189447",
+      "display_name": "Risk management",
+      "level": 2,
+      "score": 0.3620028495788574
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.3462798297405243
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.2046830952167511
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.20146086812019348
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0822766125202179
+    },
+    {
+      "id": "https://openalex.org/C187736073",
+      "wikidata": "https://www.wikidata.org/wiki/Q2920921",
+      "display_name": "Management",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126645576",
+      "wikidata": "https://www.wikidata.org/wiki/Q166620",
+      "display_name": "Drainage basin",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1061/(asce)wr.1943-5452.0000906",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0000906",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S127754761",
+        "display_name": "Journal of Water Resources Planning and Management",
+        "issn_l": "0733-9496",
+        "issn": [
+          "0733-9496",
+          "1943-5452"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315747",
+        "host_organization_name": "American Society of Civil Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315747"
+        ],
+        "host_organization_lineage_names": [
+          "American Society of Civil Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Water Resources Planning and Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation",
+      "score": 0.8100000023841858
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320306076",
+      "display_name": "National Science Foundation",
+      "ror": "https://ror.org/021nxhr62"
+    },
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 50,
+  "referenced_works": [
+    "https://openalex.org/W163387572",
+    "https://openalex.org/W230693944",
+    "https://openalex.org/W996106850",
+    "https://openalex.org/W1537653931",
+    "https://openalex.org/W1545154642",
+    "https://openalex.org/W1594525512",
+    "https://openalex.org/W1594830375",
+    "https://openalex.org/W1828563792",
+    "https://openalex.org/W1926856324",
+    "https://openalex.org/W1952575627",
+    "https://openalex.org/W1965144608",
+    "https://openalex.org/W1985177018",
+    "https://openalex.org/W1989570555",
+    "https://openalex.org/W1999955909",
+    "https://openalex.org/W2004886610",
+    "https://openalex.org/W2007282308",
+    "https://openalex.org/W2008636854",
+    "https://openalex.org/W2019291268",
+    "https://openalex.org/W2019370974",
+    "https://openalex.org/W2024737169",
+    "https://openalex.org/W2028267147",
+    "https://openalex.org/W2032400172",
+    "https://openalex.org/W2036438752",
+    "https://openalex.org/W2047996766",
+    "https://openalex.org/W2048431029",
+    "https://openalex.org/W2053024430",
+    "https://openalex.org/W2061911320",
+    "https://openalex.org/W2078890104",
+    "https://openalex.org/W2102787230",
+    "https://openalex.org/W2130091784",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2140513963",
+    "https://openalex.org/W2147502651",
+    "https://openalex.org/W2148169139",
+    "https://openalex.org/W2154658453",
+    "https://openalex.org/W2156232487",
+    "https://openalex.org/W2157236682",
+    "https://openalex.org/W2171174555",
+    "https://openalex.org/W2233026633",
+    "https://openalex.org/W2281699385",
+    "https://openalex.org/W2344927497",
+    "https://openalex.org/W2353352431",
+    "https://openalex.org/W2514905146",
+    "https://openalex.org/W2558771233",
+    "https://openalex.org/W2559198503",
+    "https://openalex.org/W2593445235",
+    "https://openalex.org/W2612550606",
+    "https://openalex.org/W2620631674",
+    "https://openalex.org/W2737519270",
+    "https://openalex.org/W3124407081"
+  ],
+  "related_works": [
+    "https://openalex.org/W4316167276",
+    "https://openalex.org/W2002736235",
+    "https://openalex.org/W2232143283",
+    "https://openalex.org/W1647779468",
+    "https://openalex.org/W48101171",
+    "https://openalex.org/W2008510020",
+    "https://openalex.org/W2096554740",
+    "https://openalex.org/W2989754218",
+    "https://openalex.org/W3124407081",
+    "https://openalex.org/W3096753274"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "existing": [
+      1
+    ],
+    "risk-based": [
+      2
+    ],
+    "approaches": [
+      3
+    ],
+    "for": [
+      4
+    ],
+    "quantifying": [
+      5,
+      74
+    ],
+    "expected": [
+      6
+    ],
+    "flood": [
+      7,
+      76,
+      87,
+      109,
+      138,
+      153
+    ],
+    "damage": [
+      8,
+      41,
+      77,
+      139
+    ],
+    "loss": [
+      9,
+      42,
+      78,
+      140
+    ],
+    "may": [
+      10
+    ],
+    "not": [
+      11,
+      59,
+      132
+    ],
+    "be": [
+      12
+    ],
+    "suitable": [
+      13,
+      159
+    ],
+    "in": [
+      14,
+      62,
+      73,
+      145
+    ],
+    "the": [
+      15,
+      36,
+      63,
+      75,
+      98,
+      107,
+      125,
+      130,
+      136,
+      146,
+      152,
+      171,
+      179
+    ],
+    "changing": [
+      16
+    ],
+    "environment": [
+      17
+    ],
+    "when": [
+      18,
+      177
+    ],
+    "streamflow": [
+      19
+    ],
+    "becomes": [
+      20
+    ],
+    "nonstationary.": [
+      21
+    ],
+    "Conditional": [
+      22
+    ],
+    "value-at-risk": [
+      23,
+      29
+    ],
+    "(CVaRα),": [
+      24
+    ],
+    "a": [
+      25,
+      90,
+      122,
+      142,
+      158,
+      175
+    ],
+    "modified": [
+      26
+    ],
+    "form": [
+      27
+    ],
+    "of": [
+      28,
+      34,
+      40,
+      53,
+      100,
+      170
+    ],
+    "(VaRα),": [
+      30
+    ],
+    "that": [
+      31,
+      70,
+      128
+    ],
+    "takes": [
+      32
+    ],
+    "account": [
+      33,
+      169
+    ],
+    "both": [
+      35
+    ],
+    "magnitude": [
+      37
+    ],
+    "and": [
+      38,
+      82,
+      162
+    ],
+    "probability": [
+      39,
+      155
+    ],
+    "has": [
+      43,
+      58
+    ],
+    "been": [
+      44,
+      60
+    ],
+    "widely": [
+      45
+    ],
+    "applied": [
+      46
+    ],
+    "to": [
+      47,
+      167
+    ],
+    "water": [
+      48,
+      111
+    ],
+    "resources": [
+      49
+    ],
+    "issues.": [
+      50
+    ],
+    "However,": [
+      51
+    ],
+    "quantification": [
+      52
+    ],
+    "CVaRα": [
+      54,
+      72,
+      105,
+      131,
+      172
+    ],
+    "under": [
+      55,
+      79
+    ],
+    "nonstationary": [
+      56,
+      80
+    ],
+    "conditions": [
+      57
+    ],
+    "addressed": [
+      61
+    ],
+    "literature.": [
+      64
+    ],
+    "This": [
+      65
+    ],
+    "study": [
+      66,
+      103
+    ],
+    "proposes": [
+      67
+    ],
+    "an": [
+      68
+    ],
+    "approach": [
+      69
+    ],
+    "incorporates": [
+      71
+    ],
+    "conditions,": [
+      81
+    ],
+    "then": [
+      83
+    ],
+    "CVaRαn": [
+      84
+    ],
+    "associated": [
+      85
+    ],
+    "with": [
+      86
+    ],
+    "risk": [
+      88,
+      154
+    ],
+    "over": [
+      89,
+      141
+    ],
+    "specified": [
+      91
+    ],
+    "time": [
+      92,
+      143
+    ],
+    "horizon": [
+      93,
+      144
+    ],
+    "is": [
+      94,
+      165
+    ],
+    "deduced.": [
+      95
+    ],
+    "To": [
+      96
+    ],
+    "illustrate": [
+      97
+    ],
+    "concept": [
+      99
+    ],
+    "CVaRα,": [
+      101
+    ],
+    "this": [
+      102
+    ],
+    "applies": [
+      104
+    ],
+    "into": [
+      106
+    ],
+    "adaptive": [
+      108,
+      180
+    ],
+    "limited": [
+      110
+    ],
+    "level": [
+      112
+    ],
+    "(FLWL)": [
+      113
+    ],
+    "optimization.": [
+      114
+    ],
+    "With": [
+      115
+    ],
+    "China’s": [
+      116
+    ],
+    "Three": [
+      117
+    ],
+    "Gorges": [
+      118
+    ],
+    "Reservoir": [
+      119
+    ],
+    "(TGR)": [
+      120
+    ],
+    "as": [
+      121,
+      174
+    ],
+    "case": [
+      123
+    ],
+    "study,": [
+      124
+    ],
+    "results": [
+      126
+    ],
+    "indicate": [
+      127
+    ],
+    "(1)": [
+      129
+    ],
+    "only": [
+      133
+    ],
+    "can": [
+      134,
+      150
+    ],
+    "represent": [
+      135
+    ],
+    "possible": [
+      137
+    ],
+    "future,": [
+      147
+    ],
+    "but": [
+      148
+    ],
+    "also": [
+      149
+    ],
+    "reflect": [
+      151
+    ],
+    "by": [
+      156
+    ],
+    "choosing": [
+      157
+    ],
+    "confidence": [
+      160
+    ],
+    "level;": [
+      161
+    ],
+    "(2)": [
+      163
+    ],
+    "it": [
+      164
+    ],
+    "reliable": [
+      166
+    ],
+    "take": [
+      168
+    ],
+    "value": [
+      173
+    ],
+    "constraint": [
+      176
+    ],
+    "studying": [
+      178
+    ],
+    "FLWL": [
+      181
+    ],
+    "optimization": [
+      182
+    ],
+    "problem.": [
+      183
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-07-31T08:31:51.225901",
+  "created_date": "2025-10-10T00:00:00"
+}

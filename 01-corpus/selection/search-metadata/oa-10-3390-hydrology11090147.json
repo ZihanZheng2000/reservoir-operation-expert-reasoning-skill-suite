@@ -1,0 +1,1548 @@
+{
+  "id": "https://openalex.org/W4402408442",
+  "doi": "https://doi.org/10.3390/hydrology11090147",
+  "title": "Adaptive Operating Rules for Flood Control of a Multi-Purpose Reservoir",
+  "display_name": "Adaptive Operating Rules for Flood Control of a Multi-Purpose Reservoir",
+  "publication_year": 2024,
+  "publication_date": "2024-09-10",
+  "ids": {
+    "openalex": "https://openalex.org/W4402408442",
+    "doi": "https://doi.org/10.3390/hydrology11090147"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/hydrology11090147",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/hydrology11090147",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210184486",
+      "display_name": "Hydrology",
+      "issn_l": "2306-5338",
+      "issn": [
+        "2306-5338"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Hydrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.3390/hydrology11090147",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055864312",
+        "display_name": "Radu Drobot",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I148178115",
+          "display_name": "Technical University of Civil Engineering of Bucharest",
+          "ror": "https://ror.org/03d187f57",
+          "country_code": "RO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I148178115"
+          ]
+        }
+      ],
+      "countries": [
+        "RO"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Radu Drobot",
+      "raw_affiliation_strings": [
+        "Department of Hydrotechnical Engineering, Technical University of Civil Engineering, 020396 Bucharest, Romania"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Hydrotechnical Engineering, Technical University of Civil Engineering, 020396 Bucharest, Romania",
+          "institution_ids": [
+            "https://openalex.org/I148178115"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5061408416",
+        "display_name": "Aurelian Florentin Drăghia",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1305477107",
+          "display_name": "Romanian Space Agency",
+          "ror": "https://ror.org/05r48bj28",
+          "country_code": "RO",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1305477107"
+          ]
+        }
+      ],
+      "countries": [
+        "RO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aurelian Florentin Draghia",
+      "raw_affiliation_strings": [
+        "Roua Soft SRL, 040271 Bucharest, Romania"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Roua Soft SRL, 040271 Bucharest, Romania",
+          "institution_ids": [
+            "https://openalex.org/I1305477107"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032075859",
+        "display_name": "Cristian Dinu",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Cristian Dinu",
+      "raw_affiliation_strings": [
+        "Urban Arte Studio, 021177 Bucharest, Romania"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Urban Arte Studio, 021177 Bucharest, Romania",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031841868",
+        "display_name": "Nicolai Sîrbu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I148178115",
+          "display_name": "Technical University of Civil Engineering of Bucharest",
+          "ror": "https://ror.org/03d187f57",
+          "country_code": "RO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I148178115"
+          ]
+        }
+      ],
+      "countries": [
+        "RO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nicolai Sîrbu",
+      "raw_affiliation_strings": [
+        "Department of Hydrotechnical Engineering, Technical University of Civil Engineering, 020396 Bucharest, Romania"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Hydrotechnical Engineering, Technical University of Civil Engineering, 020396 Bucharest, Romania",
+          "institution_ids": [
+            "https://openalex.org/I148178115"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5041319237",
+        "display_name": "Viorel Chendeş",
+        "orcid": "https://orcid.org/0000-0001-8814-1649"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210087277",
+          "display_name": "National Institute of Hydrology and Water Management",
+          "ror": "https://ror.org/0005tvh12",
+          "country_code": "RO",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210087277"
+          ]
+        }
+      ],
+      "countries": [
+        "RO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Viorel Chendeș",
+      "raw_affiliation_strings": [
+        "National Institute of Hydrology and Water Management, 013686 Bucharest, Romania"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8814-1649",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Institute of Hydrology and Water Management, 013686 Bucharest, Romania",
+          "institution_ids": [
+            "https://openalex.org/I4210087277"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041844498",
+        "display_name": "Petrișor Mazilu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210154446",
+          "display_name": "Romanian Waters National Administration",
+          "ror": "https://ror.org/05a2x2n50",
+          "country_code": "RO",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210154446"
+          ]
+        }
+      ],
+      "countries": [
+        "RO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Petrișor Mazilu",
+      "raw_affiliation_strings": [
+        "National Administration “Romanian Waters”, 010031 Bucharest, Romania"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "National Administration “Romanian Waters”, 010031 Bucharest, Romania",
+          "institution_ids": [
+            "https://openalex.org/I4210154446"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5055864312"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I148178115"
+  ],
+  "apc_list": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 2046
+  },
+  "apc_paid": {
+    "value": 1800,
+    "currency": "CHF",
+    "value_usd": 2046
+  },
+  "fwci": 0.9823,
+  "has_fulltext": false,
+  "cited_by_count": 5,
+  "citation_normalized_percentile": {
+    "value": 0.71201882,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "11",
+    "issue": "9",
+    "first_page": "147",
+    "last_page": "147"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9997000098228455,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9997000098228455,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9984999895095825,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/weir",
+      "display_name": "Weir",
+      "score": 0.8363174796104431
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.8240780234336853
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.8086040019989014
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-mitigation",
+      "display_name": "Flood mitigation",
+      "score": 0.5599509477615356
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.5474380850791931
+    },
+    {
+      "id": "https://openalex.org/keywords/100-year-flood",
+      "display_name": "100-year flood",
+      "score": 0.5308566689491272
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5062200427055359
+    },
+    {
+      "id": "https://openalex.org/keywords/civil-engineering",
+      "display_name": "Civil engineering",
+      "score": 0.4983713626861572
+    },
+    {
+      "id": "https://openalex.org/keywords/downstream",
+      "display_name": "Downstream (manufacturing)",
+      "score": 0.4962792992591858
+    },
+    {
+      "id": "https://openalex.org/keywords/volume",
+      "display_name": "Volume (thermodynamics)",
+      "score": 0.45341333746910095
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3712359070777893
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.2948222756385803
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.21514597535133362
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.1862538456916809
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.11338421702384949
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-management",
+      "display_name": "Operations management",
+      "score": 0.0767715573310852
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779276979",
+      "wikidata": "https://www.wikidata.org/wiki/Q1066997",
+      "display_name": "Weir",
+      "level": 2,
+      "score": 0.8363174796104431
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.8240780234336853
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.8086040019989014
+    },
+    {
+      "id": "https://openalex.org/C2777420705",
+      "wikidata": "https://www.wikidata.org/wiki/Q5460072",
+      "display_name": "Flood mitigation",
+      "level": 3,
+      "score": 0.5599509477615356
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.5474380850791931
+    },
+    {
+      "id": "https://openalex.org/C171878848",
+      "wikidata": "https://www.wikidata.org/wiki/Q336797",
+      "display_name": "100-year flood",
+      "level": 3,
+      "score": 0.5308566689491272
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5062200427055359
+    },
+    {
+      "id": "https://openalex.org/C147176958",
+      "wikidata": "https://www.wikidata.org/wiki/Q77590",
+      "display_name": "Civil engineering",
+      "level": 1,
+      "score": 0.4983713626861572
+    },
+    {
+      "id": "https://openalex.org/C2776207758",
+      "wikidata": "https://www.wikidata.org/wiki/Q5303302",
+      "display_name": "Downstream (manufacturing)",
+      "level": 2,
+      "score": 0.4962792992591858
+    },
+    {
+      "id": "https://openalex.org/C20556612",
+      "wikidata": "https://www.wikidata.org/wiki/Q4469374",
+      "display_name": "Volume (thermodynamics)",
+      "level": 2,
+      "score": 0.45341333746910095
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3712359070777893
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.2948222756385803
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.21514597535133362
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.1862538456916809
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.11338421702384949
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.0767715573310852
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C62520636",
+      "wikidata": "https://www.wikidata.org/wiki/Q944",
+      "display_name": "Quantum mechanics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/hydrology11090147",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/hydrology11090147",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210184486",
+        "display_name": "Hydrology",
+        "issn_l": "2306-5338",
+        "issn": [
+          "2306-5338"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Hydrology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:d732a9828b3c40f8a7fcc840b6a4e5a4",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/d732a9828b3c40f8a7fcc840b6a4e5a4",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Hydrology, Vol 11, Iss 9, p 147 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/hydrology11090147",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/hydrology11090147",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210184486",
+      "display_name": "Hydrology",
+      "issn_l": "2306-5338",
+      "issn": [
+        "2306-5338"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Hydrology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Climate action",
+      "id": "https://metadata.un.org/sdg/13",
+      "score": 0.47999998927116394
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 78,
+  "referenced_works": [
+    "https://openalex.org/W1544662260",
+    "https://openalex.org/W1572028336",
+    "https://openalex.org/W1661070848",
+    "https://openalex.org/W1829903004",
+    "https://openalex.org/W1967322416",
+    "https://openalex.org/W1970102934",
+    "https://openalex.org/W1976740582",
+    "https://openalex.org/W1982688247",
+    "https://openalex.org/W1987927313",
+    "https://openalex.org/W1990921498",
+    "https://openalex.org/W1993527708",
+    "https://openalex.org/W1999955909",
+    "https://openalex.org/W2008404499",
+    "https://openalex.org/W2013125917",
+    "https://openalex.org/W2013551996",
+    "https://openalex.org/W2015645540",
+    "https://openalex.org/W2024017244",
+    "https://openalex.org/W2031839458",
+    "https://openalex.org/W2037868646",
+    "https://openalex.org/W2042193022",
+    "https://openalex.org/W2047481981",
+    "https://openalex.org/W2049688455",
+    "https://openalex.org/W2049933975",
+    "https://openalex.org/W2054343778",
+    "https://openalex.org/W2056063759",
+    "https://openalex.org/W2060037118",
+    "https://openalex.org/W2060041301",
+    "https://openalex.org/W2062544231",
+    "https://openalex.org/W2065575561",
+    "https://openalex.org/W2073187170",
+    "https://openalex.org/W2073690673",
+    "https://openalex.org/W2077527055",
+    "https://openalex.org/W2088398818",
+    "https://openalex.org/W2091716700",
+    "https://openalex.org/W2093233187",
+    "https://openalex.org/W2096128876",
+    "https://openalex.org/W2100563305",
+    "https://openalex.org/W2101472376",
+    "https://openalex.org/W2102831107",
+    "https://openalex.org/W2114234306",
+    "https://openalex.org/W2114546957",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2281959935",
+    "https://openalex.org/W2396643288",
+    "https://openalex.org/W2513113087",
+    "https://openalex.org/W2552202418",
+    "https://openalex.org/W2556217112",
+    "https://openalex.org/W2591134645",
+    "https://openalex.org/W2593445235",
+    "https://openalex.org/W2605202474",
+    "https://openalex.org/W2970830005",
+    "https://openalex.org/W2994194851",
+    "https://openalex.org/W3011511334",
+    "https://openalex.org/W3035968653",
+    "https://openalex.org/W3100616290",
+    "https://openalex.org/W3125401559",
+    "https://openalex.org/W3153207387",
+    "https://openalex.org/W3162318144",
+    "https://openalex.org/W4285678605",
+    "https://openalex.org/W4296535941",
+    "https://openalex.org/W4296630051",
+    "https://openalex.org/W4307959914",
+    "https://openalex.org/W4317932448",
+    "https://openalex.org/W4384934610",
+    "https://openalex.org/W4385577000",
+    "https://openalex.org/W4388647129",
+    "https://openalex.org/W4389049551",
+    "https://openalex.org/W4391451799",
+    "https://openalex.org/W4392221568",
+    "https://openalex.org/W4392862214",
+    "https://openalex.org/W4394859510",
+    "https://openalex.org/W4394874037",
+    "https://openalex.org/W4394912401",
+    "https://openalex.org/W4398244198",
+    "https://openalex.org/W4400065756",
+    "https://openalex.org/W6645905523",
+    "https://openalex.org/W6666916147",
+    "https://openalex.org/W7018294876"
+  ],
+  "related_works": [
+    "https://openalex.org/W2911583922",
+    "https://openalex.org/W2312314561",
+    "https://openalex.org/W2330160335",
+    "https://openalex.org/W323997797",
+    "https://openalex.org/W3164962699",
+    "https://openalex.org/W2325718972",
+    "https://openalex.org/W2074047913",
+    "https://openalex.org/W2377377040",
+    "https://openalex.org/W2418812133",
+    "https://openalex.org/W3081304264"
+  ],
+  "abstract_inverted_index": {
+    "Almost": [
+      0
+    ],
+    "all": [
+      1
+    ],
+    "multipurpose": [
+      2
+    ],
+    "reservoirs": [
+      3
+    ],
+    "in": [
+      4,
+      93,
+      143,
+      272,
+      302
+    ],
+    "Romania": [
+      5
+    ],
+    "were": [
+      6
+    ],
+    "put": [
+      7,
+      246
+    ],
+    "into": [
+      8,
+      247
+    ],
+    "operation": [
+      9,
+      98,
+      210,
+      221,
+      248
+    ],
+    "30–50": [
+      10
+    ],
+    "years": [
+      11
+    ],
+    "ago": [
+      12
+    ],
+    "or": [
+      13
+    ],
+    "even": [
+      14,
+      271
+    ],
+    "earlier.": [
+      15
+    ],
+    "Meanwhile,": [
+      16
+    ],
+    "a": [
+      17,
+      214,
+      276
+    ],
+    "large": [
+      18
+    ],
+    "volume": [
+      19,
+      150
+    ],
+    "of": [
+      20,
+      38,
+      99,
+      119,
+      133,
+      151,
+      177,
+      192,
+      222,
+      265,
+      275,
+      292,
+      311,
+      321
+    ],
+    "hydrologic": [
+      21
+    ],
+    "data": [
+      22
+    ],
+    "has": [
+      23,
+      72
+    ],
+    "been": [
+      24
+    ],
+    "collected,": [
+      25
+    ],
+    "and": [
+      26,
+      44,
+      53,
+      67,
+      136,
+      146,
+      153,
+      170,
+      196,
+      226,
+      260,
+      315
+    ],
+    "the": [
+      27,
+      35,
+      79,
+      97,
+      100,
+      104,
+      111,
+      116,
+      120,
+      124,
+      130,
+      134,
+      137,
+      139,
+      144,
+      147,
+      159,
+      178,
+      186,
+      193,
+      223,
+      230,
+      234,
+      238,
+      251,
+      257,
+      263,
+      266,
+      273,
+      289,
+      293,
+      306,
+      309,
+      317
+    ],
+    "initial": [
+      28
+    ],
+    "design": [
+      29,
+      57,
+      81,
+      112,
+      148,
+      199,
+      313
+    ],
+    "flood": [
+      30,
+      58,
+      75,
+      82,
+      94,
+      113,
+      149,
+      160,
+      172,
+      327,
+      332
+    ],
+    "should": [
+      31,
+      47
+    ],
+    "be": [
+      32,
+      48
+    ],
+    "reconsidered.": [
+      33
+    ],
+    "Consequently,": [
+      34
+    ],
+    "operating": [
+      36,
+      231,
+      319
+    ],
+    "rules": [
+      37,
+      211,
+      232,
+      320
+    ],
+    "flow": [
+      39
+    ],
+    "control": [
+      40,
+      161,
+      328
+    ],
+    "structures": [
+      41
+    ],
+    "(bottom": [
+      42
+    ],
+    "gates": [
+      43
+    ],
+    "weir": [
+      45
+    ],
+    "gates)": [
+      46
+    ],
+    "re-examined,": [
+      49
+    ],
+    "mainly": [
+      50
+    ],
+    "for": [
+      51,
+      74,
+      201,
+      283
+    ],
+    "medium": [
+      52,
+      152
+    ],
+    "low-frequency": [
+      54
+    ],
+    "floods.": [
+      55
+    ],
+    "The": [
+      56,
+      174,
+      298
+    ],
+    "is": [
+      59,
+      83,
+      90,
+      123,
+      269,
+      296
+    ],
+    "not": [
+      60
+    ],
+    "unique,": [
+      61
+    ],
+    "being": [
+      62
+    ],
+    "characterized": [
+      63
+    ],
+    "by": [
+      64
+    ],
+    "different": [
+      65,
+      202
+    ],
+    "shapes": [
+      66
+    ],
+    "time": [
+      68
+    ],
+    "to": [
+      69,
+      115,
+      127
+    ],
+    "peak,": [
+      70
+    ],
+    "which": [
+      71
+    ],
+    "consequences": [
+      73
+    ],
+    "mitigation": [
+      76
+    ],
+    "rules.": [
+      77
+    ],
+    "Identifying": [
+      78
+    ],
+    "critical": [
+      80,
+      198,
+      312
+    ],
+    "an": [
+      84
+    ],
+    "important": [
+      85
+    ],
+    "preliminary": [
+      86
+    ],
+    "step,": [
+      87
+    ],
+    "although": [
+      88
+    ],
+    "it": [
+      89,
+      107
+    ],
+    "usually": [
+      91
+    ],
+    "neglected": [
+      92
+    ],
+    "management.": [
+      95
+    ],
+    "Simulating": [
+      96
+    ],
+    "Stânca–Costești": [
+      101,
+      267
+    ],
+    "reservoir": [
+      102
+    ],
+    "on": [
+      103,
+      213,
+      237,
+      256
+    ],
+    "Prut": [
+      105
+    ],
+    "River,": [
+      106
+    ],
+    "was": [
+      108
+    ],
+    "found": [
+      109
+    ],
+    "that": [
+      110,
+      156
+    ],
+    "corresponding": [
+      114
+    ],
+    "maximum": [
+      117
+    ],
+    "value": [
+      118
+    ],
+    "compactness": [
+      121
+    ],
+    "coefficient": [
+      122
+    ],
+    "most": [
+      125
+    ],
+    "difficult": [
+      126
+    ],
+    "mitigate": [
+      128
+    ],
+    "considering": [
+      129
+    ],
+    "specific": [
+      131
+    ],
+    "conditions": [
+      132,
+      164
+    ],
+    "dam": [
+      135,
+      168,
+      268
+    ],
+    "reservoir:": [
+      138
+    ],
+    "prescribed": [
+      140
+    ],
+    "conservation": [
+      141
+    ],
+    "level": [
+      142
+    ],
+    "reservoir,": [
+      145
+    ],
+    "rare": [
+      154
+    ],
+    "floods": [
+      155,
+      195,
+      200,
+      284
+    ],
+    "far": [
+      157
+    ],
+    "exceeds": [
+      158
+    ],
+    "volume.": [
+      162
+    ],
+    "These": [
+      163
+    ],
+    "can": [
+      165
+    ],
+    "jeopardize": [
+      166
+    ],
+    "both": [
+      167
+    ],
+    "safety": [
+      169,
+      264
+    ],
+    "downstream": [
+      171,
+      294
+    ],
+    "protection.": [
+      173
+    ],
+    "main": [
+      175,
+      299
+    ],
+    "steps": [
+      176
+    ],
+    "proposed": [
+      179
+    ],
+    "approach": [
+      180
+    ],
+    "are": [
+      181,
+      245,
+      305
+    ],
+    "as": [
+      182
+    ],
+    "follows:": [
+      183
+    ],
+    "(1)": [
+      184,
+      308
+    ],
+    "developing": [
+      185
+    ],
+    "hydraulic": [
+      187
+    ],
+    "model;": [
+      188,
+      216
+    ],
+    "(2)": [
+      189,
+      316
+    ],
+    "statistical": [
+      190
+    ],
+    "processing": [
+      191
+    ],
+    "registered": [
+      194
+    ],
+    "defining": [
+      197
+    ],
+    "AEPs": [
+      203
+    ],
+    "(Annual": [
+      204
+    ],
+    "Exceedance": [
+      205
+    ],
+    "Probabilities);": [
+      206
+    ],
+    "(3)": [
+      207
+    ],
+    "deriving": [
+      208
+    ],
+    "optimal": [
+      209
+    ],
+    "based": [
+      212
+    ],
+    "simulation-optimization": [
+      215
+    ],
+    "(4)": [
+      217
+    ],
+    "implementing": [
+      218
+    ],
+    "real-time": [
+      219
+    ],
+    "adaptive": [
+      220,
+      318
+    ],
+    "mechanical": [
+      224
+    ],
+    "outlets;": [
+      225
+    ],
+    "(5)": [
+      227
+    ],
+    "critically": [
+      228
+    ],
+    "assessing": [
+      229
+    ],
+    "after": [
+      233
+    ],
+    "event.": [
+      235
+    ],
+    "Based": [
+      236,
+      255
+    ],
+    "hydrological": [
+      239,
+      258
+    ],
+    "forecast,": [
+      240
+    ],
+    "if": [
+      241
+    ],
+    "necessary,": [
+      242
+    ],
+    "new": [
+      243
+    ],
+    "outlets": [
+      244
+    ],
+    "while": [
+      249
+    ],
+    "keeping": [
+      250
+    ],
+    "ones": [
+      252
+    ],
+    "already": [
+      253
+    ],
+    "activated.": [
+      254
+    ],
+    "forecast": [
+      259
+    ],
+    "properly": [
+      261
+    ],
+    "operated,": [
+      262
+    ],
+    "guaranteed": [
+      270
+    ],
+    "event": [
+      274
+    ],
+    "0.1%": [
+      277
+    ],
+    "CC": [
+      278
+    ],
+    "(Climate": [
+      279
+    ],
+    "Change)": [
+      280
+    ],
+    "flood.": [
+      281
+    ],
+    "However,": [
+      282
+    ],
+    "greater": [
+      285
+    ],
+    "than": [
+      286
+    ],
+    "1%": [
+      287
+    ],
+    "magnitude,": [
+      288
+    ],
+    "carrying": [
+      290
+    ],
+    "capacity": [
+      291
+    ],
+    "riverbed": [
+      295
+    ],
+    "exceeded.": [
+      297
+    ],
+    "gaps": [
+      300
+    ],
+    "addressed": [
+      301
+    ],
+    "this": [
+      303
+    ],
+    "paper": [
+      304
+    ],
+    "following:": [
+      307
+    ],
+    "establishment": [
+      310
+    ],
+    "floods,": [
+      314
+    ],
+    "outlet": [
+      322
+    ],
+    "devices": [
+      323
+    ],
+    "aimed": [
+      324
+    ],
+    "at": [
+      325
+    ],
+    "optimizing": [
+      326
+    ],
+    "results,": [
+      329
+    ],
+    "using": [
+      330
+    ],
+    "short-term": [
+      331
+    ],
+    "forecasts.": [
+      333
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-28T12:50:07.497085",
+  "created_date": "2025-10-10T00:00:00"
+}

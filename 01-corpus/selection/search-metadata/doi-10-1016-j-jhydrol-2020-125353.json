@@ -1,0 +1,671 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        1
+      ]
+    ],
+    "date-time": "2026-09-01T11:17:34Z",
+    "timestamp": 1788261454270,
+    "version": "build-2803163510"
+  },
+  "reference-count": 31,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2020-10-01T00:00:00Z",
+        "timestamp": 1601510400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100004608",
+      "name": "Natural Science Foundation of Jiangsu Province",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100004608",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012165",
+      "name": "Key Technologies Research and Development Program",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100012165",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002858",
+      "name": "China Postdoctoral Science Foundation",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100002858",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2020.125353",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        8,
+        2
+      ]
+    ],
+    "date-time": "2020-08-02T10:18:08Z",
+    "timestamp": 1596363488000
+  },
+  "page": "125353",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 42,
+  "special_numbering": "C",
+  "title": [
+    "Risk analysis for reservoir flood control operation considering two-dimensional uncertainties based on Bayesian network"
+  ],
+  "prefix": "10.1016",
+  "volume": "589",
+  "author": [
+    {
+      "given": "Qingwen",
+      "family": "Lu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ping-an",
+      "family": "Zhong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-1281-5560",
+      "authenticated-orcid": false,
+      "given": "Bin",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Feilin",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yufei",
+      "family": "Ma",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Han",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Sunyu",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125353_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "749",
+      "DOI": "10.1007/s11269-012-0213-z",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for cascade reservoirs",
+      "volume": "27",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2020.125353_b0010",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000490",
+      "article-title": "Risk analysis for real-time flood control operation of a reservoir",
+      "volume": "141",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Water Resour. Plann. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1016/j.envsoft.2018.10.007",
+      "article-title": "Risk analysis for real-time flood control operation of a multi-reservoir system using a dynamic Bayesian network",
+      "volume": "111",
+      "author": "Chen",
+      "year": "2019",
+      "journal-title": "Environ. Modell. Softw."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0020",
+      "series-title": "Probability and Statistics",
+      "author": "DeGroot",
+      "year": "2011"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1007/978-3-030-29407-6_5",
+      "article-title": "Machine learning: a review of the algorithms and its applications",
+      "volume": "597",
+      "author": "Dhall",
+      "year": "2020",
+      "journal-title": "Lect. Notes Electr. Eng."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2020.125353_b0030",
+      "first-page": "591",
+      "article-title": "Study on distribution of flood forecasting errors by the method based on maximum entropy",
+      "volume": "38",
+      "author": "Diao",
+      "year": "2007",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.jhydrol.2020.125353_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "2605",
+      "DOI": "10.1007/s11431-011-4555-1",
+      "article-title": "Scheme optimum selection for dynamic control of reservoir limited water level",
+      "volume": "54",
+      "author": "Diao",
+      "year": "2011",
+      "journal-title": "Sci. China-Technol. Sci."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2020.125353_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res.."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125353_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "1963",
+      "DOI": "10.1002/2016WR019452",
+      "article-title": "Multiobjective hedging rules for flood water conservation",
+      "volume": "53",
+      "author": "Ding",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125353_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "83",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:1(83)",
+      "article-title": "Optimal hedging and carryover storage value",
+      "volume": "130",
+      "author": "Draper",
+      "year": "2004",
+      "journal-title": "J. Water Resour. Plann. Manage."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2020.125353_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "735",
+      "DOI": "10.1111/j.1752-1688.1972.tb05215.x",
+      "article-title": "Optimizing flood control allocation for a multipurpose reservoir",
+      "volume": "8",
+      "author": "Duren",
+      "year": "1972",
+      "journal-title": "J. Am. Water Resour. Assoc."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "672",
+      "DOI": "10.1016/j.jhydrol.2018.08.040",
+      "article-title": "Risk analysis of flood control reservoir operation considering multiple uncertainties",
+      "volume": "565",
+      "author": "Huang",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "14",
+      "key": "10.1016/j.jhydrol.2020.125353_b0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "5113",
+      "DOI": "10.1007/s11269-016-1472-x",
+      "article-title": "Optimal pre-storm flood hedging releases for a single reservoir",
+      "volume": "30",
+      "author": "Hui",
+      "year": "2016",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2020.125353_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "451",
+      "DOI": "10.2166/ws.2011.067",
+      "article-title": "Risk analysis of rich-poor rainfall encounter in inter-basin water transfer projects based on Bayesian networks",
+      "volume": "11",
+      "author": "Kang",
+      "year": "2011",
+      "journal-title": "Water Sci. Tech.-W. Sup."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0075",
+      "first-page": "4",
+      "article-title": "Naive(Bayes)at forty: the independence assumption in information retrieval",
+      "volume": "1398",
+      "author": "Lewis",
+      "year": "1998",
+      "journal-title": "Lect. Notes Comput. Sci. (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)"
+    },
+    {
+      "issue": "1–2",
+      "key": "10.1016/j.jhydrol.2020.125353_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2020.125353_b0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "431",
+      "DOI": "10.1007/s11269-010-9707-8",
+      "article-title": "Deriving optimal refill rules for multi-purpose reservoir operation",
+      "volume": "25",
+      "author": "Liu",
+      "year": "2011",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125353_b0090",
+      "doi-asserted-by": "crossref",
+      "first-page": "81",
+      "DOI": "10.1016/j.wse.2017.07.001",
+      "article-title": "A quantitative model for danger degree evaluation of staged operation of earth dam reservoir in flood season and its application",
+      "volume": "11",
+      "author": "Mo",
+      "year": "2018",
+      "journal-title": "Water Sci. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0095",
+      "unstructured": "Monti, S., Cooper, G. F., 1998. A Multivariate Discretization Method for Learning Bayesian Networks from Mixed Data. 14th Conference on Uncertainty in Artificial Intelligence, Madison, WI, USA, 24–26 Jul 1998, 404–413."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0100",
+      "series-title": "Probabilistic reasoning in intelligent systems: networks of plausible inference",
+      "author": "Pearl",
+      "year": "1988"
+    },
+    {
+      "issue": "21",
+      "key": "10.1016/j.jhydrol.2020.125353_b0105",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s12665-017-7088-5",
+      "article-title": "A method for implementing the real-time dynamic control of flood-limited water level",
+      "volume": "76",
+      "author": "Peng",
+      "year": "2017",
+      "journal-title": "Environ. Earth Sci."
+    },
+    {
+      "issue": "1–4",
+      "key": "10.1016/j.jhydrol.2020.125353_b0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "327",
+      "DOI": "10.1007/BF01531015",
+      "article-title": "Probability propagation",
+      "volume": "2",
+      "author": "Shafer",
+      "year": "1990",
+      "journal-title": "Ann. Math. Artif. Intell."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125353_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.1007/s11269-016-1515-3",
+      "article-title": "The dynamic control bound of flood limited water level considering capacity compensation regulation and flood spatial pattern uncertainty",
+      "volume": "31",
+      "author": "Tan",
+      "year": "2017",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2020.125353_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "4027",
+      "DOI": "10.1007/s11269-019-02351-3",
+      "article-title": "A Hybrid model for real-time probabilistic flood forecasting using Elman neural network with heterogeneity of error distributions",
+      "volume": "33",
+      "author": "Wan",
+      "year": "2019",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "21",
+      "DOI": "10.1016/j.apenergy.2019.113535",
+      "article-title": "Identifying long-term effects of using hydropower to complement wind power uncertainty through stochastic programming",
+      "volume": "253",
+      "author": "Xu",
+      "year": "2019",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "issue": "1–4",
+      "key": "10.1016/j.jhydrol.2020.125353_b0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.jhydrol.2008.03.003",
+      "article-title": "Multiple duration limited water level and dynamic limited water level for flood control, with implications on water supply",
+      "volume": "354",
+      "author": "Yun",
+      "year": "2008",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2020.125353_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "449",
+      "DOI": "10.1007/s11269-017-1820-5",
+      "article-title": "An improved “dynamic control operation module” for cascade reservoirs",
+      "volume": "32",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2020.125353_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1888",
+      "DOI": "10.1007/s11431-011-4392-2",
+      "article-title": "Risk analysis of dynamic control of reservoir limited water level by considering flood forecast error",
+      "volume": "54",
+      "author": "Zhang",
+      "year": "2011",
+      "journal-title": "Sci. China-Technol. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/j.jhydrol.2014.07.029",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for mixed cascade reservoir systems",
+      "volume": "519",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "J. Hydrol.."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "article-title": "Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs",
+      "volume": "143",
+      "author": "Zhou",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125353_b0155",
+      "first-page": "22",
+      "article-title": "Dynamic control of reservoir normal level in flood season based on short-term rainfall forecast",
+      "volume": "8",
+      "author": "Zhou",
+      "year": "2005",
+      "journal-title": "Water Power"
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169420308131?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169420308131?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ],
+    "date-time": "2025-09-19T15:11:18Z",
+    "timestamp": 1758294678000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169420308131"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "references-count": 31,
+  "alternative-id": [
+    "S0022169420308131"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2020.125353",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Risk analysis for reservoir flood control operation considering two-dimensional uncertainties based on Bayesian network",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2020.125353",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "125353"
+}

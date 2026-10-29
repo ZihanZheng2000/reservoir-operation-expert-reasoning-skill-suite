@@ -1,0 +1,1312 @@
+{
+  "id": "https://openalex.org/W3121098204",
+  "doi": "https://doi.org/10.3390/w13020173",
+  "title": "Quantifying the Risks that Propagate from the Inflow Forecast Uncertainty to the Reservoir Operations with Coupled Flood and Electricity Curtailment Risks",
+  "display_name": "Quantifying the Risks that Propagate from the Inflow Forecast Uncertainty to the Reservoir Operations with Coupled Flood and Electricity Curtailment Risks",
+  "publication_year": 2021,
+  "publication_date": "2021-01-13",
+  "ids": {
+    "openalex": "https://openalex.org/W3121098204",
+    "doi": "https://doi.org/10.3390/w13020173",
+    "mag": "3121098204"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/w13020173",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w13020173",
+    "pdf_url": "https://www.mdpi.com/2073-4441/13/2/173/pdf?version=1611298244",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2073-4441/13/2/173/pdf?version=1611298244",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101603440",
+        "display_name": "Qiumei Ma",
+        "orcid": "https://orcid.org/0000-0003-1286-4570"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153473198",
+          "display_name": "North China Electric Power University",
+          "ror": "https://ror.org/04qr5t414",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Qiumei Ma",
+      "raw_affiliation_strings": [
+        "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China",
+          "institution_ids": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100414871",
+        "display_name": "Jiaxin Zhang",
+        "orcid": "https://orcid.org/0000-0002-6330-6723"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153473198",
+          "display_name": "North China Electric Power University",
+          "ror": "https://ror.org/04qr5t414",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jiaxin Zhang",
+      "raw_affiliation_strings": [
+        "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China",
+          "institution_ids": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102802247",
+        "display_name": "Bin Xiong",
+        "orcid": "https://orcid.org/0000-0002-0895-6838"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I141649914",
+          "display_name": "Nanchang University",
+          "ror": "https://ror.org/042v6xz23",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I141649914"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bin Xiong",
+      "raw_affiliation_strings": [
+        "School of Civil Engineering and Architecture, Nanchang University, Nanchang 330031, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Civil Engineering and Architecture, Nanchang University, Nanchang 330031, China",
+          "institution_ids": [
+            "https://openalex.org/I141649914"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040901365",
+        "display_name": "Yanke Zhang",
+        "orcid": "https://orcid.org/0000-0003-4788-8708"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153473198",
+          "display_name": "North China Electric Power University",
+          "ror": "https://ror.org/04qr5t414",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yanke Zhang",
+      "raw_affiliation_strings": [
+        "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China",
+          "institution_ids": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5059398023",
+        "display_name": "Changming Ji",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153473198",
+          "display_name": "North China Electric Power University",
+          "ror": "https://ror.org/04qr5t414",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Changming Ji",
+      "raw_affiliation_strings": [
+        "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Water Resources and Hydropower Engineering, North China Electric Power University, Beijing 102206, China",
+          "institution_ids": [
+            "https://openalex.org/I153473198"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5015390368",
+        "display_name": "Ting Zhou",
+        "orcid": "https://orcid.org/0000-0003-0865-0377"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I140221134",
+          "display_name": "Anhui Agricultural University",
+          "ror": "https://ror.org/0327f3359",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I140221134"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ting Zhou",
+      "raw_affiliation_strings": [
+        "School of Engineering, Anhui Agricultural University, Hefei 230036, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Engineering, Anhui Agricultural University, Hefei 230036, China",
+          "institution_ids": [
+            "https://openalex.org/I140221134"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5040901365"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I153473198"
+  ],
+  "apc_list": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2160
+  },
+  "apc_paid": {
+    "value": 2000,
+    "currency": "CHF",
+    "value_usd": 2160
+  },
+  "fwci": 0.5869,
+  "has_fulltext": true,
+  "cited_by_count": 9,
+  "citation_normalized_percentile": {
+    "value": 0.62860959,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 88,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "2",
+    "first_page": "173",
+    "last_page": "173"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10930",
+    "display_name": "Flood Risk Assessment and Management",
+    "score": 0.9994999766349792,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2306",
+      "display_name": "Global and Planetary Change"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9994999766349792,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10330",
+      "display_name": "Hydrology and Watershed Management Studies",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9988999962806702,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.9180828332901001
+    },
+    {
+      "id": "https://openalex.org/keywords/hydropower",
+      "display_name": "Hydropower",
+      "score": 0.7514344453811646
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6628772020339966
+    },
+    {
+      "id": "https://openalex.org/keywords/electricity",
+      "display_name": "Electricity",
+      "score": 0.579395055770874
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.568725049495697
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-assessment",
+      "display_name": "Risk assessment",
+      "score": 0.4838965833187103
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.3256070613861084
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.27629753947257996
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.2169264256954193
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.1875663697719574
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.08948013186454773
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.9180828332901001
+    },
+    {
+      "id": "https://openalex.org/C40675005",
+      "wikidata": "https://www.wikidata.org/wiki/Q170196",
+      "display_name": "Hydropower",
+      "level": 2,
+      "score": 0.7514344453811646
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6628772020339966
+    },
+    {
+      "id": "https://openalex.org/C206658404",
+      "wikidata": "https://www.wikidata.org/wiki/Q12725",
+      "display_name": "Electricity",
+      "level": 2,
+      "score": 0.579395055770874
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.568725049495697
+    },
+    {
+      "id": "https://openalex.org/C12174686",
+      "wikidata": "https://www.wikidata.org/wiki/Q1058438",
+      "display_name": "Risk assessment",
+      "level": 2,
+      "score": 0.4838965833187103
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.3256070613861084
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.27629753947257996
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.2169264256954193
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.1875663697719574
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.08948013186454773
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C27206212",
+      "wikidata": "https://www.wikidata.org/wiki/Q34178",
+      "display_name": "Theology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/w13020173",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/w13020173",
+      "pdf_url": "https://www.mdpi.com/2073-4441/13/2/173/pdf?version=1611298244",
+      "source": {
+        "id": "https://openalex.org/S134216166",
+        "display_name": "Water",
+        "issn_l": "2073-4441",
+        "issn": [
+          "2073-4441"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:c13f5317e6e74482a59cd6f12b657585",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/c13f5317e6e74482a59cd6f12b657585",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Water, Vol 13, Iss 2, p 173 (2021)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/w13020173",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w13020173",
+    "pdf_url": "https://www.mdpi.com/2073-4441/13/2/173/pdf?version=1611298244",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2583835274",
+      "display_name": null,
+      "funder_award_id": "2020M680487",
+      "funder_id": "https://openalex.org/F4320321543",
+      "funder_display_name": "China Postdoctoral Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G4151603706",
+      "display_name": null,
+      "funder_award_id": "51709105",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G5205243453",
+      "display_name": null,
+      "funder_award_id": "2019MS031 and 2020MS026",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    },
+    {
+      "id": "https://openalex.org/G6296988989",
+      "display_name": null,
+      "funder_award_id": "2019MS031",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    },
+    {
+      "id": "https://openalex.org/G6358847661",
+      "display_name": null,
+      "funder_award_id": "2020MS026",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320321543",
+      "display_name": "China Postdoctoral Science Foundation",
+      "ror": "https://ror.org/0426zh255"
+    },
+    {
+      "id": "https://openalex.org/F4320335787",
+      "display_name": "Fundamental Research Funds for the Central Universities",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3121098204.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3121098204.grobid-xml"
+  },
+  "referenced_works_count": 33,
+  "referenced_works": [
+    "https://openalex.org/W1507764682",
+    "https://openalex.org/W1965549091",
+    "https://openalex.org/W1997280729",
+    "https://openalex.org/W2002803242",
+    "https://openalex.org/W2010275421",
+    "https://openalex.org/W2017587036",
+    "https://openalex.org/W2024099160",
+    "https://openalex.org/W2065168131",
+    "https://openalex.org/W2065445169",
+    "https://openalex.org/W2068368507",
+    "https://openalex.org/W2108207895",
+    "https://openalex.org/W2115986271",
+    "https://openalex.org/W2120994224",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2181125631",
+    "https://openalex.org/W2317623121",
+    "https://openalex.org/W2335114787",
+    "https://openalex.org/W2375925573",
+    "https://openalex.org/W2473294939",
+    "https://openalex.org/W2514905146",
+    "https://openalex.org/W2542642631",
+    "https://openalex.org/W2551191081",
+    "https://openalex.org/W2604489721",
+    "https://openalex.org/W2765210464",
+    "https://openalex.org/W2808383779",
+    "https://openalex.org/W2900768128",
+    "https://openalex.org/W2920668773",
+    "https://openalex.org/W2947508398",
+    "https://openalex.org/W2955275303",
+    "https://openalex.org/W2961279021",
+    "https://openalex.org/W2980488943",
+    "https://openalex.org/W3036014566",
+    "https://openalex.org/W3046496546"
+  ],
+  "related_works": [
+    "https://openalex.org/W142238503",
+    "https://openalex.org/W3095032300",
+    "https://openalex.org/W2045242506",
+    "https://openalex.org/W2094226075",
+    "https://openalex.org/W2053845857",
+    "https://openalex.org/W2508771297",
+    "https://openalex.org/W2369442461",
+    "https://openalex.org/W2213605261",
+    "https://openalex.org/W2240664998",
+    "https://openalex.org/W2347329533"
+  ],
+  "abstract_inverted_index": {
+    "Substantial": [
+      0
+    ],
+    "uncertainty": [
+      1,
+      25
+    ],
+    "is": [
+      2
+    ],
+    "inherent": [
+      3
+    ],
+    "in": [
+      4,
+      40,
+      221
+    ],
+    "reservoir": [
+      5,
+      15,
+      28,
+      61,
+      99,
+      124,
+      179
+    ],
+    "inflow": [
+      6,
+      23,
+      92,
+      129
+    ],
+    "forecasting,": [
+      7
+    ],
+    "which": [
+      8
+    ],
+    "exerts": [
+      9
+    ],
+    "a": [
+      10,
+      33,
+      182
+    ],
+    "potential": [
+      11
+    ],
+    "negative": [
+      12
+    ],
+    "impact": [
+      13
+    ],
+    "on": [
+      14
+    ],
+    "risk.": [
+      16
+    ],
+    "However,": [
+      17
+    ],
+    "the": [
+      18,
+      22,
+      45,
+      57,
+      60,
+      66,
+      85,
+      98,
+      101,
+      106,
+      110,
+      116,
+      123,
+      132,
+      152,
+      174,
+      187,
+      191,
+      203,
+      211,
+      215,
+      227
+    ],
+    "risk": [
+      19,
+      46,
+      103,
+      113,
+      167,
+      194,
+      225
+    ],
+    "propagation": [
+      20
+    ],
+    "from": [
+      21,
+      56
+    ],
+    "forecast": [
+      24,
+      87,
+      130
+    ],
+    "(IFU)": [
+      26
+    ],
+    "to": [
+      27,
+      43,
+      59,
+      64,
+      83,
+      96,
+      115,
+      122,
+      199
+    ],
+    "operations": [
+      29
+    ],
+    "remains": [
+      30
+    ],
+    "elusive.": [
+      31
+    ],
+    "Thus,": [
+      32
+    ],
+    "new": [
+      34
+    ],
+    "integrated": [
+      35
+    ],
+    "assessment": [
+      36
+    ],
+    "framework": [
+      37
+    ],
+    "was": [
+      38,
+      146,
+      155,
+      164,
+      170
+    ],
+    "developed": [
+      39
+    ],
+    "this": [
+      41
+    ],
+    "study": [
+      42
+    ],
+    "characterize": [
+      44
+    ],
+    "coupling": [
+      47
+    ],
+    "with": [
+      48,
+      181,
+      210
+    ],
+    "flood": [
+      49,
+      102,
+      166,
+      212
+    ],
+    "and": [
+      50,
+      74,
+      89,
+      109
+    ],
+    "electricity": [
+      51,
+      111,
+      192,
+      223
+    ],
+    "curtailment": [
+      52,
+      112,
+      193,
+      224
+    ],
+    "risks": [
+      53
+    ],
+    "that": [
+      54,
+      151,
+      208
+    ],
+    "propagate": [
+      55
+    ],
+    "IFU": [
+      58,
+      107,
+      117,
+      175,
+      216
+    ],
+    "operations.": [
+      62
+    ],
+    "First,": [
+      63
+    ],
+    "incorporate": [
+      65
+    ],
+    "IFU,": [
+      67
+    ],
+    "an": [
+      68
+    ],
+    "improved": [
+      69
+    ],
+    "Gaussian": [
+      70
+    ],
+    "mixture": [
+      71
+    ],
+    "distribution": [
+      72
+    ],
+    "(IGMD)": [
+      73
+    ],
+    "Markov": [
+      75
+    ],
+    "chain": [
+      76
+    ],
+    "Monte": [
+      77
+    ],
+    "Carlo": [
+      78
+    ],
+    "(MCMC)": [
+      79
+    ],
+    "algorithm": [
+      80
+    ],
+    "were": [
+      81,
+      119
+    ],
+    "constructed": [
+      82
+    ],
+    "model": [
+      84
+    ],
+    "measured": [
+      86
+    ],
+    "errors": [
+      88
+    ],
+    "generate": [
+      90
+    ],
+    "ensemble": [
+      91,
+      160
+    ],
+    "forecasts,": [
+      93
+    ],
+    "respectively.": [
+      94
+    ],
+    "Next,": [
+      95
+    ],
+    "assess": [
+      97
+    ],
+    "risk,": [
+      100
+    ],
+    "induced": [
+      104,
+      172
+    ],
+    "by": [
+      105,
+      173
+    ],
+    "overestimation": [
+      108
+    ],
+    "related": [
+      114
+    ],
+    "underestimation": [
+      118
+    ],
+    "identified": [
+      120
+    ],
+    "according": [
+      121
+    ],
+    "operation": [
+      125
+    ],
+    "rules.": [
+      126
+    ],
+    "The": [
+      127,
+      148
+    ],
+    "sub-daily": [
+      128
+    ],
+    "at": [
+      131,
+      226
+    ],
+    "Jinping": [
+      133,
+      228
+    ],
+    "First": [
+      134
+    ],
+    "Stage": [
+      135
+    ],
+    "Hydropower": [
+      136
+    ],
+    "Plant": [
+      137
+    ],
+    "Reservoir": [
+      138
+    ],
+    "of": [
+      139,
+      157
+    ],
+    "Yalong": [
+      140
+    ],
+    "River,": [
+      141
+    ],
+    "China": [
+      142
+    ],
+    "(Jinping": [
+      143
+    ],
+    "I": [
+      144,
+      229
+    ],
+    "Reservoir)": [
+      145
+    ],
+    "selected.": [
+      147
+    ],
+    "results": [
+      149
+    ],
+    "indicated": [
+      150
+    ],
+    "IGMD-based": [
+      153
+    ],
+    "MCMC": [
+      154
+    ],
+    "capable": [
+      156
+    ],
+    "deriving": [
+      158
+    ],
+    "robust": [
+      159
+    ],
+    "forecasts.": [
+      161
+    ],
+    "Furthermore,": [
+      162
+    ],
+    "there": [
+      163
+    ],
+    "no": [
+      165
+    ],
+    "(risk": [
+      168
+    ],
+    "rate": [
+      169,
+      195
+    ],
+    "zero)": [
+      171
+    ],
+    "when": [
+      176,
+      201
+    ],
+    "taking": [
+      177
+    ],
+    "designed": [
+      178
+    ],
+    "floods": [
+      180
+    ],
+    "≥10-year": [
+      183
+    ],
+    "return": [
+      184
+    ],
+    "period": [
+      185
+    ],
+    "as": [
+      186
+    ],
+    "benchmark.": [
+      188
+    ],
+    "In": [
+      189
+    ],
+    "contrast,": [
+      190
+    ],
+    "significantly": [
+      196
+    ],
+    "increased": [
+      197
+    ],
+    "up": [
+      198
+    ],
+    "41%": [
+      200
+    ],
+    "considering": [
+      202
+    ],
+    "IFU.": [
+      204
+    ],
+    "These": [
+      205
+    ],
+    "findings": [
+      206
+    ],
+    "suggested": [
+      207
+    ],
+    "compared": [
+      209
+    ],
+    "prevention": [
+      213
+    ],
+    "pressure,": [
+      214
+    ],
+    "would": [
+      217
+    ],
+    "more": [
+      218
+    ],
+    "likely": [
+      219
+    ],
+    "result": [
+      220
+    ],
+    "severe": [
+      222
+    ],
+    "Reservoir.": [
+      230
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-28T12:50:07.497085",
+  "created_date": "2025-10-10T00:00:00"
+}

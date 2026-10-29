@@ -1,0 +1,707 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        9
+      ]
+    ],
+    "date-time": "2026-07-09T03:18:44Z",
+    "timestamp": 1783567124772,
+    "version": "3.55.0"
+  },
+  "reference-count": 38,
+  "publisher": "MDPI AG",
+  "issue": "5",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            5,
+            6
+          ]
+        ],
+        "date-time": "2018-05-06T00:00:00Z",
+        "timestamp": 1525564800000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "name": "the National Key R&amp;D Program of China",
+      "award": [
+        "2017YFC0405606"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017YFC0405606"
+          ]
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "the National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51579068"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51579068"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "the National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51609062"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51609062"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "name": "the Special Fund for Public Welfare Industry of the Ministry of Water Resources of China",
+      "award": [
+        "201501007"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "201501007"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "the Fundamental Research Funds for the Central Universities",
+      "award": [
+        "2017B40614"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017B40614"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "the China Postdoctoral Science Foundation",
+      "award": [
+        "2017M621612"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017M621612"
+          ]
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water"
+  ],
+  "abstract": "<jats:p>The inherent uncertainty of inflow forecasts hinders the reservoir real-time optimal operation. This paper proposes a risk analysis model for reservoir real-time optimal operation using the scenario tree-based stochastic optimization method. We quantify the probability distribution of inflow forecast uncertainty by developing the relationship between two forecast accuracy metrics and the standard deviation of relative forecast error. An inflow scenario tree is generated via Monte Carlo simulation to represent the uncertain inflow forecasts. We establish a scenario tree-based stochastic optimization model to explicitly incorporate inflow forecast uncertainty into the stochastic optimization process. We develop a risk analysis model based on the principle of maximum entropy (POME) to evaluate the uncertainty propagation process from flood forecasts to optimal operation. We apply the proposed methodology to a flood control system in the Daduhe River Basin, China. In addition, numerical experiments are carried out to investigate the effect of two different forecast accuracy metrics and different forecast accuracy levels on reservoir optimal flood control operation as well as risk analysis. The results indicate that the proposed methods can provide decision-makers with valuable risk information for guiding reservoir real-time optimal operation and enable risk-informed decisions to be made with higher reliabilities.</jats:p>",
+  "DOI": "10.3390/w10050606",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        7
+      ]
+    ],
+    "date-time": "2018-05-07T03:12:21Z",
+    "timestamp": 1525662741000
+  },
+  "page": "606",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 18,
+  "title": [
+    "Risk Analysis for Reservoir Real-Time Optimal Operation Using the Scenario Tree-Based Stochastic Optimization Method"
+  ],
+  "prefix": "10.3390",
+  "volume": "10",
+  "author": [
+    {
+      "given": "Yimeng",
+      "family": "Sun",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing 210098, China"
+        },
+        {
+          "name": "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No.1 Xikang Road, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Feilin",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Juan",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydrology and Water Resources, Hohai University, No.1 Xikang Road, Nanjing 210098, China"
+        },
+        {
+          "name": "School of Earth Sciences and Engineering, Hohai University, No.1 Xikang Road, Nanjing 210098, China"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jinshu",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Department of Civil and Environmental Engineering, University of California, Los Angeles, CA 90095, USA"
+        }
+      ],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        6
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "doi-asserted-by": "crossref",
+      "first-page": "531",
+      "DOI": "10.2166/hydro.2015.055",
+      "article-title": "A multi-criteria decision-making model dealing with correlation among criteria for reservoir flood control operation",
+      "volume": "18",
+      "author": "Zhu",
+      "year": "2016",
+      "journal-title": "J. Hydroinf."
+    },
+    {
+      "key": "ref_2",
+      "doi-asserted-by": "crossref",
+      "first-page": "558",
+      "DOI": "10.2166/hydro.2017.059",
+      "article-title": "Selection of criteria for multi-criteria decision making of reservoir flood control operation",
+      "volume": "19",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "J. Hydroinf."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "1797",
+      "DOI": "10.1029/WR021i012p01797",
+      "article-title": "Reservoir management and operations models: A state-of-the-art review",
+      "volume": "21",
+      "author": "Yeh",
+      "year": "1985",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "245",
+      "DOI": "10.1016/j.jhydrol.2014.11.073",
+      "article-title": "Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir",
+      "volume": "521",
+      "author": "Chou",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "11",
+      "DOI": "10.1016/j.jhydrol.2014.12.013",
+      "article-title": "Multi-phase intelligent decision model for reservoir real-time flood control during typhoons",
+      "volume": "522",
+      "author": "Hsu",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "3363",
+      "DOI": "10.1007/s11269-016-1356-0",
+      "article-title": "A multi-objective best compromise decision model for real-time flood mitigation operations of multi-reservoir system",
+      "volume": "30",
+      "author": "Jia",
+      "year": "2016",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "1485",
+      "DOI": "10.1007/s00477-016-1253-3",
+      "article-title": "SMAA-based stochastic multi-criteria decision making for reservoir flood control operation",
+      "volume": "31",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "236",
+      "DOI": "10.1016/j.envsoft.2017.11.032",
+      "article-title": "Multi-criteria group decision making under uncertainty: Application in reservoir flood control operation",
+      "volume": "100",
+      "author": "Zhu",
+      "year": "2018",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "71",
+      "DOI": "10.1080/10807039.2015.1055708",
+      "article-title": "Assessment of risk of GHG emissions from Tehri hydropower reservoir, India",
+      "volume": "22",
+      "author": "Kumar",
+      "year": "2016",
+      "journal-title": "Hum. Ecol. Risk Assess."
+    },
+    {
+      "key": "ref_10",
+      "doi-asserted-by": "crossref",
+      "first-page": "1651",
+      "DOI": "10.1080/10807039.2016.1209077",
+      "article-title": "A modeling approach to assess the greenhouse gas risk in Koteshwar hydropower reservoir, India",
+      "volume": "22",
+      "author": "Kumar",
+      "year": "2016",
+      "journal-title": "Hum. Ecol. Risk Assess."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Bogner, K., and Pappenberger, F. (2011). Multiscale error analysis, correction, and predictive uncertainty estimation in a flood forecasting system. Water Resour. Res., 47.",
+      "DOI": "10.1029/2010WR009137"
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Qu, B., Zhang, X.N., Pappenberger, F., Zhang, T., and Fang, Y.H. (2017). Multi-model grand ensemble hydrologic forecasting in the Fu river basin using Bayesian model averaging. Water, 9.",
+      "DOI": "10.3390/w9020074"
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Schoups, G., and Vrugt, J.A. (2010). A formal likelihood function for parameter and predictive inference of hydrologic models with correlated, heteroscedastic, and non-Gaussian errors. Water Resour. Res., 46.",
+      "DOI": "10.1029/2009WR008933"
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "2199",
+      "DOI": "10.1002/2016WR019168",
+      "article-title": "Improving probabilistic prediction of daily streamflow by identifying Pareto optimal approaches for modeling heteroscedastic residual errors",
+      "volume": "53",
+      "author": "McInerney",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "376",
+      "DOI": "10.1002/2016WR019752",
+      "article-title": "A platform for probabilistic multimodel and multiproduct streamflow forecasting",
+      "volume": "53",
+      "author": "Roy",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_16",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1007/s00477-013-0756-4",
+      "article-title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+      "volume": "28",
+      "author": "Yan",
+      "year": "2014",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "991",
+      "DOI": "10.1080/10807039.2015.1122509",
+      "article-title": "Estimation of soil organic carbon in the forest catchment of two hydroelectric reservoirs in Uttarakhand, India",
+      "volume": "22",
+      "author": "Kumar",
+      "year": "2016",
+      "journal-title": "Hum. Ecol. Risk Assess."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "7829",
+      "DOI": "10.1002/2015WR018089",
+      "article-title": "A reflection on the first 50 years of Water Resources Research",
+      "volume": "51",
+      "author": "Rajaram",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "10635",
+      "DOI": "10.1002/2017WR021480",
+      "article-title": "Real-time optimal flood control decision making and risk propagation under multiple uncertainties",
+      "volume": "53",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen, J., Zhong, P.A., Wang, M.L., Zhu, F.L., Wan, X.Y., and Zhang, Y. (2018). A risk-based model for real-time flood control operation of a cascade reservoir system under emergency conditions. Water, 10.",
+      "DOI": "10.3390/w10020167"
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "349",
+      "DOI": "10.1080/02626669809492131",
+      "article-title": "Application of stochastic differential equations in risk assessment for flood releases",
+      "volume": "43",
+      "author": "Jiang",
+      "year": "1998",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chen, J., Zhong, P.A., Xu, B., and Zhao, Y.F. (2015). Risk analysis for real-time flood control operation of a reservoir. J. Water Resour. Plan. Manag., 141.",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000490"
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "1303",
+      "DOI": "10.1007/s00477-015-1032-6",
+      "article-title": "Risk analysis for the downstream control section in the real-time flood control operation of a reservoir",
+      "volume": "29",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "93",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:2(93)",
+      "article-title": "Optimal operation of multireservoir systems: State-of-the-art review",
+      "volume": "130",
+      "author": "Labadie",
+      "year": "2004",
+      "journal-title": "J. Water Resour. Plan. Manag."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "6359",
+      "DOI": "10.1002/2014WR016828",
+      "article-title": "Scenario tree reduction in stochastic programming with recourse for hydropower operations",
+      "volume": "51",
+      "author": "Xu",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xu, B., Boyce, S.E., Zhang, Y., Liu, Q., Guo, L., and Zhong, P.A. (2016). Stochastic programming with a joint chance constraint model for reservoir refill operation considering flood risk. J. Water Resour. Plan. Manag., 143.",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000715"
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "507",
+      "DOI": "10.2166/hydro.2017.085",
+      "article-title": "Optimal operation of reservoir systems with the symbiotic organisms search (SOS) algorithm",
+      "volume": "19",
+      "author": "Azarnivand",
+      "year": "2017",
+      "journal-title": "J. Hydroinf."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "48",
+      "DOI": "10.1016/j.envsoft.2017.05.003",
+      "article-title": "Non-probabilistic robust optimization approach for flood control system design",
+      "volume": "95",
+      "author": "Housh",
+      "year": "2017",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "46",
+      "DOI": "10.1016/j.envsoft.2017.06.038",
+      "article-title": "Offline training for improving online performance of a genetic algorithm based optimization model for hourly multi-reservoir operation",
+      "volume": "96",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "first-page": "102",
+      "DOI": "10.1016/j.jhydrol.2014.04.012",
+      "article-title": "Parameter uncertainty analysis of reservoir operating rules based on implicit stochastic optimization",
+      "volume": "514",
+      "author": "Liu",
+      "year": "2014",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Côté, P., and Leconte, R. (2016). Comparison of stochastic optimization algorithms for hydropower reservoir operation with ensemble streamflow prediction. J. Water Resour. Plan. Manag., 142.",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000575"
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.1007/s00477-009-0359-2",
+      "article-title": "A stochastic differential equation model for assessing drought and flood risks",
+      "volume": "24",
+      "author": "Unami",
+      "year": "2010",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "first-page": "218",
+      "DOI": "10.1016/j.envsoft.2017.12.007",
+      "article-title": "A framework for uncertainty and risk analysis in Total Maximum Daily Load applications",
+      "volume": "101",
+      "author": "Camacho",
+      "year": "2018",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "82",
+      "DOI": "10.1016/j.envsoft.2017.11.008",
+      "article-title": "Coupling infrastructure resilience and flood risk assessment via copulas analyses for a coastal green-grey-blue drainage system under extreme weather events",
+      "volume": "100",
+      "author": "Joyce",
+      "year": "2018",
+      "journal-title": "Environ. Model. Softw."
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "first-page": "2312",
+      "DOI": "10.1002/2016WR019959",
+      "article-title": "Reducing uncertainty with flood frequency analysis: The contribution of paleoflood and historical flood information",
+      "volume": "53",
+      "author": "Lam",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_38",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1016/j.jhydrol.2009.06.005",
+      "article-title": "Ensemble flood forecasting: A review",
+      "volume": "375",
+      "author": "Cloke",
+      "year": "2009",
+      "journal-title": "J. Hydrol."
+    }
+  ],
+  "container-title": [
+    "Water"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2073-4441/10/5/606/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T15:03:29Z",
+    "timestamp": 1760195009000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2073-4441/10/5/606"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        6
+      ]
+    ]
+  },
+  "references-count": 38,
+  "journal-issue": {
+    "issue": "5",
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          5
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "w10050606"
+  ],
+  "URL": "https://doi.org/10.3390/w10050606",
+  "relation": {},
+  "ISSN": [
+    "2073-4441"
+  ],
+  "issn-type": [
+    {
+      "value": "2073-4441",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        5,
+        6
+      ]
+    ]
+  }
+}

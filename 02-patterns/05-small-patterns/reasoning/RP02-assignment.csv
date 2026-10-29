@@ -1,0 +1,74 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R2,E01,Treat both forecast error and flood-shape uncertainty as risk sources,primary,RP02-B,RP02-A,Hydrograph-shape uncertainty added to forecast error as a risk source
+E01-R6,E01,Represent forecast error probabilistically and calibrate forecast adequacy,primary,RP02-F,,Forecast accuracy grade converted into a normal relative-error distribution
+E02-R1,E02,Frame the decision as an uncertainty-propagation chain,primary,RP02-G,RP02-A,"Uncertainty traced through forecast, optimization, and selection links"
+E02-R2,E02,Represent evolving forecast uncertainty,primary,RP02-D,,Forecast uncertainty evolves with lead time and updates
+E03-R4,E03,Translate forecast uncertainty and acceptable risk into a safety requirement,secondary,RP02-H,,Size of forecast error and acceptable risk set the minimum safety margin
+E03-R7,E03,"Classify cases by uncertainty, acceptable risk, and expected inflow",secondary,RP02-H,,Uncertainty magnitude decides which hedging regime applies
+E04-R1,E04,Frame forecast uncertainty as an operating-risk input,primary,RP02-A,RP02-D,Under- or over-preparation from forecast error; evolution across lead times matters
+E04-R2,E04,Replace restrictive uncertainty-evolution assumptions,primary,RP02-D,,"Error process may be biased, non-Gaussian, nonstationary"
+E04-R3,E04,Normalize and decompose forecast-error evolution,primary,RP02-D,,Error must be normalized by flow and decomposed by forecast update
+E04-R4,E04,Respect seasonal nonstationarity,primary,RP02-D,,Error distribution differs between pre-flood and main flood season
+E04-R5,E04,Select a marginal family from empirical fit evidence,primary,RP02-D,,Normal marginal rejected; family chosen from fit evidence
+E04-R6,E04,Select a dependence model that can represent extreme dependence,primary,RP02-E,,Joint dependence including extremes across lead times
+E05-R6,E05,Treat forecast uncertainty as useful only up to a constraint-dependent threshold,secondary,RP02-H,,"Beyond a threshold, larger uncertainty no longer supports conservation"
+E06-R1,E06,Frame the uncertain operating risk,secondary,RP02-B,RP02-A,"Forecast, hydrograph, discharge, storage-curve, and wind uncertainty make outcomes random"
+E06-R2,E06,Reject restrictive distribution/independence assumptions,primary,RP02-D,RP02-E,"Forecast errors skewed, heavy-tailed, dependent; normal-independent assumption rejected"
+E06-R3,E06,Select forecast-error marginals and dependence model,primary,RP02-D,RP02-E,Error marginals differ by lead time
+E06-R4,E06,Match hydrograph simulation to temporal dependence and tails,primary,RP02-E,,Hydrograph serial dependence and upper-tail dependence
+E06-R5,E06,Represent remaining uncertainties with tractable distributions and sampling,primary,RP02-B,,"Discharge, storage, backwater, wave run-up uncertainties"
+E06-R6,E06,Propagate uncertainty through the operating policy,primary,RP02-G,,Input uncertainty propagated through rule-based routing to outcomes
+E07-R2,E07,Choose ensemble risk-based decision support,primary,RP02-A,,Every ensemble member's consequence examined instead of a single forecast
+E08-R1,E08,Frame the DC-FLWL trade-off and uncertainty scope,primary,RP02-C,RP02-B,Initial level and forecast error selected; other sources excluded by scope
+E08-R2,E08,Derive distributions for initial storage and forecast inflows,primary,RP02-B,,Uncertain initial storage from preceding operation
+E08-R3,E08,Choose an interpretable dependency representation,secondary,RP02-E,,Dependencies among routing variables represented explicitly
+E09-R2,E09,Estimate duration/lead-time information conservatively,secondary,RP02-B,RP02-F,Dry-period duration and lead time uncertain; estimated from history
+E12-R2,E12,Represent forecast uncertainty by its distribution,primary,RP02-D,,Extreme-error rules replaced by the full error distribution
+E13-R1,E13,Diagnose hindcast coverage risk,secondary,RP02-D,,Short hindcasts miss rare forecast-error patterns
+E13-R2,E13,Preserve decision-relevant forecast structure,primary,RP02-E,,"Generator must preserve bias, spread, temporal/spatial dependence, member clustering"
+E13-R4,E13,Adapt the prior multivariate error route for ensembles,primary,RP02-E,,Independent member treatment loses inter-member correlation
+E14-R4,E14,Represent uncertainty through forecast errors with temporal dependence,primary,RP02-E,,Adjacent forecast errors modeled jointly
+E15-R2,E15,Produce a probabilistic inflow input,primary,RP02-F,,Point forecasts converted into conditional probability distributions
+E20-R3,E20,Represent uncertain forcing and initial state stochastically,primary,RP02-B,,Inflow hydrograph and initial storage treated as random
+E22-R1,E22,Treat inflow forecast uncertainty as an operational decision issue,primary,RP02-A,,Under- and over-estimation have opposite operational costs
+E22-R2,E22,Use NWP precipitation and LSTM for a fast ensemble inflow product,secondary,RP02-G,,Meteorological ensemble uncertainty propagated into inflow ensembles
+E23-R1,E23,Frame the operating decision under uncertainty,secondary,RP02-A,,Deterministic forecast use makes pre-release fragile
+E23-R3,E23,Align branching with uncertainty resolution,secondary,RP02-G,,Decision structure follows when uncertainty is resolved over time
+E24-R2,E24,Consolidate forecast uncertainty at the protected area,primary,RP02-E,,Upstream and intermediate errors combined with covariance
+E24-R5,E24,Classify risk from uncertainty and total margin,secondary,RP02-H,,Relative stage uncertainty determines the allocation policy
+E26-R2,E26,Track how forecast errors propagate,primary,RP02-G,,"Phase errors propagate to end storage, future release, and shortage risk"
+E27-R1,E27,Distinguish forecast-based decision uncertainty,primary,RP02-A,,Forecast-based control acts before inflow is realized
+E27-R3,E27,Estimate forecast-error process and simplify applicability,primary,RP02-D,,Error statistics checked by lead time and flow; stationary only at high flow
+E27-R4,E27,Propagate error through deterministic routing/rules,primary,RP02-G,,Error realizations routed through rule to output uncertainty
+E28-R2,E28,Convert forecast accuracy into an error distribution,primary,RP02-F,,Qualified rate or NSE converted into error spread
+E28-R3,E28,Choose stochastic routing to carry uncertainty through time,primary,RP02-E,RP02-G,Temporal persistence of error carried through stochastic routing
+E29-R2,E29,Decide what uncertainty can be represented,primary,RP02-C,RP02-F,Only hydrological uncertainty represented because rainfall forecasts unavailable
+E30-R1,E30,Define the uncertainty-bearing decision problem,secondary,RP02-B,RP02-A,"Inflow, discharge, and storage-curve errors cause level deviation"
+E30-R2,E30,Select correlated SDE propagation,secondary,RP02-G,,Correlated uncertainty propagated through nonlinear routing
+E30-R4,E30,Propagate moments and temporal dependence,primary,RP02-E,,Adjacent-time error covariance enters level variance
+E31-R1,E31,Expand the uncertainty representation,primary,RP02-B,RP02-E,Outflow and storage errors added to inflow forecast error
+E31-R3,E31,Choose SDE plus local linearization,secondary,RP02-G,,"Uncertain inflow, release, and storage propagated through stochastic balance"
+E31-R4,E31,Propagate source moments and correlations,primary,RP02-E,,Source correlations alter variance and union probability
+E32-R1,E32,"Frame the dynamic, spatial risk problem",primary,RP02-G,RP02-E,Uncertainty transmits through time and across connected reservoirs
+E33-R1,E33,Frame forecast uncertainty as an operational risk,primary,RP02-A,,Stochastic inflow can make an optimal decision unsafe
+E34-R2,E34,Preserve dependence in the uncertainty representation,primary,RP02-E,,Errors correlated across time and reservoirs
+E34-R3,E34,Use scenarios to expose risk and recourse needs,primary,RP02-A,,Single forecast cannot represent range of inflows
+E35-R1,E35,Identify the short-term control conflict,secondary,RP02-A,,Forecast errors delay releases and cause downstream spill
+E35-R3,E35,Diagnose deterministic forecast vulnerability,primary,RP02-A,,Single trajectory cannot hedge unresolved uncertainty
+E35-R4,E35,Represent uncertainty as evolving and flow-dependent,primary,RP02-D,,Uncertainty grows with lead time and differs on rising vs falling flow
+E36-R1,E36,Treat forecast uncertainty as decision-relevant,primary,RP02-A,,Ignoring uncertainty makes the plan look more certain than it is
+E36-R2,E36,Choose an error distribution from a forecast metric,primary,RP02-F,,Forecast-quality metric translated into error distribution
+E36-R3,E36,Represent uncertain forecasts as scenario paths,primary,RP02-A,,Scenario paths replace a single forecast for optimization
+E37-R1,E37,Compare uncertainty structures of CO and FBO,primary,RP02-C,,Compares uncertainty pathways of two operating modes to locate the main difference
+E37-R2,E37,Prioritize forecast/net-rainfall uncertainty,primary,RP02-C,,Forecast net-rainfall error prioritized; other factors treated as secondary
+E37-R3,E37,Test the forecast-error distribution before simulation,primary,RP02-D,,Error distribution tested before use
+E38-R3,E38,Match simulation structure to uncertainty dependence,primary,RP02-E,,Correlated lead-time errors vs independent hydraulic errors
+E39-R1,E39,Select risk sources tied to forecast-informed control,primary,RP02-B,RP02-C,Flood volume and its forecast error selected as joint sources
+E39-R5,E39,Choose source distributions and dependence representation,primary,RP02-E,,Dependence between rainfall and error checked; independence accepted
+E40-R1,E40,Represent inflow uncertainty by scenarios,primary,RP02-E,RP02-A,Inflow persistence hard to sample; ensemble hydrographs used
+E41-R2,E41,Represent forecast error as fuzzy uncertainty,primary,RP02-D,,Forecast error has fuzziness not captured by probability
+E42-R1,E42,Preserve heterogeneous forecast-error structure,primary,RP02-D,,Error behavior multimodal and varies by period and lead time
+E42-R2,E42,Make mixture complexity and initialization data-driven,secondary,RP02-D,,Mixture complexity chosen from data
+E42-R4,E42,Translate modeled error into operational scenarios,primary,RP02-F,,Fitted error model turned into operational ensembles with coverage check
+E49-R1,E49,Treat forecast uncertainty as the primary operational risk source,primary,RP02-A,,Deviation between expected and actual levels creates risk
+E49-R2,E49,Preserve multi-order temporal dependence when generating scenarios,primary,RP02-E,,Multi-order temporal dependence across lead times

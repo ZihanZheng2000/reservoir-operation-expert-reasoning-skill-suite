@@ -1,0 +1,972 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        14
+      ]
+    ],
+    "date-time": "2026-09-14T14:27:29Z",
+    "timestamp": 1789396049367,
+    "version": "build-2803163510"
+  },
+  "reference-count": 59,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2020-11-01T00:00:00Z",
+        "timestamp": 1604188800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            1
+          ]
+        ],
+        "date-time": "2020-11-01T00:00:00Z",
+        "timestamp": 1604188800000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2020,
+            11,
+            3
+          ]
+        ],
+        "date-time": "2020-11-03T00:00:00Z",
+        "timestamp": 1604361600000
+      },
+      "content-version": "vor",
+      "delay-in-days": 2,
+      "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012226",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100012226",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012165",
+      "name": "Key Technologies Research and Development Program",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100012165",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100002858",
+      "name": "China Postdoctoral Science Foundation",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100002858",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2020.125513",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2020,
+        9,
+        9
+      ]
+    ],
+    "date-time": "2020-09-09T04:29:54Z",
+    "timestamp": 1599625794000
+  },
+  "page": "125513",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 34,
+  "special_numbering": "C",
+  "title": [
+    "Multiobjective stochastic programming with recourses for real-time flood water conservation of a multireservoir system under uncertain forecasts"
+  ],
+  "prefix": "10.1016",
+  "volume": "590",
+  "author": [
+    {
+      "given": "Bin",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ping-an",
+      "family": "Zhong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Qingwen",
+      "family": "Lu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Feilin",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Xin",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Yufei",
+      "family": "Ma",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jisi",
+      "family": "Fu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "259",
+      "DOI": "10.1016/j.advwatres.2017.11.014",
+      "article-title": "Understanding and managing the food-energy-water nexus – opportunities for water resources research",
+      "volume": "111",
+      "author": "Cai",
+      "year": "2018",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1155/2018/7809302",
+      "article-title": "Improving TIGGE precipitation forecasts using an SVR ensemble approach in the Huaihe River Basin",
+      "volume": "2018",
+      "author": "Cai",
+      "year": "2018",
+      "journal-title": "Adv. Meteorol."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125513_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "749",
+      "DOI": "10.1007/s11269-012-0213-z",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for cascade reservoirs",
+      "volume": "27",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1016/j.rser.2015.11.043",
+      "article-title": "Population, water, food, energy and dams",
+      "volume": "56",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "Renewable Sustainable Energy Rev."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "712",
+      "DOI": "10.1016/j.jhydrol.2016.06.015",
+      "article-title": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+      "volume": "540",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0030",
+      "article-title": "Multiple-risk assessment of water supply, hydropower and environment nexus in the water resources system",
+      "volume": "122057",
+      "author": "Chen",
+      "year": "2020",
+      "journal-title": "J. Clean. Prod."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125513_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "3–4",
+      "key": "10.1016/j.jhydrol.2020.125513_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "613",
+      "DOI": "10.1016/j.jhydrol.2009.06.005",
+      "article-title": "Ensemble flood forecasting: a review",
+      "volume": "375",
+      "author": "Cloke",
+      "year": "2009",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2020.125513_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125513_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "585",
+      "DOI": "10.1007/s11047-018-9685-y",
+      "article-title": "A tutorial on multiobjective optimization: fundamentals and evolutionary methods",
+      "volume": "17",
+      "author": "Emmerich",
+      "year": "2018",
+      "journal-title": "Nat. Comput."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125513_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "4014056",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000396",
+      "article-title": "Stochastic programming for improved multiuse reservoir operation in Burkina Faso, West Africa",
+      "volume": "141",
+      "author": "Etkin",
+      "year": "2015",
+      "journal-title": "J Water Res. Plan. Man"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "805",
+      "DOI": "10.1016/j.renene.2019.01.059",
+      "article-title": "China's large-scale hydropower system: operation characteristics, modeling challenge and dimensionality reduction possibilities",
+      "volume": "136",
+      "author": "Feng",
+      "year": "2019",
+      "journal-title": "Renewable Energy"
+    },
+    {
+      "issue": "040170902",
+      "key": "10.1016/j.jhydrol.2020.125513_b0065",
+      "article-title": "Evaluating transition probabilities for a stochastic dynamic programming model used in water system optimization",
+      "volume": "144",
+      "author": "Haguma",
+      "year": "2018",
+      "journal-title": "J. Water Res. Plan. Man"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0070",
+      "series-title": "Hierarchical Analysis of Water Resources Systems",
+      "author": "Haimes",
+      "year": "1977"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "53",
+      "DOI": "10.1016/j.envsoft.2012.11.006",
+      "article-title": "Limited multi-stage stochastic programming for managing water supply systems",
+      "volume": "41",
+      "author": "Housh",
+      "year": "2013",
+      "journal-title": "Environ. Model. Software"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "422",
+      "DOI": "10.1016/j.jhydrol.2019.03.009",
+      "article-title": "Balancing social, economic and ecological benefits of reservoir operation during the flood season: a case study of the Three Gorges Project, China",
+      "volume": "572",
+      "author": "Huang",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "672",
+      "DOI": "10.1016/j.jhydrol.2018.08.040",
+      "article-title": "Risk analysis of flood control reservoir operation considering multiple uncertainties",
+      "volume": "565",
+      "author": "Huang",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0090",
+      "series-title": "Modeling with stochastic programming",
+      "author": "King",
+      "year": "2012"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "209",
+      "DOI": "10.1016/j.ejor.2010.02.016",
+      "article-title": "Stakeholder preference elicitation and modelling in multi-criteria decision analysis – a case study on urban water supply",
+      "volume": "206",
+      "author": "Kodikara",
+      "year": "2010",
+      "journal-title": "Eur. J. Oper. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2020.125513_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "93",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:2(93)",
+      "article-title": "Optimal operation of multireservoir systems: state-of-the-art review",
+      "volume": "130",
+      "author": "Labadie",
+      "year": "2004",
+      "journal-title": "J. Water Res. Plan. Man"
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2020.125513_b0105",
+      "first-page": "73",
+      "article-title": "Nonlinear optimization using the generalized reduced gradient method",
+      "volume": "8",
+      "author": "Lasdon",
+      "year": "1974",
+      "journal-title": "Recherche Operationnelle"
+    },
+    {
+      "issue": "1–2",
+      "key": "10.1016/j.jhydrol.2020.125513_b0110",
+      "first-page": "126",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "1045",
+      "DOI": "10.1016/j.jhydrol.2015.05.055",
+      "article-title": "Optimal design of seasonal flood limited water levels and its application for the three gorges reservoir",
+      "volume": "527",
+      "author": "Liu",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2020.125513_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "307",
+      "DOI": "10.1016/j.wse.2019.12.003",
+      "article-title": "Shuffled complex evolution coupled with stochastic ranking for reservoir scheduling problems",
+      "volume": "12",
+      "author": "Mao",
+      "year": "2019",
+      "journal-title": "Water Sci. Eng."
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.jhydrol.2020.125513_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "7557",
+      "DOI": "10.1029/2018WR023177",
+      "article-title": "Balancing flood risk and water supply in California: Policy search integrating short-term forecast ensembles with conjunctive use",
+      "volume": "54",
+      "author": "Nayak",
+      "year": "2018",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "W10502",
+      "key": "10.1016/j.jhydrol.2020.125513_b0130",
+      "article-title": "Flood forecast errors and ensemble spread-a case study",
+      "volume": "48",
+      "author": "Nester",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2020.125513_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "445",
+      "DOI": "10.1007/s11269-014-0879-5",
+      "article-title": "Optimal design for flood limit water level of cascade reservoirs",
+      "volume": "29",
+      "author": "Ouyang",
+      "year": "2015",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1002/2014WR015380",
+      "article-title": "Robust stochastic optimization for reservoir operation",
+      "volume": "51",
+      "author": "Pan",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0145",
+      "series-title": "Modeling of Spatial Dependence in Wind Power Forecast Uncertainty",
+      "first-page": "1",
+      "author": "Papaefthymiou",
+      "year": "2008"
+    },
+    {
+      "issue": "040170188",
+      "key": "10.1016/j.jhydrol.2020.125513_b0150",
+      "article-title": "Improving flood-risk analysis for confluence flooding control downstream using copula Monte carlo method",
+      "volume": "22",
+      "author": "Peng",
+      "year": "2017",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "3–4",
+      "key": "10.1016/j.jhydrol.2020.125513_b0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "320",
+      "DOI": "10.1016/j.jhydrol.2007.10.007",
+      "article-title": "Stochastic dynamic programming (SDP) with a conditional value-at-risk (CVaR) criterion for management of storm-water",
+      "volume": "348",
+      "author": "Piantadosi",
+      "year": "2008",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "7311",
+      "key": "10.1016/j.jhydrol.2020.125513_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "43",
+      "DOI": "10.1038/nature09364",
+      "article-title": "The impacts of climate change on water resources and agriculture in China",
+      "volume": "467",
+      "author": "Piao",
+      "year": "2010",
+      "journal-title": "Nature"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/j.wse.2019.03.002",
+      "article-title": "Modeling water resources under competing demands for sustainable development: a case study of Kaligandaki Gorge Hydropower Project in Nepal",
+      "volume": "12",
+      "author": "Sahukhal",
+      "year": "2019",
+      "journal-title": "Water Sci. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "363",
+      "DOI": "10.1016/j.scitotenv.2017.10.321",
+      "article-title": "A new method and a new index for identifying socioeconomic drought events under climate change: a case study of the East River basin in China",
+      "volume": "616–617",
+      "author": "Shi",
+      "year": "2018",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.jhydrol.2020.125513_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "7493",
+      "DOI": "10.1029/2019WR025520",
+      "article-title": "Improved dynamic system response curve method for real-time flood forecast updating",
+      "volume": "55",
+      "author": "Si",
+      "year": "2019",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0180",
+      "first-page": "8",
+      "article-title": "Fonctions de repartition an dimensions et leurs marges",
+      "author": "Sklar",
+      "year": "1959",
+      "journal-title": "Sci. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0185",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.1007/s11269-016-1515-3",
+      "article-title": "The dynamic control bound of flood limited water level considering capacity compensation regulation and flood spatial pattern uncertainty",
+      "volume": "31",
+      "author": "Tan",
+      "year": "2017",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "13",
+      "key": "10.1016/j.jhydrol.2020.125513_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "4637",
+      "DOI": "10.1007/s11269-019-02363-z",
+      "article-title": "Tradeoff analysis index for many-objective reservoir optimization",
+      "volume": "33",
+      "author": "Tang",
+      "year": "2019",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "396",
+      "DOI": "10.1016/j.envsoft.2014.09.023",
+      "article-title": "Multiobjective optimisation on a budget: exploring surrogate modelling for robust multi-reservoir rules generation under hydrological uncertainty",
+      "volume": "69",
+      "author": "Tsoukalas",
+      "year": "2015",
+      "journal-title": "Environ. Modell. Software"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2020.125513_b0200",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2005WR004619",
+      "article-title": "Stochastic optimization of multireservoir operation: the optimal reservoir trajectory approach",
+      "volume": "43",
+      "author": "Turgeon",
+      "year": "2007",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2020.125513_b0205",
+      "article-title": "Optimal hedging rule for reservoir refill",
+      "volume": "142",
+      "author": "Wan",
+      "year": "2016",
+      "journal-title": "J. Water Res. Plan. Man"
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "49",
+      "DOI": "10.1061/(ASCE)0733-9496(1997)123:1(49)",
+      "article-title": "Finding robust solutions to water resources problems",
+      "volume": "123",
+      "author": "Watkins",
+      "year": "1997",
+      "journal-title": "J. Water Resour. Plann. Manage. -ASCE"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "1403",
+      "DOI": "10.1016/j.scitotenv.2018.03.309",
+      "article-title": "Future changes in Yuan River ecohydrology: Individual and cumulative impacts of climates change and cascade hydropower development on runoff and aquatic habitat quality",
+      "volume": "633",
+      "author": "Wen",
+      "year": "2018",
+      "journal-title": "Sci. Total Environ."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2020.125513_b0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "935",
+      "DOI": "10.1007/s00477-016-1262-2",
+      "article-title": "Changing of flood risk due to climate and development in Huaihe River basin, China",
+      "volume": "31",
+      "author": "Wu",
+      "year": "2017",
+      "journal-title": "Stoch. Environ. Res. Risk A"
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2020.125513_b0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "6359",
+      "DOI": "10.1002/2014WR016828",
+      "article-title": "Scenario tree reduction in stochastic programming with recourse for hydropower operations",
+      "volume": "51",
+      "author": "Xu",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "4016067",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000715",
+      "article-title": "Stochastic programming with a joint chance constraint model for reservoir refill operation considering flood risk",
+      "volume": "143",
+      "author": "Xu",
+      "year": "2017",
+      "journal-title": "J. Water Res. Plan. Man"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0235",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.apenergy.2019.113535",
+      "article-title": "Identifying long-term effects of using hydropower to complement wind power uncertainty through stochastic programming",
+      "volume": "253",
+      "author": "Xu",
+      "year": "2019",
+      "journal-title": "Appl. Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0240",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1007/s11269-020-02571-y",
+      "article-title": "Two-phase risk hedging rules for informing conservation of flood resources in reservoir operation considering inflow forecast uncertainty",
+      "author": "Xu",
+      "year": "2020",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2020.125513_b0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "1797",
+      "DOI": "10.1029/WR021i012p01797",
+      "article-title": "Reservoir management and operations models: a state-of-the-art review",
+      "volume": "21",
+      "author": "Yeh",
+      "year": "1985",
+      "journal-title": "Water Resour Res"
+    },
+    {
+      "issue": "1–4",
+      "key": "10.1016/j.jhydrol.2020.125513_b0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "160",
+      "DOI": "10.1016/j.jhydrol.2008.03.003",
+      "article-title": "Multiple duration limited water level and dynamic limited water level for flood control, with implications on water supply",
+      "volume": "354",
+      "author": "Yun",
+      "year": "2008",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0255",
+      "doi-asserted-by": "crossref",
+      "first-page": "625",
+      "DOI": "10.1016/j.jclepro.2018.05.194",
+      "article-title": "Water-energy-food nexus: concepts, questions and methodologies",
+      "volume": "195",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "J. Clean. Prod."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0260",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2019.123954",
+      "article-title": "Real-time reservoir flood control operation for cascade reservoirs using a two-stage flood risk analysis method",
+      "volume": "577",
+      "author": "Zhang",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2020.125513_b0265",
+      "first-page": "371",
+      "article-title": "The Xinanjiang model applied in China",
+      "volume": "135",
+      "author": "Zhao",
+      "year": "1992",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "W01540",
+      "key": "10.1016/j.jhydrol.2020.125513_b0270",
+      "article-title": "Identifying effective forecast horizon for real-time reservoir operation under a limited inflow forecast",
+      "volume": "48",
+      "author": "Zhao",
+      "year": "2012",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0275",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.advwatres.2013.03.008",
+      "article-title": "Generalized martingale model of the uncertainty evolution of streamflow forecasts",
+      "volume": "57",
+      "author": "Zhao",
+      "year": "2013",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2020.125513_b0280",
+      "first-page": "36",
+      "article-title": "Study on method for estimation of dynamic control bounds of flood limited water level in cascade reservoirs",
+      "volume": "33",
+      "author": "Zhong",
+      "year": "2014",
+      "journal-title": "J. Hydroelectr. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0285",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/j.jhydrol.2014.07.029",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for mixed cascade reservoir systems",
+      "volume": "519",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0290",
+      "doi-asserted-by": "crossref",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "article-title": "Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs",
+      "volume": "143",
+      "author": "Zhou",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2020.125513_b0295",
+      "doi-asserted-by": "crossref",
+      "first-page": "236",
+      "DOI": "10.1016/j.envsoft.2017.11.032",
+      "article-title": "Multi-criteria group decision making under uncertainty: application in reservoir flood control operation",
+      "volume": "100",
+      "author": "Zhu",
+      "year": "2018",
+      "journal-title": "Environ. Modell. Software"
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169420309732?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169420309732?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        19
+      ]
+    ],
+    "date-time": "2025-09-19T15:24:19Z",
+    "timestamp": 1758295459000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169420309732"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "references-count": 59,
+  "alternative-id": [
+    "S0022169420309732"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2020,
+        11
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Multiobjective stochastic programming with recourses for real-time flood water conservation of a multireservoir system under uncertain forecasts",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2020 The Authors. Published by Elsevier B.V.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "125513"
+}

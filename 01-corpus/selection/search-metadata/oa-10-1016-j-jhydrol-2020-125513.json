@@ -1,0 +1,1469 @@
+{
+  "id": "https://openalex.org/W3084396145",
+  "doi": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+  "title": "Multiobjective stochastic programming with recourses for real-time flood water conservation of a multireservoir system under uncertain forecasts",
+  "display_name": "Multiobjective stochastic programming with recourses for real-time flood water conservation of a multireservoir system under uncertain forecasts",
+  "publication_year": 2020,
+  "publication_date": "2020-09-09",
+  "ids": {
+    "openalex": "https://openalex.org/W3084396145",
+    "doi": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+    "mag": "3084396145"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1016/j.jhydrol.2020.125513",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0022169420309732/pdf",
+    "source": {
+      "id": "https://openalex.org/S55737203",
+      "display_name": "Journal of Hydrology",
+      "issn_l": "0022-1694",
+      "issn": [
+        "0022-1694",
+        "1879-2707"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0022169420309732/pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077877575",
+        "display_name": "Ping‐an Zhong",
+        "orcid": "https://orcid.org/0009-0005-6145-3438"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ping-an Zhong",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022735509",
+        "display_name": "Qingwen Lü",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Qingwen Lu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5014424306",
+        "display_name": "Feilin Zhu",
+        "orcid": "https://orcid.org/0000-0002-9780-9361"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feilin Zhu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5103047065",
+        "display_name": "Xin Huang",
+        "orcid": "https://orcid.org/0000-0003-0216-4052"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xin Huang",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101931825",
+        "display_name": "Yufei Ma",
+        "orcid": "https://orcid.org/0000-0003-2175-7961"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yufei Ma",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5101056256",
+        "display_name": "Jisi Fu",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jisi Fu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, NO. 1, Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5022879772",
+    "https://openalex.org/A5077877575"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I163340411"
+  ],
+  "apc_list": {
+    "value": 4030,
+    "currency": "USD",
+    "value_usd": 4030
+  },
+  "apc_paid": {
+    "value": 4030,
+    "currency": "USD",
+    "value_usd": 4030
+  },
+  "fwci": 3.6011,
+  "has_fulltext": true,
+  "cited_by_count": 37,
+  "citation_normalized_percentile": {
+    "value": 0.92719295,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "590",
+    "issue": null,
+    "first_page": "125513",
+    "last_page": "125513"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9987000226974487,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12724",
+      "display_name": "Water-Energy-Food Nexus Studies",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2312",
+        "display_name": "Water Science and Technology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.7591506242752075
+    },
+    {
+      "id": "https://openalex.org/keywords/inflow",
+      "display_name": "Inflow",
+      "score": 0.7460360527038574
+    },
+    {
+      "id": "https://openalex.org/keywords/stochastic-programming",
+      "display_name": "Stochastic programming",
+      "score": 0.5335047245025635
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-optimization",
+      "display_name": "Mathematical optimization",
+      "score": 0.47088178992271423
+    },
+    {
+      "id": "https://openalex.org/keywords/time-horizon",
+      "display_name": "Time horizon",
+      "score": 0.46005672216415405
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4424417018890381
+    },
+    {
+      "id": "https://openalex.org/keywords/multi-objective-optimization",
+      "display_name": "Multi-objective optimization",
+      "score": 0.4254154562950134
+    },
+    {
+      "id": "https://openalex.org/keywords/downside-risk",
+      "display_name": "Downside risk",
+      "score": 0.4110044538974762
+    },
+    {
+      "id": "https://openalex.org/keywords/risk-analysis",
+      "display_name": "Risk analysis (engineering)",
+      "score": 0.3873293101787567
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.37381711602211
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-research",
+      "display_name": "Operations research",
+      "score": 0.3461669385433197
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.14235621690750122
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.11456283926963806
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.09337109327316284
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.08887329697608948
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.7591506242752075
+    },
+    {
+      "id": "https://openalex.org/C2776132308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11070850",
+      "display_name": "Inflow",
+      "level": 2,
+      "score": 0.7460360527038574
+    },
+    {
+      "id": "https://openalex.org/C137631369",
+      "wikidata": "https://www.wikidata.org/wiki/Q7617831",
+      "display_name": "Stochastic programming",
+      "level": 2,
+      "score": 0.5335047245025635
+    },
+    {
+      "id": "https://openalex.org/C126255220",
+      "wikidata": "https://www.wikidata.org/wiki/Q141495",
+      "display_name": "Mathematical optimization",
+      "level": 1,
+      "score": 0.47088178992271423
+    },
+    {
+      "id": "https://openalex.org/C28761237",
+      "wikidata": "https://www.wikidata.org/wiki/Q7805321",
+      "display_name": "Time horizon",
+      "level": 2,
+      "score": 0.46005672216415405
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4424417018890381
+    },
+    {
+      "id": "https://openalex.org/C68781425",
+      "wikidata": "https://www.wikidata.org/wiki/Q2052203",
+      "display_name": "Multi-objective optimization",
+      "level": 2,
+      "score": 0.4254154562950134
+    },
+    {
+      "id": "https://openalex.org/C2776719154",
+      "wikidata": "https://www.wikidata.org/wiki/Q1094965",
+      "display_name": "Downside risk",
+      "level": 3,
+      "score": 0.4110044538974762
+    },
+    {
+      "id": "https://openalex.org/C112930515",
+      "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+      "display_name": "Risk analysis (engineering)",
+      "level": 1,
+      "score": 0.3873293101787567
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.37381711602211
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.3461669385433197
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.14235621690750122
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.11456283926963806
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.09337109327316284
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.08887329697608948
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2780821815",
+      "wikidata": "https://www.wikidata.org/wiki/Q5340806",
+      "display_name": "Portfolio",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C106159729",
+      "wikidata": "https://www.wikidata.org/wiki/Q2294553",
+      "display_name": "Financial economics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C27206212",
+      "wikidata": "https://www.wikidata.org/wiki/Q34178",
+      "display_name": "Theology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1016/j.jhydrol.2020.125513",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+      "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0022169420309732/pdf",
+      "source": {
+        "id": "https://openalex.org/S55737203",
+        "display_name": "Journal of Hydrology",
+        "issn_l": "0022-1694",
+        "issn": [
+          "0022-1694",
+          "1879-2707"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320990",
+        "host_organization_name": "Elsevier BV",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320990"
+        ],
+        "host_organization_lineage_names": [
+          "Elsevier BV"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Hydrology",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1016/j.jhydrol.2020.125513",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1016/j.jhydrol.2020.125513",
+    "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0022169420309732/pdf",
+    "source": {
+      "id": "https://openalex.org/S55737203",
+      "display_name": "Journal of Hydrology",
+      "issn_l": "0022-1694",
+      "issn": [
+        "0022-1694",
+        "1879-2707"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320990",
+      "host_organization_name": "Elsevier BV",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320990"
+      ],
+      "host_organization_lineage_names": [
+        "Elsevier BV"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc-nd",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydrology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G2608957835",
+      "display_name": null,
+      "funder_award_id": "2018 T110525",
+      "funder_id": "https://openalex.org/F4320321543",
+      "funder_display_name": "China Postdoctoral Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G4563908246",
+      "display_name": null,
+      "funder_award_id": "B200202032",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    },
+    {
+      "id": "https://openalex.org/G6166469721",
+      "display_name": null,
+      "funder_award_id": "B200202028",
+      "funder_id": "https://openalex.org/F4320327794",
+      "funder_display_name": "Qinglan Project of Jiangsu Province of China"
+    },
+    {
+      "id": "https://openalex.org/G6423495104",
+      "display_name": null,
+      "funder_award_id": "B200202028",
+      "funder_id": "https://openalex.org/F4320321543",
+      "funder_display_name": "China Postdoctoral Science Foundation"
+    },
+    {
+      "id": "https://openalex.org/G8259478683",
+      "display_name": null,
+      "funder_award_id": "B200202028",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321543",
+      "display_name": "China Postdoctoral Science Foundation",
+      "ror": "https://ror.org/0426zh255"
+    },
+    {
+      "id": "https://openalex.org/F4320321605",
+      "display_name": "Government of Jiangsu Province",
+      "ror": "https://ror.org/004svx814"
+    },
+    {
+      "id": "https://openalex.org/F4320327794",
+      "display_name": "Qinglan Project of Jiangsu Province of China",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335774",
+      "display_name": "Key Technologies Research and Development Program",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335787",
+      "display_name": "Fundamental Research Funds for the Central Universities",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3084396145.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3084396145.grobid-xml"
+  },
+  "referenced_works_count": 66,
+  "referenced_works": [
+    "https://openalex.org/W207991364",
+    "https://openalex.org/W996106850",
+    "https://openalex.org/W1500013949",
+    "https://openalex.org/W1599755550",
+    "https://openalex.org/W1622274000",
+    "https://openalex.org/W1853896282",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W1971366089",
+    "https://openalex.org/W1972770267",
+    "https://openalex.org/W1975759847",
+    "https://openalex.org/W1996050634",
+    "https://openalex.org/W2012015362",
+    "https://openalex.org/W2019370974",
+    "https://openalex.org/W2024099160",
+    "https://openalex.org/W2032400172",
+    "https://openalex.org/W2034168691",
+    "https://openalex.org/W2036438752",
+    "https://openalex.org/W2046197558",
+    "https://openalex.org/W2053388269",
+    "https://openalex.org/W2093233187",
+    "https://openalex.org/W2097950219",
+    "https://openalex.org/W2102787230",
+    "https://openalex.org/W2120933360",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2158535548",
+    "https://openalex.org/W2161461310",
+    "https://openalex.org/W2181641430",
+    "https://openalex.org/W2358882339",
+    "https://openalex.org/W2361390832",
+    "https://openalex.org/W2470338714",
+    "https://openalex.org/W2473294939",
+    "https://openalex.org/W2514863451",
+    "https://openalex.org/W2542482731",
+    "https://openalex.org/W2594838312",
+    "https://openalex.org/W2607268889",
+    "https://openalex.org/W2767273863",
+    "https://openalex.org/W2767525149",
+    "https://openalex.org/W2768117128",
+    "https://openalex.org/W2775169433",
+    "https://openalex.org/W2778781604",
+    "https://openalex.org/W2802536779",
+    "https://openalex.org/W2806613313",
+    "https://openalex.org/W2807637204",
+    "https://openalex.org/W2888188061",
+    "https://openalex.org/W2894153520",
+    "https://openalex.org/W2898439036",
+    "https://openalex.org/W2910284364",
+    "https://openalex.org/W2921989221",
+    "https://openalex.org/W2922681230",
+    "https://openalex.org/W2956731228",
+    "https://openalex.org/W2963797212",
+    "https://openalex.org/W2969299207",
+    "https://openalex.org/W2987238984",
+    "https://openalex.org/W2996438016",
+    "https://openalex.org/W3027384169",
+    "https://openalex.org/W3035967586",
+    "https://openalex.org/W4247166888",
+    "https://openalex.org/W6629804197",
+    "https://openalex.org/W6638997670",
+    "https://openalex.org/W6659099299",
+    "https://openalex.org/W6680803249",
+    "https://openalex.org/W6720079003",
+    "https://openalex.org/W6736849037",
+    "https://openalex.org/W6746889407",
+    "https://openalex.org/W6777152565"
+  ],
+  "related_works": [
+    "https://openalex.org/W3138760849",
+    "https://openalex.org/W3033923386",
+    "https://openalex.org/W2173866733",
+    "https://openalex.org/W1983183227",
+    "https://openalex.org/W2665876663",
+    "https://openalex.org/W2327421000",
+    "https://openalex.org/W4386283360",
+    "https://openalex.org/W2078532668",
+    "https://openalex.org/W2069708102",
+    "https://openalex.org/W2053714881"
+  ],
+  "abstract_inverted_index": {
+    "Flood": [
+      0
+    ],
+    "water": [
+      1,
+      12,
+      41,
+      195,
+      213,
+      244
+    ],
+    "conservation": [
+      2,
+      245
+    ],
+    "realized": [
+      3
+    ],
+    "through": [
+      4
+    ],
+    "real-time": [
+      5,
+      19,
+      115
+    ],
+    "multireservoir": [
+      6,
+      133
+    ],
+    "operations": [
+      7
+    ],
+    "is": [
+      8,
+      89,
+      118
+    ],
+    "effective": [
+      9
+    ],
+    "in": [
+      10,
+      198,
+      211
+    ],
+    "mitigating": [
+      11
+    ],
+    "scarcity.": [
+      13
+    ],
+    "Owing": [
+      14
+    ],
+    "to": [
+      15,
+      55,
+      120,
+      131
+    ],
+    "the": [
+      16,
+      31,
+      64,
+      92,
+      122,
+      132,
+      136,
+      182,
+      203
+    ],
+    "influence": [
+      17
+    ],
+    "of": [
+      18,
+      30,
+      100,
+      135,
+      146,
+      168
+    ],
+    "inflow": [
+      20,
+      67,
+      106
+    ],
+    "forecast": [
+      21,
+      68,
+      169,
+      173
+    ],
+    "uncertainty,": [
+      22
+    ],
+    "determining": [
+      23
+    ],
+    "an": [
+      24
+    ],
+    "informed": [
+      25
+    ],
+    "operation": [
+      26
+    ],
+    "plan": [
+      27
+    ],
+    "necessitates": [
+      28
+    ],
+    "resolution": [
+      29
+    ],
+    "conflict": [
+      32
+    ],
+    "between": [
+      33
+    ],
+    "upstream": [
+      34,
+      204
+    ],
+    "flood": [
+      35,
+      38,
+      199,
+      205,
+      217,
+      243
+    ],
+    "risk,": [
+      36,
+      39,
+      200
+    ],
+    "downstream": [
+      37,
+      216
+    ],
+    "and": [
+      40,
+      72,
+      76,
+      108,
+      141,
+      151,
+      165,
+      238
+    ],
+    "scarcity": [
+      42,
+      214
+    ],
+    "risk.": [
+      43
+    ],
+    "This": [
+      44
+    ],
+    "study": [
+      45
+    ],
+    "developed": [
+      46
+    ],
+    "a": [
+      47,
+      82,
+      109,
+      147,
+      152,
+      220,
+      228,
+      240
+    ],
+    "multiobjective": [
+      48,
+      86
+    ],
+    "stochastic": [
+      49,
+      79,
+      87
+    ],
+    "programming": [
+      50,
+      88
+    ],
+    "with": [
+      51,
+      104,
+      112,
+      143
+    ],
+    "recourses": [
+      52,
+      113
+    ],
+    "(MOSP)": [
+      53
+    ],
+    "model": [
+      54,
+      144,
+      157
+    ],
+    "seek": [
+      56
+    ],
+    "robust": [
+      57
+    ],
+    "risk-averse": [
+      58
+    ],
+    "plans": [
+      59
+    ],
+    "under": [
+      60,
+      246
+    ],
+    "multiple": [
+      61,
+      101
+    ],
+    "risks.": [
+      62
+    ],
+    "In": [
+      63
+    ],
+    "proposed": [
+      65,
+      127,
+      225
+    ],
+    "approach,": [
+      66
+    ],
+    "errors": [
+      69
+    ],
+    "are": [
+      70
+    ],
+    "modeled": [
+      71,
+      119
+    ],
+    "sampled": [
+      73
+    ],
+    "as": [
+      74
+    ],
+    "spatially": [
+      75
+    ],
+    "temporally": [
+      77
+    ],
+    "correlated": [
+      78
+    ],
+    "processes": [
+      80
+    ],
+    "using": [
+      81,
+      91
+    ],
+    "copula": [
+      83
+    ],
+    "function.": [
+      84
+    ],
+    "The": [
+      85,
+      126,
+      224
+    ],
+    "solved": [
+      90
+    ],
+    "epsilon": [
+      93
+    ],
+    "constraint": [
+      94
+    ],
+    "method": [
+      95
+    ],
+    "based": [
+      96
+    ],
+    "on": [
+      97
+    ],
+    "explicit": [
+      98
+    ],
+    "formulation": [
+      99
+    ],
+    "risk": [
+      102,
+      206,
+      218,
+      237
+    ],
+    "objectives": [
+      103
+    ],
+    "discretized": [
+      105
+    ],
+    "scenarios,": [
+      107
+    ],
+    "rolling": [
+      110
+    ],
+    "horizon": [
+      111
+    ],
+    "for": [
+      114,
+      242
+    ],
+    "operational": [
+      116
+    ],
+    "updating": [
+      117
+    ],
+    "address": [
+      121
+    ],
+    "dynamic": [
+      123,
+      229
+    ],
+    "decision-making": [
+      124,
+      230
+    ],
+    "characteristics.": [
+      125
+    ],
+    "methodologies": [
+      128
+    ],
+    "were": [
+      129,
+      158
+    ],
+    "applied": [
+      130
+    ],
+    "system": [
+      134
+    ],
+    "Pi": [
+      137
+    ],
+    "River": [
+      138
+    ],
+    "Basin": [
+      139
+    ],
+    "(China),": [
+      140
+    ],
+    "comparisons": [
+      142
+    ],
+    "results": [
+      145
+    ],
+    "traditional": [
+      148
+    ],
+    "coupled": [
+      149
+    ],
+    "simulation": [
+      150
+    ],
+    "deterministic": [
+      153,
+      183
+    ],
+    "single": [
+      154
+    ],
+    "objective": [
+      155
+    ],
+    "optimization": [
+      156
+    ],
+    "conducted.": [
+      159
+    ],
+    "Results": [
+      160
+    ],
+    "indicated": [
+      161
+    ],
+    "that": [
+      162,
+      233
+    ],
+    "capturing": [
+      163
+    ],
+    "spatial": [
+      164
+    ],
+    "temporal": [
+      166
+    ],
+    "dependencies": [
+      167
+    ],
+    "uncertainty": [
+      170
+    ],
+    "provides": [
+      171,
+      227
+    ],
+    "informative": [
+      172
+    ],
+    "support.": [
+      174
+    ],
+    "Moreover,": [
+      175
+    ],
+    "noninferior": [
+      176
+    ],
+    "solutions": [
+      177
+    ],
+    "obtained": [
+      178
+    ],
+    "from": [
+      179
+    ],
+    "MOSP": [
+      180
+    ],
+    "dominate": [
+      181
+    ],
+    "optimal": [
+      184
+    ],
+    "solution,": [
+      185
+    ],
+    "which": [
+      186
+    ],
+    "could": [
+      187,
+      234
+    ],
+    "either": [
+      188,
+      212
+    ],
+    "conserve": [
+      189
+    ],
+    "4.86": [
+      190
+    ],
+    "million": [
+      191
+    ],
+    "m3": [
+      192
+    ],
+    "(12%)": [
+      193
+    ],
+    "more": [
+      194
+    ],
+    "without": [
+      196,
+      209
+    ],
+    "increase": [
+      197,
+      210
+    ],
+    "or": [
+      201,
+      215
+    ],
+    "reduce": [
+      202,
+      235
+    ],
+    "by": [
+      207
+    ],
+    "3.1%": [
+      208
+    ],
+    "during": [
+      219
+    ],
+    "typical": [
+      221
+    ],
+    "receding": [
+      222
+    ],
+    "flood.": [
+      223
+    ],
+    "methodology": [
+      226
+    ],
+    "modeling": [
+      231
+    ],
+    "tool": [
+      232
+    ],
+    "overall": [
+      236
+    ],
+    "determine": [
+      239
+    ],
+    "compromise": [
+      241
+    ],
+    "uncertainty.": [
+      247
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 9
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-09-15T07:32:03.291174",
+  "created_date": "2025-10-10T00:00:00"
+}

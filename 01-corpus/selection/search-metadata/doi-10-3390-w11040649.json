@@ -1,0 +1,666 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        8
+      ]
+    ],
+    "date-time": "2025-11-08T13:11:23Z",
+    "timestamp": 1762607483717,
+    "version": "build-2065373602"
+  },
+  "reference-count": 38,
+  "publisher": "MDPI AG",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2019,
+            3,
+            28
+          ]
+        ],
+        "date-time": "2019-03-28T00:00:00Z",
+        "timestamp": 1553731200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "91547208",
+        "U1865202",
+        "51579107"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "91547208",
+            "U1865202",
+            "51579107"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water"
+  ],
+  "abstract": "<jats:p>The risk inevitably exists in the process of flood control operation and decision-making of reservoir group, due to the hydrologic and hydraulic uncertain factors. In this study different stochastic simulation methods were applied to simulate these uncertainties in multi-reservoir flood control operation, and the risk caused by different uncertainties was evaluated from the mean value, extreme value and discrete degree of reservoir occupied storage capacity under uncertain conditions. In order to solve the conflict between risk assessment indexes and evaluate the comprehensive risk of different reservoirs in flood control operation schemes, the subjective weight and objective weight were used to construct the comprehensive risk assessment index, and the improved Mahalanobis distance TOPSIS method was used to select the optimal flood control operation scheme. The proposed method was applied to the flood control operation system in the mainstream and its tributaries of upper reaches of the Yangtze River basin, and 14 cascade reservoirs were selected as a case study. The results indicate that proposed method can evaluate the risk of multi-reservoir flood control operation from all perspectives and provide a new method for multi-criteria decision-making of reservoir flood control operation, and it breaks the limitation of the traditional risk analysis method which only evaluated by risk rate and cannot evaluate the risk of the multi-reservoir flood control operation system.</jats:p>",
+  "DOI": "10.3390/w11040649",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2019,
+        3,
+        29
+      ]
+    ],
+    "date-time": "2019-03-29T03:38:52Z",
+    "timestamp": 1553830732000
+  },
+  "page": "649",
+  "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 11,
+  "title": [
+    "Risk Assessment and Decision-Making Based on Mean-CVaR-Entropy for Flood Control Operation of Large Scale Reservoirs"
+  ],
+  "prefix": "10.3390",
+  "volume": "11",
+  "author": [
+    {
+      "given": "Quansen",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jianzhong",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Kangdi",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Ling",
+      "family": "Dai",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Gang",
+      "family": "Zha",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-5284-5393",
+      "authenticated-orcid": false,
+      "given": "Lu",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Hui",
+      "family": "Qin",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "College of Hydropower &amp; Information Engineering, Huazhong University of Science &amp; Technology, Wuhan 430074, China"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "1968",
+  "published-online": {
+    "date-parts": [
+      [
+        2019,
+        3,
+        28
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref_1",
+      "unstructured": "Pham, T.V. (2011). Tracking the uncertainty in streamflow prediction through a hydrological forecasting system. [Master’s Thesis, University of Twente]."
+    },
+    {
+      "key": "ref_2",
+      "unstructured": "(2019, March 27). EM-DAT, The International Disaster Database. Available online: http://www.emdat.be."
+    },
+    {
+      "key": "ref_3",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1016/j.rser.2015.11.043",
+      "article-title": "Population, water, food, energy and dams",
+      "volume": "56",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "Renew. Sustain. Energy Rev."
+    },
+    {
+      "key": "ref_4",
+      "doi-asserted-by": "crossref",
+      "first-page": "1588",
+      "DOI": "10.1016/j.advwatres.2009.08.003",
+      "article-title": "Probabilistic reservoir operation using Bayesian stochastic model and support vector machine",
+      "volume": "32",
+      "author": "Karamouz",
+      "year": "2009",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "key": "ref_5",
+      "doi-asserted-by": "crossref",
+      "first-page": "2435",
+      "DOI": "10.1007/s11269-014-0610-6",
+      "article-title": "Operating rules derivation of Jinsha reservoirs system with parameter calibrated support vector regression",
+      "volume": "28",
+      "author": "Ji",
+      "year": "2014",
+      "journal-title": "Water Res. Manag."
+    },
+    {
+      "key": "ref_6",
+      "doi-asserted-by": "crossref",
+      "first-page": "720",
+      "DOI": "10.1016/j.jhydrol.2018.08.050",
+      "article-title": "Modeling and simulating of reservoir operation using the artificial neural network, support vector regression, deep learning algorithm",
+      "volume": "565",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_7",
+      "doi-asserted-by": "crossref",
+      "first-page": "236",
+      "DOI": "10.1016/j.envsoft.2017.11.032",
+      "article-title": "Multi-criteria group decision making under uncertainty: Application in reservoir flood control operation",
+      "volume": "100",
+      "author": "Zhu",
+      "year": "2018",
+      "journal-title": "Environ. Model. Soft."
+    },
+    {
+      "key": "ref_8",
+      "doi-asserted-by": "crossref",
+      "first-page": "1949",
+      "DOI": "10.1007/s11431-010-3124-3",
+      "article-title": "Risk analysis of flood control operation mode with forecast information based on a combination of risk sources",
+      "volume": "53",
+      "author": "Diao",
+      "year": "2010",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "ref_9",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_10",
+      "first-page": "04014092",
+      "article-title": "Risk analysis for real-time flood control operation of a reservoir",
+      "volume": "141",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "Energy Convers. Manag."
+    },
+    {
+      "key": "ref_11",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_12",
+      "doi-asserted-by": "crossref",
+      "first-page": "933",
+      "DOI": "10.1016/j.jhydrol.2015.05.056",
+      "article-title": "A service-oriented architecture for ensemble flood forecast from numerical weather prediction",
+      "volume": "527",
+      "author": "Shi",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_13",
+      "doi-asserted-by": "crossref",
+      "first-page": "2065",
+      "DOI": "10.1007/s11069-014-1454-3",
+      "article-title": "Erratum to: Determination of the distribution of flood forecasting error",
+      "volume": "75",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nat. Hazard."
+    },
+    {
+      "key": "ref_14",
+      "doi-asserted-by": "crossref",
+      "first-page": "10635",
+      "DOI": "10.1002/2017WR021480",
+      "article-title": "Real-time optimal flood control decision making and risk propagation under multiple uncertainties",
+      "volume": "53",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "ref_15",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_16",
+      "unstructured": "Tung, Y.K., Yen, B.C., and Melching, C.S. (2006). Hydrosystems Engineering Reliability Assessments and Risk Analysis, McGraw-Hill. Available online: ftp://nozdr.ru/biblio/kolxoz/E/Tung%20Y.K.,%20Yen%20B.C.,%20Melching%20C.%20Hydrosystems%20engineering%20reliability%20assessment%20and%20risk%20analysis%20(MGH,%202006)(ISBN%200071451587)(514s)_E_.pdf."
+    },
+    {
+      "key": "ref_17",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1007/s00477-013-0756-4",
+      "article-title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+      "volume": "28",
+      "author": "Yan",
+      "year": "2014",
+      "journal-title": "Stoc. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_18",
+      "doi-asserted-by": "crossref",
+      "first-page": "4099",
+      "DOI": "10.1007/s11269-013-0398-9",
+      "article-title": "Application of Monte Carlo simulation technique to design flood estimation: A case study for north Johnstone River in Queensland, Australia",
+      "volume": "27",
+      "author": "Charalambous",
+      "year": "2013",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_19",
+      "doi-asserted-by": "crossref",
+      "first-page": "717",
+      "DOI": "10.1007/s11069-014-1207-3",
+      "article-title": "Risk assessment of earth dam overtopping and its application research",
+      "volume": "74",
+      "author": "Zhang",
+      "year": "2014",
+      "journal-title": "Natl. Hazard."
+    },
+    {
+      "key": "ref_20",
+      "doi-asserted-by": "crossref",
+      "first-page": "04018005",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000906",
+      "article-title": "Conditional Value-at-Risk for Nonstationary Streamflow and Its Application for Derivation of the Adaptive Reservoir Flood Limited Water Level",
+      "volume": "144",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "J. Water Resour. Plann. Manag."
+    },
+    {
+      "key": "ref_21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Xu, B., Zhong, P.A., Huang, Q.Y., Wang, J.Q., Yu, Z.B., and Zhang, J.Y. (2017). Optimal hedging rules for water supply reservoir operations under forecast uncertainty and conditional value-at-risk criterion. Water, 9.",
+      "DOI": "10.3390/w9080568"
+    },
+    {
+      "key": "ref_22",
+      "doi-asserted-by": "crossref",
+      "first-page": "925",
+      "DOI": "10.1080/01446190802259027",
+      "article-title": "Variance models for project financial risk analysis with applications to Greenfield bot highway projects",
+      "volume": "26",
+      "author": "Chiara",
+      "year": "2008",
+      "journal-title": "Constr. Manag. Econ."
+    },
+    {
+      "key": "ref_23",
+      "doi-asserted-by": "crossref",
+      "first-page": "882",
+      "DOI": "10.1007/s11431-016-6013-6",
+      "article-title": "Risk analysis for a cascade reservoir system using the brittle risk entropy method",
+      "volume": "59",
+      "author": "Yang",
+      "year": "2016",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "key": "ref_24",
+      "doi-asserted-by": "crossref",
+      "first-page": "381",
+      "DOI": "10.1007/s00704-015-1505-z",
+      "article-title": "Bivariate hydrologic risk analysis based on a coupled entropy-copula method for the Xiangxi river in the Three Gorges Reservoir area, China",
+      "volume": "125",
+      "author": "Fan",
+      "year": "2016",
+      "journal-title": "Theor. Appl Climatol."
+    },
+    {
+      "key": "ref_25",
+      "doi-asserted-by": "crossref",
+      "first-page": "672",
+      "DOI": "10.1016/j.jhydrol.2018.08.040",
+      "article-title": "Risk analysis of flood control reservoir operation considering multiple uncertainties",
+      "volume": "565",
+      "author": "Huang",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_26",
+      "doi-asserted-by": "crossref",
+      "first-page": "67",
+      "DOI": "10.1111/j.1752-1688.2004.tb01010.x",
+      "article-title": "Multi-criterion decision making for flood control operations: Theory and applications",
+      "volume": "40",
+      "author": "Chen",
+      "year": "2004",
+      "journal-title": "J. Am. Water Resour. Assoc."
+    },
+    {
+      "key": "ref_27",
+      "doi-asserted-by": "crossref",
+      "first-page": "111",
+      "DOI": "10.1023/B:WARM.0000024705.63932.3c",
+      "article-title": "Multi-person multiobjective fuzzy decision-making model for reservoir flood control operation",
+      "volume": "18",
+      "author": "Yu",
+      "year": "2004",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_28",
+      "doi-asserted-by": "crossref",
+      "first-page": "145",
+      "DOI": "10.1016/j.eswa.2006.08.021",
+      "article-title": "A fuzzy optimization method for multicriteria decision making: An application to reservoir flood control operation",
+      "volume": "34",
+      "author": "Fu",
+      "year": "2008",
+      "journal-title": "Expert. Syst. Appl."
+    },
+    {
+      "key": "ref_29",
+      "doi-asserted-by": "crossref",
+      "first-page": "777",
+      "DOI": "10.1007/s11269-010-9726-5",
+      "article-title": "Flood control operations based on the theory of variable fuzzy sets",
+      "volume": "25",
+      "author": "Wang",
+      "year": "2011",
+      "journal-title": "Water Resour. Manag."
+    },
+    {
+      "key": "ref_30",
+      "doi-asserted-by": "crossref",
+      "first-page": "1485",
+      "DOI": "10.1007/s00477-016-1253-3",
+      "article-title": "SMAA-based stochastic multi-criteria decision making for reservoir flood control operation",
+      "volume": "31",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Stoch. Environ. Res. Risk Assess."
+    },
+    {
+      "key": "ref_31",
+      "doi-asserted-by": "crossref",
+      "first-page": "712",
+      "DOI": "10.1016/j.jhydrol.2016.06.015",
+      "article-title": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+      "volume": "540",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "ref_32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Zazo, S., Rodríguez-Gonzálvez, P., Molina, J.-L., González-Aguilera, D., Agudelo-Ruiz, C., and Hernández-López, D. (2018). Flood hazard assessment supported by reduced cost aerial precision photogrammetry. Remote Sens., 10.",
+      "DOI": "10.3390/rs10101566"
+    },
+    {
+      "key": "ref_33",
+      "doi-asserted-by": "crossref",
+      "first-page": "149",
+      "DOI": "10.1080/15715124.2008.9635344",
+      "article-title": "Quantification of uncertainties in flood risk assessments",
+      "volume": "6",
+      "author": "Apel",
+      "year": "2008",
+      "journal-title": "Int. J. River Basin Manag."
+    },
+    {
+      "key": "ref_34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Dai, L., Zhou, J.Z., Chen, L., Huang, K.D., Wang, Q.S., and Zha, G. (2018). Flood-risk analysis based on a stochastic differential equation method. J. Flood Risk Manag., 1–10.",
+      "DOI": "10.1111/jfr3.12515"
+    },
+    {
+      "key": "ref_35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yang, L. (2012, January 18–21). Study on Cumulative Residual Entropy and Variance as Risk Measure. Proceedings of the Fifth International Conference on Business Intelligence & Financial Engineering, Milan, Italy.",
+      "DOI": "10.1109/BIFE.2012.52"
+    },
+    {
+      "key": "ref_36",
+      "doi-asserted-by": "crossref",
+      "first-page": "19",
+      "DOI": "10.1016/S0263-7863(99)00038-1",
+      "article-title": "Application of the ahp in project management",
+      "volume": "19",
+      "author": "Al",
+      "year": "2001",
+      "journal-title": "Int. J. Project Manag."
+    },
+    {
+      "key": "ref_37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang, Z.X., Li, D.D., and Zheng, H.H. (2018). The External Performance Appraisal of China Energy Regulation: An Empirical Study Using a TOPSIS Method Based on Entropy Weight and Mahalanobis Distance. Int. J. Environ. Res. Public Health, 15.",
+      "DOI": "10.3390/ijerph15020236"
+    },
+    {
+      "key": "ref_38",
+      "first-page": "59",
+      "article-title": "Study on joint flood control operation for leading reservoirs in the upper Changjiang River",
+      "volume": "44",
+      "author": "Li",
+      "year": "2013",
+      "journal-title": "Shuili Xuebao (J. Hydraul. Eng.)"
+    }
+  ],
+  "container-title": [
+    "Water"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://www.mdpi.com/2073-4441/11/4/649/pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        11
+      ]
+    ],
+    "date-time": "2025-10-11T12:41:19Z",
+    "timestamp": 1760186479000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.mdpi.com/2073-4441/11/4/649"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2019,
+        3,
+        28
+      ]
+    ]
+  },
+  "references-count": 38,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2019,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "w11040649"
+  ],
+  "URL": "https://doi.org/10.3390/w11040649",
+  "relation": {},
+  "ISSN": [
+    "2073-4441"
+  ],
+  "issn-type": [
+    {
+      "type": "electronic",
+      "value": "2073-4441"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2019,
+        3,
+        28
+      ]
+    ]
+  }
+}

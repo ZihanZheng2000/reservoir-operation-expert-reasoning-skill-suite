@@ -1,0 +1,41 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R4,E01,"Select among pre-release, normal control, and refill according to forecast thresholds",primary,RP07-A,RP07-B,"Pre-release, normal control, refill chosen by forecast vs safe discharge"
+E02-R8,E02,Implement only the immediate release and re-plan,primary,RP07-C,,Only immediate release implemented; re-plan with updated forecast
+E03-R2,E03,Choose a two-stage rolling-horizon decision structure,primary,RP07-D,RP07-C,Two-stage structure: immediate interval plus uncertain remaining horizon
+E07-R4,E07,Resolve excess risk with a constrained prerelease,primary,RP07-B,,Failed risk test triggers minimal prerelease
+E07-R5,E07,Use a rolling one-day decision horizon,primary,RP07-C,,"15-day forecast horizon, 1-day implementation horizon"
+E07-R6,E07,Delegate between flood control and water supply by forecasted risk,primary,RP07-B,,Forecast risk vs tolerance switches flood-control and water-supply operation
+E09-R1,E09,Identify when water-use pre-release is valid,primary,RP07-A,RP07-B,"Water-use pre-release in dry interval, switch to flood-control pre-release"
+E10-R3,E10,Allocate storage across RFH and outside RFH,secondary,RP07-D,,Storage allocated between reliable horizon and later stage
+E10-R4,E10,Allocate RFH storage to current action,secondary,RP07-B,,Sign of marginal-risk difference selects detention or prerelease
+E10-R5,E10,Recompute and adapt through flood,primary,RP07-C,,One-step release recomputed each interval
+E15-R4,E15,Use hierarchical pre-fill/pre-release branches,primary,RP07-B,,Hierarchical thresholds give graduated pre-fill/pre-release actions
+E17-R2,E17,Select MPC for scalable control,secondary,RP07-C,,MPC re-optimizes each step with ensemble forecasts
+E19-R5,E19,Sequence the three forecast defenses,primary,RP07-A,,"Vapor, precipitation, streamflow lines act in sequence; prefill after event"
+E21-R3,E21,Use forecast lead time as a staged information basis,secondary,RP07-A,,"Preparation on long-lead forecasts, detailed action on short-lead forecasts"
+E21-R4,E21,"Allocate reserved capacity by flood type, role, and encounter timing",secondary,RP07-A,,"Release order by flood-season stage, flood type, encounter timing"
+E21-R7,E21,Roll decisions as forecasts update,primary,RP07-C,,Cooperation schemes rolled as forecasts update
+E23-R3,E23,Align branching with uncertainty resolution,primary,RP07-D,,"Shared early control until uncertainty resolves, then branch"
+E23-R5,E23,Formulate risk-aware multi-stage control,primary,RP07-D,,Multi-stage control with shared early decision
+E24-R1,E24,Define the intertemporal flood trade-off,secondary,RP07-D,,"Stage 1 current period, stage 2 remaining horizon"
+E24-R6,E24,Convert allocation into operational targets and boundary actions,secondary,RP07-B,,Allocation class mapped to release and boundary actions
+E26-R5,E26,Turn KKT solution into three operational zones,primary,RP07-B,,Three zones switched by expected availability thresholds
+E29-R4,E29,Set dynamic bounds to reflect flood timing and lead time,primary,RP07-F,,"Pre-flood, main, post-flood bounds; higher bound with longer lead time"
+E29-R5,E29,Apply forecast-triggered prerelease/refill logic,primary,RP07-B,,Forecast maximum vs threshold decides retain or prerelease
+E30-R6,E30,Read risk curves for action or design targets,secondary,RP07-B,,Risk above acceptable level triggers program revision or emergency response
+E31-R6,E31,Translate risk information into operating implications,secondary,RP07-B,,Risk above threshold triggers operating or emergency change
+E33-R7,E33,Optimize benefit within risk and physical constraints,secondary,RP07-C,,"Current segment implemented, then re-optimized"
+E34-R6,E34,Restrict current decisions to information available now,primary,RP07-D,,"Nonanticipative current release, wait-and-see later decisions"
+E34-R7,E34,Use recourse to correct forecast-driven decisions,primary,RP07-C,,Rolling recourse corrects earlier decisions
+E35-R5,E35,Resolve uncertainty through a scenario tree,primary,RP07-D,,Scenario tree: shared history before branching
+E35-R7,E35,Use feedback to correct forecast errors,primary,RP07-C,,Only first control trusted; recompute after observation
+E37-R4,E37,Formulate FBO as a forecast-indexed rising-stage rule,primary,RP07-B,,Forecast rainfall bands switch level-dependent releases
+E37-R7,E37,Classify forecast bias for response,primary,RP07-E,,Error sign decides corrective discharge
+E37-R8,E37,Prefer gradual correction when a jump is unsafe,primary,RP07-E,,Gradual multi-step correction when a jump is unsafe
+E41-R1,E41,Make FLWL stage-specific,secondary,RP07-F,,Season divided into stages with own bounds
+E43-R2,E43,Select a tractable predictive control architecture,secondary,RP07-C,,MPC re-plans each control step with model state update
+E45-R4,E45,Optimize adaptive FLWL with risk only,secondary,RP07-F,,FLWL adapted in five-year blocks under nonstationarity
+E46-R1,E46,Decompose the flood response into stages,primary,RP07-A,,"Pre-arrival, pre-peak, post-peak stages need separate rules"
+E46-R2,E46,Prefer robust measurement-based rules under forecast uncertainty,secondary,RP07-E,,Measurement-based fallback when forecasts fail
+E46-R4,E46,Choose rule parameters by stage-specific trade-off,secondary,RP07-A,,Stage-specific objectives and transitions
+E49-R6,E49,Explain risk hedging through release timing,secondary,RP07-A,,Spreading release before peak reduces downstream loss

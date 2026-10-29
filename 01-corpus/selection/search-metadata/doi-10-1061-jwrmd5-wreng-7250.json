@@ -1,0 +1,511 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        10
+      ]
+    ],
+    "date-time": "2026-02-10T11:15:51Z",
+    "timestamp": 1770722151018,
+    "version": "3.49.0"
+  },
+  "reference-count": 52,
+  "publisher": "American Society of Civil Engineers (ASCE)",
+  "issue": "4",
+  "content-domain": {
+    "domain": [
+      "ascelibrary.org"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "J. Water Resour. Plann. Manage."
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "DOI": "10.1061/jwrmd5.wreng-7250",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2026-02-09T15:30:04Z",
+    "timestamp": 1770651004000
+  },
+  "update-policy": "https://doi.org/10.1061/do.news.20190416.0001",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "title": [
+    "Comparing the Robustness of Forecast-Informed Reservoir Operating Policies under Forecast Uncertainty and Hydrologic Extremes"
+  ],
+  "prefix": "10.1061",
+  "volume": "152",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0009-0000-4033-6615",
+      "authenticated-orcid": true,
+      "given": "William",
+      "family": "Taylor",
+      "sequence": "first",
+      "affiliation": [
+        {
+          "name": "Univ. of California"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-5242-7696",
+      "authenticated-orcid": true,
+      "given": "Zachary P.",
+      "family": "Brodeur",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Cornell Univ."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Scott",
+      "family": "Steinschneider",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Cornell Univ."
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-4081-3175",
+      "authenticated-orcid": true,
+      "given": "Jonathan D.",
+      "family": "Herman",
+      "sequence": "additional",
+      "affiliation": [
+        {
+          "name": "Univ. of California"
+        }
+      ],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "30",
+  "reference": [
+    {
+      "key": "e_1_3_5_2_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1063/1.5124097"
+    },
+    {
+      "key": "e_1_3_5_3_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1080/07900627.2020.1745159"
+    },
+    {
+      "key": "e_1_3_5_4_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2023WR034898"
+    },
+    {
+      "key": "e_1_3_5_5_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR027184"
+    },
+    {
+      "key": "e_1_3_5_6_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR029453"
+    },
+    {
+      "key": "e_1_3_5_7_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2024WR039324"
+    },
+    {
+      "key": "e_1_3_5_8_1",
+      "volume-title": "Urban levee design criteria—California water library",
+      "author": "California Department of Water Resources",
+      "year": "2012",
+      "unstructured": "California Department of Water Resources. 2012. Urban levee design criteria—California water library. Sacramento, CA: California Natural Resources Agency."
+    },
+    {
+      "key": "e_1_3_5_9_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.arcontrol.2023.03.013"
+    },
+    {
+      "key": "e_1_3_5_10_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.amc.2008.05.044"
+    },
+    {
+      "key": "e_1_3_5_11_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.ifacol.2023.12.043"
+    },
+    {
+      "key": "e_1_3_5_12_1",
+      "unstructured": "CNRFC (California Nevada River Forecast Center). 2023. “Heavy precipitation events.” Accessed August 24 2023. https://www.cnrfc.noaa.gov/storm_summaries/janfeb2017storms.php."
+    },
+    {
+      "key": "e_1_3_5_13_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR030433"
+    },
+    {
+      "key": "e_1_3_5_14_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001300"
+    },
+    {
+      "key": "e_1_3_5_15_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envsoft.2021.105047"
+    },
+    {
+      "key": "e_1_3_5_16_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2019WR026604"
+    },
+    {
+      "key": "e_1_3_5_17_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1111/j.1752-1688.2011.00546.x"
+    },
+    {
+      "issue": "83",
+      "key": "e_1_3_5_18_1",
+      "first-page": "1",
+      "article-title": "CVXPY: A Python-embedded modeling language for convex optimization",
+      "volume": "17",
+      "author": "Diamond S.",
+      "year": "2016",
+      "unstructured": "Diamond, S., and S. Boyd. 2016. “CVXPY: A Python-embedded modeling language for convex optimization.” J. Mach. Learn. Res. 17 (83): 1–5.",
+      "journal-title": "J. Mach. Learn. Res."
+    },
+    {
+      "key": "e_1_3_5_19_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-1694(01)00419-X"
+    },
+    {
+      "key": "e_1_3_5_20_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000571"
+    },
+    {
+      "key": "e_1_3_5_21_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1002/2013WR014700"
+    },
+    {
+      "key": "e_1_3_5_22_1",
+      "unstructured": "Goulart P. J. and Y. Chen. 2024. “Clarabel: An interior-point solver for conic programs with quadratic objectives.” Preprint submitted May 21 2024. https://arxiv.org/abs/2405.12762."
+    },
+    {
+      "key": "e_1_3_5_23_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/MWR-D-21-0245.1"
+    },
+    {
+      "key": "e_1_3_5_24_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1287/opre.2022.2377"
+    },
+    {
+      "key": "e_1_3_5_25_1",
+      "volume-title": "Lake Oroville 2018/2019 flood operations plan",
+      "author": "HDR (Henningson, Durham and Richardson)",
+      "year": "2018",
+      "unstructured": "HDR (Henningson, Durham and Richardson). 2018. Lake Oroville 2018/2019 flood operations plan. Sacramento, CA: HDR Inc."
+    },
+    {
+      "key": "e_1_3_5_26_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/w11081651"
+    },
+    {
+      "key": "e_1_3_5_27_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.envsoft.2017.09.016"
+    },
+    {
+      "key": "e_1_3_5_28_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1175/1520-0434(2000)015<0559:DOTCRP>2.0.CO;2"
+    },
+    {
+      "key": "e_1_3_5_29_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.jhydrol.2012.01.034"
+    },
+    {
+      "key": "e_1_3_5_30_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1126/sciadv.abq0995"
+    },
+    {
+      "key": "e_1_3_5_31_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Hunrichs R. A. D. A. Pratt and R. W. Meyer. 1998. Magnitude and frequency of the floods of January 1997 in northern and central California; preliminary determinations. Open-File Rep. No. 98-626. Reston VA: USGS.",
+      "DOI": "10.3133/ofr98626"
+    },
+    {
+      "key": "e_1_3_5_32_1",
+      "unstructured": "Jasperse J. et al. 2020. “Lake Mendocino forecast informed reservoir operations final viability assessment.” Accessed December 28 2020. https://escholarship.org/content/qt3b63q04n/qt3b63q04n.pdf."
+    },
+    {
+      "key": "e_1_3_5_33_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR026i003p00447"
+    },
+    {
+      "key": "e_1_3_5_34_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR013i005p00837"
+    },
+    {
+      "key": "e_1_3_5_35_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.3390/geosciences9010037"
+    },
+    {
+      "key": "e_1_3_5_36_1",
+      "unstructured": "Lott N. M. Sittel and D. Ross. 1997. The winter of ’96-’97: West coast flooding. Technical Rep. No. 97-01. Asheville NC: National Climatic Data Center."
+    },
+    {
+      "key": "e_1_3_5_37_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2018WR023177"
+    },
+    {
+      "key": "e_1_3_5_38_1",
+      "unstructured": "Ralph F. M. A. Hutchinson M. Anderson T. Fairbank J. Forbis A. Haynes J. Sweeten C. Talbot J. Tyler and R. White. 2023. “Prado dam forecast informed reservoir operations final viability assessment.” Accessed November 1 2023. https://escholarship.org/uc/item/8rx4n0vp."
+    },
+    {
+      "key": "e_1_3_5_39_1",
+      "unstructured": "Ralph F. M. J. James J. Leahigh M. Anderson C. Talbot A. Haynes J. Forbis M. White and S. Lindley. 2022. “Yuba-feather forecast informed reservoir operations: Preliminary viability assessment.” Accessed March 12 2025. https://escholarship.org/uc/item/8x57n58b."
+    },
+    {
+      "key": "e_1_3_5_40_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/j.advwatres.2014.06.009"
+    },
+    {
+      "key": "e_1_3_5_41_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/WR020i011p01499"
+    },
+    {
+      "key": "e_1_3_5_42_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1023/A:1008202821328"
+    },
+    {
+      "key": "e_1_3_5_43_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41558-018-0140-y"
+    },
+    {
+      "key": "e_1_3_5_44_1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Talbot C. J. Forbis and M. Ralph. 2023. “Phase III of forecast-informed reservoir operations in the USACE: National expansion Pathfinder.” In Proc. ASCE Inspire 2023: Infrastructure Innovation and Adaptation for a Sustainable and Resilient World 970–978. Reston VA: ASCE. https://doi.org/10.1061/9780784485163.111.",
+      "DOI": "10.1061/9780784485163.111"
+    },
+    {
+      "key": "e_1_3_5_45_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/JWRMD5.WRENG-6471"
+    },
+    {
+      "key": "e_1_3_5_46_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.5194/hess-21-4841-2017"
+    },
+    {
+      "key": "e_1_3_5_47_1",
+      "volume-title": "Folsom dam modification project water control manual update",
+      "author": "USACE",
+      "year": "2017",
+      "unstructured": "USACE. 2017. Folsom dam modification project water control manual update. Sacramento, CA: USACE."
+    },
+    {
+      "key": "e_1_3_5_48_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1038/s41592-019-0686-2"
+    },
+    {
+      "key": "e_1_3_5_49_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/B978-0-12-815823-4.00005-5"
+    },
+    {
+      "key": "e_1_3_5_50_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001229"
+    },
+    {
+      "key": "e_1_3_5_51_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1016/S0022-1694(01)00418-8"
+    },
+    {
+      "key": "e_1_3_5_52_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2020WR029160"
+    },
+    {
+      "key": "e_1_3_5_53_1",
+      "doi-asserted-by": "publisher",
+      "DOI": "10.1029/2021WR031910"
+    }
+  ],
+  "container-title": [
+    "Journal of Water Resources Planning and Management"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://ascelibrary.org/doi/pdf/10.1061/JWRMD5.WRENG-7250",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        2,
+        9
+      ]
+    ],
+    "date-time": "2026-02-09T15:30:07Z",
+    "timestamp": 1770651007000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://ascelibrary.org/doi/10.1061/JWRMD5.WRENG-7250"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "references-count": 52,
+  "journal-issue": {
+    "issue": "4",
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "10.1061/JWRMD5.WRENG-7250"
+  ],
+  "URL": "https://doi.org/10.1061/jwrmd5.wreng-7250",
+  "relation": {},
+  "ISSN": [
+    "0733-9496",
+    "1943-5452"
+  ],
+  "issn-type": [
+    {
+      "value": "0733-9496",
+      "type": "print"
+    },
+    {
+      "value": "1943-5452",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        4
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "2025-07-09",
+      "order": 0,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2025-12-18",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    },
+    {
+      "value": "2026-02-09",
+      "order": 3,
+      "name": "published",
+      "label": "Published",
+      "group": {
+        "name": "publication_history",
+        "label": "Publication History"
+      }
+    }
+  ],
+  "article-number": "04026005"
+}

@@ -1,0 +1,477 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        4,
+        29
+      ]
+    ],
+    "date-time": "2026-04-29T15:14:47Z",
+    "timestamp": 1777475687930,
+    "version": "3.51.4"
+  },
+  "reference-count": 46,
+  "publisher": "Copernicus GmbH",
+  "issue": "4",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2013,
+            4,
+            18
+          ]
+        ],
+        "date-time": "2013-04-18T00:00:00Z",
+        "timestamp": 1366243200000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Nat. Hazards Earth Syst. Sci."
+  ],
+  "abstract": "<jats:p>Abstract. Flash floods are of major relevance in natural disaster management in the Mediterranean region. In many cases, the damaging effects of flash floods can be mitigated by adequate management of flood control reservoirs. This requires the development of suitable models for optimal operation of reservoirs. A probabilistic methodology for calibrating the parameters of a reservoir flood control model (RFCM) that takes into account the stochastic variability of flood events is presented. This study addresses the crucial problem of operating reservoirs during flood events, considering downstream river damages and dam failure risk as conflicting operation criteria. These two criteria are aggregated into a single objective of total expected damages from both the maximum released flows and stored volumes (overall risk index). For each selected parameter set the RFCM is run under a wide range of hydrologic loads (determined through Monte Carlo simulation). The optimal parameter set is obtained through the overall risk index (balanced solution) and then compared with other solutions of the Pareto front. The proposed methodology is implemented at three different reservoirs in the southeast of Spain. The results obtained show that the balanced solution offers a good compromise between the two main objectives of reservoir flood control management.\n                    </jats:p>",
+  "DOI": "10.5194/nhess-13-965-2013",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2013,
+        4,
+        18
+      ]
+    ],
+    "date-time": "2013-04-18T13:38:39Z",
+    "timestamp": 1366292319000
+  },
+  "page": "965-981",
+  "source": "Crossref",
+  "is-referenced-by-count": 19,
+  "title": [
+    "Risk-based methodology for parameter calibration of a reservoir flood control model"
+  ],
+  "prefix": "10.5194",
+  "volume": "13",
+  "author": [
+    {
+      "given": "P.",
+      "family": "Bianucci",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "A.",
+      "family": "Sordo-Ward",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "J. I.",
+      "family": "Pérez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "J.",
+      "family": "García-Palacios",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "L.",
+      "family": "Mediero",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0001-9087-3638",
+      "authenticated-orcid": false,
+      "given": "L.",
+      "family": "Garrote",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "3145",
+  "published-online": {
+    "date-parts": [
+      [
+        2013,
+        4,
+        18
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "ref1",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Alemu, E., Palmer, R., Polebitski, A., and Meaker, B.: Decision support system for optimizing reservoir operations using ensemble streamflow predictions, J. Water Res. Plan. Manage., 137, 72–82, 2011.",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000088"
+    },
+    {
+      "key": "ref2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Apel, H., Thieken, A. H., Merz, B., and Blöschl, G.: Flood risk assessment and associated uncertainty, Nat. Hazards Earth Syst. Sci., 4, 295–308, https://doi.org/10.5194/nhess-4-295-2004, 2004.",
+      "DOI": "10.5194/nhess-4-295-2004"
+    },
+    {
+      "key": "ref3",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Arnell, N.: Expected annual damages and uncertainties in flood frequency estimation, J. Water Res. Plan. Manage., 115, 94–107, 1989.",
+      "DOI": "10.1061/(ASCE)0733-9496(1989)115:1(94)"
+    },
+    {
+      "key": "ref4",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Barredo, J. I., Saur\\\\'i, D., and Llasat, M. C.: Assessing trends in insured losses from floods in Spain 1971–2008, Nat. Hazards Earth Syst. Sci., 12, 1723–-1729, https://doi.org/10.5194/nhess-12-1723-2012, 2012.",
+      "DOI": "10.5194/nhess-12-1723-2012"
+    },
+    {
+      "key": "ref5",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Carvajal, C., Peyras, L., Arnaud, P., Boissier, D., and Royet, P.: Probabilistic modeling of floodwater level for dam reservoirs, J. Hydrol. Eng., 14, 223–232, 2009.",
+      "DOI": "10.1061/(ASCE)1084-0699(2009)14:3(223)"
+    },
+    {
+      "key": "ref6",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Chang, L.-C.: Guiding rational reservoir flood operation using penalty type genetic algorithm, J. Hydrol., 354, 65–74, 2008.",
+      "DOI": "10.1016/j.jhydrol.2008.02.021"
+    },
+    {
+      "key": "ref7",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Cioffi, F. and Gallerano, F.: Multiobjective analysis of dam release flows in rivers downstream from hydropower reservoirs, App. Math. Model., 36, 2868–2889, 2012.",
+      "DOI": "10.1016/j.apm.2011.09.077"
+    },
+    {
+      "key": "ref8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Correia, F. N., Saraiva, M. G., Da Silva, F. N., and Ramos, I.: Floodplain management in urban developing areas, Part 1, Urban Growth scenarios and land-use controls, Water Resour. Manag., 13, 1–21, 1999.",
+      "DOI": "10.1023/A:1008097403587"
+    },
+    {
+      "key": "ref9",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Duan, Q., Soorooshian, S., and Gupta, V.: Effective and efficient global optimization for conceptual rainfall-runoff models, Water Resour. Res., 28, 1015–1031, 1992.",
+      "DOI": "10.1029/91WR02985"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Etoh, T., Murota, A., and Nakanishi, M.: SQRT-Exponential Type Distribution of Maximum, in: Proceedings of the International Symposium on Flood Frequency and Risk Analyses, 14–17 May 1986, Louisiana State University, edited by: Shing, V. P., Reidel Pub. Com., USA, 253–264, 1986.",
+      "DOI": "10.1007/978-94-009-3953-0_17"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Faber, A. and Stedinger, J.: Reservoir optimization using sampling SDP with ensemble streamflow prediction (ESP) forecasts, J. Hydrol., 249, 113–133, 2001.",
+      "DOI": "10.1016/S0022-1694(01)00419-X"
+    },
+    {
+      "key": "ref12",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ginn, T. and Houck, M.: Calibration of an objective function for the optimization of real time reservoir operation, Water Resour. Res., 25, 591–603, 1989.",
+      "DOI": "10.1029/WR025i004p00591"
+    },
+    {
+      "key": "ref13",
+      "unstructured": "Girón, F., Yagüe, J., and Martínez, R.: Flood routing in reservoirs base on hydrological forecasting, paper presented at Trans Twentieth International Congress on Large Dams, Q79-R25, ICOLD, Beijing, China, 403–417, 2000."
+    },
+    {
+      "key": "ref14",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gupta, H., Sorooshian, S., and Yapo, P.: Toward improved calibration of hydrologic models: Multiple and noncommensurable measures of information, Water Resour. Res., 34, 751–763, 1998.",
+      "DOI": "10.1029/97WR03495"
+    },
+    {
+      "key": "ref15",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Gupta, H., Sorooshian, S., and Yapo, P.: Status of automatic calibration for hydrologic models: Comparison with multilevel expert calibration, J. Hydrol. Eng., 4, 135–143, 1999.",
+      "DOI": "10.1061/(ASCE)1084-0699(1999)4:2(135)"
+    },
+    {
+      "key": "ref16",
+      "unstructured": "ICOLD: Dams and floods, Guidelines and cases histories, Bulletin 125, International Commission of Large Dams, La Chapelle Montligeon, France, ISSN 0534-8293, 224 pp., 2003."
+    },
+    {
+      "key": "ref17",
+      "unstructured": "ICOLD: Role of dams in flood mitigation, Bulletin 131, International Commission of Large Dams, La Chapelle Montligeon, France, ISSN 0534-8293, 77 pp., 2006."
+    },
+    {
+      "key": "ref18",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Jain, S., Yoganarasimhan, G., and Seth, S.: A risk-based approach for flood control operation of a multipurpose reservoir, Water Resour. Bull., 28, 1037–1043, 1992.",
+      "DOI": "10.1111/j.1752-1688.1992.tb04015.x"
+    },
+    {
+      "key": "ref19",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Kim, Y.-O., Eum, H.-I., Lee, E.-G., and Ko, I.: Optimizing operational policies of a Korean multireservoir system using sampling stochastic dynamic programming with ensemble streamflow prediction, J. Water Res. Plan. Manage., 133, 4–14, 2007.",
+      "DOI": "10.1061/(ASCE)0733-9496(2007)133:1(4)"
+    },
+    {
+      "key": "ref20",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Khu, S. and Madsen, H.: Multiobjective calibration with Pareto preference ordering: An application to rainfall-runoff model calibration, Water Resour. Res., 41, W03004, https://doi.org/10.1029/2004WR003041, 2005.",
+      "DOI": "10.1029/2004WR003041"
+    },
+    {
+      "key": "ref21",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Koutsoyiannis, D., Efstratiadis, A., and Karavokiros, G.: A decision support tool for the management of multi-reservoir systems, J. Am. Water Resour. Assoc., 28, 945–958, 2002.",
+      "DOI": "10.1111/j.1752-1688.2002.tb05536.x"
+    },
+    {
+      "key": "ref22",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Labadie, J.: Optimal operation of multireservoir systems: State-of-the-art review, J. Water Res. Plan. Manage., 130, 93–111, 2004.",
+      "DOI": "10.1061/(ASCE)0733-9496(2004)130:2(93)"
+    },
+    {
+      "key": "ref23",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Lund, J.: Floodplain planning with risk-based optimization, J. Water Res. Plan. Manage., 128, 202–207, 2002.",
+      "DOI": "10.1061/(ASCE)0733-9496(2002)128:3(202)"
+    },
+    {
+      "key": "ref24",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Madsen, H.: Automatic calibration of a conceptual rainfall-runoff model using multiple objectives, J. Hydrol., 235, 276–288, 2000.",
+      "DOI": "10.1016/S0022-1694(00)00279-1"
+    },
+    {
+      "key": "ref25",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Madsen, H.: Parameter estimation in distributed hydrological catchment modeling using automatic calibration with multiple objectives, Ad. Water Resour., 26, 205–216, 2003.",
+      "DOI": "10.1016/S0309-1708(02)00092-1"
+    },
+    {
+      "key": "ref26",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Malekmohammadi, B., Zahraie, B., and Kerachian, R.: Ranking solutions of multi-objective reservoir operation optimization models using multi-criteria decision analysis, Expert Syst. Appl., 38, 7851–7863, 2011.",
+      "DOI": "10.1016/j.eswa.2010.12.119"
+    },
+    {
+      "key": "ref27",
+      "unstructured": "McCarthy, G. T.: The Unit Hydrograph and Flood Routing, Conference of the North Atlantic Division USACE, USA, 24 June, 1938."
+    },
+    {
+      "key": "ref28",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Mediero, L., Garrote, L., and Martín-Carrasco, F.: Probabilistic calibration of a distributed hydrological model for flood forecasting, Hydrol. Sci. J., 56, 1129–1149, https://doi.org/10.1080/02626667.2011.610322, 2011.",
+      "DOI": "10.1080/02626667.2011.610322"
+    },
+    {
+      "key": "ref29",
+      "unstructured": "Ministerio de Fomento: Máximas lluvias diarias en la España peninsular – Dirección General de Carreteras, Ministerio de Fomento – Centro de publicaciones, Madrid, España, 1999."
+    },
+    {
+      "key": "ref30",
+      "unstructured": "MOPU (Ministerio de Obras Públicas y Urbanismo): Instrucción de carreteras 5.2-IC &quot;Dreanje Superficial&quot;, Dirección General de Carreteras, BOE 123, 23/05/1990, 389–396, 1990."
+    },
+    {
+      "key": "ref31",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Needham, J., Watkins Jr., D., Lund, J., and Nanda, K.: Linear programming for flood control in the Iowa and Des Moines rivers, J. Water Res. Plan. Manage., 126, 1291–1297, 2000.",
+      "DOI": "10.1061/(ASCE)0733-9496(2000)126:3(118)"
+    },
+    {
+      "key": "ref32",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ngo, L., Madsen, H., and Rosbjerg, D.: Simulation and optimisation modelling approach for operation of the Hoa Binh reservoir, Vietnam, J. Hydrol., 336, 269–281, 2007.",
+      "DOI": "10.1016/j.jhydrol.2007.01.003"
+    },
+    {
+      "key": "ref33",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Raman, H. and Chandramouli, V.: Deriving a general operating policy for reservoirs using neural network, J. Water Res. Plan. Manage., 122, 342–347, 1996.",
+      "DOI": "10.1061/(ASCE)0733-9496(1996)122:5(342)"
+    },
+    {
+      "key": "ref34",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rani, D. and Moreira, M.: Simulations-optimization modeling: A survey and potential application in reservoir systems operation, Water Resour. Manag., 24, 1107–1138, 2010.",
+      "DOI": "10.1007/s11269-009-9488-0"
+    },
+    {
+      "key": "ref35",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Rasekh, A., Afshar, A., and Afshar, M.: Risk-cost optimization of hydraulic structures: Methodology and case study, Water Resour. Manag., 24, 2833–2851, 2010.",
+      "DOI": "10.1007/s11269-010-9582-3"
+    },
+    {
+      "key": "ref36",
+      "unstructured": "SCS (USDA Soil Conservation Service): National Engineering Handbook, Section 4: Hydrology, US Department of Agriculture, Washington, DC, USA, 1972."
+    },
+    {
+      "key": "ref37",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Sordo-Ward, A., Garrote, L., Martín-Carrasco, F., and Bejarano, M.: Extreme flood abatement in large dams with fixed-crest spillways, J. Hydrol., 466–467, 60–72, 2012.",
+      "DOI": "10.1016/j.jhydrol.2012.08.009"
+    },
+    {
+      "key": "ref38",
+      "unstructured": "SPANCOLD (Spanish National Committee on Large Dams): Guía técnica de seguridad de presas: No. 4, Avenida de Proyecto, SPANCOLD, Madrid, Spain, 1997."
+    },
+    {
+      "key": "ref39",
+      "unstructured": "USACE: Analysis of flood control operation of the Iowa/Des Moines River Reservoir System using linear programming techniques, Rep. PR-38, Hydrologic Engrg, Ctr. Davis, California, 1999."
+    },
+    {
+      "key": "ref40",
+      "unstructured": "Valdes, J. and Marco, J.: Managing reservoir for flood control, paper presented at US-Italy Research Workshop on the Hydrometeorology, Impacts and Management of Extreme Floods, Perugia, Italy, November, 1995."
+    },
+    {
+      "key": "ref41",
+      "unstructured": "Wagener, T., Lees, M., and Wheater, H.: Monte-Carlo Analysis Toolbox User Manual. Civil and Environmental Engineering Department, Imperial College of Science Technology and Medicine, London, UK, available at: http://ewre.cv.ic.ac.uk/ (last access: 7 November 2011), 2001."
+    },
+    {
+      "key": "ref42",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wei, C.-C. and Hsu, N.-S.: Multireservoir real-time operations for flood control using balanced water level index method, J. Environ. Manage., 88, 1624–1639, 2008.",
+      "DOI": "10.1016/j.jenvman.2007.08.004"
+    },
+    {
+      "key": "ref43",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Windsor, J.: Optimization model for the operation of flood control systems, Water Resour. Res., 9, 1219–1225, 1973.",
+      "DOI": "10.1029/WR009i005p01219"
+    },
+    {
+      "key": "ref44",
+      "unstructured": "Wurbs, R.: Comparative evaluation of generalized river/reservoir system models, TR-282, Texas Water Resources Institute, Texas A{&amp;}M University, 2005."
+    },
+    {
+      "key": "ref45",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yapo, P., Gupta, H., and Sorooshian, S.: Automatic calibration of conceptual rainfall-runoff models: sensitivity to calibration data, J. Hydrol., 181, 23–48, 1996.",
+      "DOI": "10.1016/0022-1694(95)02918-4"
+    },
+    {
+      "key": "ref46",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Yapo, P., Gupta, H., and Sorooshian, S.: Multi-objective global optimization for hydrologic models, J. Hydrol., 204, 83–97, 1998.",
+      "DOI": "10.1016/S0022-1694(97)00107-8"
+    }
+  ],
+  "container-title": [
+    "Natural Hazards and Earth System Sciences"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://nhess.copernicus.org/articles/13/965/2013/nhess-13-965-2013.pdf",
+      "content-type": "unspecified",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2021,
+        1,
+        24
+      ]
+    ],
+    "date-time": "2021-01-24T06:06:17Z",
+    "timestamp": 1611468377000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://nhess.copernicus.org/articles/13/965/2013/"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2013,
+        4,
+        18
+      ]
+    ]
+  },
+  "references-count": 46,
+  "journal-issue": {
+    "issue": "4",
+    "published-online": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.5194/nhess-13-965-2013",
+  "relation": {},
+  "ISSN": [
+    "1684-9981"
+  ],
+  "issn-type": [
+    {
+      "value": "1684-9981",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2013,
+        4,
+        18
+      ]
+    ]
+  }
+}

@@ -1,0 +1,903 @@
+{
+  "id": "https://openalex.org/W4405478255",
+  "doi": "https://doi.org/10.1111/jfr3.13051",
+  "title": "Application of forecast‐informed reservoir operations at US Army Corps of Engineers dams in California",
+  "display_name": "Application of forecast‐informed reservoir operations at US Army Corps of Engineers dams in California",
+  "publication_year": 2024,
+  "publication_date": "2024-12-16",
+  "ids": {
+    "openalex": "https://openalex.org/W4405478255",
+    "doi": "https://doi.org/10.1111/jfr3.13051"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/jfr3.13051",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/jfr3.13051",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S164751132",
+      "display_name": "Journal of Flood Risk Management",
+      "issn_l": "1753-318X",
+      "issn": [
+        "1753-318X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Flood Risk Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1111/jfr3.13051",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5060899563",
+        "display_name": "Joe Forbis",
+        "orcid": "https://orcid.org/0009-0003-8053-903X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I87303767",
+          "display_name": "U.S. Army Engineer Research and Development Center",
+          "ror": "https://ror.org/027mhn368",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1304082316",
+            "https://openalex.org/I1306490931",
+            "https://openalex.org/I1330347796",
+            "https://openalex.org/I87303767"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Joe Forbis",
+      "raw_affiliation_strings": [
+        "US Army Corps of Engineers, Engineer Research and Development Center, Coastal and Hydraulics Laboratory  Sacramento California USA",
+        "US Army Corps of Engineers, Engineer Research and Development Center, Coastal and Hydraulics Laboratory, Sacramento, California, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0003-8053-903X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "US Army Corps of Engineers, Engineer Research and Development Center, Coastal and Hydraulics Laboratory  Sacramento California USA",
+          "institution_ids": [
+            "https://openalex.org/I87303767"
+          ]
+        },
+        {
+          "raw_affiliation_string": "US Army Corps of Engineers, Engineer Research and Development Center, Coastal and Hydraulics Laboratory, Sacramento, California, USA",
+          "institution_ids": [
+            "https://openalex.org/I87303767"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5115508397",
+        "display_name": "Cuong Ly",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1306490931",
+          "display_name": "United States Army Corps of Engineers",
+          "ror": "https://ror.org/05w4e8v21",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I1304082316",
+            "https://openalex.org/I1306490931",
+            "https://openalex.org/I1330347796"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Cuong Ly",
+      "raw_affiliation_strings": [
+        "US Army Corps of Engineers, South Pacific Division  Los Angeles California USA",
+        "US Army Corps of Engineers, South Pacific Division, Los Angeles, California, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "US Army Corps of Engineers, South Pacific Division  Los Angeles California USA",
+          "institution_ids": [
+            "https://openalex.org/I1306490931"
+          ]
+        },
+        {
+          "raw_affiliation_string": "US Army Corps of Engineers, South Pacific Division, Los Angeles, California, USA",
+          "institution_ids": [
+            "https://openalex.org/I1306490931"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5060899563",
+    "https://openalex.org/A5115508397"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I1306490931",
+    "https://openalex.org/I87303767"
+  ],
+  "apc_list": {
+    "value": 3120,
+    "currency": "USD",
+    "value_usd": 3120
+  },
+  "apc_paid": {
+    "value": 3120,
+    "currency": "USD",
+    "value_usd": 3120
+  },
+  "fwci": 1.3629,
+  "has_fulltext": false,
+  "cited_by_count": 7,
+  "citation_normalized_percentile": {
+    "value": 0.78210204,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "18",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9991000294685364,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11801",
+      "display_name": "Reservoir Engineering and Simulation Methods",
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9718000292778015,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.35008323192596436
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-research",
+      "display_name": "Operations research",
+      "score": 0.3309035003185272
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.35008323192596436
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.3309035003185272
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1111/jfr3.13051",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/jfr3.13051",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S164751132",
+        "display_name": "Journal of Flood Risk Management",
+        "issn_l": "1753-318X",
+        "issn": [
+          "1753-318X"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Flood Risk Management",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:0721a398707941daa820144295da0e8e",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/0721a398707941daa820144295da0e8e",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Journal of Flood Risk Management, Vol 18, Iss 1, Pp n/a-n/a (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/jfr3.13051",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/jfr3.13051",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S164751132",
+      "display_name": "Journal of Flood Risk Management",
+      "issn_l": "1753-318X",
+      "issn": [
+        "1753-318X"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Flood Risk Management",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Clean water and sanitation",
+      "score": 0.7400000095367432,
+      "id": "https://metadata.un.org/sdg/6"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 3,
+  "referenced_works": [
+    "https://openalex.org/W1964399390",
+    "https://openalex.org/W3124200332",
+    "https://openalex.org/W4389074006"
+  ],
+  "related_works": [
+    "https://openalex.org/W2391645169",
+    "https://openalex.org/W2375453827",
+    "https://openalex.org/W2366365402",
+    "https://openalex.org/W2760158997",
+    "https://openalex.org/W2370093201",
+    "https://openalex.org/W2351438490",
+    "https://openalex.org/W2378837429",
+    "https://openalex.org/W2342988481",
+    "https://openalex.org/W2391975015",
+    "https://openalex.org/W2380988766"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      71,
+      97,
+      152,
+      184
+    ],
+    "US": [
+      2
+    ],
+    "Army": [
+      3
+    ],
+    "Corps": [
+      4
+    ],
+    "of": [
+      5,
+      39,
+      49,
+      167,
+      182
+    ],
+    "Engineers": [
+      6
+    ],
+    "(USACE)": [
+      7
+    ],
+    "prescribes": [
+      8
+    ],
+    "flood": [
+      9,
+      61,
+      95,
+      112
+    ],
+    "control": [
+      10,
+      19
+    ],
+    "operations": [
+      11,
+      54
+    ],
+    "for": [
+      12
+    ],
+    "reservoirs": [
+      13,
+      194
+    ],
+    "it": [
+      14
+    ],
+    "regulates": [
+      15
+    ],
+    "in": [
+      16,
+      32,
+      79,
+      121
+    ],
+    "watershed‐specific": [
+      17
+    ],
+    "water": [
+      18,
+      65,
+      85,
+      107
+    ],
+    "manuals": [
+      20
+    ],
+    "(WCMs),": [
+      21
+    ],
+    "which": [
+      22
+    ],
+    "can": [
+      23
+    ],
+    "be": [
+      24,
+      57,
+      89
+    ],
+    "decades‐old": [
+      25
+    ],
+    "and": [
+      26,
+      42,
+      67
+    ],
+    "may": [
+      27,
+      56
+    ],
+    "not": [
+      28
+    ],
+    "capture": [
+      29
+    ],
+    "changed": [
+      30
+    ],
+    "conditions": [
+      31
+    ],
+    "the": [
+      33,
+      37,
+      46,
+      148,
+      156,
+      165,
+      168,
+      180
+    ],
+    "watersheds": [
+      34
+    ],
+    "or": [
+      35
+    ],
+    "include": [
+      36
+    ],
+    "benefit": [
+      38
+    ],
+    "state‐of‐the‐science": [
+      40
+    ],
+    "weather": [
+      41
+    ],
+    "streamflow": [
+      43
+    ],
+    "prediction.": [
+      44
+    ],
+    "Considering": [
+      45
+    ],
+    "specific": [
+      47
+    ],
+    "characteristics": [
+      48,
+      125
+    ],
+    "a": [
+      50,
+      172
+    ],
+    "reservoir,": [
+      51
+    ],
+    "forecast‐informed": [
+      52
+    ],
+    "reservoir": [
+      53,
+      119
+    ],
+    "(FIRO)": [
+      55
+    ],
+    "used": [
+      58,
+      162
+    ],
+    "to": [
+      59,
+      131,
+      143,
+      163,
+      177
+    ],
+    "enhance": [
+      60
+    ],
+    "risk": [
+      62,
+      113
+    ],
+    "reduction,": [
+      63
+    ],
+    "improve": [
+      64,
+      106
+    ],
+    "availability,": [
+      66
+    ],
+    "achieve": [
+      68
+    ],
+    "other": [
+      69
+    ],
+    "benefits.": [
+      70
+    ],
+    "first": [
+      72
+    ],
+    "FIRO": [
+      73,
+      92,
+      102,
+      134,
+      138,
+      157,
+      169,
+      189
+    ],
+    "pilot": [
+      74,
+      128,
+      150,
+      158
+    ],
+    "project": [
+      75
+    ],
+    "at": [
+      76,
+      191
+    ],
+    "Lake": [
+      77
+    ],
+    "Mendocino": [
+      78
+    ],
+    "California": [
+      80,
+      122
+    ],
+    "focused": [
+      81
+    ],
+    "on": [
+      82
+    ],
+    "determining": [
+      83
+    ],
+    "if": [
+      84
+    ],
+    "supply": [
+      86,
+      108
+    ],
+    "reliability": [
+      87,
+      109
+    ],
+    "could": [
+      88,
+      104,
+      187
+    ],
+    "improved": [
+      90
+    ],
+    "using": [
+      91
+    ],
+    "without": [
+      93
+    ],
+    "increasing": [
+      94
+    ],
+    "risk.": [
+      96
+    ],
+    "final": [
+      98
+    ],
+    "report": [
+      99
+    ],
+    "concluded": [
+      100
+    ],
+    "that": [
+      101
+    ],
+    "concepts": [
+      103
+    ],
+    "indeed": [
+      105
+    ],
+    "while": [
+      110
+    ],
+    "enhancing": [
+      111
+    ],
+    "reduction.": [
+      114
+    ],
+    "Subsequently,": [
+      115
+    ],
+    "USACE": [
+      116,
+      193
+    ],
+    "chose": [
+      117
+    ],
+    "additional": [
+      118,
+      127
+    ],
+    "systems": [
+      120
+    ],
+    "with": [
+      123
+    ],
+    "different": [
+      124
+    ],
+    "as": [
+      126
+    ],
+    "study": [
+      129
+    ],
+    "locations": [
+      130
+    ],
+    "further": [
+      132
+    ],
+    "investigate": [
+      133
+    ],
+    "concepts.": [
+      135
+    ],
+    "These": [
+      136
+    ],
+    "successful": [
+      137
+    ],
+    "efforts": [
+      139
+    ],
+    "have": [
+      140
+    ],
+    "provided": [
+      141
+    ],
+    "justification": [
+      142
+    ],
+    "continue": [
+      144
+    ],
+    "its": [
+      145
+    ],
+    "expansion": [
+      146
+    ],
+    "beyond": [
+      147
+    ],
+    "initial": [
+      149
+    ],
+    "sites.": [
+      151
+    ],
+    "lessons": [
+      153,
+      185
+    ],
+    "learned": [
+      154,
+      186
+    ],
+    "from": [
+      155
+    ],
+    "projects": [
+      159
+    ],
+    "are": [
+      160
+    ],
+    "being": [
+      161
+    ],
+    "inform": [
+      164
+    ],
+    "development": [
+      166
+    ],
+    "Screening": [
+      170
+    ],
+    "Process,": [
+      171
+    ],
+    "screening": [
+      173
+    ],
+    "level": [
+      174
+    ],
+    "framework": [
+      175
+    ],
+    "intended": [
+      176
+    ],
+    "scale": [
+      178
+    ],
+    "up": [
+      179
+    ],
+    "implementation": [
+      181,
+      190
+    ],
+    "FIRO.": [
+      183
+    ],
+    "support": [
+      188
+    ],
+    "suitable": [
+      192
+    ],
+    "by": [
+      195
+    ],
+    "updating": [
+      196
+    ],
+    "WCMs.": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-09-02T07:38:04.252551",
+  "created_date": "2025-10-10T00:00:00"
+}

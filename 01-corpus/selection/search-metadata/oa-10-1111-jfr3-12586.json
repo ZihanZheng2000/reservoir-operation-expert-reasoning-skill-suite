@@ -1,0 +1,1525 @@
+{
+  "id": "https://openalex.org/W2994787325",
+  "doi": "https://doi.org/10.1111/jfr3.12586",
+  "title": "Determining dynamic water level control boundaries for a multi‐reservoir system during flood seasons with considering channel storage",
+  "display_name": "Determining dynamic water level control boundaries for a multi‐reservoir system during flood seasons with considering channel storage",
+  "publication_year": 2019,
+  "publication_date": "2019-12-20",
+  "ids": {
+    "openalex": "https://openalex.org/W2994787325",
+    "doi": "https://doi.org/10.1111/jfr3.12586",
+    "mag": "2994787325"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1111/jfr3.12586",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/jfr3.12586",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfr3.12586",
+    "source": {
+      "id": "https://openalex.org/S164751132",
+      "display_name": "Journal of Flood Risk Management",
+      "issn_l": "1753-318X",
+      "issn": [
+        "1753-318X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Flood Risk Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfr3.12586",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5101769858",
+        "display_name": "Yu Gong",
+        "orcid": "https://orcid.org/0009-0003-4400-2059"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yu Gong",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100358542",
+        "display_name": "Pan Liu",
+        "orcid": "https://orcid.org/0000-0002-3777-6561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Pan Liu",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3777-6561",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5060624662",
+        "display_name": "Lei Cheng",
+        "orcid": "https://orcid.org/0000-0002-5298-9573"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lei Cheng",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5007087233",
+        "display_name": "Guiya Chen",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I2799997741",
+          "display_name": "Changjiang Water Resources Commission",
+          "ror": "https://ror.org/0305bn856",
+          "country_code": "CN",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I2799997741",
+            "https://openalex.org/I4210155611"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guiya Chen",
+      "raw_affiliation_strings": [
+        "Office of Flood Control and Drought Relief Changjiang Water Resources Commission  Wuhan China",
+        "Office of Flood Control and Drought Relief, Changjiang Water Resources Commission, Wuhan, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Office of Flood Control and Drought Relief Changjiang Water Resources Commission  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I2799997741"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Office of Flood Control and Drought Relief, Changjiang Water Resources Commission, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I2799997741"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084718363",
+        "display_name": "Yanlai Zhou",
+        "orcid": "https://orcid.org/0000-0002-5447-2420"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I184942183",
+          "display_name": "University of Oslo",
+          "ror": "https://ror.org/01xtthb56",
+          "country_code": "NO",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yanlai Zhou",
+      "raw_affiliation_strings": [
+        "Department of Geosciences University of Oslo  Oslo Norway",
+        "Department of Geosciences, University of Oslo, Oslo, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Geosciences University of Oslo  Oslo Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Department of Geosciences, University of Oslo, Oslo, Norway",
+          "institution_ids": [
+            "https://openalex.org/I184942183"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100755611",
+        "display_name": "Xiaoqi Zhang",
+        "orcid": "https://orcid.org/0000-0002-4708-2854"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Xiaoqi Zhang",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5049392984",
+        "display_name": "Weifeng Xu",
+        "orcid": "https://orcid.org/0000-0002-2332-5364"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Weifeng Xu",
+      "raw_affiliation_strings": [
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+        "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+        "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science Wuhan University  Wuhan China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Hubei Provincial Collaborative Innovation Center for Water Resources Security, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan University, Wuhan, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 4,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5100358542"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37461747",
+    "https://openalex.org/I4210094336"
+  ],
+  "apc_list": {
+    "value": 3600,
+    "currency": "USD",
+    "value_usd": 3600
+  },
+  "apc_paid": {
+    "value": 3600,
+    "currency": "USD",
+    "value_usd": 3600
+  },
+  "fwci": 2.3637,
+  "has_fulltext": true,
+  "cited_by_count": 28,
+  "citation_normalized_percentile": {
+    "value": 0.8724745,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "13",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11220",
+      "display_name": "Water Systems and Optimization",
+      "score": 0.9932000041007996,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2205",
+        "display_name": "Civil and Structural Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.748103678226471
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.6915768980979919
+    },
+    {
+      "id": "https://openalex.org/keywords/routing",
+      "display_name": "Routing (electronic design automation)",
+      "score": 0.649109959602356
+    },
+    {
+      "id": "https://openalex.org/keywords/channel",
+      "display_name": "Channel (broadcasting)",
+      "score": 0.6261054277420044
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5858905911445618
+    },
+    {
+      "id": "https://openalex.org/keywords/hydropower",
+      "display_name": "Hydropower",
+      "score": 0.5536525845527649
+    },
+    {
+      "id": "https://openalex.org/keywords/water-storage",
+      "display_name": "Water storage",
+      "score": 0.492255836725235
+    },
+    {
+      "id": "https://openalex.org/keywords/water-level",
+      "display_name": "Water level",
+      "score": 0.484578013420105
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.4701291024684906
+    },
+    {
+      "id": "https://openalex.org/keywords/water-resource-management",
+      "display_name": "Water resource management",
+      "score": 0.3641897439956665
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.33281126618385315
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.16736015677452087
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.15418174862861633
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.13213449716567993
+    },
+    {
+      "id": "https://openalex.org/keywords/geomorphology",
+      "display_name": "Geomorphology",
+      "score": 0.06903618574142456
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.748103678226471
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.6915768980979919
+    },
+    {
+      "id": "https://openalex.org/C74172769",
+      "wikidata": "https://www.wikidata.org/wiki/Q1446839",
+      "display_name": "Routing (electronic design automation)",
+      "level": 2,
+      "score": 0.649109959602356
+    },
+    {
+      "id": "https://openalex.org/C127162648",
+      "wikidata": "https://www.wikidata.org/wiki/Q16858953",
+      "display_name": "Channel (broadcasting)",
+      "level": 2,
+      "score": 0.6261054277420044
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5858905911445618
+    },
+    {
+      "id": "https://openalex.org/C40675005",
+      "wikidata": "https://www.wikidata.org/wiki/Q170196",
+      "display_name": "Hydropower",
+      "level": 2,
+      "score": 0.5536525845527649
+    },
+    {
+      "id": "https://openalex.org/C2776182401",
+      "wikidata": "https://www.wikidata.org/wiki/Q7973769",
+      "display_name": "Water storage",
+      "level": 3,
+      "score": 0.492255836725235
+    },
+    {
+      "id": "https://openalex.org/C1284942",
+      "wikidata": "https://www.wikidata.org/wiki/Q1929501",
+      "display_name": "Water level",
+      "level": 2,
+      "score": 0.484578013420105
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.4701291024684906
+    },
+    {
+      "id": "https://openalex.org/C524765639",
+      "wikidata": "https://www.wikidata.org/wiki/Q1501619",
+      "display_name": "Water resource management",
+      "level": 1,
+      "score": 0.3641897439956665
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.33281126618385315
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.16736015677452087
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.15418174862861633
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.13213449716567993
+    },
+    {
+      "id": "https://openalex.org/C114793014",
+      "wikidata": "https://www.wikidata.org/wiki/Q52109",
+      "display_name": "Geomorphology",
+      "level": 1,
+      "score": 0.06903618574142456
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C201289731",
+      "wikidata": "https://www.wikidata.org/wiki/Q1172599",
+      "display_name": "Inlet",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1111/jfr3.12586",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1111/jfr3.12586",
+      "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfr3.12586",
+      "source": {
+        "id": "https://openalex.org/S164751132",
+        "display_name": "Journal of Flood Risk Management",
+        "issn_l": "1753-318X",
+        "issn": [
+          "1753-318X"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320595",
+        "host_organization_name": "Wiley",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320595"
+        ],
+        "host_organization_lineage_names": [
+          "Wiley"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Flood Risk Management",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:www.duo.uio.no:10852/77291",
+      "is_oa": true,
+      "landing_page_url": "http://urn.nb.no/URN:NBN:no-80381",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S7407064446",
+        "display_name": "NORA - Norwegian Open Research Archives",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc",
+      "license_id": "https://openalex.org/licenses/cc-by-nc",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "1753-318X",
+      "raw_type": "info:eu-repo/semantics/article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1111/jfr3.12586",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1111/jfr3.12586",
+    "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jfr3.12586",
+    "source": {
+      "id": "https://openalex.org/S164751132",
+      "display_name": "Journal of Flood Risk Management",
+      "issn_l": "1753-318X",
+      "issn": [
+        "1753-318X"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320595",
+      "host_organization_name": "Wiley",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320595"
+      ],
+      "host_organization_lineage_names": [
+        "Wiley"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by-nc",
+    "license_id": "https://openalex.org/licenses/cc-by-nc",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Flood Risk Management",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation",
+      "score": 0.6299999952316284
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1695537480",
+      "display_name": null,
+      "funder_award_id": "2017CFA015",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G6465477008",
+      "display_name": null,
+      "funder_award_id": "2017CFA015",
+      "funder_id": "https://openalex.org/F4320322186",
+      "funder_display_name": "Natural Science Foundation of Hubei Province"
+    },
+    {
+      "id": "https://openalex.org/G6831784205",
+      "display_name": null,
+      "funder_award_id": "51579180",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8198201611",
+      "display_name": null,
+      "funder_award_id": "2016YFC0402202",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320322186",
+      "display_name": "Natural Science Foundation of Hubei Province",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2994787325.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2994787325.grobid-xml"
+  },
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W320805548",
+    "https://openalex.org/W996106850",
+    "https://openalex.org/W1575070598",
+    "https://openalex.org/W1583124012",
+    "https://openalex.org/W1823263079",
+    "https://openalex.org/W1877577218",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W1970271882",
+    "https://openalex.org/W1975215753",
+    "https://openalex.org/W1975377377",
+    "https://openalex.org/W1981730679",
+    "https://openalex.org/W1999955909",
+    "https://openalex.org/W2019370974",
+    "https://openalex.org/W2023924461",
+    "https://openalex.org/W2032400172",
+    "https://openalex.org/W2034456430",
+    "https://openalex.org/W2035470091",
+    "https://openalex.org/W2053388269",
+    "https://openalex.org/W2053834504",
+    "https://openalex.org/W2058198733",
+    "https://openalex.org/W2060037118",
+    "https://openalex.org/W2067794149",
+    "https://openalex.org/W2077780503",
+    "https://openalex.org/W2078890104",
+    "https://openalex.org/W2117152638",
+    "https://openalex.org/W2126053484",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2255943657",
+    "https://openalex.org/W2529281634",
+    "https://openalex.org/W2542482731",
+    "https://openalex.org/W2741950990",
+    "https://openalex.org/W2751785868",
+    "https://openalex.org/W2752742991",
+    "https://openalex.org/W2767525149",
+    "https://openalex.org/W2791593810",
+    "https://openalex.org/W2902959685"
+  ],
+  "related_works": [
+    "https://openalex.org/W2524784220",
+    "https://openalex.org/W2380380420",
+    "https://openalex.org/W2367200549",
+    "https://openalex.org/W2347751007",
+    "https://openalex.org/W2385592916",
+    "https://openalex.org/W2356100594",
+    "https://openalex.org/W2393514359",
+    "https://openalex.org/W1975093569",
+    "https://openalex.org/W4285314002",
+    "https://openalex.org/W2348699073"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      33,
+      90,
+      139,
+      158
+    ],
+    "dynamic": [
+      2,
+      27,
+      39,
+      91,
+      172,
+      202
+    ],
+    "control": [
+      3,
+      17,
+      28,
+      40,
+      92,
+      203
+    ],
+    "of": [
+      4,
+      58
+    ],
+    "reservoir": [
+      5,
+      79,
+      109,
+      129,
+      145
+    ],
+    "water": [
+      6,
+      19
+    ],
+    "level": [
+      7
+    ],
+    "during": [
+      8
+    ],
+    "flood": [
+      9,
+      16,
+      35,
+      43,
+      72,
+      84,
+      118
+    ],
+    "seasons": [
+      10
+    ],
+    "(WLFS)": [
+      11
+    ],
+    "allows": [
+      12
+    ],
+    "a": [
+      13,
+      75,
+      155
+    ],
+    "trade‐off": [
+      14
+    ],
+    "between": [
+      15
+    ],
+    "and": [
+      18,
+      116,
+      125,
+      142,
+      186
+    ],
+    "resources": [
+      20
+    ],
+    "conservation.": [
+      21
+    ],
+    "In": [
+      22
+    ],
+    "this": [
+      23,
+      65,
+      68
+    ],
+    "process,": [
+      24
+    ],
+    "the": [
+      25,
+      38,
+      56,
+      87,
+      95,
+      102,
+      107,
+      117,
+      127,
+      148,
+      174,
+      195,
+      201,
+      206
+    ],
+    "WLFS": [
+      26,
+      97
+    ],
+    "boundaries": [
+      29,
+      93,
+      204
+    ],
+    "are": [
+      30,
+      98,
+      131
+    ],
+    "key": [
+      31
+    ],
+    "parameters.": [
+      32
+    ],
+    "channel": [
+      34,
+      71,
+      77,
+      114
+    ],
+    "routing": [
+      36,
+      44,
+      73,
+      85
+    ],
+    "affects": [
+      37
+    ],
+    "operations.": [
+      41
+    ],
+    "However,": [
+      42
+    ],
+    "is": [
+      45,
+      110,
+      120,
+      162
+    ],
+    "seldom": [
+      46
+    ],
+    "considered": [
+      47,
+      185
+    ],
+    "in": [
+      48,
+      60,
+      86
+    ],
+    "multi‐reservoir": [
+      49,
+      61,
+      96,
+      207
+    ],
+    "aggregation": [
+      50,
+      88,
+      108
+    ],
+    "(a": [
+      51
+    ],
+    "popular": [
+      52
+    ],
+    "method": [
+      53,
+      197
+    ],
+    "for": [
+      54,
+      94,
+      154,
+      205
+    ],
+    "tackling": [
+      55
+    ],
+    "curse": [
+      57
+    ],
+    "dimensionality": [
+      59
+    ],
+    "issues).": [
+      62
+    ],
+    "To": [
+      63
+    ],
+    "address": [
+      64
+    ],
+    "knowledge": [
+      66
+    ],
+    "gap,": [
+      67
+    ],
+    "study": [
+      69
+    ],
+    "conceptualises": [
+      70
+    ],
+    "as": [
+      74
+    ],
+    "virtual": [
+      76
+    ],
+    "storage": [
+      78
+    ],
+    "(CSR)": [
+      80
+    ],
+    "based": [
+      81
+    ],
+    "on": [
+      82,
+      147
+    ],
+    "Muskingum": [
+      83
+    ],
+    "method.": [
+      89
+    ],
+    "then": [
+      99
+    ],
+    "derived": [
+      100
+    ],
+    "using": [
+      101,
+      122,
+      167
+    ],
+    "following": [
+      103
+    ],
+    "aggregation‐decomposition": [
+      104
+    ],
+    "method:": [
+      105
+    ],
+    "(a)": [
+      106
+    ],
+    "created": [
+      111
+    ],
+    "by": [
+      112,
+      133
+    ],
+    "considering": [
+      113
+    ],
+    "storages,": [
+      115
+    ],
+    "risk": [
+      119
+    ],
+    "quantified": [
+      121
+    ],
+    "pre‐discharge": [
+      123
+    ],
+    "rules;": [
+      124
+    ],
+    "(b)": [
+      126
+    ],
+    "aggregated": [
+      128
+    ],
+    "storages": [
+      130
+    ],
+    "decomposed": [
+      132
+    ],
+    "maximising": [
+      134
+    ],
+    "hydropower": [
+      135
+    ],
+    "generation": [
+      136,
+      161
+    ],
+    "with": [
+      137
+    ],
+    "constraints.": [
+      138
+    ],
+    "Xiluodu,": [
+      140
+    ],
+    "Xiangjiaba": [
+      141
+    ],
+    "Three": [
+      143
+    ],
+    "Gorges": [
+      144
+    ],
+    "system": [
+      146
+    ],
+    "Yangtze": [
+      149
+    ],
+    "River,": [
+      150
+    ],
+    "China,": [
+      151
+    ],
+    "were": [
+      152,
+      183,
+      192
+    ],
+    "selected": [
+      153
+    ],
+    "case": [
+      156
+    ],
+    "study.": [
+      157
+    ],
+    "annual": [
+      159
+    ],
+    "power": [
+      160
+    ],
+    "175.40": [
+      163
+    ],
+    "billion": [
+      164,
+      179,
+      188
+    ],
+    "kWh": [
+      165,
+      180,
+      189
+    ],
+    "when": [
+      166
+    ],
+    "static": [
+      168
+    ],
+    "operation": [
+      169
+    ],
+    "rules.": [
+      170
+    ],
+    "With": [
+      171
+    ],
+    "operation,": [
+      173
+    ],
+    "output": [
+      175
+    ],
+    "would": [
+      176
+    ],
+    "be": [
+      177
+    ],
+    "177.05": [
+      178
+    ],
+    "if": [
+      181,
+      190
+    ],
+    "CSRs": [
+      182,
+      191
+    ],
+    "not": [
+      184
+    ],
+    "177.53": [
+      187
+    ],
+    "considered.": [
+      193
+    ],
+    "Thus,": [
+      194
+    ],
+    "proposed": [
+      196
+    ],
+    "can": [
+      198
+    ],
+    "efficiently": [
+      199
+    ],
+    "determine": [
+      200
+    ],
+    "WLFS.": [
+      208
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-09-06T09:10:53.072986",
+  "created_date": "2025-10-10T00:00:00"
+}

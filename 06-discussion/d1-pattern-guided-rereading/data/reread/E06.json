@@ -1,0 +1,70 @@
+{
+  "paper": "E06",
+  "patterns": {
+    "RP01": {"present": false},
+    "RP02": {
+      "present": true,
+      "small": ["RP02-A", "RP02-B", "RP02-C", "RP02-D", "RP02-E", "RP02-G"],
+      "quote": "This paper considers the uncertainties in ﬂood hydrograph shape, ﬂood forecasting, discharge capacity, water level- storage curves, and wind wave.",
+      "where": "Section 1 Introduction (p.2); also Sections 2, 5.2.3 (backwater height ignored as negligible)"
+    },
+    "RP03": {"present": false},
+    "RP04": {
+      "present": true,
+      "small": ["RP04-A", "RP04-B", "RP04-C", "RP04-D"],
+      "quote": "the load can be the highest water level ZM or peak discharge Qm at the downstream control point and the resistance can be determined by the safe water level Zs or the safe water release discharge Qs",
+      "where": "Section 4.1 (p.5); entropy risk measure Section 4.2; design-criteria benchmark Section 5.3.2 (p.10)"
+    },
+    "RP05": {"present": false},
+    "RP06": {"present": false},
+    "RP07": {"present": false},
+    "RP08": {
+      "present": true,
+      "small": ["RP08-D"],
+      "quote": "considering the advantage of metaellip- tical copulas and the limitations of vine-copula, the metaelliptical co- pula was selected in this study.",
+      "where": "Section 2.1 (p.3)"
+    },
+    "RP09": {
+      "present": true,
+      "small": ["RP09-C", "RP09-E"],
+      "quote": "The reason for theﬁrst change point is that when the water level reaches 155 m of TGR, the reservoir operation mode is changed and the discharge increases rapidly",
+      "where": "Section 5.3.1 (p.7); scenario fidelity checks Section 5.2; attribution Section 5.3.2 (p.10)"
+    },
+    "EP01": {
+      "present": true,
+      "small": ["EP01-A", "EP01-B", "EP01-C", "EP01-D"],
+      "quote": "For ﬂood routing in TGR, a ruled-based decision making method was used in this study, which is also the current real-time operation rules for TGR now, as shown in Table 1.",
+      "where": "Section 5.1 Data (p.6)"
+    },
+    "EP02": {
+      "present": true,
+      "small": ["EP02-C"],
+      "quote": "Therefore, results show that as the lead time increasing, the forecast error will increase.",
+      "where": "Section 5.2.1 (p.7)"
+    },
+    "EP03": {
+      "present": true,
+      "small": ["EP03-A", "EP03-B", "EP03-C", "EP03-D", "EP03-F", "EP03-G"],
+      "quote": "A copula-based single site daily streamﬂow simulation method was used to simulate ﬂood hydrographs, and a copula-based simulation method was used to simulate ﬂood forecast errors with di ﬀerent lead times.",
+      "where": "Section 1 (p.2); Sections 2 and 5.2"
+    },
+    "EP04": {
+      "present": true,
+      "small": ["EP04-A", "EP04-C"],
+      "quote": "This procedure was repeated N times and a number of N ﬂood control reservoir operations were then obtained, which were used for subsequent risk analysis.",
+      "where": "Section 3 (p.5)"
+    },
+    "EP05": {"present": false},
+    "EP06": {"present": false},
+    "EP09": {"present": false},
+    "EP07": {
+      "present": true,
+      "small": ["EP07-A", "EP07-B", "EP07-D"],
+      "quote": "In order to analyze mul- tiple uncertainties and risk types in ﬂood control operation, the system risk of ﬂood control operation was assessed by Eq. (13).",
+      "where": "Section 4.2 (p.5); results Section 5.3, Tables 6-8"
+    },
+    "EP08": {"present": false},
+    "EP10": {"present": false},
+    "EP11": {"present": false}
+  }
+}

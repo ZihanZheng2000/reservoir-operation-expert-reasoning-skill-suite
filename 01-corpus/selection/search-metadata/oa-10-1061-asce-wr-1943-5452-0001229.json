@@ -1,0 +1,1235 @@
+{
+  "id": "https://openalex.org/W3014530555",
+  "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0001229",
+  "title": "Integration and Evaluation of Forecast-Informed Multiobjective Reservoir Operations",
+  "display_name": "Integration and Evaluation of Forecast-Informed Multiobjective Reservoir Operations",
+  "publication_year": 2020,
+  "publication_date": "2020-03-30",
+  "ids": {
+    "openalex": "https://openalex.org/W3014530555",
+    "doi": "https://doi.org/10.1061/(asce)wr.1943-5452.0001229",
+    "mag": "3014530555"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1061/(asce)wr.1943-5452.0001229",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0001229",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S127754761",
+      "display_name": "Journal of Water Resources Planning and Management",
+      "issn_l": "0733-9496",
+      "issn": [
+        "0733-9496",
+        "1943-5452"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310315747",
+      "host_organization_name": "American Society of Civil Engineers",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310315747"
+      ],
+      "host_organization_lineage_names": [
+        "American Society of Civil Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Water Resources Planning and Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5036019618",
+        "display_name": "Guang Yang",
+        "orcid": "https://orcid.org/0000-0001-7330-3502"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210142152",
+          "display_name": "ORCID",
+          "ror": "https://ror.org/04fa4r544",
+          "country_code": "US",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210142152"
+          ]
+        }
+      ],
+      "countries": [
+        "CN",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guang Yang",
+      "raw_affiliation_strings": [
+        "Ph.D. Researcher, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China; Postdoctoral Fellow, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706. ORCID: ",
+        "Postdoctoral Fellow, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706. ORCID: https://orcid.org/0000-0001-7330-3502"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-7330-3502",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Ph.D. Researcher, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China; Postdoctoral Fellow, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706. ORCID: ",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Postdoctoral Fellow, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706. ORCID: https://orcid.org/0000-0001-7330-3502",
+          "institution_ids": [
+            "https://openalex.org/I135310074",
+            "https://openalex.org/I4210142152"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5068171379",
+        "display_name": "Shenglian Guo",
+        "orcid": "https://orcid.org/0000-0002-8594-4988"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210094336",
+          "display_name": "Hubei Water Resources Research Institute",
+          "ror": "https://ror.org/007amws38",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210094336"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210113530",
+          "display_name": "Hubei Provincial Water Resources and Hydropower Planning Survey and Design Institute",
+          "ror": "https://ror.org/01hf8qc75",
+          "country_code": "CN",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I4210113530"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Shenglian Guo",
+      "raw_affiliation_strings": [
+        "Professor, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., Wuhan, Hubei 430072, China; Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China (corresponding author)",
+        "Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Professor, State Key Laboratory of Water Resources and Hydropower Engineering Science, Wuhan Univ., Wuhan, Hubei 430072, China; Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China (corresponding author)",
+          "institution_ids": [
+            "https://openalex.org/I37461747",
+            "https://openalex.org/I4210094336",
+            "https://openalex.org/I4210113530"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100358542",
+        "display_name": "Pan Liu",
+        "orcid": "https://orcid.org/0000-0002-3777-6561"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I37461747",
+          "display_name": "Wuhan University",
+          "ror": "https://ror.org/033vjfk17",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Pan Liu",
+      "raw_affiliation_strings": [
+        "Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Professor, School of Water Resources and Hydropower Engineering, Wuhan Univ., Wuhan, Hubei 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I37461747"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5081768377",
+        "display_name": "Paul Block",
+        "orcid": "https://orcid.org/0000-0003-1993-7496"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Paul Block",
+      "raw_affiliation_strings": [
+        "Associate Professor, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Associate Professor, Dept. of Civil and Environmental Engineering, Univ. of Wisconsin-Madison, Madison, WI 53706",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5068171379"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I37461747",
+    "https://openalex.org/I4210094336",
+    "https://openalex.org/I4210113530"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 4.9889,
+  "has_fulltext": false,
+  "cited_by_count": 45,
+  "citation_normalized_percentile": {
+    "value": 0.95692832,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "146",
+    "issue": "6",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11801",
+      "display_name": "Reservoir Engineering and Simulation Methods",
+      "score": 0.993399977684021,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9878000020980835,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/hydropower",
+      "display_name": "Hydropower",
+      "score": 0.6493306756019592
+    },
+    {
+      "id": "https://openalex.org/keywords/quantitative-precipitation-forecast",
+      "display_name": "Quantitative precipitation forecast",
+      "score": 0.6072772741317749
+    },
+    {
+      "id": "https://openalex.org/keywords/forecast-skill",
+      "display_name": "Forecast skill",
+      "score": 0.5922286510467529
+    },
+    {
+      "id": "https://openalex.org/keywords/cascade",
+      "display_name": "Cascade",
+      "score": 0.4849160313606262
+    },
+    {
+      "id": "https://openalex.org/keywords/streamflow",
+      "display_name": "Streamflow",
+      "score": 0.4758822023868561
+    },
+    {
+      "id": "https://openalex.org/keywords/forecast-verification",
+      "display_name": "Forecast verification",
+      "score": 0.46612951159477234
+    },
+    {
+      "id": "https://openalex.org/keywords/multi-objective-optimization",
+      "display_name": "Multi-objective optimization",
+      "score": 0.43184787034988403
+    },
+    {
+      "id": "https://openalex.org/keywords/value",
+      "display_name": "Value (mathematics)",
+      "score": 0.42566561698913574
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.41871270537376404
+    },
+    {
+      "id": "https://openalex.org/keywords/econometrics",
+      "display_name": "Econometrics",
+      "score": 0.37063997983932495
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-optimization",
+      "display_name": "Mathematical optimization",
+      "score": 0.25115451216697693
+    },
+    {
+      "id": "https://openalex.org/keywords/statistics",
+      "display_name": "Statistics",
+      "score": 0.23098918795585632
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.2205182909965515
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.16136279702186584
+    },
+    {
+      "id": "https://openalex.org/keywords/precipitation",
+      "display_name": "Precipitation",
+      "score": 0.14983808994293213
+    },
+    {
+      "id": "https://openalex.org/keywords/drainage-basin",
+      "display_name": "Drainage basin",
+      "score": 0.12631753087043762
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.10577055811882019
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C40675005",
+      "wikidata": "https://www.wikidata.org/wiki/Q170196",
+      "display_name": "Hydropower",
+      "level": 2,
+      "score": 0.6493306756019592
+    },
+    {
+      "id": "https://openalex.org/C140178040",
+      "wikidata": "https://www.wikidata.org/wiki/Q18402512",
+      "display_name": "Quantitative precipitation forecast",
+      "level": 3,
+      "score": 0.6072772741317749
+    },
+    {
+      "id": "https://openalex.org/C170061395",
+      "wikidata": "https://www.wikidata.org/wiki/Q5468164",
+      "display_name": "Forecast skill",
+      "level": 2,
+      "score": 0.5922286510467529
+    },
+    {
+      "id": "https://openalex.org/C34146451",
+      "wikidata": "https://www.wikidata.org/wiki/Q5048094",
+      "display_name": "Cascade",
+      "level": 2,
+      "score": 0.4849160313606262
+    },
+    {
+      "id": "https://openalex.org/C53739315",
+      "wikidata": "https://www.wikidata.org/wiki/Q29425295",
+      "display_name": "Streamflow",
+      "level": 3,
+      "score": 0.4758822023868561
+    },
+    {
+      "id": "https://openalex.org/C166851805",
+      "wikidata": "https://www.wikidata.org/wiki/Q5468165",
+      "display_name": "Forecast verification",
+      "level": 3,
+      "score": 0.46612951159477234
+    },
+    {
+      "id": "https://openalex.org/C68781425",
+      "wikidata": "https://www.wikidata.org/wiki/Q2052203",
+      "display_name": "Multi-objective optimization",
+      "level": 2,
+      "score": 0.43184787034988403
+    },
+    {
+      "id": "https://openalex.org/C2776291640",
+      "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+      "display_name": "Value (mathematics)",
+      "level": 2,
+      "score": 0.42566561698913574
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41871270537376404
+    },
+    {
+      "id": "https://openalex.org/C149782125",
+      "wikidata": "https://www.wikidata.org/wiki/Q160039",
+      "display_name": "Econometrics",
+      "level": 1,
+      "score": 0.37063997983932495
+    },
+    {
+      "id": "https://openalex.org/C126255220",
+      "wikidata": "https://www.wikidata.org/wiki/Q141495",
+      "display_name": "Mathematical optimization",
+      "level": 1,
+      "score": 0.25115451216697693
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.23098918795585632
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.2205182909965515
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.16136279702186584
+    },
+    {
+      "id": "https://openalex.org/C107054158",
+      "wikidata": "https://www.wikidata.org/wiki/Q25257",
+      "display_name": "Precipitation",
+      "level": 2,
+      "score": 0.14983808994293213
+    },
+    {
+      "id": "https://openalex.org/C126645576",
+      "wikidata": "https://www.wikidata.org/wiki/Q166620",
+      "display_name": "Drainage basin",
+      "level": 2,
+      "score": 0.12631753087043762
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.10577055811882019
+    },
+    {
+      "id": "https://openalex.org/C42360764",
+      "wikidata": "https://www.wikidata.org/wiki/Q83588",
+      "display_name": "Chemical engineering",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C121332964",
+      "wikidata": "https://www.wikidata.org/wiki/Q413",
+      "display_name": "Physics",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C58640448",
+      "wikidata": "https://www.wikidata.org/wiki/Q42515",
+      "display_name": "Cartography",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C119599485",
+      "wikidata": "https://www.wikidata.org/wiki/Q43035",
+      "display_name": "Electrical engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1061/(asce)wr.1943-5452.0001229",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1061/(asce)wr.1943-5452.0001229",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S127754761",
+        "display_name": "Journal of Water Resources Planning and Management",
+        "issn_l": "0733-9496",
+        "issn": [
+          "0733-9496",
+          "1943-5452"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310315747",
+        "host_organization_name": "American Society of Civil Engineers",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310315747"
+        ],
+        "host_organization_lineage_names": [
+          "American Society of Civil Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Water Resources Planning and Management",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation",
+      "score": 0.8399999737739563
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 52,
+  "referenced_works": [
+    "https://openalex.org/W1505994900",
+    "https://openalex.org/W1629339888",
+    "https://openalex.org/W1672235175",
+    "https://openalex.org/W1821659999",
+    "https://openalex.org/W1957430778",
+    "https://openalex.org/W1965555277",
+    "https://openalex.org/W1967550943",
+    "https://openalex.org/W1967971203",
+    "https://openalex.org/W1993195626",
+    "https://openalex.org/W1994160087",
+    "https://openalex.org/W1995622703",
+    "https://openalex.org/W2005071045",
+    "https://openalex.org/W2011178729",
+    "https://openalex.org/W2012413692",
+    "https://openalex.org/W2012587148",
+    "https://openalex.org/W2025286278",
+    "https://openalex.org/W2028637411",
+    "https://openalex.org/W2028740558",
+    "https://openalex.org/W2033904036",
+    "https://openalex.org/W2042729862",
+    "https://openalex.org/W2052815107",
+    "https://openalex.org/W2067611113",
+    "https://openalex.org/W2077249311",
+    "https://openalex.org/W2086252391",
+    "https://openalex.org/W2091819047",
+    "https://openalex.org/W2099111195",
+    "https://openalex.org/W2108051346",
+    "https://openalex.org/W2114821107",
+    "https://openalex.org/W2116117913",
+    "https://openalex.org/W2119839985",
+    "https://openalex.org/W2120448460",
+    "https://openalex.org/W2126171847",
+    "https://openalex.org/W2130231525",
+    "https://openalex.org/W2133315273",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2155633525",
+    "https://openalex.org/W2261645655",
+    "https://openalex.org/W2313323932",
+    "https://openalex.org/W2345009882",
+    "https://openalex.org/W2496912619",
+    "https://openalex.org/W2591134645",
+    "https://openalex.org/W2603761096",
+    "https://openalex.org/W2604723462",
+    "https://openalex.org/W2605213514",
+    "https://openalex.org/W2608963045",
+    "https://openalex.org/W2615148370",
+    "https://openalex.org/W2756699641",
+    "https://openalex.org/W2769531911",
+    "https://openalex.org/W2787588256",
+    "https://openalex.org/W2789971625",
+    "https://openalex.org/W2797409842",
+    "https://openalex.org/W6653548176"
+  ],
+  "related_works": [
+    "https://openalex.org/W1980430798",
+    "https://openalex.org/W2049162431",
+    "https://openalex.org/W2545094043",
+    "https://openalex.org/W2155045992",
+    "https://openalex.org/W3161359019",
+    "https://openalex.org/W2018180648",
+    "https://openalex.org/W3125827383",
+    "https://openalex.org/W2149763719",
+    "https://openalex.org/W3003449395",
+    "https://openalex.org/W2029284656"
+  ],
+  "abstract_inverted_index": {
+    "Incorporating": [
+      0
+    ],
+    "streamflow": [
+      1,
+      99
+    ],
+    "forecasts": [
+      2,
+      100
+    ],
+    "into": [
+      3
+    ],
+    "reservoir": [
+      4,
+      18,
+      34,
+      107,
+      169
+    ],
+    "operations": [
+      5
+    ],
+    "can": [
+      6
+    ],
+    "improve": [
+      7
+    ],
+    "water": [
+      8
+    ],
+    "resources": [
+      9
+    ],
+    "management": [
+      10
+    ],
+    "efficiency,": [
+      11,
+      131
+    ],
+    "yet": [
+      12
+    ],
+    "the": [
+      13,
+      25,
+      53,
+      84,
+      90,
+      95,
+      103,
+      113,
+      149,
+      164,
+      178
+    ],
+    "forecast": [
+      14,
+      28,
+      72,
+      76,
+      119,
+      140,
+      152,
+      159,
+      181,
+      184,
+      199
+    ],
+    "value": [
+      15,
+      31,
+      122,
+      160
+    ],
+    "in": [
+      16,
+      32,
+      89,
+      163,
+      188,
+      194,
+      197
+    ],
+    "multipurpose": [
+      17
+    ],
+    "systems": [
+      19
+    ],
+    "is": [
+      20,
+      123,
+      145,
+      172
+    ],
+    "rarely": [
+      21
+    ],
+    "investigated,": [
+      22
+    ],
+    "let": [
+      23
+    ],
+    "alone": [
+      24
+    ],
+    "relationship": [
+      26,
+      117,
+      179
+    ],
+    "between": [
+      27,
+      118,
+      180
+    ],
+    "accuracy": [
+      29,
+      120,
+      128,
+      182,
+      189
+    ],
+    "and": [
+      30,
+      52,
+      61,
+      70,
+      121,
+      136,
+      139,
+      161,
+      176,
+      183
+    ],
+    "multiobjective": [
+      33,
+      44,
+      106,
+      167
+    ],
+    "operation.": [
+      35
+    ],
+    "Here,": [
+      36
+    ],
+    "we": [
+      37
+    ],
+    "propose": [
+      38
+    ],
+    "a": [
+      39,
+      80
+    ],
+    "forecast-informed": [
+      40,
+      168
+    ],
+    "framework": [
+      41
+    ],
+    "to": [
+      42,
+      74,
+      147,
+      174,
+      191
+    ],
+    "derive": [
+      43
+    ],
+    "operating": [
+      45
+    ],
+    "rules": [
+      46
+    ],
+    "based": [
+      47
+    ],
+    "on": [
+      48,
+      79
+    ],
+    "radial": [
+      49
+    ],
+    "basis": [
+      50
+    ],
+    "functions": [
+      51
+    ],
+    "Pareto": [
+      54,
+      67
+    ],
+    "archived": [
+      55
+    ],
+    "dynamically": [
+      56
+    ],
+    "dimensioned": [
+      57
+    ],
+    "search": [
+      58
+    ],
+    "optimization": [
+      59
+    ],
+    "algorithm": [
+      60
+    ],
+    "subsequently": [
+      62
+    ],
+    "develop": [
+      63
+    ],
+    "indicators": [
+      64,
+      129
+    ],
+    "reflective": [
+      65
+    ],
+    "of": [
+      66,
+      83,
+      87,
+      98,
+      105
+    ],
+    "fronts": [
+      68
+    ],
+    "with": [
+      69,
+      158
+    ],
+    "without": [
+      71
+    ],
+    "information": [
+      73
+    ],
+    "characterize": [
+      75
+    ],
+    "value.": [
+      77,
+      141
+    ],
+    "Based": [
+      78
+    ],
+    "case": [
+      81
+    ],
+    "study": [
+      82
+    ],
+    "Hanjiang": [
+      85
+    ],
+    "cascade": [
+      86
+    ],
+    "reservoirs": [
+      88
+    ],
+    "Yangtze": [
+      91
+    ],
+    "River": [
+      92
+    ],
+    "Basin,": [
+      93
+    ],
+    "China,": [
+      94
+    ],
+    "optimal": [
+      96
+    ],
+    "inclusion": [
+      97
+    ],
+    "notably": [
+      101
+    ],
+    "improves": [
+      102
+    ],
+    "performance": [
+      104
+    ],
+    "operations,": [
+      108
+    ],
+    "mainly": [
+      109
+    ],
+    "by": [
+      110,
+      125
+    ],
+    "significantly": [
+      111
+    ],
+    "increasing": [
+      112
+    ],
+    "hydropower": [
+      114
+    ],
+    "generation.": [
+      115
+    ],
+    "The": [
+      116,
+      142
+    ],
+    "explored": [
+      124
+    ],
+    "comparing": [
+      126
+    ],
+    "four": [
+      127
+    ],
+    "(Nash–Sutcliffe": [
+      130
+    ],
+    "mutual": [
+      132
+    ],
+    "information,": [
+      133
+    ],
+    "correlation": [
+      134,
+      143,
+      157
+    ],
+    "coefficient,": [
+      135
+    ],
+    "Kullback–Leibler": [
+      137
+    ],
+    "distance)": [
+      138
+    ],
+    "coefficient": [
+      144
+    ],
+    "found": [
+      146
+    ],
+    "be": [
+      148,
+      203
+    ],
+    "most": [
+      150
+    ],
+    "suitable": [
+      151
+    ],
+    "indicator": [
+      153
+    ],
+    "given": [
+      154
+    ],
+    "its": [
+      155
+    ],
+    "high": [
+      156
+    ],
+    "stability": [
+      162
+    ],
+    "regression.": [
+      165
+    ],
+    "For": [
+      166
+    ],
+    "systems,": [
+      170
+    ],
+    "it": [
+      171
+    ],
+    "critical": [
+      173
+    ],
+    "understand": [
+      175
+    ],
+    "define": [
+      177
+    ],
+    "value;": [
+      185
+    ],
+    "if": [
+      186
+    ],
+    "improvements": [
+      187
+    ],
+    "lead": [
+      190
+    ],
+    "steep": [
+      192
+    ],
+    "gains": [
+      193
+    ],
+    "value,": [
+      195
+    ],
+    "investing": [
+      196
+    ],
+    "further": [
+      198
+    ],
+    "model": [
+      200
+    ],
+    "development": [
+      201
+    ],
+    "may": [
+      202
+    ],
+    "warranted.": [
+      204
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-22T07:51:19.307946",
+  "created_date": "2025-10-10T00:00:00"
+}

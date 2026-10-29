@@ -1,0 +1,88 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-R8,E01,Interpret gains only after checking case constraints and the baseline comparison,primary,RP09-A,,Gains interpreted only against current rule under case constraints
+E02-R9,E02,Test how uncertainty affects reliability,primary,RP09-B,,Effect of uncertainty level and correlation on decision reliability
+E03-R8,E03,Interpret sensitivity and case results within the model's claim boundary,primary,RP09-B,,Sensitivity to weight and loss exponent
+E04-R5,E04,Select a marginal family from empirical fit evidence,secondary,RP09-C,,Distribution chosen from fit evidence
+E04-R7,E04,Define the operational threshold and comparison route,secondary,RP09-A,,Forecast-informed operation compared with observed-inflow regular routing
+E06-R8,E06,Interpret contribution and design-criterion results within the case,primary,RP09-E,,Uncertainty contributions attributed: hydrograph shape dominates
+E07-R7,E07,Judge viability against operationally meaningful comparators,primary,RP09-A,,"Current manual as baseline, perfect forecast as upper bound"
+E07-R8,E07,Bound the conclusion by forecast skill and site conditions,primary,RP09-D,,Benefit conditional on reliable lead times and site limits
+E08-R6,E08,Convert distributions into risk and assess uncertainty interactions,secondary,RP09-B,,One- vs two-factor cases reveal risk drivers
+E09-R4,E09,Stress-test forecast failure and capacity,secondary,RP09-B,,Worst-case forecast failure stress test
+E09-R5,E09,Judge practical benefit and boundaries,primary,RP09-D,,Benefit varies by event; safe bound more useful than planned volume
+E10-R6,E10,Evaluate by safety/utilization trade-off,primary,RP09-A,,Rules compared with baselines across flood types
+E11-R5,E11,Evaluate robustness and benefit,primary,RP09-B,,"Value depends on skill, capacity, size, flood pattern"
+E12-R5,E12,Check safety and transfer limits,primary,RP09-A,,Rule must be safe and better than current approaches
+E13-R1,E13,Diagnose hindcast coverage risk,primary,RP09-B,,Short hindcasts may miss rare patterns; robustness needs many realizations
+E13-R5,E13,Check statistical parity before operational interpretation,primary,RP09-C,,Statistical parity checked before operational use
+E13-R6,E13,Attribute operational differences cautiously,primary,RP09-E,,Spills attributed to generator bias vs policy vulnerability
+E13-R7,E13,Extend to pre-hindcast observations with explicit limits,primary,RP09-D,,Pre-hindcast extension labeled exploratory
+E14-R1,E14,Classify event scale before fitting,secondary,RP09-C,,Events clustered to reduce model error with few events
+E14-R5,E14,Evaluate forecast quality and forecast value separately,secondary,RP09-A,,Operational value post-assessed under perfect inflows
+E14-R8,E14,Test robustness under scenario quantity and measurement uncertainty,primary,RP09-B,,Robustness to scenario count and measurement error
+E15-R7,E15,Select and interpret representative rules,primary,RP09-E,,Representative rules explain how thresholds change behavior
+E15-R8,E15,Bound robustness claims by case and omitted uncertainty,primary,RP09-D,,"One cascade, limited flood scales, omitted uncertainty"
+E16-R1,E16,Diagnose robustness gaps,primary,RP09-B,,Synthetic ensembles and scaling expose overfitting
+E16-R3,E16,Compare distinct policy information pathways,primary,RP09-A,,Policies compared under same limits with lower/upper benchmarks
+E16-R4,E16,Train EFO under uncertainty and holdout branches,primary,RP09-B,,Training on synthetic ensembles and holdout year
+E16-R5,E16,Stress policies with scaled events and independent synthetic forecasts,primary,RP09-B,,Scaled 100-300-year events stress test
+E16-R6,E16,Interpret forecast skill and operational response jointly,secondary,RP09-E,,"Forecast bias, timing, spread linked to policy actions"
+E16-R7,E16,Bound water-supply and feasibility conclusions,secondary,RP09-D,,Benefit depends on refill and authority
+E17-R1,E17,Frame a cross-site screening problem,primary,RP09-D,,Single-site results do not show where FIRO works
+E17-R5,E17,Convert response surfaces to interpretable thresholds,primary,RP09-E,,Response surfaces turned into interpretable thresholds
+E17-R6,E17,Compare HEFS with perfect and baseline references,primary,RP09-A,,Baseline and perfect references bound forecast value
+E17-R7,E17,Bound threshold generalization,primary,RP09-D,,Thresholds only as preliminary screening
+E18-R3,E18,Match assessment objectives to site characteristics,secondary,RP09-D,,"Site purposes differ, so alternatives must be adapted"
+E18-R6,E18,Compare each candidate with the current baseline on multiple metrics,primary,RP09-A,,"Each alternative compared with current operations, not with each other"
+E18-R8,E18,Scale from pilots through staged portfolio screening,primary,RP09-D,,Portfolio screening before detailed assessment
+E18-R9,E18,Codify and future-proof suitable adjustments in WCMs,primary,RP09-D,,Future tools enter manuals only after verified improvement
+E19-R7,E19,Separate the proposed comparison from the historical comparator,primary,RP09-A,,Matched comparator isolates vapor's effect; historical comparison caveated
+E19-R8,E19,Test physical relation and operational mechanism before aggregate evaluation,primary,RP09-C,,Physical relation and mechanism checked before aggregate evaluation
+E19-R9,E19,Quantify benefits and safety across a flood-event sample,primary,RP09-A,,Event-sample statistics with comparator confounding noted
+E19-R10,E19,Check data/model adequacy and state operational limits,primary,RP09-C,,Hydrological model and reanalysis data validated
+E20-R2,E20,Diagnose the weakness of few-event or user-tuned calibration,secondary,RP09-B,,Calibration on few events may not generalize
+E20-R8,E20,Explore parameter behavior and inspect sensitivity before choosing a case policy,primary,RP09-B,,Parameter sensitivity before choosing policy
+E20-R9,E20,"Interpret the balanced solution as a compromise, not universal superiority",secondary,RP09-E,,Balanced solution explained as compromise
+E20-R10,E20,Identify deployment prerequisites and limitations,primary,RP09-D,,Missing evidence before adoption
+E21-R8,E21,Verify multiple outcomes and reflect after the event,primary,RP09-D,,Post-event reanalysis to revise scheme
+E22-R7,E22,Compare ensemble scenarios with deterministic/no-forecast and observed operation,primary,RP09-A,,Ensemble vs deterministic vs observed operation
+E22-R9,E22,Assess practical transfer and computational feasibility,primary,RP09-D,,"Blueprint pending computation, data, institutional upgrades"
+E23-R6,E23,Interpret comparative behavior within the event,primary,RP09-E,,Stochastic control behavior explained as conservative allocation
+E25-R5,E25,Assess convexity and parameter effects,primary,RP09-B,,Effect of failure-curve shape and parameters
+E25-R6,E25,Interpret practical operating conditions,primary,RP09-D,,Institutional and economic costs bound theoretical result
+E26-R6,E26,Test whether forecast precision changes the trade-off,secondary,RP09-B,,Robustness to forecast precision
+E27-R5,E27,Use Monte Carlo MWL distributions as operator risk evidence,secondary,RP09-C,,Normality assumed for maximum-level distribution to estimate tails
+E27-R6,E27,Interpret acceptability and limits,primary,RP09-D,,Acceptability stated with unquantified comparator risk
+E28-R5,E28,Calibrate and test the case route,secondary,RP09-C,,Forecast verified before risk estimate
+E31-R5,E31,Compare uncertainty scenarios and model alternatives,primary,RP09-B,,Factor isolation and simplified-model comparison
+E32-R5,E32,Select inference direction and risk event,secondary,RP09-E,,Diagnosis inference to identify likely causes
+E32-R6,E32,Judge uncertainty sensitivity and usefulness,primary,RP09-B,,Sensitivity to uncertainty level and comparators
+E33-R6,E33,Verify that the two-stage estimate does not understate risk,primary,RP09-C,,Risk estimator verified not to understate frequency
+E34-R4,E34,Separate benchmark boundary construction from stochastic risk optimization,primary,RP09-A,,Deterministic benchmark built separately from stochastic model
+E34-R8,E34,Bound the claim by scenario and horizon evidence,primary,RP09-D,,Means may hide severe scenarios; horizon limits
+E35-R8,E35,Treat branch/horizon selection as a performance-computation trade-off,secondary,RP09-B,,Results checked across branch counts and horizons
+E36-R7,E36,Infer the maximum-level density with POME,secondary,RP09-C,,Density estimate checked against normal and P-P plot
+E37-R1,E37,Compare uncertainty structures of CO and FBO,secondary,RP09-A,,"Uncertainty in both modes compared, not only the new one"
+E37-R3,E37,Test the forecast-error distribution before simulation,secondary,RP09-C,,Error distribution tested before simulation
+E37-R5,E37,Compare CO/FBO risk under common flood scenarios,primary,RP09-A,,"Modes compared under common floods, levels, thresholds"
+E38-R6,E38,Test whether the selected scheme is flood-type dependent,primary,RP09-B,,Selected scheme checked across eight flood types
+E41-R6,E41,Check credibility results against extreme risk,primary,RP09-C,,Credibility result cross-checked with extreme-risk calculation
+E42-R3,E42,Require distributional adequacy before propagating risk,primary,RP09-C,,Error model adequacy tested against alternatives
+E42-R4,E42,Translate modeled error into operational scenarios,secondary,RP09-C,,Ensemble coverage of observations checked
+E42-R6,E42,Interpret lead-time/return-period dependence,secondary,RP09-B,,Dependence on lead time and return period
+E43-R5,E43,Interpret residual risk and model limits,primary,RP09-D,,Residual risk from physical and information limits
+E44-R6,E44,Interpret benefits and boundaries,primary,RP09-D,,Benefit stated with channel and lead-time caveats
+E45-R3,E45,Establish a stationary benchmark,secondary,RP09-A,,Stationary scheme as comparison baseline
+E45-R6,E45,Interpret the stricter metric and claim scope,primary,RP09-D,,Metric conclusion limited to this nonstationary problem
+E46-R6,E46,Validate generalization and identify forecast value,primary,RP09-B,,Held-out typhoons test generalization
+E47-R1,E47,Separate criterion selection from alternative ranking,secondary,RP09-C,,Criteria examined before ranking
+E47-R6,E47,Test whether deletion preserves decisions,primary,RP09-C,,Ranking consistency checked after criterion deletion
+E48-R6,E48,Use multiple ranking methods and consistency as the evaluation check,primary,RP09-C,,Agreement across ranking methods used when no true ranking exists
+E48-R7,E48,Interpret the compromise and state claim limits,secondary,RP09-E,,Leading alternative explained by its trade-off
+E49-R6,E49,Explain risk hedging through release timing,primary,RP09-E,,Loss reduction explained by spreading release before peak
+E49-R7,E49,Condition conclusions on flood magnitude and training information,primary,RP09-D,,Conclusions depend on flood magnitude
+E50-R2,E50,Use a compact risk-curve representation of EFO,secondary,RP09-B,,Compact parameterization to limit overfitting
+E50-R4,E50,Design comparisons to isolate forecast value,primary,RP09-A,,"Variants separate forecast, TOCS raising, perfect information"
+E50-R6,E50,Treat storage and release frequency as joint viability checks,primary,RP09-A,,Storage gains judged together with release frequency
+E50-R7,E50,Use attributes and diagnostics to qualify transferability,primary,RP09-B,,LOOCV and seed variability test transfer and reliability
+E50-R8,E50,Bound conclusions by hydrology and data coverage,primary,RP09-D,,Dry short record; few large-flood tests

@@ -1,0 +1,990 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        9,
+        5
+      ]
+    ],
+    "date-time": "2026-09-05T03:53:28Z",
+    "timestamp": 1788580408869,
+    "version": "build-2803163510"
+  },
+  "reference-count": 53,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2018-10-01T00:00:00Z",
+        "timestamp": 1538352000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2018,
+            10,
+            1
+          ]
+        ],
+        "date-time": "2018-10-01T00:00:00Z",
+        "timestamp": 1538352000000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51879109"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51879109"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51509273"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51509273"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100001809",
+      "name": "National Natural Science Foundation of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "51679094"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "51679094"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100001809",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100012226",
+      "name": "Fundamental Research Funds for the Central Universities",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2017KFYXJJ194"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2017KFYXJJ194"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012226",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2018,
+        10
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2018.08.040",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2018,
+        8,
+        23
+      ]
+    ],
+    "date-time": "2018-08-23T23:20:03Z",
+    "timestamp": 1535066403000
+  },
+  "page": "672-684",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 116,
+  "special_numbering": "C",
+  "title": [
+    "Risk analysis of flood control reservoir operation considering multiple uncertainties"
+  ],
+  "prefix": "10.1016",
+  "volume": "565",
+  "author": [
+    {
+      "given": "Kangdi",
+      "family": "Huang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lei",
+      "family": "Ye",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Lu",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Quansen",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Ling",
+      "family": "Dai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jianzhong",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Vijay P.",
+      "family": "Singh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Mutao",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Junhong",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b9000",
+      "doi-asserted-by": "crossref",
+      "first-page": "182",
+      "DOI": "10.1016/j.insmatheco.2007.02.001",
+      "article-title": "Pair-copula constructions of multiple dependence",
+      "volume": "44",
+      "author": "Aas",
+      "year": "2009",
+      "journal-title": "Insur. Math. Econ."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b9005",
+      "doi-asserted-by": "crossref",
+      "first-page": "716",
+      "DOI": "10.1109/TAC.1974.1100705",
+      "article-title": "A new look at the statistical model identification",
+      "volume": "19",
+      "author": "Akaike",
+      "year": "1974",
+      "journal-title": "IEEE T. Automat. Contr."
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "1772",
+      "DOI": "10.1029/2010WR009137",
+      "article-title": "Multiscale error analysis, correction, and predictive uncertainty estimation in a flood forecasting system",
+      "volume": "47",
+      "author": "Bogner",
+      "year": "2011",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "437",
+      "DOI": "10.1080/14697681003685548",
+      "article-title": "Directional entropy and tail uncertainty, with applications to financial hazard",
+      "volume": "11",
+      "author": "Bowden",
+      "year": "2011",
+      "journal-title": "Quantitative Finance"
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "1591",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000714",
+      "article-title": "Measure of correlation between river flows using the copula-entropy method",
+      "volume": "18",
+      "author": "Chen",
+      "year": "2013",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "217",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0000932",
+      "article-title": "Determination of input for artificial neural networks for flood forecasting using the copula entropy method",
+      "volume": "19",
+      "author": "Chen",
+      "year": "2014",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "369",
+      "DOI": "10.1016/j.jhydrol.2015.05.018",
+      "article-title": "Copula-based method for multisite monthly and daily streamflow simulation",
+      "volume": "528",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0030",
+      "doi-asserted-by": "crossref",
+      "first-page": "621",
+      "DOI": "10.1016/j.jhydrol.2015.07.003",
+      "article-title": "An objective method for partitioning the entire flood season into multiple sub-seasons",
+      "volume": "528",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "712",
+      "DOI": "10.1016/j.jhydrol.2016.06.015",
+      "article-title": "Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation",
+      "volume": "540",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "699",
+      "DOI": "10.1016/j.jhydrol.2017.12.066",
+      "article-title": "Entropy-based derivation of generalized distributions for hydrometeorological frequency analysis",
+      "volume": "557",
+      "author": "Chen",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0045",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.3390/e20020117",
+      "article-title": "Bayesian technique for the selection of probability distributions for frequency analyses of hydrometeorological extremes",
+      "volume": "20",
+      "author": "Chen",
+      "year": "2018",
+      "journal-title": "Entropy"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "756",
+      "DOI": "10.1016/j.enconman.2014.06.043",
+      "article-title": "Research on a layered coupling optimal operation model of the three gorges and gezhouba cascade hydropower stations",
+      "volume": "86",
+      "author": "Chen",
+      "year": "2014",
+      "journal-title": "Energy Convers. Manage."
+    },
+    {
+      "issue": "8",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "04014092",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000490",
+      "article-title": "Risk analysis for real-time flood control operation of a reservoir",
+      "volume": "141",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "J. Water Resour. Plann. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0060",
+      "doi-asserted-by": "crossref",
+      "first-page": "2490",
+      "DOI": "10.1002/2016WR019842",
+      "article-title": "A decomposition-integration risk analysis method for real-time operation of a complex flood control system",
+      "volume": "53",
+      "author": "Chen",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0065",
+      "doi-asserted-by": "crossref",
+      "first-page": "18",
+      "DOI": "10.1016/j.rser.2015.11.043",
+      "article-title": "Population, water, food, energy and dams",
+      "volume": "56",
+      "author": "Chen",
+      "year": "2016",
+      "journal-title": "Renew. Sustain. Energy Rev."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0070",
+      "doi-asserted-by": "crossref",
+      "first-page": "1023",
+      "DOI": "10.3390/e17031023",
+      "article-title": "Mining informative hydrologic data by using support vector machines and elucidating mined data according to information entropy",
+      "volume": "17",
+      "author": "Chen",
+      "year": "2015",
+      "journal-title": "Entropy"
+    },
+    {
+      "issue": "17",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0075",
+      "doi-asserted-by": "crossref",
+      "first-page": "1749",
+      "DOI": "10.1080/03610928008827996",
+      "article-title": "Small sample sensitivity analysis techniques for computer models.with an application to risk assessment",
+      "volume": "9",
+      "author": "Conover",
+      "year": "1980",
+      "journal-title": "Commun. Statistics"
+    },
+    {
+      "issue": "7",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "1949",
+      "DOI": "10.1007/s11431-010-3124-3",
+      "article-title": "Risk analysis of flood control operation mode with forecast information based on a combination of risk sources",
+      "volume": "53",
+      "author": "Diao",
+      "year": "2010",
+      "journal-title": "Sci. China Technol. Sci."
+    },
+    {
+      "issue": "6",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0085",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0090",
+      "author": "European Commission"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0095",
+      "doi-asserted-by": "crossref",
+      "first-page": "382",
+      "DOI": "10.1016/j.engstruct.2014.11.044",
+      "article-title": "Spectral representation-based neural network assisted stochastic structural mechanics",
+      "volume": "84",
+      "author": "Giovanis",
+      "year": "2015",
+      "journal-title": "Eng. Struct."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "486",
+      "DOI": "10.1109/TPWRS.2008.919425",
+      "article-title": "Comparison of simulation methods for power system reliability indexes and their distributions",
+      "volume": "23",
+      "author": "Jirutitijaroen",
+      "year": "2008",
+      "journal-title": "IEEE Trans. Power Syst."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0105",
+      "first-page": "1",
+      "article-title": "Using copulas for stochastic streamflow generation",
+      "author": "Lee",
+      "year": "2008",
+      "journal-title": "World Environ. Water Resour. Congr."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "318",
+      "DOI": "10.2166/nh.2011.085",
+      "article-title": "Copula-based stochastic simulation of hydrological data applied to Nile River flows",
+      "volume": "42",
+      "author": "Lee",
+      "year": "2011",
+      "journal-title": "Hydrol. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0115",
+      "doi-asserted-by": "crossref",
+      "first-page": "210",
+      "DOI": "10.1016/j.jhydrol.2010.06.044",
+      "article-title": "Evaluation of the subjective factors of the GLUE method and comparison with the formal Bayesian method in uncertainty assessment of hydrological models",
+      "volume": "390",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "55",
+      "DOI": "10.1080/00401706.2000.10485979",
+      "article-title": "A comparison of three methods for selecting values of input variables in the analysis of output from a computer code",
+      "volume": "42",
+      "author": "Mckay",
+      "year": "1979",
+      "journal-title": "Technometrics"
+    },
+    {
+      "issue": "11",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "1593",
+      "DOI": "10.1175/BAMS-86-11-1593",
+      "article-title": "Flood risk, uncertainty, and scientific information for decision making: lessons from an interdisciplinary project",
+      "volume": "86",
+      "author": "Morss",
+      "year": "2005",
+      "journal-title": "Bull. Am. Meteorol. Soc."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "226",
+      "DOI": "10.3390/e19050226",
+      "article-title": "Information entropy and measures of market risk",
+      "volume": "19",
+      "author": "Pele",
+      "year": "2017",
+      "journal-title": "Entropy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0140",
+      "unstructured": "Pham, T.V., 2011. Tracking the uncertainty in streamflow prediction through a hydrological forecasting system."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "489",
+      "DOI": "10.1016/0045-7949(78)90046-9",
+      "article-title": "Structural reliability under combined random load sequences",
+      "volume": "9",
+      "author": "Rackwitz",
+      "year": "1978",
+      "journal-title": "Comput. Struct."
+    },
+    {
+      "issue": "379–423",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "623",
+      "DOI": "10.1002/j.1538-7305.1948.tb00917.x",
+      "article-title": "A mathematical theory of communication",
+      "volume": "27",
+      "author": "Shannon",
+      "year": "1948",
+      "journal-title": "Bell Syst. Tech. J."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0155",
+      "doi-asserted-by": "crossref",
+      "first-page": "933",
+      "DOI": "10.1016/j.jhydrol.2015.05.056",
+      "article-title": "A service-oriented architecture for ensemble flood forecast from numerical weather prediction",
+      "volume": "527",
+      "author": "Shi",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "603",
+      "DOI": "10.2136/sssaj2014.07.0299",
+      "article-title": "Evaluation of conditioned latin hypercube sampling as a support for soil mapping and spatial variability of soil properties",
+      "volume": "79",
+      "author": "Silva",
+      "year": "2015",
+      "journal-title": "Soil Sci. Soc. Am. J."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0165",
+      "doi-asserted-by": "crossref",
+      "first-page": "143",
+      "DOI": "10.1080/00401706.1987.10488205",
+      "article-title": "Large sample properties of simulations using latin hypercube sampling",
+      "volume": "29",
+      "author": "Stein",
+      "year": "1987",
+      "journal-title": "Technometrics"
+    },
+    {
+      "issue": "10",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0170",
+      "first-page": "1153",
+      "article-title": "Risk analysis on overtopping for operation management of reservoir",
+      "volume": "36",
+      "author": "Sun",
+      "year": "2005",
+      "journal-title": "J. Hydraul. Eng."
+    },
+    {
+      "issue": "9",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0175",
+      "doi-asserted-by": "crossref",
+      "first-page": "1906",
+      "DOI": "10.1016/j.ssci.2012.05.006",
+      "article-title": "Solution method of overtopping risk model for earth dams",
+      "volume": "50",
+      "author": "Sun",
+      "year": "2012",
+      "journal-title": "Saf. Sci."
+    },
+    {
+      "issue": "424",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0180",
+      "doi-asserted-by": "crossref",
+      "first-page": "1392",
+      "DOI": "10.1080/01621459.1993.10476423",
+      "article-title": "Orthogonal array-based latin hypercubes",
+      "volume": "88",
+      "author": "Tang",
+      "year": "1993",
+      "journal-title": "J. Am. Stat. Assoc."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0185",
+      "series-title": "Hydrosystems engineering reliability assessment and risk analysis",
+      "author": "Tung",
+      "year": "2006"
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0190",
+      "doi-asserted-by": "crossref",
+      "first-page": "725",
+      "DOI": "10.1007/s00477-009-0359-2",
+      "article-title": "A stochastic differential equation model for assessing drought and flood risks",
+      "volume": "24",
+      "author": "Unami",
+      "year": "2010",
+      "journal-title": "Stoch. Env. Res. Risk Assess."
+    },
+    {
+      "issue": "1",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0195",
+      "doi-asserted-by": "crossref",
+      "first-page": "117",
+      "DOI": "10.1007/s11069-010-9653-z",
+      "article-title": "Risk analysis for flood-control structure under consideration of uncertainties in design flood",
+      "volume": "58",
+      "author": "Wu",
+      "year": "2011",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "359",
+      "DOI": "10.1007/s00477-013-0756-4",
+      "article-title": "Estimation of reservoir flood control operation risks with considering inflow forecasting errors",
+      "volume": "28",
+      "author": "Yan",
+      "year": "2014",
+      "journal-title": "Stoch. Env. Res. Risk Assess."
+    },
+    {
+      "issue": "3",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "792",
+      "DOI": "10.1016/j.ejor.2004.01.031",
+      "article-title": "A measure of risk and a decision-making model based on expected utility and entropy",
+      "volume": "164",
+      "author": "Yang",
+      "year": "2007",
+      "journal-title": "Eur. J. Oper. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "1795",
+      "DOI": "10.1007/s11269-018-1904-x",
+      "article-title": "Uncertainty analysis of bivariate design flood estimation and its impacts on reservoir routing",
+      "volume": "32",
+      "author": "Yin",
+      "year": "2018",
+      "journal-title": "Water Resour. Manage."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "661",
+      "DOI": "10.1109/TPWRS.2009.2016589",
+      "article-title": "Probabilistic load flow evaluation with hybrid latin hypercube sampling and cholesky decomposition",
+      "volume": "24",
+      "author": "Yu",
+      "year": "2009",
+      "journal-title": "IEEE Trans. Power Syst."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2018.08.040_b9010",
+      "doi-asserted-by": "crossref",
+      "first-page": "409",
+      "DOI": "10.1061/(ASCE)1084-0699(2007)12:4(409)",
+      "article-title": "Gumbel-Hougaard copula for trivariate rainfall frequency analysis",
+      "volume": "12",
+      "author": "Zhang",
+      "year": "2007",
+      "journal-title": "J. Hydrol. Eng."
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0220",
+      "doi-asserted-by": "crossref",
+      "first-page": "717",
+      "DOI": "10.1007/s11069-014-1207-3",
+      "article-title": "Risk assessment of earth dam overtopping and its application research",
+      "volume": "74",
+      "author": "Zhang",
+      "year": "2014",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "issue": "2",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0225",
+      "doi-asserted-by": "crossref",
+      "first-page": "2065",
+      "DOI": "10.1007/s11069-014-1454-3",
+      "article-title": "Erratum to: determination of the distribution of flood forecasting error",
+      "volume": "75",
+      "author": "Zhang",
+      "year": "2015",
+      "journal-title": "Nat. Hazards"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "41",
+      "DOI": "10.1016/j.advwatres.2013.03.008",
+      "article-title": "Generalized martingale model of the uncertainty evolution of streamflow forecasts",
+      "volume": "57",
+      "author": "Zhao",
+      "year": "2013",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "issue": "5",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0235",
+      "doi-asserted-by": "crossref",
+      "first-page": "1006",
+      "DOI": "10.1080/02626667.2014.901515",
+      "article-title": "Risk analysis for flood control operation of seasonal flood-limited water level incorporating inflow forecasting error",
+      "volume": "59",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "Hydrol. Sci. J."
+    },
+    {
+      "issue": "4",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "569",
+      "DOI": "10.1016/j.jher.2015.05.001",
+      "article-title": "Risk analysis for seasonal flood-limited water level under uncertainties",
+      "volume": "9",
+      "author": "Zhou",
+      "year": "2015",
+      "journal-title": "J. Hydro-environ. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2018.08.040_b0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "1485",
+      "DOI": "10.1007/s00477-016-1253-3",
+      "article-title": "SMAA-based stochastic multi-criteria decision making for reservoir flood control operation",
+      "volume": "31",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Stoch Environ Res Risk Assess."
+    },
+    {
+      "issue": "12",
+      "key": "10.1016/j.jhydrol.2018.08.040_b0250",
+      "doi-asserted-by": "crossref",
+      "first-page": "10635",
+      "DOI": "10.1002/2017WR021480",
+      "article-title": "Real-time optimal flood control decision making and risk propagation under multiple uncertainties",
+      "volume": "53",
+      "author": "Zhu",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S002216941830636X?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S002216941830636X?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        11,
+        3
+      ]
+    ],
+    "date-time": "2025-11-03T20:27:59Z",
+    "timestamp": 1762201679000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S002216941830636X"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        10
+      ]
+    ]
+  },
+  "references-count": 53,
+  "alternative-id": [
+    "S002216941830636X"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2018.08.040",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2018,
+        10
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Risk analysis of flood control reservoir operation considering multiple uncertainties",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2018.08.040",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2018 Elsevier B.V. All rights reserved.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ]
+}

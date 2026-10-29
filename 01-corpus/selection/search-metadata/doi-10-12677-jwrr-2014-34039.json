@@ -1,0 +1,208 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        4
+      ]
+    ],
+    "date-time": "2025-12-04T09:49:35Z",
+    "timestamp": 1764841775044,
+    "version": "3.46.0"
+  },
+  "reference-count": 17,
+  "publisher": "Hans Publishers",
+  "issue": "04",
+  "content-domain": {
+    "domain": [],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "JWRR"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "DOI": "10.12677/jwrr.2014.34039",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2014,
+        8,
+        18
+      ]
+    ],
+    "date-time": "2014-08-18T02:13:29Z",
+    "timestamp": 1408328009000
+  },
+  "page": "315-325",
+  "source": "Crossref",
+  "is-referenced-by-count": 3,
+  "title": [
+    "Optimal Operation Methods of Baise Reservoir for Flood Control"
+  ],
+  "prefix": "10.12677",
+  "volume": "03",
+  "author": [
+    {
+      "given": "靖文",
+      "family": "张",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "4945",
+  "reference": [
+    {
+      "key": "#cr-split#-ref1.1",
+      "unstructured": "雷声隆, 覃强荣, 郭元裕, 宁远, 张静, 李燕. 自优化模拟及其在南水北调东线工程中的应用[J]. 水利学报, 1989, (5): 1-13."
+    },
+    {
+      "key": "#cr-split#-ref1.2",
+      "unstructured": "LEI Shenglong, QIN Qiangrong, GUO Yuanyu, NING Yuan, ZHANG Jing and LI Yan. Self-optimization simulation and its application in the Project of South-to-North Water Transfer. Journal of Hydraulic Engineering, 1989, (5): 1-13. (in Chinese)"
+    },
+    {
+      "key": "#cr-split#-ref2.1",
+      "unstructured": "邵东国, 郭元裕, 沈佩君. 自优化模拟技术的最优性与收敛性[J]. 水利学报, 1995, (10): 15-22."
+    },
+    {
+      "key": "#cr-split#-ref2.2",
+      "unstructured": "SHAO Dongguo, GUO Yuanyu and SHEN Peijun. The optimal and convergence of self-optimization simulation. Journal of Hydraulic Engineering, 1995, (10): 15-22. (in Chinese)"
+    },
+    {
+      "key": "#cr-split#-ref3.1",
+      "unstructured": "薛青山, 罗强, 邵东国. 单一水库调度自优化模拟技术决策域的最优性[J]. 中国农村水利水电, 2009, (3): 1-3."
+    },
+    {
+      "key": "#cr-split#-ref3.2",
+      "unstructured": "XUE Qingshan, LUO Qiang and SHAO Dongguo. The optimal decision region of self-optimization simulation in re-servoir dispatching. China Rural Water and Hydropower, 2009, (3): 1-3. (in Chinese)"
+    },
+    {
+      "key": "ref4",
+      "unstructured": "陈森林. 水电站水库运行与调度[M]. 北京: 中国电力出版社, 2008.\nCHEN Senlin. Hydropower reservoir operation and operating. Beijing: China Electric Power Press, 2008. (in Chi-nese)"
+    },
+    {
+      "key": "ref5",
+      "unstructured": "雒文生, 宋星原. 洪水预报与调度[M]. 武汉: 湖北科学技术出版社, 2000.\nLUO Wensheng, SONG Xingyuan. Flood forecasting and operating. Wuhan: Hubei Science and Technology Press, 2000. (in Chinese)"
+    },
+    {
+      "key": "#cr-split#-ref6.1",
+      "unstructured": "梅亚东. 梯级水库防洪优化调度的动态规划模型及解法[J]. 武汉水利电力大学学报, 1999, 32(5): 10-12."
+    },
+    {
+      "key": "#cr-split#-ref6.2",
+      "unstructured": "MEI Yadong. Dynamic programming model and method of cascade reservoirs optimal operation for flood control. Journal of Wuhan University of Hydraulic and Electric engineering, 1999, 32(5): 10-12. (in Chinese)"
+    },
+    {
+      "key": "ref7",
+      "unstructured": "刘肇祎, 胡铁松, 罗强, 洪林. 灌排工程系统分析[M]. 北京: 中国水利水电出版, 2010.\nLIU Zhaoyi, HU Tiesong, LUO Qiang and HONG Lin. Irrigation and drainage systems analysis. Beijing: China Electric Power Press, 2010. (in Chinese)"
+    },
+    {
+      "key": "#cr-split#-ref8.1",
+      "unstructured": "赵铜铁钢, 雷晓辉, 蒋云钟, 王浩. 水库调度决策单调性与动态规划算法改进[J]. 水利学报, 2012, 43(4): 414-421."
+    },
+    {
+      "key": "#cr-split#-ref8.2",
+      "unstructured": "ZHAO Tongtiegang, LEI Xiaohui, JIANG Yunzhong and WANG Hao. Monotonicity in operation decision of reservoir and improved dynamic programming algorithm. Journal of Hydraulic Engineering, 2012, 43(4): 414-421. (in Chi-nese)"
+    },
+    {
+      "key": "#cr-split#-ref9.1",
+      "unstructured": "陈洋波, 陈惠源. 水电站库群隐随机优化调度函数初探[J]. 水电能源科学, 1990, 8(3): 216-223."
+    },
+    {
+      "key": "#cr-split#-ref9.2",
+      "unstructured": "CHEN Yangbo, CHEN Huiyuan. The preliminary approach of implicit stochastic optimal dispatching function for the hydro power station. Water Resources and Power, 1990, 8(3): 216-223. (in Chinese)"
+    },
+    {
+      "key": "ref10",
+      "doi-asserted-by": "crossref",
+      "unstructured": "CHANG, F. J., CHEN, L. and CHANG, L. C. Optimizing the reservoir operating rule curves by genetic algorithms. Hydrological Processes, 2005, 19(11): 2277-2289.",
+      "DOI": "10.1002/hyp.5674"
+    },
+    {
+      "key": "ref11",
+      "doi-asserted-by": "crossref",
+      "unstructured": "HSU, N. S., WEI, C. C. A multipurpose reservoir real-time operation model for flood control during typhoon invasion. Journal of Hydrology, 2007, 336(3): 282-293.",
+      "DOI": "10.1016/j.jhydrol.2007.01.001"
+    }
+  ],
+  "container-title": [
+    "Journal of Water Resources Research"
+  ],
+  "original-title": [
+    "百色水库防洪优化调度方法研究"
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        12,
+        4
+      ]
+    ],
+    "date-time": "2025-12-04T06:40:52Z",
+    "timestamp": 1764830452000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://www.hanspub.org/journal/paperinformation?paperid=13924"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  },
+  "references-count": 17,
+  "journal-issue": {
+    "issue": "04",
+    "published-print": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    }
+  },
+  "URL": "https://doi.org/10.12677/jwrr.2014.34039",
+  "relation": {},
+  "ISSN": [
+    "2166-6024",
+    "2166-5982"
+  ],
+  "issn-type": [
+    {
+      "type": "print",
+      "value": "2166-6024"
+    },
+    {
+      "type": "electronic",
+      "value": "2166-5982"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2014
+      ]
+    ]
+  }
+}

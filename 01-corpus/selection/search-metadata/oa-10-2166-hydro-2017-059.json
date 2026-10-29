@@ -1,0 +1,1326 @@
+{
+  "id": "https://openalex.org/W2594325822",
+  "doi": "https://doi.org/10.2166/hydro.2017.059",
+  "title": "Selection of criteria for multi-criteria decision making of reservoir flood control operation",
+  "display_name": "Selection of criteria for multi-criteria decision making of reservoir flood control operation",
+  "publication_year": 2017,
+  "publication_date": "2017-03-07",
+  "ids": {
+    "openalex": "https://openalex.org/W2594325822",
+    "doi": "https://doi.org/10.2166/hydro.2017.059",
+    "mag": "2594325822"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.2166/hydro.2017.059",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2166/hydro.2017.059",
+    "pdf_url": "https://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+    "source": {
+      "id": "https://openalex.org/S79392371",
+      "display_name": "Journal of Hydroinformatics",
+      "issn_l": "1464-7141",
+      "issn": [
+        "1464-7141",
+        "1465-1734"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320298",
+      "host_organization_name": "IWA Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320298"
+      ],
+      "host_organization_lineage_names": [
+        "IWA Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydroinformatics",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5014424306",
+        "display_name": "Feilin Zhu",
+        "orcid": "https://orcid.org/0000-0002-9780-9361"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Feilin Zhu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5077877575",
+        "display_name": "Ping‐an Zhong",
+        "orcid": "https://orcid.org/0009-0005-6145-3438"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Ping-an Zhong",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5066382560",
+        "display_name": "Yimeng Sun",
+        "orcid": "https://orcid.org/0000-0001-9790-6439"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yimeng Sun",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5022879772",
+        "display_name": "Bin Xu",
+        "orcid": "https://orcid.org/0000-0002-1281-5560"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I163340411",
+          "display_name": "Hohai University",
+          "ror": "https://ror.org/01wd4xt90",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bin Xu",
+      "raw_affiliation_strings": [
+        "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+        "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "College of Hydrology and Water Resources, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "National Engineering Research Center of Water Resources Efficient Utilization and Engineering Safety, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411"
+          ]
+        },
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydrology Water Resources and Hydraulic Engineering, Hohai University, No. 1 Xikang Road, Nanjing 210098, China",
+          "institution_ids": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5077877575"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I163340411",
+    "https://openalex.org/I4210099662"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.8458,
+  "has_fulltext": true,
+  "cited_by_count": 17,
+  "citation_normalized_percentile": {
+    "value": 0.74446875,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 93,
+    "max": 98
+  },
+  "biblio": {
+    "volume": "19",
+    "issue": "4",
+    "first_page": "558",
+    "last_page": "571"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13882",
+    "display_name": "Research studies in Vietnam",
+    "score": 0.9944999814033508,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2303",
+      "display_name": "Ecology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/23",
+      "display_name": "Environmental Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13882",
+      "display_name": "Research studies in Vietnam",
+      "score": 0.9944999814033508,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2303",
+        "display_name": "Ecology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12293",
+      "display_name": "Dam Engineering and Safety",
+      "score": 0.9876999855041504,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2205",
+        "display_name": "Civil and Structural Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11490",
+      "display_name": "Hydrological Forecasting Using AI",
+      "score": 0.9843999743461609,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2305",
+        "display_name": "Environmental Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/sensitivity",
+      "display_name": "Sensitivity (control systems)",
+      "score": 0.7557716965675354
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-neural-network",
+      "display_name": "Artificial neural network",
+      "score": 0.7428001165390015
+    },
+    {
+      "id": "https://openalex.org/keywords/multiple-criteria-decision-analysis",
+      "display_name": "Multiple-criteria decision analysis",
+      "score": 0.7353601455688477
+    },
+    {
+      "id": "https://openalex.org/keywords/selection",
+      "display_name": "Selection (genetic algorithm)",
+      "score": 0.7174808979034424
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-control",
+      "display_name": "Flood control",
+      "score": 0.659975528717041
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5447949767112732
+    },
+    {
+      "id": "https://openalex.org/keywords/ideal",
+      "display_name": "Ideal (ethics)",
+      "score": 0.5001368522644043
+    },
+    {
+      "id": "https://openalex.org/keywords/control",
+      "display_name": "Control (management)",
+      "score": 0.48470616340637207
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematical-optimization",
+      "display_name": "Mathematical optimization",
+      "score": 0.45317795872688293
+    },
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.4118618965148926
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.40873464941978455
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.3769375681877136
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-research",
+      "display_name": "Operations research",
+      "score": 0.33027687668800354
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-learning",
+      "display_name": "Machine learning",
+      "score": 0.3222814202308655
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.3014899790287018
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.24487563967704773
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.0784020721912384
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C21200559",
+      "wikidata": "https://www.wikidata.org/wiki/Q7451068",
+      "display_name": "Sensitivity (control systems)",
+      "level": 2,
+      "score": 0.7557716965675354
+    },
+    {
+      "id": "https://openalex.org/C50644808",
+      "wikidata": "https://www.wikidata.org/wiki/Q192776",
+      "display_name": "Artificial neural network",
+      "level": 2,
+      "score": 0.7428001165390015
+    },
+    {
+      "id": "https://openalex.org/C11105738",
+      "wikidata": "https://www.wikidata.org/wiki/Q1895805",
+      "display_name": "Multiple-criteria decision analysis",
+      "level": 2,
+      "score": 0.7353601455688477
+    },
+    {
+      "id": "https://openalex.org/C81917197",
+      "wikidata": "https://www.wikidata.org/wiki/Q628760",
+      "display_name": "Selection (genetic algorithm)",
+      "level": 2,
+      "score": 0.7174808979034424
+    },
+    {
+      "id": "https://openalex.org/C539955404",
+      "wikidata": "https://www.wikidata.org/wiki/Q1187968",
+      "display_name": "Flood control",
+      "level": 3,
+      "score": 0.659975528717041
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5447949767112732
+    },
+    {
+      "id": "https://openalex.org/C2776639384",
+      "wikidata": "https://www.wikidata.org/wiki/Q840396",
+      "display_name": "Ideal (ethics)",
+      "level": 2,
+      "score": 0.5001368522644043
+    },
+    {
+      "id": "https://openalex.org/C2775924081",
+      "wikidata": "https://www.wikidata.org/wiki/Q55608371",
+      "display_name": "Control (management)",
+      "level": 2,
+      "score": 0.48470616340637207
+    },
+    {
+      "id": "https://openalex.org/C126255220",
+      "wikidata": "https://www.wikidata.org/wiki/Q141495",
+      "display_name": "Mathematical optimization",
+      "level": 1,
+      "score": 0.45317795872688293
+    },
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.4118618965148926
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.40873464941978455
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.3769375681877136
+    },
+    {
+      "id": "https://openalex.org/C42475967",
+      "wikidata": "https://www.wikidata.org/wiki/Q194292",
+      "display_name": "Operations research",
+      "level": 1,
+      "score": 0.33027687668800354
+    },
+    {
+      "id": "https://openalex.org/C119857082",
+      "wikidata": "https://www.wikidata.org/wiki/Q2539",
+      "display_name": "Machine learning",
+      "level": 1,
+      "score": 0.3222814202308655
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.3014899790287018
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.24487563967704773
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.0784020721912384
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C24326235",
+      "wikidata": "https://www.wikidata.org/wiki/Q126095",
+      "display_name": "Electronic engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.2166/hydro.2017.059",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.2166/hydro.2017.059",
+      "pdf_url": "https://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+      "source": {
+        "id": "https://openalex.org/S79392371",
+        "display_name": "Journal of Hydroinformatics",
+        "issn_l": "1464-7141",
+        "issn": [
+          "1464-7141",
+          "1465-1734"
+        ],
+        "is_oa": false,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320298",
+        "host_organization_name": "IWA Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320298"
+        ],
+        "host_organization_lineage_names": [
+          "IWA Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Journal of Hydroinformatics",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.2166/hydro.2017.059",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.2166/hydro.2017.059",
+    "pdf_url": "https://iwaponline.com/jh/article-pdf/19/4/558/391457/jh0190558.pdf",
+    "source": {
+      "id": "https://openalex.org/S79392371",
+      "display_name": "Journal of Hydroinformatics",
+      "issn_l": "1464-7141",
+      "issn": [
+        "1464-7141",
+        "1465-1734"
+      ],
+      "is_oa": false,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320298",
+      "host_organization_name": "IWA Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320298"
+      ],
+      "host_organization_lineage_names": [
+        "IWA Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Journal of Hydroinformatics",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6700000166893005,
+      "display_name": "Peace, Justice and strong institutions",
+      "id": "https://metadata.un.org/sdg/16"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G1533298144",
+      "display_name": null,
+      "funder_award_id": "(2014ZX07405002)",
+      "funder_id": "https://openalex.org/F4320335682",
+      "funder_display_name": "Major Science and Technology Program for Water Pollution Control and Treatment"
+    },
+    {
+      "id": "https://openalex.org/G4690800719",
+      "display_name": null,
+      "funder_award_id": "2014ZX07405002",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G5992840332",
+      "display_name": null,
+      "funder_award_id": "201501007",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G6295396509",
+      "display_name": null,
+      "funder_award_id": "No. 2014ZX07405002",
+      "funder_id": "https://openalex.org/F4320335682",
+      "funder_display_name": "Major Science and Technology Program for Water Pollution Control and Treatment"
+    },
+    {
+      "id": "https://openalex.org/G6544063268",
+      "display_name": null,
+      "funder_award_id": "201501007",
+      "funder_id": "https://openalex.org/F4320322423",
+      "funder_display_name": "Ministry of Water Resources"
+    },
+    {
+      "id": "https://openalex.org/G7985568399",
+      "display_name": null,
+      "funder_award_id": "2017B40614",
+      "funder_id": "https://openalex.org/F4320335787",
+      "funder_display_name": "Fundamental Research Funds for the Central Universities"
+    },
+    {
+      "id": "https://openalex.org/G8572167976",
+      "display_name": null,
+      "funder_award_id": "51579068",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320321605",
+      "display_name": "Government of Jiangsu Province",
+      "ror": "https://ror.org/004svx814"
+    },
+    {
+      "id": "https://openalex.org/F4320322423",
+      "display_name": "Ministry of Water Resources",
+      "ror": "https://ror.org/04e698d63"
+    },
+    {
+      "id": "https://openalex.org/F4320322725",
+      "display_name": "China Scholarship Council",
+      "ror": "https://ror.org/04atp4p48"
+    },
+    {
+      "id": "https://openalex.org/F4320332502",
+      "display_name": "University of California, Los Angeles",
+      "ror": "https://ror.org/046rm7j60"
+    },
+    {
+      "id": "https://openalex.org/F4320335682",
+      "display_name": "Major Science and Technology Program for Water Pollution Control and Treatment",
+      "ror": null
+    },
+    {
+      "id": "https://openalex.org/F4320335787",
+      "display_name": "Fundamental Research Funds for the Central Universities",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2594325822.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2594325822.grobid-xml"
+  },
+  "referenced_works_count": 34,
+  "referenced_works": [
+    "https://openalex.org/W194786220",
+    "https://openalex.org/W999207820",
+    "https://openalex.org/W1641747283",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W1965824344",
+    "https://openalex.org/W1975891294",
+    "https://openalex.org/W1979474742",
+    "https://openalex.org/W1987927313",
+    "https://openalex.org/W1992401991",
+    "https://openalex.org/W2012941781",
+    "https://openalex.org/W2016377396",
+    "https://openalex.org/W2016493615",
+    "https://openalex.org/W2025856240",
+    "https://openalex.org/W2026587360",
+    "https://openalex.org/W2030432932",
+    "https://openalex.org/W2032139960",
+    "https://openalex.org/W2047481981",
+    "https://openalex.org/W2062675581",
+    "https://openalex.org/W2064834526",
+    "https://openalex.org/W2065361277",
+    "https://openalex.org/W2078308865",
+    "https://openalex.org/W2092724687",
+    "https://openalex.org/W2095449337",
+    "https://openalex.org/W2101589741",
+    "https://openalex.org/W2101927907",
+    "https://openalex.org/W2124503759",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2335207368",
+    "https://openalex.org/W2342525438",
+    "https://openalex.org/W2384210779",
+    "https://openalex.org/W2385398942",
+    "https://openalex.org/W2506768821",
+    "https://openalex.org/W6647391784",
+    "https://openalex.org/W6704309366"
+  ],
+  "related_works": [
+    "https://openalex.org/W2364401158",
+    "https://openalex.org/W2374974084",
+    "https://openalex.org/W656000973",
+    "https://openalex.org/W4295048122",
+    "https://openalex.org/W2311331484",
+    "https://openalex.org/W3166641602",
+    "https://openalex.org/W818442880",
+    "https://openalex.org/W2378691040",
+    "https://openalex.org/W2364490828",
+    "https://openalex.org/W2388905899"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "reservoir": [
+      1,
+      30,
+      161,
+      190
+    ],
+    "flood": [
+      2,
+      31,
+      191
+    ],
+    "control": [
+      3,
+      32,
+      192
+    ],
+    "operation,": [
+      4
+    ],
+    "selection": [
+      5,
+      78,
+      140
+    ],
+    "of": [
+      6,
+      12,
+      29,
+      45,
+      58,
+      69,
+      84,
+      93,
+      128,
+      138,
+      151,
+      189
+    ],
+    "criteria": [
+      7,
+      26,
+      77,
+      85,
+      139,
+      185
+    ],
+    "is": [
+      8,
+      79,
+      86,
+      103,
+      109,
+      120,
+      162
+    ],
+    "an": [
+      9,
+      177
+    ],
+    "important": [
+      10
+    ],
+    "part": [
+      11
+    ],
+    "the": [
+      13,
+      36,
+      43,
+      59,
+      89,
+      116,
+      124,
+      133,
+      143,
+      149,
+      152,
+      165,
+      172
+    ],
+    "multi-criteria": [
+      14
+    ],
+    "decision": [
+      15,
+      181
+    ],
+    "making": [
+      16
+    ],
+    "(MCDM)": [
+      17
+    ],
+    "procedure.": [
+      18
+    ],
+    "This": [
+      19
+    ],
+    "paper": [
+      20
+    ],
+    "proposes": [
+      21
+    ],
+    "a": [
+      22,
+      52,
+      70,
+      94
+    ],
+    "method": [
+      23,
+      53,
+      102,
+      108,
+      174
+    ],
+    "to": [
+      24,
+      42,
+      54,
+      111,
+      122,
+      183
+    ],
+    "select": [
+      25,
+      184
+    ],
+    "for": [
+      27,
+      76,
+      180
+    ],
+    "MCDM": [
+      28,
+      187
+    ],
+    "operation": [
+      33
+    ],
+    "based": [
+      34,
+      141
+    ],
+    "on": [
+      35,
+      142
+    ],
+    "back-propagation": [
+      37
+    ],
+    "(BP)": [
+      38
+    ],
+    "neural": [
+      39,
+      61,
+      73,
+      97
+    ],
+    "network.": [
+      40
+    ],
+    "According": [
+      41
+    ],
+    "concept": [
+      44
+    ],
+    "ideal": [
+      46
+    ],
+    "and": [
+      47,
+      99,
+      115,
+      135,
+      155
+    ],
+    "anti-ideal": [
+      48
+    ],
+    "points,": [
+      49
+    ],
+    "we": [
+      50
+    ],
+    "propose": [
+      51
+    ],
+    "generate": [
+      55
+    ],
+    "training": [
+      56
+    ],
+    "samples": [
+      57
+    ],
+    "BP": [
+      60,
+      72,
+      96
+    ],
+    "network": [
+      62,
+      74
+    ],
+    "via": [
+      63,
+      88
+    ],
+    "stochastic": [
+      64
+    ],
+    "simulation.": [
+      65
+    ],
+    "The": [
+      66,
+      81,
+      105,
+      159,
+      168
+    ],
+    "topological": [
+      67
+    ],
+    "structure": [
+      68
+    ],
+    "three-layer": [
+      71
+    ],
+    "used": [
+      75
+    ],
+    "established.": [
+      80
+    ],
+    "relative": [
+      82,
+      117,
+      125,
+      153,
+      156
+    ],
+    "importance": [
+      83,
+      154
+    ],
+    "derived": [
+      87
+    ],
+    "learned": [
+      90
+    ],
+    "connection": [
+      91
+    ],
+    "weights": [
+      92
+    ],
+    "trained": [
+      95
+    ],
+    "network,": [
+      98
+    ],
+    "its": [
+      100
+    ],
+    "calculation": [
+      101
+    ],
+    "proposed.": [
+      104
+    ],
+    "sensitivity": [
+      106,
+      113,
+      126
+    ],
+    "curve": [
+      107
+    ],
+    "employed": [
+      110
+    ],
+    "conduct": [
+      112
+    ],
+    "analysis,": [
+      114
+    ],
+    "contribution": [
+      118,
+      157
+    ],
+    "ratio": [
+      119
+    ],
+    "defined": [
+      121,
+      147
+    ],
+    "quantify": [
+      123
+    ],
+    "strength": [
+      127
+    ],
+    "each": [
+      129
+    ],
+    "criterion.": [
+      130
+    ],
+    "We": [
+      131
+    ],
+    "present": [
+      132
+    ],
+    "principle": [
+      134
+    ],
+    "threshold": [
+      136
+    ],
+    "value": [
+      137
+    ],
+    "comprehensive": [
+      144
+    ],
+    "discrimination": [
+      145
+    ],
+    "index": [
+      146
+    ],
+    "by": [
+      148
+    ],
+    "combination": [
+      150
+    ],
+    "ratio.": [
+      158
+    ],
+    "Pubugou": [
+      160
+    ],
+    "selected": [
+      163
+    ],
+    "as": [
+      164
+    ],
+    "case": [
+      166
+    ],
+    "study.": [
+      167
+    ],
+    "results": [
+      169
+    ],
+    "show": [
+      170
+    ],
+    "that": [
+      171
+    ],
+    "proposed": [
+      173
+    ],
+    "can": [
+      175
+    ],
+    "provide": [
+      176
+    ],
+    "effective": [
+      178
+    ],
+    "tool": [
+      179
+    ],
+    "makers": [
+      182
+    ],
+    "before": [
+      186
+    ],
+    "modeling": [
+      188
+    ],
+    "operation.": [
+      193
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-09-05T08:02:43.246662",
+  "created_date": "2025-10-10T00:00:00"
+}

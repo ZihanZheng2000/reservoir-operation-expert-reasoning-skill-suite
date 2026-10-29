@@ -1,0 +1,1202 @@
+{
+  "id": "https://openalex.org/W4392517145",
+  "doi": "https://doi.org/10.3390/w16050785",
+  "title": "Many-Objective Hierarchical Pre-Release Flood Operation Rule Considering Forecast Uncertainty",
+  "display_name": "Many-Objective Hierarchical Pre-Release Flood Operation Rule Considering Forecast Uncertainty",
+  "publication_year": 2024,
+  "publication_date": "2024-03-06",
+  "ids": {
+    "openalex": "https://openalex.org/W4392517145",
+    "doi": "https://doi.org/10.3390/w16050785"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3390/w16050785",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w16050785",
+    "pdf_url": "https://www.mdpi.com/2073-4441/16/5/785/pdf?version=1709721570",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.mdpi.com/2073-4441/16/5/785/pdf?version=1709721570",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100627221",
+        "display_name": "Yongqi Liu",
+        "orcid": "https://orcid.org/0000-0002-7377-159X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210121989",
+          "display_name": "Pearl River Hydraulic Research Institute",
+          "ror": "https://ror.org/036g8gs02",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yongqi Liu",
+      "raw_affiliation_strings": [
+        "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-7377-159X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China",
+          "institution_ids": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5001201461",
+        "display_name": "Guibing Hou",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210121989",
+          "display_name": "Pearl River Hydraulic Research Institute",
+          "ror": "https://ror.org/036g8gs02",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Guibing Hou",
+      "raw_affiliation_strings": [
+        "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China",
+          "institution_ids": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5100730625",
+        "display_name": "Baohua Wang",
+        "orcid": "https://orcid.org/0000-0001-6327-2626"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210121989",
+          "display_name": "Pearl River Hydraulic Research Institute",
+          "ror": "https://ror.org/036g8gs02",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Baohua Wang",
+      "raw_affiliation_strings": [
+        "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "China Water Resources Pearl River Planning Surveying & Designing Co., Ltd., Guangzhou 510610, China",
+          "institution_ids": [
+            "https://openalex.org/I4210121989"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5005130117",
+        "display_name": "Yang Xu",
+        "orcid": "https://orcid.org/0000-0001-7099-1880"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135979",
+          "display_name": "Yangtze River Pharmaceutical Group (China)",
+          "ror": "https://ror.org/03n5f7689",
+          "country_code": "CN",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Yang Xu",
+      "raw_affiliation_strings": [
+        "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China",
+          "institution_ids": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5076993759",
+        "display_name": "Rui Tian",
+        "orcid": "https://orcid.org/0000-0002-1730-716X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135979",
+          "display_name": "Yangtze River Pharmaceutical Group (China)",
+          "ror": "https://ror.org/03n5f7689",
+          "country_code": "CN",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rui Tian",
+      "raw_affiliation_strings": [
+        "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China",
+          "institution_ids": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5115602791",
+        "display_name": "Tao Wang",
+        "orcid": "https://orcid.org/0000-0002-2597-1247"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210135979",
+          "display_name": "Yangtze River Pharmaceutical Group (China)",
+          "ror": "https://ror.org/03n5f7689",
+          "country_code": "CN",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tao Wang",
+      "raw_affiliation_strings": [
+        "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Hubei Key Laboratory of Intelligent Yangtze and Hydroelectric Science, China Yangtze Power Co., Ltd., Yichang 443000, China",
+          "institution_ids": [
+            "https://openalex.org/I4210135979"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5100586459",
+        "display_name": "Hui Qin",
+        "orcid": "https://orcid.org/0000-0002-8805-0015"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I47720641",
+          "display_name": "Huazhong University of Science and Technology",
+          "ror": "https://ror.org/00p991c53",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I47720641"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hui Qin",
+      "raw_affiliation_strings": [
+        "School of Hydropower and Information Engineering, Huazhong University of Science and Technology, Wuhan 430072, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8805-0015",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Hydropower and Information Engineering, Huazhong University of Science and Technology, Wuhan 430072, China",
+          "institution_ids": [
+            "https://openalex.org/I47720641"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005130117"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210135979"
+  ],
+  "apc_list": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 2955
+  },
+  "apc_paid": {
+    "value": 2600,
+    "currency": "CHF",
+    "value_usd": 2955
+  },
+  "fwci": 1.159,
+  "has_fulltext": true,
+  "cited_by_count": 6,
+  "citation_normalized_percentile": {
+    "value": 0.72750758,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 95,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "16",
+    "issue": "5",
+    "first_page": "785",
+    "last_page": "785"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.996399998664856,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.996399998664856,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9821000099182129,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11801",
+      "display_name": "Reservoir Engineering and Simulation Methods",
+      "score": 0.980400025844574,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.5052779316902161
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.44309157133102417
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.41293978691101074
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.11298534274101257
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.5052779316902161
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.44309157133102417
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.41293978691101074
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.11298534274101257
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.3390/w16050785",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3390/w16050785",
+      "pdf_url": "https://www.mdpi.com/2073-4441/16/5/785/pdf?version=1709721570",
+      "source": {
+        "id": "https://openalex.org/S134216166",
+        "display_name": "Water",
+        "issn_l": "2073-4441",
+        "issn": [
+          "2073-4441"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310310987",
+        "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310310987"
+        ],
+        "host_organization_lineage_names": [
+          "Multidisciplinary Digital Publishing Institute"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:4a0de9e416cf4c6e9042318542b07dce",
+      "is_oa": false,
+      "landing_page_url": "https://doaj.org/article/4a0de9e416cf4c6e9042318542b07dce",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Water, Vol 16, Iss 5, p 785 (2024)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3390/w16050785",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3390/w16050785",
+    "pdf_url": "https://www.mdpi.com/2073-4441/16/5/785/pdf?version=1709721570",
+    "source": {
+      "id": "https://openalex.org/S134216166",
+      "display_name": "Water",
+      "issn_l": "2073-4441",
+      "issn": [
+        "2073-4441"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310310987",
+      "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310310987"
+      ],
+      "host_organization_lineage_names": [
+        "Multidisciplinary Digital Publishing Institute"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "display_name": "Climate action",
+      "id": "https://metadata.un.org/sdg/13",
+      "score": 0.7300000190734863
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3941875112",
+      "display_name": null,
+      "funder_award_id": "ZH2102000110",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G405130424",
+      "display_name": null,
+      "funder_award_id": "51979113",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G4070957084",
+      "display_name": null,
+      "funder_award_id": "51979113",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    },
+    {
+      "id": "https://openalex.org/G5756053939",
+      "display_name": null,
+      "funder_award_id": "2021YFC3200303",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G6743534771",
+      "display_name": null,
+      "funder_award_id": "ZH2102000110",
+      "funder_id": "https://openalex.org/F4320321001",
+      "funder_display_name": "National Natural Science Foundation of China"
+    },
+    {
+      "id": "https://openalex.org/G8536060150",
+      "display_name": null,
+      "funder_award_id": "2021YFC3200303",
+      "funder_id": "https://openalex.org/F4320335777",
+      "funder_display_name": "National Key Research and Development Program of China"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320321001",
+      "display_name": "National Natural Science Foundation of China",
+      "ror": "https://ror.org/01h0zpd94"
+    },
+    {
+      "id": "https://openalex.org/F4320335777",
+      "display_name": "National Key Research and Development Program of China",
+      "ror": null
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4392517145.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4392517145.grobid-xml"
+  },
+  "referenced_works_count": 44,
+  "referenced_works": [
+    "https://openalex.org/W1589475696",
+    "https://openalex.org/W1662894842",
+    "https://openalex.org/W1840848304",
+    "https://openalex.org/W1918220106",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W2018101572",
+    "https://openalex.org/W2022485595",
+    "https://openalex.org/W2029591667",
+    "https://openalex.org/W2055540584",
+    "https://openalex.org/W2058658017",
+    "https://openalex.org/W2067544246",
+    "https://openalex.org/W2078971690",
+    "https://openalex.org/W2101472376",
+    "https://openalex.org/W2126105956",
+    "https://openalex.org/W2139660762",
+    "https://openalex.org/W2143381319",
+    "https://openalex.org/W2300805880",
+    "https://openalex.org/W2316278784",
+    "https://openalex.org/W2558771233",
+    "https://openalex.org/W2624083011",
+    "https://openalex.org/W2792703144",
+    "https://openalex.org/W2891519723",
+    "https://openalex.org/W2911633892",
+    "https://openalex.org/W2916178449",
+    "https://openalex.org/W2920839169",
+    "https://openalex.org/W2946746912",
+    "https://openalex.org/W2949533264",
+    "https://openalex.org/W2961468932",
+    "https://openalex.org/W2978050781",
+    "https://openalex.org/W2980564751",
+    "https://openalex.org/W2982208389",
+    "https://openalex.org/W3082282104",
+    "https://openalex.org/W3091948139",
+    "https://openalex.org/W3110142610",
+    "https://openalex.org/W3125996013",
+    "https://openalex.org/W3191885948",
+    "https://openalex.org/W4206911247",
+    "https://openalex.org/W4220715920",
+    "https://openalex.org/W4280599745",
+    "https://openalex.org/W4280640748",
+    "https://openalex.org/W4390796346",
+    "https://openalex.org/W6638938349",
+    "https://openalex.org/W6640289871",
+    "https://openalex.org/W6809297719"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W2390279801",
+    "https://openalex.org/W2358668433",
+    "https://openalex.org/W2376932109",
+    "https://openalex.org/W2001405890",
+    "https://openalex.org/W2382290278",
+    "https://openalex.org/W2478288626",
+    "https://openalex.org/W4391913857",
+    "https://openalex.org/W2350741829",
+    "https://openalex.org/W2530322880"
+  ],
+  "abstract_inverted_index": {
+    "Flood": [
+      0,
+      18
+    ],
+    "control": [
+      1,
+      70,
+      133,
+      148,
+      173,
+      215
+    ],
+    "operation": [
+      2,
+      42
+    ],
+    "of": [
+      3,
+      28,
+      97,
+      135,
+      139,
+      157,
+      163,
+      171
+    ],
+    "cascade": [
+      4,
+      64,
+      136,
+      158
+    ],
+    "reservoirs": [
+      5,
+      137,
+      159
+    ],
+    "is": [
+      6,
+      52,
+      75,
+      83,
+      123
+    ],
+    "an": [
+      7
+    ],
+    "important": [
+      8
+    ],
+    "technology": [
+      9
+    ],
+    "to": [
+      10,
+      85,
+      191,
+      205
+    ],
+    "reduce": [
+      11,
+      32
+    ],
+    "flood": [
+      12,
+      29,
+      33,
+      41,
+      46,
+      56,
+      69,
+      132,
+      147,
+      172,
+      182,
+      193,
+      201,
+      214
+    ],
+    "disasters": [
+      13
+    ],
+    "and": [
+      14,
+      31,
+      48,
+      72,
+      116,
+      119,
+      189,
+      210,
+      216
+    ],
+    "increase": [
+      15,
+      151
+    ],
+    "economic": [
+      16
+    ],
+    "benefits.": [
+      17
+    ],
+    "forecast": [
+      19,
+      47,
+      187
+    ],
+    "information": [
+      20,
+      51
+    ],
+    "can": [
+      21,
+      113,
+      150
+    ],
+    "help": [
+      22
+    ],
+    "reservoir": [
+      23,
+      222
+    ],
+    "managers": [
+      24
+    ],
+    "make": [
+      25
+    ],
+    "better": [
+      26
+    ],
+    "use": [
+      27
+    ],
+    "resources": [
+      30,
+      183
+    ],
+    "risks.": [
+      34
+    ],
+    "In": [
+      35
+    ],
+    "this": [
+      36,
+      179
+    ],
+    "paper,": [
+      37
+    ],
+    "a": [
+      38,
+      78,
+      92,
+      161
+    ],
+    "hierarchical": [
+      39
+    ],
+    "pre-release": [
+      40,
+      190
+    ],
+    "rule": [
+      43,
+      149
+    ],
+    "considering": [
+      44,
+      62
+    ],
+    "the": [
+      45,
+      63,
+      87,
+      98,
+      108,
+      120,
+      127,
+      140,
+      145,
+      152,
+      169,
+      192,
+      199,
+      207,
+      211
+    ],
+    "its": [
+      49
+    ],
+    "uncertainty": [
+      50
+    ],
+    "proposed": [
+      53,
+      177
+    ],
+    "for": [
+      54,
+      221
+    ],
+    "real-time": [
+      55
+    ],
+    "control.": [
+      57
+    ],
+    "A": [
+      58
+    ],
+    "many-objective": [
+      59,
+      88
+    ],
+    "optimization": [
+      60,
+      89,
+      103
+    ],
+    "model": [
+      61,
+      90
+    ],
+    "reservoir’s": [
+      65
+    ],
+    "power": [
+      66,
+      155
+    ],
+    "generation": [
+      67,
+      156
+    ],
+    "objective,": [
+      68,
+      71
+    ],
+    "navigation": [
+      73
+    ],
+    "objective": [
+      74
+    ],
+    "established.": [
+      76
+    ],
+    "Then,": [
+      77
+    ],
+    "region": [
+      79,
+      109
+    ],
+    "search": [
+      80,
+      110
+    ],
+    "evolutionary": [
+      81,
+      111
+    ],
+    "algorithm": [
+      82,
+      112
+    ],
+    "applied": [
+      84
+    ],
+    "optimize": [
+      86
+    ],
+    "in": [
+      91,
+      178
+    ],
+    "real-world": [
+      93
+    ],
+    "case": [
+      94
+    ],
+    "study": [
+      95
+    ],
+    "upstream": [
+      96,
+      138
+    ],
+    "Yangtze": [
+      99,
+      141
+    ],
+    "River": [
+      100,
+      142
+    ],
+    "basin.": [
+      101
+    ],
+    "The": [
+      102,
+      130,
+      175
+    ],
+    "experimental": [
+      104
+    ],
+    "results": [
+      105,
+      134
+    ],
+    "show": [
+      106
+    ],
+    "that": [
+      107,
+      144
+    ],
+    "balance": [
+      114
+    ],
+    "convergence": [
+      115
+    ],
+    "diversity": [
+      117
+    ],
+    "well,": [
+      118
+    ],
+    "HV": [
+      121
+    ],
+    "value": [
+      122
+    ],
+    "40%": [
+      124
+    ],
+    "higher": [
+      125
+    ],
+    "than": [
+      126
+    ],
+    "MOEA/D": [
+      128
+    ],
+    "algorithm.": [
+      129
+    ],
+    "simulation": [
+      131
+    ],
+    "demonstrate": [
+      143
+    ],
+    "optimized": [
+      146
+    ],
+    "average": [
+      153
+    ],
+    "multi-year": [
+      154
+    ],
+    "by": [
+      160,
+      184
+    ],
+    "maximum": [
+      162
+    ],
+    "27.72": [
+      164
+    ],
+    "×": [
+      165
+    ],
+    "108": [
+      166
+    ],
+    "kWh": [
+      167
+    ],
+    "under": [
+      168
+    ],
+    "condition": [
+      170
+    ],
+    "safety.": [
+      174
+    ],
+    "rules": [
+      176
+    ],
+    "paper": [
+      180
+    ],
+    "utilize": [
+      181
+    ],
+    "identifying": [
+      185
+    ],
+    "runoff": [
+      186
+    ],
+    "information,": [
+      188
+    ],
+    "limit": [
+      194
+    ],
+    "level": [
+      195
+    ],
+    "145": [
+      196
+    ],
+    "m": [
+      197
+    ],
+    "before": [
+      198
+    ],
+    "big": [
+      200
+    ],
+    "occurs,": [
+      202
+    ],
+    "so": [
+      203
+    ],
+    "as": [
+      204
+    ],
+    "ensure": [
+      206
+    ],
+    "safety": [
+      208
+    ],
+    "downstream": [
+      209
+    ],
+    "dam’s": [
+      212
+    ],
+    "own": [
+      213
+    ],
+    "provide": [
+      217
+    ],
+    "reliable": [
+      218
+    ],
+    "decision": [
+      219
+    ],
+    "support": [
+      220
+    ],
+    "managers.": [
+      223
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-09-07T09:17:50.787605",
+  "created_date": "2025-10-10T00:00:00"
+}

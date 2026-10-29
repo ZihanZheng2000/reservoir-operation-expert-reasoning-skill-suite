@@ -1,0 +1,1064 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        7,
+        24
+      ]
+    ],
+    "date-time": "2026-07-24T13:04:25Z",
+    "timestamp": 1784898265115,
+    "version": "3.55.0"
+  },
+  "reference-count": 68,
+  "publisher": "Springer Science and Business Media LLC",
+  "issue": "6",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            8
+          ]
+        ],
+        "date-time": "2025-01-08T00:00:00Z",
+        "timestamp": 1736294400000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2025,
+            1,
+            8
+          ]
+        ],
+        "date-time": "2025-01-08T00:00:00Z",
+        "timestamp": 1736294400000
+      },
+      "content-version": "vor",
+      "delay-in-days": 0,
+      "URL": "https://creativecommons.org/licenses/by/4.0"
+    }
+  ],
+  "funder": [
+    {
+      "name": "Slovak Technical University"
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "link.springer.com"
+    ],
+    "crossmark-restriction": false
+  },
+  "short-container-title": [
+    "Water Resour Manage"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2025,
+        4
+      ]
+    ]
+  },
+  "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Reservoir operation in flood conditions on hourly time scales poses significant difficulties due to the inherent uncertainty of inflow forecasts. Hence, incorporating ensemble flood forecasts into real-time reservoir operation optimization has rarely been investigated to effectively address uncertainties in inflow forecasts for flood control, let alone its added value compared to no-forecast operating scheme in multi-objective reservoir operating system. This research first investigates the potential of sequential Long Short-Term Memory networks to forecast one-day-ahead ensemble inflow floods based on numerical weather prediction data. Next, a new framework has been developed to incorporate ensemble inflow forecasts into multi-objective reservoir operation optimization using grid search-based genetic algorithm. Finally, we implemented our proposed ensemble-based operating method on the Dez dam basin in Iran and compared it with the benchmark no-forecast operating approach. The results revealed that the Long Short-Term Memory model reasonably performed well to propagate uncertainty in short-term ensemble inflow forecasts. In addition, the ensemble-based operating method could reduce release peaks and increase reservoir storage more than that of a deterministic (no-forecast) operating approach. Our findings demonstrated that the applicability of a skillful ensemble-based scheme in reservoir flood control operations could be effective in decreasing flood damage and water shortage.</jats:p>",
+  "DOI": "10.1007/s11269-024-04089-z",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        8
+      ]
+    ],
+    "date-time": "2025-01-08T08:22:48Z",
+    "timestamp": 1736324568000
+  },
+  "page": "2743-2761",
+  "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 13,
+  "title": [
+    "Development of a Multi-objective Optimal Operation Model of a Dam using Meteorological Ensemble Forecasts for Flood Control"
+  ],
+  "prefix": "10.1007",
+  "volume": "39",
+  "author": [
+    {
+      "ORCID": "https://orcid.org/0000-0002-9260-1094",
+      "authenticated-orcid": false,
+      "given": "Mitra",
+      "family": "Tanhapour",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Jaber",
+      "family": "Soltani",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Hadi",
+      "family": "Shakibian",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Bahram",
+      "family": "Malekmohammadi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Kamila",
+      "family": "Hlavcova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    },
+    {
+      "given": "Silvia",
+      "family": "Kohnova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "vocabulary": "crossref",
+          "role": "author"
+        }
+      ]
+    }
+  ],
+  "member": "297",
+  "published-online": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        8
+      ]
+    ]
+  },
+  "reference": [
+    {
+      "key": "4089_CR1",
+      "doi-asserted-by": "crossref",
+      "first-page": "105140",
+      "DOI": "10.1016/j.cageo.2022.105140",
+      "volume": "165",
+      "author": "M Abbaszadeh",
+      "year": "2022",
+      "unstructured": "Abbaszadeh M, Soltani-Mohammadi S, Ahmed AN (2022) Optimization of support vector machine parameters in modeling of Iju deposit mineralization and alteration zones using particle swarm optimization algorithm and grid search method. Comput Geosci 165:105140",
+      "journal-title": "Comput Geosci"
+    },
+    {
+      "key": "4089_CR2",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Abrishamchi A, Dashti M, Tajrishy M (2012) Development of a multi-reservoir flood control optimization model: Application to the Karkheh River Basin, Iran. World Environ Water Resour Congr 2011: Bearing Knowl Sustain 26:3048–3057.",
+      "DOI": "10.1061/41173(414)318"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR3",
+      "doi-asserted-by": "crossref",
+      "first-page": "87",
+      "DOI": "10.3390/w14010087",
+      "volume": "14",
+      "author": "H Albo-Salih",
+      "year": "2022",
+      "unstructured": "Albo-Salih H, Mays LW, Che D (2022) Application of an optimization/simulation model for the real-time flood operation of river-reservoir systems with one-and two-dimensional unsteady flow modeling. Water 14(1):87",
+      "journal-title": "Water"
+    },
+    {
+      "issue": "2",
+      "key": "4089_CR4",
+      "doi-asserted-by": "crossref",
+      "first-page": "349",
+      "DOI": "10.3390/pr11020349",
+      "volume": "11",
+      "author": "YA Ali",
+      "year": "2023",
+      "unstructured": "Ali YA, Awwad EM, Al-Razgan M, Maarouf A (2023) Hyperparameter search for machine learning algorithms for optimizing the computational complexity. Processes 11(2):349",
+      "journal-title": "Processes"
+    },
+    {
+      "key": "4089_CR5",
+      "doi-asserted-by": "crossref",
+      "first-page": "1939",
+      "DOI": "10.1007/s00477-019-01737-4",
+      "volume": "33",
+      "author": "S Aminyavari",
+      "year": "2019",
+      "unstructured": "Aminyavari S, Saghafian B (2019) Probabilistic streamflow forecast based on spatial post-processing of TIGGE precipitation forecasts. Stoch Env Res Risk Assess 33:1939–1950",
+      "journal-title": "Stoch Env Res Risk Assess"
+    },
+    {
+      "issue": "23",
+      "key": "4089_CR6",
+      "doi-asserted-by": "crossref",
+      "first-page": "2741",
+      "DOI": "10.3390/rs11232741",
+      "volume": "11",
+      "author": "S Aminyavari",
+      "year": "2019",
+      "unstructured": "Aminyavari S, Saghafian B, Sharifi E (2019) Assessment of precipitation estimation from the NWP models and satellite products for the spring 2019 severe floods in Iran. Remote Sens 11(23):2741",
+      "journal-title": "Remote Sens"
+    },
+    {
+      "key": "4089_CR7",
+      "doi-asserted-by": "crossref",
+      "first-page": "129512",
+      "DOI": "10.1016/j.jhydrol.2023.129512",
+      "volume": "620",
+      "author": "S Barbetta",
+      "year": "2023",
+      "unstructured": "Barbetta S, Sahoo B, Bonaccorsi B, Nanda T, Chatterjee C, Moramarco T, Todini E (2023) Addressing effective real-time forecasting inflows to dams through predictive uncertainty estimate. J Hydrol 620:129512",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "key": "4089_CR8",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Beiranvand B, Ashofteh PS (2023) A systematic review of optimization of dams reservoir operation using the meta-heuristic Algorithms. Water Resourc Manag 37(9):3457–3526",
+      "DOI": "10.1007/s11269-023-03510-3"
+    },
+    {
+      "issue": "11",
+      "key": "4089_CR9",
+      "doi-asserted-by": "crossref",
+      "first-page": "10957",
+      "DOI": "10.1007/s13762-021-03896-w",
+      "volume": "19",
+      "author": "M Boudjerda",
+      "year": "2022",
+      "unstructured": "Boudjerda M, Touaibia B, Mihoubi MK, Basson GR, Vonkeman JK (2022) Application of sediment management strategies to improve reservoir operation: a case study Foum El-Gherza Dam in Algeria. Int J Environ Sci Technol 19(11):10957–10972",
+      "journal-title": "Int J Environ Sci Technol"
+    },
+    {
+      "key": "4089_CR10",
+      "unstructured": "Danesh M, Gharehbaghi A, Mehdizadeh S, Danesh A (2024) A comparative assessment of machine learning and deep learning models for the daily river streamflow forecasting. Water Resour Manag 38(15):1–20"
+    },
+    {
+      "key": "4089_CR11",
+      "doi-asserted-by": "crossref",
+      "first-page": "128718",
+      "DOI": "10.1016/j.jhydrol.2022.128718",
+      "volume": "615",
+      "author": "SS Dash",
+      "year": "2022",
+      "unstructured": "Dash SS, Sahoo B, Raghuwanshi NS (2022) An adaptive multi-objective reservoir operation scheme for improved supply-demand management. J Hydrol 615:128718",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "3",
+      "key": "4089_CR12",
+      "doi-asserted-by": "crossref",
+      "first-page": "231",
+      "DOI": "10.2478/johh-2023-0003",
+      "volume": "71",
+      "author": "YO Doğan",
+      "year": "2023",
+      "unstructured": "Doğan YO, Şorman AA, Şensoy A (2023) Multi-criteria evaluation for parameter uncertainty assessment and ensemble runoff forecasting in a snow-dominated basin. J Hydrol Hydromech 71(3):231–247",
+      "journal-title": "J Hydrol Hydromech"
+    },
+    {
+      "issue": "10",
+      "key": "4089_CR13",
+      "doi-asserted-by": "crossref",
+      "first-page": "10627",
+      "DOI": "10.1007/s10668-022-02497-y",
+      "volume": "25",
+      "author": "M Ehteram",
+      "year": "2023",
+      "unstructured": "Ehteram M, Ahmed AN, Chow MF, Latif SD, Chau KW, Chong KL, El-Shafie A (2023) Optimal operation of hydropower reservoirs under climate change. Environ Dev Sustain 25(10):10627–10659",
+      "journal-title": "Environ Dev Sustain"
+    },
+    {
+      "key": "4089_CR14",
+      "doi-asserted-by": "publisher",
+      "unstructured": "Ferretti R, Lombardi A, Tomassetti B, Sangelantoni L, Colaiuda V, Mazzarella V, Redaelli G (2019) Regional ensemble forecast for early warning system over small Apennine catchments on Central Italy. Hydrol Earth Syst Sci Discuss 1–25. https://doi.org/10.5194/hess-2019-223",
+      "DOI": "10.5194/hess-2019-223"
+    },
+    {
+      "key": "4089_CR15",
+      "doi-asserted-by": "crossref",
+      "first-page": "207",
+      "DOI": "10.1016/j.jhydrol.2019.03.040",
+      "volume": "573",
+      "author": "L Goodarzi",
+      "year": "2019",
+      "unstructured": "Goodarzi L, Banihabib ME, Roozbahani A (2019) A decision-making model for flood warning system based on ensemble forecasts. J Hydrol 573:207–219",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "11",
+      "key": "4089_CR16",
+      "doi-asserted-by": "crossref",
+      "first-page": "5951",
+      "DOI": "10.5194/hess-25-5951-2021",
+      "volume": "25",
+      "author": "Y Guo",
+      "year": "2021",
+      "unstructured": "Guo Y, Yu X, Xu YP, Chen H, Gu H, Xie J (2021) AI-based techniques for multi-step streamflow forecasts: application for multi-objective reservoir operation optimization and performance assessment. Hydrol Earth Syst Sci 25(11):5951–5979",
+      "journal-title": "Hydrol Earth Syst Sci"
+    },
+    {
+      "key": "4089_CR17",
+      "doi-asserted-by": "crossref",
+      "first-page": "127936",
+      "DOI": "10.1016/j.jhydrol.2022.127936",
+      "volume": "610",
+      "author": "S He",
+      "year": "2022",
+      "unstructured": "He S, Guo S, Zhang J, Liu Z, Cui Z, Zhang Y, Zheng Y (2022) Multi-objective operation of cascade reservoirs based on short-term ensemble streamflow prediction. J Hydrol 610:127936",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "8",
+      "key": "4089_CR18",
+      "doi-asserted-by": "crossref",
+      "first-page": "1735",
+      "DOI": "10.1162/neco.1997.9.8.1735",
+      "volume": "9",
+      "author": "S Hochreiter",
+      "year": "1997",
+      "unstructured": "Hochreiter S, Schmidhuber J (1997) Long short-term memory. Neural Comput 9(8):1735–1780",
+      "journal-title": "Neural Comput"
+    },
+    {
+      "key": "4089_CR19",
+      "volume-title": "Adaptation in natural and artificial systems",
+      "author": "JH Holland",
+      "year": "1975",
+      "unstructured": "Holland JH (1975) Adaptation in natural and artificial systems. The U. of Michigan Press"
+    },
+    {
+      "issue": "10",
+      "key": "4089_CR20",
+      "doi-asserted-by": "crossref",
+      "first-page": "2517",
+      "DOI": "10.1029/95WR01955",
+      "volume": "31",
+      "author": "KL Hsu",
+      "year": "1995",
+      "unstructured": "Hsu KL, Gupta HV, Sorooshian S (1995) Artificial neural network modeling of the rainfall-runoff process. Water Resour Res 31(10):2517–2530",
+      "journal-title": "Water Resour Res"
+    },
+    {
+      "key": "4089_CR21",
+      "doi-asserted-by": "crossref",
+      "first-page": "142",
+      "DOI": "10.1016/j.atmosres.2015.01.004",
+      "volume": "156",
+      "author": "W Jie",
+      "year": "2015",
+      "unstructured": "Jie W, Wu T, Wang J, Li W, Polivka T (2015) Using a deterministic time-lagged ensemble forecast with a probabilistic threshold for improving 6–15 day summer precipitation prediction in China. Atmos Res 156:142–159",
+      "journal-title": "Atmos Res"
+    },
+    {
+      "key": "4089_CR22",
+      "doi-asserted-by": "crossref",
+      "first-page": "160419",
+      "DOI": "10.1016/j.scitotenv.2022.160419",
+      "volume": "860",
+      "author": "F Karamian",
+      "year": "2023",
+      "unstructured": "Karamian F, Mirakzadeh AA, Azari A (2023) Application of multi-objective genetic algorithm for optimal combination of resources to achieve sustainable agriculture based on the water-energy-food nexus framework. Sci Total Environ 860:160419",
+      "journal-title": "Sci Total Environ"
+    },
+    {
+      "issue": "2",
+      "key": "4089_CR23",
+      "doi-asserted-by": "crossref",
+      "first-page": "435",
+      "DOI": "10.1016/j.asej.2019.10.011",
+      "volume": "11",
+      "author": "AA Kassem",
+      "year": "2020",
+      "unstructured": "Kassem AA, Raheem AM, Khidir KM, Alkattan M (2020) Predicting of daily Khazir basin flow using SWAT and hybrid SWAT-ANN models. Ain Shams Eng J 11(2):435–443",
+      "journal-title": "Ain Shams Eng J"
+    },
+    {
+      "key": "4089_CR24",
+      "doi-asserted-by": "crossref",
+      "first-page": "8091",
+      "DOI": "10.1007/s11042-020-10139-6",
+      "volume": "80",
+      "author": "S Katoch",
+      "year": "2021",
+      "unstructured": "Katoch S, Chauhan SS, Kumar V (2021) A review on genetic algorithm: past, present, and future. Multimed Tools Appl 80:8091–8126",
+      "journal-title": "Multimed Tools Appl"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR25",
+      "doi-asserted-by": "crossref",
+      "first-page": "73",
+      "DOI": "10.2166/wpt.2015.010",
+      "volume": "10",
+      "author": "H Khakzad",
+      "year": "2015",
+      "unstructured": "Khakzad H, Ivanovich Elfimov V (2015) Estimate of time required for environmentally friendly flushing in Dez dam reservoir. Water Pract Technol 10(1):73–85",
+      "journal-title": "Water Pract Technol"
+    },
+    {
+      "key": "4089_CR26",
+      "doi-asserted-by": "crossref",
+      "first-page": "129199",
+      "DOI": "10.1016/j.jhydrol.2023.129199",
+      "volume": "618",
+      "author": "A Khatun",
+      "year": "2023",
+      "unstructured": "Khatun A, Sahoo B, Chatterjee C (2023) Two novel error-updating model frameworks for short-to-medium range streamflow forecasting using bias-corrected rainfall inputs: Development and comparative assessment. J Hydrol 618:129199",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "15",
+      "key": "4089_CR27",
+      "doi-asserted-by": "crossref",
+      "first-page": "12601",
+      "DOI": "10.1007/s00521-022-07112-9",
+      "volume": "34",
+      "author": "K Khosravi",
+      "year": "2022",
+      "unstructured": "Khosravi K, Khozani ZS, Melesse MA, Crookston BM (2022) Intelligent flow discharge computation in a rectangular channel with free overfall condition. Neural Comput Appl 34(15):12601–12616",
+      "journal-title": "Neural Comput Appl"
+    },
+    {
+      "key": "4089_CR28",
+      "unstructured": "Khuzestan Water and Electricity Organization (2013) Determination of bed limits and boundaries of Dez and Karun rivers: hydraulic report. Retrieved from https://kwpa.ir"
+    },
+    {
+      "issue": "3",
+      "key": "4089_CR29",
+      "doi-asserted-by": "crossref",
+      "first-page": "295",
+      "DOI": "10.2478/johh-2022-0021",
+      "volume": "70",
+      "author": "M Kuban",
+      "year": "2022",
+      "unstructured": "Kuban M, Parajka J, Tong R, Greimeister-Pfeil I, Vreugdenhil M, Szolgay J, Brziak A (2022) The effects of satellite soil moisture data on the parametrization of topsoil and root zone soil moisture in a conceptual hydrological model. J Hydrol Hydromech 70(3):295–307",
+      "journal-title": "J Hydrol Hydromech"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR30",
+      "doi-asserted-by": "crossref",
+      "first-page": "351",
+      "DOI": "10.1007/s11069-021-04839-x",
+      "volume": "109",
+      "author": "SD Latif",
+      "year": "2021",
+      "unstructured": "Latif SD, Ahmed AN, Sathiamurthy E, Huang YF, El-Shafie A (2021) Evaluation of deep learning algorithm for inflow forecasting: a case study of Durian Tunggal Reservoir. Peninsular Malaysia Nat Hazards 109(1):351–369",
+      "journal-title": "Peninsular Malaysia Nat Hazards"
+    },
+    {
+      "issue": "7",
+      "key": "4089_CR31",
+      "doi-asserted-by": "crossref",
+      "first-page": "1387",
+      "DOI": "10.3390/w11071387",
+      "volume": "11",
+      "author": "XH Le",
+      "year": "2019",
+      "unstructured": "Le XH, Ho HV, Lee G, Jung S (2019) Application of long short-term memory (LSTM) neural network for flood forecasting. Water 11(7):1387",
+      "journal-title": "Water"
+    },
+    {
+      "issue": "21",
+      "key": "4089_CR32",
+      "doi-asserted-by": "crossref",
+      "first-page": "5704",
+      "DOI": "10.3390/en13215704",
+      "volume": "13",
+      "author": "H Li",
+      "year": "2020",
+      "unstructured": "Li H, Cui L, Ma Z, Li B (2020) Multi-objective optimization of the Halbach array permanent magnet spherical motor based on support vector machine. Energies 13(21):5704",
+      "journal-title": "Energies"
+    },
+    {
+      "key": "4089_CR33",
+      "doi-asserted-by": "crossref",
+      "first-page": "100843",
+      "DOI": "10.1016/j.swevo.2021.100843",
+      "volume": "62",
+      "author": "G Li",
+      "year": "2021",
+      "unstructured": "Li G, Wang W, Zhang W, Wang Z, Tu H, You W (2021) Grid search based multi-population particle swarm optimization algorithm for multimodal multi-objective optimization. Swarm Evol Comput 62:100843",
+      "journal-title": "Swarm Evol Comput"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR34",
+      "doi-asserted-by": "crossref",
+      "first-page": "e12854",
+      "DOI": "10.1111/jfr3.12854",
+      "volume": "16",
+      "author": "X Luo",
+      "year": "2023",
+      "unstructured": "Luo X, Liu P, Dong Q, Zhang Y, Xie K, Han D (2023) Exploring the role of the long short-term memory model in improving multi-step ahead reservoir inflow forecasting. J Flood Risk Manag 16(1):e12854",
+      "journal-title": "J Flood Risk Manag"
+    },
+    {
+      "issue": "5",
+      "key": "4089_CR35",
+      "doi-asserted-by": "crossref",
+      "first-page": "1979",
+      "DOI": "10.1007/s11600-021-00669-4",
+      "volume": "69",
+      "author": "MA Maddah",
+      "year": "2021",
+      "unstructured": "Maddah MA, Akhoond-Ali AM, Ahmadi F, Ghafarian P, Rusin IN (2021) Forecastability of a heavy precipitation event at different lead-times using WRF model: the case study in Karkheh River basin. Acta Geophys 69(5):1979–1995",
+      "journal-title": "Acta Geophys"
+    },
+    {
+      "key": "4089_CR36",
+      "unstructured": "Malekmohammadi B (2008) Operation optimization model for flood risk management in river-reservoir systems. Dissertation. University of Tehran. Tehran, Iran"
+    },
+    {
+      "issue": "3",
+      "key": "4089_CR37",
+      "doi-asserted-by": "crossref",
+      "first-page": "459",
+      "DOI": "10.1007/s11069-009-9442-8",
+      "volume": "53",
+      "author": "B Malekmohammadi",
+      "year": "2010",
+      "unstructured": "Malekmohammadi B, Zahraie B, Kerachian R (2010) A real-time operation optimization model for flood management in river-reservoir systems. Nat Hazards 53(3):459–482",
+      "journal-title": "Nat Hazards"
+    },
+    {
+      "key": "4089_CR38",
+      "doi-asserted-by": "crossref",
+      "first-page": "229",
+      "DOI": "10.1016/j.eng.2021.12.022",
+      "volume": "24",
+      "author": "Y Man",
+      "year": "2023",
+      "unstructured": "Man Y, Yang Q, Shao J, Wang G, Bai L, Xue Y (2023) Enhanced LSTM model for daily runoff prediction in the upper Huai River basin, China. Engineering 24:229–238",
+      "journal-title": "Engineering"
+    },
+    {
+      "issue": "4",
+      "key": "4089_CR39",
+      "doi-asserted-by": "crossref",
+      "first-page": "04016085",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0000742",
+      "volume": "143",
+      "author": "MC Mateus",
+      "year": "2017",
+      "unstructured": "Mateus MC, Tullos D (2017) Reliability, sensitivity, and vulnerability of reservoir operations under climate change. J Water Resour Plan Manag 143(4):04016085",
+      "journal-title": "J Water Resour Plan Manag"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR40",
+      "doi-asserted-by": "crossref",
+      "first-page": "205",
+      "DOI": "10.1016/j.cam.2004.07.034",
+      "volume": "184",
+      "author": "J McCall",
+      "year": "2005",
+      "unstructured": "McCall J (2005) Genetic algorithms for modelling and optimization. J Comput Appl Math 184(1):205–222",
+      "journal-title": "J Comput Appl Math"
+    },
+    {
+      "key": "4089_CR41",
+      "first-page": "100939",
+      "volume": "38",
+      "author": "T Meema",
+      "year": "2021",
+      "unstructured": "Meema T, Tachikawa Y, Ichikawa Y, Yorozu K (2021) Real-time optimization of a large-scale reservoir operation in Thailand using adaptive inflow prediction with medium-range ensemble precipitation forecasts. J Hydrol: Reg Stud 38:100939",
+      "journal-title": "J Hydrol: Reg Stud"
+    },
+    {
+      "key": "4089_CR42",
+      "doi-asserted-by": "crossref",
+      "first-page": "333",
+      "DOI": "10.1007/978-981-287-615-7_23",
+      "volume-title": "Advances in Hydroinformatics",
+      "author": "D Nohara",
+      "year": "2016",
+      "unstructured": "Nohara D, Nishioka Y, Hori T, Sato Y (2016) Real-time reservoir operation for flood management considering ensemble streamflow prediction and its uncertainty. Advances in Hydroinformatics. Springer, Singapore, pp 333–347"
+    },
+    {
+      "key": "4089_CR43",
+      "doi-asserted-by": "crossref",
+      "first-page": "119069",
+      "DOI": "10.1016/j.apenergy.2022.119069",
+      "volume": "315",
+      "author": "V Nourani",
+      "year": "2022",
+      "unstructured": "Nourani V, Sharghi E, Behfar N, Zhang Y (2022) Multi-step-ahead solar irradiance modeling employing multi-frequency deep learning models and climatic data. Appl Energy 315:119069",
+      "journal-title": "Appl Energy"
+    },
+    {
+      "key": "4089_CR44",
+      "unstructured": "Olah C (2015) Understanding LSTM networks. Available online: http://colah.github.io/posts/2015-08-Understanding-LSTMs. Accessed 29 Aug 2020"
+    },
+    {
+      "issue": "7",
+      "key": "4089_CR45",
+      "doi-asserted-by": "crossref",
+      "first-page": "e2022WR033194",
+      "DOI": "10.1029/2022WR033194",
+      "volume": "59",
+      "author": "Á Ossandón",
+      "year": "2023",
+      "unstructured": "Ossandón Á, Rajagopalan B, Kleiber W (2023) Forecasting magnitude and frequency of seasonal streamflow extremes using a Bayesian hierarchical framework. Water Resour Res 59(7):e2022WR033194",
+      "journal-title": "Water Resour Res"
+    },
+    {
+      "issue": "3",
+      "key": "4089_CR46",
+      "doi-asserted-by": "crossref",
+      "first-page": "471",
+      "DOI": "10.1111/1752-1688.13003",
+      "volume": "58",
+      "author": "Y Ouyang",
+      "year": "2022",
+      "unstructured": "Ouyang Y (2022) A hybrid of copula prediction and time series computation to estimate stream discharge based on precipitation data. JAWRA J Am Water Resour Assoc 58(3):471–484",
+      "journal-title": "JAWRA J Am Water Resour Assoc"
+    },
+    {
+      "issue": "11",
+      "key": "4089_CR47",
+      "doi-asserted-by": "crossref",
+      "first-page": "4489",
+      "DOI": "10.2166/ws.2023.274",
+      "volume": "23",
+      "author": "A Patel",
+      "year": "2023",
+      "unstructured": "Patel A, Yadav SM (2023) Improving the reservoir inflow prediction using TIGGE ensemble data and hydrological model for Dharoi Dam, India. Water Supply 23(11):4489–4509",
+      "journal-title": "Water Supply"
+    },
+    {
+      "issue": "2",
+      "key": "4089_CR48",
+      "doi-asserted-by": "crossref",
+      "first-page": "588",
+      "DOI": "10.2166/ws.2018.105",
+      "volume": "19",
+      "author": "A Peng",
+      "year": "2019",
+      "unstructured": "Peng A, Zhang X, Peng Y, Xu W, You F (2019) The application of ensemble precipitation forecasts to reservoir operation. Water Supply 19(2):588–595",
+      "journal-title": "Water Supply"
+    },
+    {
+      "key": "4089_CR49",
+      "doi-asserted-by": "crossref",
+      "first-page": "989",
+      "DOI": "10.1007/s11269-019-02481-8",
+      "volume": "34",
+      "author": "V Ramaswamy",
+      "year": "2020",
+      "unstructured": "Ramaswamy V, Saleh F (2020) Ensemble based forecasting and optimization framework to optimize releases from water supply reservoirs for flood control. Water Resour Manage 34:989–1004",
+      "journal-title": "Water Resour Manage"
+    },
+    {
+      "key": "4089_CR50",
+      "volume": "199",
+      "author": "S Ren",
+      "year": "2021",
+      "unstructured": "Ren S, Zhang B, Wang WJ, Yuan Y, Guo C (2021) Sedimentation and its response to management strategies of the Three Gorges Reservoir, Yangtze River. China Catena 199:105096",
+      "journal-title": "China Catena"
+    },
+    {
+      "issue": "8",
+      "key": "4089_CR51",
+      "doi-asserted-by": "crossref",
+      "first-page": "1272",
+      "DOI": "10.3390/w14081272",
+      "volume": "14",
+      "author": "M Ren",
+      "year": "2022",
+      "unstructured": "Ren M, Zhang Q, Yang Y, Wang G, Xu W, Zhao L (2022) Research and application of reservoir flood control optimal operation based on improved genetic algorithm. Water 14(8):1272",
+      "journal-title": "Water"
+    },
+    {
+      "key": "4089_CR52",
+      "doi-asserted-by": "crossref",
+      "first-page": "9",
+      "DOI": "10.1016/j.pce.2018.07.003",
+      "volume": "109",
+      "author": "A Samadi",
+      "year": "2019",
+      "unstructured": "Samadi A, Sadrolashrafi SS, Kholghi MK (2019) Development and testing of a rainfall-runoff model for flood simulation in dry mountain catchments: A case study for the Dez River Basin. Phys Chem Earth, Parts a/b/c 109:9–25",
+      "journal-title": "Phys Chem Earth, Parts a/b/c"
+    },
+    {
+      "issue": "5",
+      "key": "4089_CR53",
+      "doi-asserted-by": "crossref",
+      "first-page": "1635",
+      "DOI": "10.1007/s11269-014-0899-1",
+      "volume": "29",
+      "author": "D Schwanenberg",
+      "year": "2015",
+      "unstructured": "Schwanenberg D, Fan FM, Naumann S, Kuwajima JI, Montero RA, Assis dos Reis A (2015) Short-term reservoir optimization for flood mitigation under meteorological and hydrological forecast uncertainty. Water Resour Manage 29(5):1635–1651",
+      "journal-title": "Water Resour Manage"
+    },
+    {
+      "issue": "5",
+      "key": "4089_CR54",
+      "doi-asserted-by": "crossref",
+      "first-page": "887",
+      "DOI": "10.3390/w15050887",
+      "volume": "15",
+      "author": "M Tanhapour",
+      "year": "2023",
+      "unstructured": "Tanhapour M, Soltani J, Malekmohammadi B, Hlavcova K, Kohnova S, Petrakova Z, Lotfi S (2023) Forecasting the ensemble hydrograph of the reservoir inflow based on post-processed TIGGE precipitation forecasts in a coupled atmospheric-hydrological system. Water 15(5):887",
+      "journal-title": "Water"
+    },
+    {
+      "issue": "4",
+      "key": "4089_CR55",
+      "doi-asserted-by": "crossref",
+      "first-page": "4656",
+      "DOI": "10.2166/ws.2022.124",
+      "volume": "22",
+      "author": "TN To",
+      "year": "2022",
+      "unstructured": "To TN, Vu HC, Le H (2022) Impacts of reservoir operation and urbanization on flood inundation in the Vu Gia Thu Bon Basin. Vietnam Water Supply 22(4):4656–4675",
+      "journal-title": "Vietnam Water Supply"
+    },
+    {
+      "key": "4089_CR56",
+      "doi-asserted-by": "crossref",
+      "first-page": "1653",
+      "DOI": "10.1007/s11269-016-1242-9",
+      "volume": "30",
+      "author": "G Uysal",
+      "year": "2016",
+      "unstructured": "Uysal G, Şensoy A, Şorman AA, Akgün T, Gezgin T (2016) Basin/reservoir system integration for real time reservoir operation. Water Resour Manage 30:1653–1668",
+      "journal-title": "Water Resour Manage"
+    },
+    {
+      "issue": "7",
+      "key": "4089_CR57",
+      "doi-asserted-by": "crossref",
+      "first-page": "2417",
+      "DOI": "10.1007/s11269-019-02267-y",
+      "volume": "33",
+      "author": "X Wang",
+      "year": "2019",
+      "unstructured": "Wang X, Liu Z, Zhou W, Jia Z, You Q (2019) A forecast-based operation (FBO) mode for reservoir flood control using forecast cumulative net rainfall. Water Resour Manage 33(7):2417–2437",
+      "journal-title": "Water Resour Manage"
+    },
+    {
+      "key": "4089_CR58",
+      "doi-asserted-by": "crossref",
+      "first-page": "126017",
+      "DOI": "10.1016/j.jhydrol.2021.126017",
+      "volume": "595",
+      "author": "J Wang",
+      "year": "2021",
+      "unstructured": "Wang J, Zhao T, Zhao J, Wang H, Lei X (2021) Improving real-time reservoir operation during flood season by making the most of streamflow forecasts. J Hydrol 595:126017",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "key": "4089_CR59",
+      "doi-asserted-by": "crossref",
+      "first-page": "154565",
+      "DOI": "10.1016/j.scitotenv.2022.154565",
+      "volume": "829",
+      "author": "Y Wang",
+      "year": "2022",
+      "unstructured": "Wang Y, Xie J, Xu YP, Guo Y, Wang Y (2022a) Scenario-based multi-objective optimization of reservoirs in silt-laden rivers: A case study in the Lower Yellow River. Sci Total Environ 829:154565",
+      "journal-title": "Sci Total Environ"
+    },
+    {
+      "issue": "2",
+      "key": "4089_CR60",
+      "first-page": "702",
+      "volume": "58",
+      "author": "HR Wang",
+      "year": "2022",
+      "unstructured": "Wang HR, Li FF, Wang GQ, Qiu J (2022b) Shrinking Pareto fronts to guide reservoir operations by quantifying competition among multiple objectives. Water Resour Res 58(2):702",
+      "journal-title": "Water Resour Res"
+    },
+    {
+      "key": "4089_CR61",
+      "unstructured": "Wang YH, Gupta H (2023) Machine-learning-based physically-interpretable catchment-scale modeling of hydrologic systems. American Geophysical Union (AGU23), 14 December, San Francisco, California, USA"
+    },
+    {
+      "key": "4089_CR62",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Wang F, Wang L, Zhou H, Saavedra Valeriano OC, Koike T, Li W (2012) Ensemble hydrological prediction‐based real‐time optimization of a multiobjective reservoir during flood season in a semiarid basin with global numerical weather predictions. Water Resour Res 48(7):1–21",
+      "DOI": "10.1029/2011WR011366"
+    },
+    {
+      "key": "4089_CR63",
+      "doi-asserted-by": "crossref",
+      "first-page": "124229",
+      "DOI": "10.1016/j.jhydrol.2019.124229",
+      "volume": "579",
+      "author": "S Yang",
+      "year": "2019",
+      "unstructured": "Yang S, Yang D, Chen J, Zhao B (2019) Real-time reservoir operation using recurrent neural networks and inflow forecast from a distributed hydrological model. J Hydrol 579:124229",
+      "journal-title": "J Hydrol"
+    },
+    {
+      "issue": "2",
+      "key": "4089_CR64",
+      "doi-asserted-by": "crossref",
+      "first-page": "629",
+      "DOI": "10.1007/s11069-012-0169-6",
+      "volume": "63",
+      "author": "J Yazdi",
+      "year": "2012",
+      "unstructured": "Yazdi J, Neyshabouri SS (2012) Optimal design of flood-control multi-reservoir system on a watershed scale. Nat Hazards 63(2):629–646",
+      "journal-title": "Nat Hazards"
+    },
+    {
+      "key": "4089_CR65",
+      "doi-asserted-by": "crossref",
+      "unstructured": "Ye J, Shao Y, Li Z (2016) Flood forecasting based on TIGGE precipitation ensemble forecast. Adv Meteorol 2016(1):9129734",
+      "DOI": "10.1155/2016/9129734"
+    },
+    {
+      "key": "4089_CR66",
+      "doi-asserted-by": "crossref",
+      "first-page": "299",
+      "DOI": "10.1007/s11069-016-2202-7",
+      "volume": "82",
+      "author": "M Zargar",
+      "year": "2016",
+      "unstructured": "Zargar M, Samani HM, Haghighi A (2016) Optimization of gated spillways operation for flood risk management in multi-reservoir systems. Nat Hazards 82:299–320",
+      "journal-title": "Nat Hazards"
+    },
+    {
+      "issue": "1",
+      "key": "4089_CR67",
+      "doi-asserted-by": "crossref",
+      "first-page": "04019060",
+      "DOI": "10.1061/(ASCE)HE.1943-5584.0001871",
+      "volume": "25",
+      "author": "J Zhang",
+      "year": "2020",
+      "unstructured": "Zhang J, Chen J, Li X, Chen H, Xie P, Li W (2020) Combining post-processed ensemble weather forecasts and multiple hydrological models for ensemble streamflow predictions. J Hydrol Eng 25(1):04019060",
+      "journal-title": "J Hydrol Eng"
+    },
+    {
+      "issue": "12",
+      "key": "4089_CR68",
+      "doi-asserted-by": "crossref",
+      "first-page": "10635",
+      "DOI": "10.1002/2017WR021480",
+      "volume": "53",
+      "author": "F Zhu",
+      "year": "2017",
+      "unstructured": "Zhu F, Zhong PA, Sun Y, Yeh WWG (2017) Real-time optimal flood control decision making and risk propagation under multiple uncertainties. Water Resour Res 53(12):10635–10654",
+      "journal-title": "Water Resour Res"
+    }
+  ],
+  "container-title": [
+    "Water Resources Management"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11269-024-04089-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/article/10.1007/s11269-024-04089-z/fulltext.html",
+      "content-type": "text/html",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://link.springer.com/content/pdf/10.1007/s11269-024-04089-z.pdf",
+      "content-type": "application/pdf",
+      "content-version": "vor",
+      "intended-application": "similarity-checking"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2025,
+        4,
+        30
+      ]
+    ],
+    "date-time": "2025-04-30T09:43:01Z",
+    "timestamp": 1746006181000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://link.springer.com/10.1007/s11269-024-04089-z"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        8
+      ]
+    ]
+  },
+  "references-count": 68,
+  "journal-issue": {
+    "issue": "6",
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          4
+        ]
+      ]
+    }
+  },
+  "alternative-id": [
+    "4089"
+  ],
+  "URL": "https://doi.org/10.1007/s11269-024-04089-z",
+  "relation": {},
+  "ISSN": [
+    "0920-4741",
+    "1573-1650"
+  ],
+  "issn-type": [
+    {
+      "value": "0920-4741",
+      "type": "print"
+    },
+    {
+      "value": "1573-1650",
+      "type": "electronic"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2025,
+        1,
+        8
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "26 August 2024",
+      "order": 1,
+      "name": "received",
+      "label": "Received",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "23 December 2024",
+      "order": 2,
+      "name": "accepted",
+      "label": "Accepted",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "value": "8 January 2025",
+      "order": 3,
+      "name": "first_online",
+      "label": "First Online",
+      "group": {
+        "name": "ArticleHistory",
+        "label": "Article History"
+      }
+    },
+    {
+      "order": 1,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Declarations"
+      }
+    },
+    {
+      "value": "Not applicable.",
+      "order": 2,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Compliance with Ethical Standards"
+      }
+    },
+    {
+      "value": "All authors involved in this study provided informed consent to participate.",
+      "order": 3,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent to Participate"
+      }
+    },
+    {
+      "value": "All authors consented to publish the findings of this study in this journal.",
+      "order": 4,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Consent to Publish"
+      }
+    },
+    {
+      "value": "The authors declare no conflict of interest.",
+      "order": 5,
+      "name": "Ethics",
+      "group": {
+        "name": "EthicsHeading",
+        "label": "Conflicts of Interest"
+      }
+    }
+  ]
+}

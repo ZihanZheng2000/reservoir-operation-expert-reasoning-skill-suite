@@ -1,0 +1,654 @@
+{
+  "id": "https://openalex.org/W2507559062",
+  "doi": "https://doi.org/10.1007/s11269-016-1472-x",
+  "title": "Optimal Pre-storm Flood Hedging Releases for a Single Reservoir",
+  "display_name": "Optimal Pre-storm Flood Hedging Releases for a Single Reservoir",
+  "publication_year": 2016,
+  "publication_date": "2016-09-03",
+  "ids": {
+    "openalex": "https://openalex.org/W2507559062",
+    "doi": "https://doi.org/10.1007/s11269-016-1472-x",
+    "mag": "2507559062"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s11269-016-1472-x",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/s11269-016-1472-x",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S17551360",
+      "display_name": "Water Resources Management",
+      "issn_l": "0920-4741",
+      "issn": [
+        "0920-4741",
+        "1573-1650"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Water Resources Management",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5062994869",
+        "display_name": "Rui Hui",
+        "orcid": "https://orcid.org/0000-0002-9101-6408"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84218800",
+          "display_name": "University of California, Davis",
+          "ror": "https://ror.org/05rrcem69",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rui Hui",
+      "raw_affiliation_strings": [
+        "Center for Watershed Sciences, Department of Civil and Environmental Engineering, University of California-Davis, Davis, CA, 95616, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-9101-6408",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Watershed Sciences, Department of Civil and Environmental Engineering, University of California-Davis, Davis, CA, 95616, USA",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5040056784",
+        "display_name": "Jay R. Lund",
+        "orcid": "https://orcid.org/0000-0002-7366-3206"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I84218800",
+          "display_name": "University of California, Davis",
+          "ror": "https://ror.org/05rrcem69",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jay Lund",
+      "raw_affiliation_strings": [
+        "Center for Watershed Sciences, Department of Civil and Environmental Engineering, University of California-Davis, Davis, CA, 95616, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Watershed Sciences, Department of Civil and Environmental Engineering, University of California-Davis, Davis, CA, 95616, USA",
+          "institution_ids": [
+            "https://openalex.org/I84218800"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5031092849",
+        "display_name": "Jianshi Zhao",
+        "orcid": "https://orcid.org/0000-0001-9789-8555"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jianshi Zhao",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Hydro-Science and Engineering, Department of Hydraulic Engineering, Tsinghua Univeristy, Beijing, 100084, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydro-Science and Engineering, Department of Hydraulic Engineering, Tsinghua Univeristy, Beijing, 100084, China",
+          "institution_ids": [
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5058523490",
+        "display_name": "Tongtiegang Zhao",
+        "orcid": "https://orcid.org/0000-0001-6943-258X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210099662",
+          "display_name": "State Key Laboratory of Hydrology-Water Resources and Hydraulic Engineering",
+          "ror": "https://ror.org/012wsxz85",
+          "country_code": "CN",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I163340411",
+            "https://openalex.org/I4210099662",
+            "https://openalex.org/I4210111986",
+            "https://openalex.org/I4210120069",
+            "https://openalex.org/I4210127390"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Tongtiegang Zhao",
+      "raw_affiliation_strings": [
+        "State Key Laboratory of Hydro-Science and Engineering, Department of Hydraulic Engineering, Tsinghua Univeristy, Beijing, 100084, China"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "State Key Laboratory of Hydro-Science and Engineering, Department of Hydraulic Engineering, Tsinghua Univeristy, Beijing, 100084, China",
+          "institution_ids": [
+            "https://openalex.org/I4210099662"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5062994869"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I84218800"
+  ],
+  "apc_list": {
+    "value": 3790,
+    "currency": "USD",
+    "value_usd": 3790
+  },
+  "apc_paid": null,
+  "fwci": 3.3034,
+  "has_fulltext": false,
+  "cited_by_count": 47,
+  "citation_normalized_percentile": {
+    "value": 0.90813866,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "30",
+    "issue": "14",
+    "first_page": "5113",
+    "last_page": "5129"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10969",
+    "display_name": "Water resources management and optimization",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2212",
+      "display_name": "Ocean Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10969",
+      "display_name": "Water resources management and optimization",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2212",
+        "display_name": "Ocean Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10930",
+      "display_name": "Flood Risk Assessment and Management",
+      "score": 0.9972000122070312,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11186",
+      "display_name": "Hydrology and Drought Analysis",
+      "score": 0.9916999936103821,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2306",
+        "display_name": "Global and Planetary Change"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/23",
+        "display_name": "Environmental Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/flood-myth",
+      "display_name": "Flood myth",
+      "score": 0.8678719997406006
+    },
+    {
+      "id": "https://openalex.org/keywords/storm",
+      "display_name": "Storm",
+      "score": 0.7910424470901489
+    },
+    {
+      "id": "https://openalex.org/keywords/100-year-flood",
+      "display_name": "100-year flood",
+      "score": 0.5879992246627808
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-science",
+      "display_name": "Environmental science",
+      "score": 0.5769945383071899
+    },
+    {
+      "id": "https://openalex.org/keywords/convexity",
+      "display_name": "Convexity",
+      "score": 0.5246641635894775
+    },
+    {
+      "id": "https://openalex.org/keywords/hydrology",
+      "display_name": "Hydrology (agriculture)",
+      "score": 0.4369819462299347
+    },
+    {
+      "id": "https://openalex.org/keywords/meteorology",
+      "display_name": "Meteorology",
+      "score": 0.23963910341262817
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.23171067237854004
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.1091998815536499
+    },
+    {
+      "id": "https://openalex.org/keywords/geotechnical-engineering",
+      "display_name": "Geotechnical engineering",
+      "score": 0.10141581296920776
+    },
+    {
+      "id": "https://openalex.org/keywords/economics",
+      "display_name": "Economics",
+      "score": 0.08711642026901245
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C74256435",
+      "wikidata": "https://www.wikidata.org/wiki/Q134052",
+      "display_name": "Flood myth",
+      "level": 2,
+      "score": 0.8678719997406006
+    },
+    {
+      "id": "https://openalex.org/C105306849",
+      "wikidata": "https://www.wikidata.org/wiki/Q81054",
+      "display_name": "Storm",
+      "level": 2,
+      "score": 0.7910424470901489
+    },
+    {
+      "id": "https://openalex.org/C171878848",
+      "wikidata": "https://www.wikidata.org/wiki/Q336797",
+      "display_name": "100-year flood",
+      "level": 3,
+      "score": 0.5879992246627808
+    },
+    {
+      "id": "https://openalex.org/C39432304",
+      "wikidata": "https://www.wikidata.org/wiki/Q188847",
+      "display_name": "Environmental science",
+      "level": 0,
+      "score": 0.5769945383071899
+    },
+    {
+      "id": "https://openalex.org/C72134830",
+      "wikidata": "https://www.wikidata.org/wiki/Q5166524",
+      "display_name": "Convexity",
+      "level": 2,
+      "score": 0.5246641635894775
+    },
+    {
+      "id": "https://openalex.org/C76886044",
+      "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+      "display_name": "Hydrology (agriculture)",
+      "level": 2,
+      "score": 0.4369819462299347
+    },
+    {
+      "id": "https://openalex.org/C153294291",
+      "wikidata": "https://www.wikidata.org/wiki/Q25261",
+      "display_name": "Meteorology",
+      "level": 1,
+      "score": 0.23963910341262817
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.23171067237854004
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.1091998815536499
+    },
+    {
+      "id": "https://openalex.org/C187320778",
+      "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+      "display_name": "Geotechnical engineering",
+      "level": 1,
+      "score": 0.10141581296920776
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.08711642026901245
+    },
+    {
+      "id": "https://openalex.org/C106159729",
+      "wikidata": "https://www.wikidata.org/wiki/Q2294553",
+      "display_name": "Financial economics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/s11269-016-1472-x",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/s11269-016-1472-x",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S17551360",
+        "display_name": "Water Resources Management",
+        "issn_l": "0920-4741",
+        "issn": [
+          "0920-4741",
+          "1573-1650"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Water Resources Management",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmh:oai:RePEc:spr:waterr:v:30:y:2016:i:14:d:10.1007_s11269-016-1472-x",
+      "is_oa": false,
+      "landing_page_url": "http://link.springer.com/10.1007/s11269-016-1472-x",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401271",
+        "display_name": "RePEc: Research Papers in Economics",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I77793887",
+        "host_organization_name": "Federal Reserve Bank of St. Louis",
+        "host_organization_lineage": [
+          "https://openalex.org/I77793887"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/6",
+      "display_name": "Clean water and sanitation",
+      "score": 0.8399999737739563
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 36,
+  "referenced_works": [
+    "https://openalex.org/W59490568",
+    "https://openalex.org/W320805548",
+    "https://openalex.org/W1557475997",
+    "https://openalex.org/W1655122662",
+    "https://openalex.org/W1798883798",
+    "https://openalex.org/W1840848304",
+    "https://openalex.org/W1852358735",
+    "https://openalex.org/W1918220106",
+    "https://openalex.org/W1944976702",
+    "https://openalex.org/W1966008711",
+    "https://openalex.org/W1977735418",
+    "https://openalex.org/W1985112047",
+    "https://openalex.org/W1985779471",
+    "https://openalex.org/W1993527708",
+    "https://openalex.org/W1994477728",
+    "https://openalex.org/W1995898915",
+    "https://openalex.org/W2013858742",
+    "https://openalex.org/W2014231855",
+    "https://openalex.org/W2032357604",
+    "https://openalex.org/W2034168691",
+    "https://openalex.org/W2038447463",
+    "https://openalex.org/W2050028645",
+    "https://openalex.org/W2052815107",
+    "https://openalex.org/W2053714881",
+    "https://openalex.org/W2055540584",
+    "https://openalex.org/W2083387958",
+    "https://openalex.org/W2104735855",
+    "https://openalex.org/W2130613836",
+    "https://openalex.org/W2136558239",
+    "https://openalex.org/W2291859128",
+    "https://openalex.org/W2325642510",
+    "https://openalex.org/W2339413163",
+    "https://openalex.org/W2470338714",
+    "https://openalex.org/W2731313371",
+    "https://openalex.org/W2751862591",
+    "https://openalex.org/W3102923851"
+  ],
+  "related_works": [
+    "https://openalex.org/W2463673412",
+    "https://openalex.org/W4230765522",
+    "https://openalex.org/W1999400426",
+    "https://openalex.org/W2389589173",
+    "https://openalex.org/W2796300196",
+    "https://openalex.org/W2005819984",
+    "https://openalex.org/W2356546283",
+    "https://openalex.org/W2521986937",
+    "https://openalex.org/W2901205482",
+    "https://openalex.org/W2346158437"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-08-21T09:56:20.448147",
+  "created_date": "2025-10-10T00:00:00"
+}

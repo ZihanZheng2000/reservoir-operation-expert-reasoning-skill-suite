@@ -1,0 +1,194 @@
+001 | 2026 | 10.1061/jwrmd5.wreng-7250 | Comparing the Robustness of Forecast-Informed Reservoir Operating Policies under Forecast Uncertainty and Hydrologic Extremes | Journal of Water Resources Planning and Management | old=True local=False
+002 | 2026 | 10.1029/2025wr041515 | Global Parameter Sensitivity in Forecast‐Informed Reservoir Operations Using Model Predictive Control | Water Resources Research | old=True local=False
+003 | 2026 | 10.1016/j.jhydrol.2026.135282 | Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense | Journal of Hydrology | old=True local=False
+004 | 2025 | 10.1061/jwrmd5.wreng-6683 | Forecast-Informed Prerelease Reservoir Operations for Flood Risk Management | Journal of Water Resources Planning and Management | old=True local=False
+005 | 2024 | 10.1029/2023wr035693 | AI‐Based Ensemble Flood Forecasts and Its Implementation in Multi‐Objective Robust Optimization Operation for Reservoir Flood Control | Water Resources Research | old=True local=False
+006 | 2024 | 10.1111/jfr3.13051 | Application of forecast‐informed reservoir operations at <scp>US Army Corps</scp> of <scp>Engineers</scp> dams in <scp>California</scp> | Journal of Flood Risk Management | old=True local=False
+007 | 2024 | 10.1029/2023wr034898 | Synthetic Forecast Ensembles for Evaluating Forecast Informed Reservoir Operations | Water Resources Research | old=True local=False
+008 | 2021 | 10.3390/w13040556 | A Forecast-Skill-Based Dynamic Pre-Storm Level Control for Reservoir Flood-Control Operation | Water | old=True local=False
+009 | 2021 | 10.1016/j.jhydrol.2021.126017 | Improving real-time reservoir operation during flood season by making the most of streamflow forecasts | Journal of Hydrology | old=True local=False
+010 | 2020 | 10.1029/2019wr026604 | Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multipurpose Reservoir in Northern California | Water Resources Research | old=True local=False
+011 | 2020 | 10.1016/j.jhydrol.2020.125353 | Risk analysis for reservoir flood control operation considering two-dimensional uncertainties based on Bayesian network | Journal of Hydrology | old=True local=False
+012 | 2018 | 10.1016/j.jhydrol.2018.08.040 | Risk analysis of flood control reservoir operation considering multiple uncertainties | Journal of Hydrology | old=True local=False
+013 | 2016 | 10.1016/j.jhydrol.2016.06.015 | Streamflow forecast uncertainty evolution and its effect on real-time reservoir operation | Journal of Hydrology | old=True local=False
+014 | 2011 | 10.1016/j.advwatres.2011.01.004 | Effect of streamflow forecast uncertainty on real-time reservoir operation | Advances in Water Resources | old=True local=False
+015 | 2010 | 10.1016/j.jhydrol.2010.07.011 | Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty | Journal of Hydrology | old=True local=False
+016 | 2026 | 10.1029/2025wr042131 | Characterizing Watershed Responses and Reservoir Operational Flexibilities: Analyses to Support Forecast‐Informed Reservoir Operations (FIRO) Planning and Assessments | Water Resources Research | old=False local=False
+017 | 2026 | 10.34218/ijrbsiwrm_01_02_001 | FORECAST INFORMED AND BASIN COORDINATED FLOOD MANAGEMENT OF THE MAHANADI A POLICY AND TECHNICAL ROADMAP FOR HIRAKUD RESERVOIR OPERATIONS | INTERNATIONAL JOURNAL OF RIVER BASIN SCIENCE AND INTEGRATED WATER RESOURCE MANAGEMENT | old=False local=False
+018 | 2026 | 10.21660/2026.144.5480 | FORECAST-INFORMED EARLY RELEASE FOR FLOOD CONTROL AT THE BERINGIN SILA DAM, INDONESIA | International Journal of GEOMATE | old=False local=False
+019 | 2026 | 10.1111/jfr3.70165 | Mapping Flood Hazard Across Mainland China Through a Physics‐Based Global Flood Model With Embedded Reservoir Operation Scheme | Journal of Flood Risk Management | old=False local=False
+020 | 2026 | 10.1007/s11269-026-04495-5 | Research on Dynamic Control of Flood Control Level for Jinxia Reservoir Group Considering Risks | Water Resources Management | old=False local=False
+021 | 2026 | 10.1002/ldr.70780 | Risk Assessment and Diagnosis Model for Real‐Time Flood Control Operation of a Multi‐Reservoir System | Land Degradation &amp; Development | old=False local=False
+022 | 2026 | 10.1088/3033-4942/ae949f | The potential economic value of agricultural and urban water from forecast informed reservoir operations (FIRO) in California | Environmental Research: Water | old=False local=False
+023 | 2026 | 10.1016/j.jhydrol.2025.134861 | Two-layer dynamic flood risk analysis model for real-time flood control operation of a multi-reservoir system | Journal of Hydrology | old=False local=False
+024 | 2025 | 10.2118/220002-pa | A Deep-Learning-Based Reservoir Surrogate for Performance Forecast and Nonlinearly Constrained Life-Cycle Production Optimization Under Geological Uncertainty | SPE Journal | old=False local=False
+025 | 2025 | 10.3390/w17142145 | A Reservoir Group Flood Control Operation Decision-Making Risk Analysis Model Considering Indicator and Weight Uncertainties | Water | old=False local=False
+026 | 2025 | 10.1175/waf-d-24-0188.1 | A Summary of U.S. Watershed Precipitation Forecast Skill and the National Forecast-Informed Reservoir Operations Expansion Pathfinder Effort | Weather and Forecasting | old=False local=False
+027 | 2025 | 10.20527/crc.v9i4.15016 | ANALYSIS OF WATER AVAILABILITY IN CEMPAKA RESERVOIR AND GUNUNG KUPANG RESERVOIR FOR FLOOD CONTROL IN CEMPAKA DISTRICT BANJARBARU CITY | CERUCUK | old=False local=False
+028 | 2025 | 10.2166/hydro.2025.019 | Balancing operator’s risk averseness in model predictive control for real-time reservoir flood control | Journal of Hydroinformatics | old=False local=False
+029 | 2025 | 10.1038/s44304-025-00117-z | Climate change and effectiveness of dams in flood mitigation in India | npj Natural Hazards | old=False local=True
+030 | 2025 | 10.3390/w17223226 | Deep Reinforcement Learning for Optimized Reservoir Operation and Flood Risk Mitigation | Water | old=False local=False
+031 | 2025 | 10.1007/s11269-024-04089-z | Development of a Multi-objective Optimal Operation Model of a Dam using Meteorological Ensemble Forecasts for Flood Control | Water Resources Management | old=False local=True
+032 | 2025 | 10.1007/s11269-025-04305-4 | Dynamic Control of the Flood Limited Water Level in Reservoir Considering the Uncertainty Error Domain of Forecast Information | Water Resources Management | old=False local=False
+033 | 2025 | 10.46793/vodoprivreda57.5-6.201pg | FORECAST OF RESERVOIR WATER LEVEL WITH USE OF MACHINE LEARNING | Vodoprivreda | old=False local=False
+034 | 2025 | 10.1371/journal.pwat.0000361 | Flood control of reservoir systems: Learning-based explicit and switched model predictive control approaches | PLOS Water | old=False local=False
+035 | 2025 | 10.1016/j.jhydrol.2025.133926 | Flood control storage substitution from multiple to single-reservoir and storage reservation strategy for hydropower optimization in cascade reservoir systems | Journal of Hydrology | old=False local=False
+036 | 2025 | 10.1061/jwrmd5.wreng-6516 | Forecast-Informed Reservoir Operation within an Actively Managed Distributed Storage Network Using the High-Resolution Rapid Refresh Product | Journal of Water Resources Planning and Management | old=False local=False
+037 | 2025 | 10.1061/jhyeff.heeng-6276 | Forecast-Informed Reservoir Operations within a Satellite-Based Framework for Mountainous and High-Precipitation Regions: Case of the 2018 Kerala Floods | Journal of Hydrologic Engineering | old=False local=False
+038 | 2025 | 10.15199/22.2025.7.1 | Innovations in Modern Flood Control Reservoir Construction: Szalejów Górny Reservoir, Poland | GOSPODARKA WODNA | old=False local=False
+039 | 2025 | 10.1002/rvr2.119 | Integrated optimization and coordination of cascaded reservoir operations: Balancing flood control, sediment transport and ecosystem service | River | old=False local=False
+040 | 2025 | 10.1111/jfr3.70142 | Non‐Linear Influence of Reservoir Initial Condition on Flood Reduction | Journal of Flood Risk Management | old=False local=False
+041 | 2025 | 10.3390/pr13072081 | RETRACTED: Jiao et al. Application Research of CFD-MOEA/D Optimization Algorithm in Large-Scale Reservoir Flood Control Scheduling. Processes 2022, 10, 2318 | Processes | old=False local=False
+042 | 2025 | 10.3389/frwa.2025.1606096 | Stochastic multi-objective optimization for flood control in multi-reservoir systems: an adaptive Progressive Hedging approach with scenario clustering | Frontiers in Water | old=False local=False
+043 | 2025 | 10.1016/j.jhydrol.2025.134285 | Uncertainty-informed multi-reservoir flood control optimization: A probabilistic forecasting and stochastic decision-making framework | Journal of Hydrology | old=False local=False
+044 | 2024 | 10.1016/j.jhydrol.2024.131940 | A multi-objective operation optimization method for dynamic control of reservoir water level in evolving flood season environments | Journal of Hydrology | old=False local=False
+045 | 2024 | 10.3390/hydrology11090147 | Adaptive Operating Rules for Flood Control of a Multi-Purpose Reservoir | Hydrology | old=False local=False
+046 | 2024 | 10.5194/piahs-386-147-2024 | Development of model predictive controls for flood control and power generation of reservoir cascade in Mahaweli basin, Sri Lanka to mitigate energy and economic crisis provoked by the COVID-19 pandemic | Proceedings of IAHS | old=False local=False
+047 | 2024 | 10.1007/s11269-024-04046-w | Optimal Operation of Multi-reservoir System Utilizing DEA, AIDE Algorithm and Flood Control Assessment by MCDM Approach | Water Resources Management | old=False local=False
+048 | 2024 | 10.12677/jwrr.2024.132014 | Seasonal Design Flood and Dynamic Control of Operating Water Level of Baihetan Reservoir | Journal of Water Resources Research | old=False local=False
+049 | 2024 | 10.1061/jwrmd5.wreng-6471 | Variability, Attributes, and Drivers of Optimal Forecast-Informed Reservoir Operating Policies for Water Supply and Flood Control in California | Journal of Water Resources Planning and Management | old=False local=False
+050 | 2023 | 10.1175/bams-d-23-0004.1 | A Multidisciplinary Training Opportunity for the Next Generation of Forecast-Informed Reservoir Operations (FIRO) Collaborators | Bulletin of the American Meteorological Society | old=False local=False
+051 | 2023 | 10.1016/j.jhydrol.2023.129360 | An inverse-problem approach to detect outliers in rainfall measurements of ground gauges for robust reservoir flood control operation | Journal of Hydrology | old=False local=False
+052 | 2023 | 10.5004/dwt.2023.29687 | Construction of multi-objective reservoir flood control operation preference model | Desalination and Water Treatment | old=False local=False
+053 | 2023 | 10.1016/j.jhydrol.2023.129421 | Multi-objective robust optimization of reservoir operation for real-time flood control under forecasting uncertainty | Journal of Hydrology | old=False local=False
+054 | 2023 | 10.3390/w15152817 | Optimization of Multi-Reservoir Flood Control Operating Rules: A Case Study for the Chaobai River Basin in China | Water | old=False local=False
+055 | 2023 | 10.3390/w16010043 | Research on Flood Risk Control Methods and Reservoir Flood Control Operation Oriented towards Floodwater Utilization | Water | old=False local=False
+056 | 2023 | 10.1080/23249676.2023.2276948 | Reservoir operations under uncertainty with moving-horizon approach and ensemble forecast optimization | Journal of Applied Water Engineering and Research | old=False local=False
+057 | 2023 | 10.1155/2023/9875048 | Retracted: Dynamic Control of Water Level in Flood Limited Reservoir Based on Intelligent Calculation | Mathematical Problems in Engineering | old=False local=False
+058 | 2023 | 10.12677/jwrr.2023.122014 | Risk and Benefit Analysis of Dynamic Control of Reservoir Operation Water Level during Flood Season | Journal of Water Resources Research | old=False local=False
+059 | 2023 | 10.1016/j.cliser.2023.100406 | Seasonal forecast-informed reservoir operation. Potential benefits for a water-stressed Mediterranean basin | Climate Services | old=False local=False
+060 | 2023 | 10.1108/bepam-10-2022-0155 | Stakeholder collaboration in the forecast-informed reservoir operations (FIRO) pilot project at Lake Mendocino, California | Built Environment Project and Asset Management | old=False local=False
+061 | 2022 | 10.47939/et.v3i6(02).27 | Brief Discussion on Construction Measures of Reservoir Flood Control and Disaster Reduction in Flood Season | Foreign Language Science and Technology Journal Database Engineering Technology | old=False local=False
+062 | 2022 | 10.1051/e3sconf/202234601024 | Decision support for preliminary release of reservoir for flood control using ECMWF medium-range ensemble rainfall forecast | E3S Web of Conferences | old=False local=False
+063 | 2022 | 10.1029/2021ms002944 | Development of a Reservoir Flood Control Scheme for Global Flood Models | Journal of Advances in Modeling Earth Systems | old=False local=False
+064 | 2022 | 10.1155/2022/3683122 | Dynamic Control of Water Level in Flood Limited Reservoir Based on Intelligent Calculation | Mathematical Problems in Engineering | old=False local=False
+065 | 2022 | 10.1111/jfr3.12854 | Exploring the role of the long short‐term memory model in improving multi‐step ahead reservoir inflow forecasting | Journal of Flood Risk Management | old=False local=False
+066 | 2022 | 10.3390/w14050775 | Flood Season Staging and Adjustment of Limited Water Level for a Multi-Purpose Reservoir | Water | old=False local=False
+067 | 2022 | 10.1111/gwat.13162 | Increasing Stormwater Capture and Recharge Using Forecast Informed Reservoir Operations, Prado Dam | Groundwater | old=False local=False
+068 | 2022 | 10.1016/j.agwat.2022.107542 | Investigation of a composite two-phase hedging rule policy for a multi reservoir system using streamflow forecast | Agricultural Water Management | old=False local=False
+069 | 2022 | 10.1088/1742-6596/2333/1/012016 | Multi-objective Optimization of Large-scale Multi-reservoir Flood Control Operation | Journal of Physics: Conference Series | old=False local=False
+070 | 2022 | 10.1111/jfr3.12825 | Optimal multireservoir operation for flood control under constrained operational rules | Journal of Flood Risk Management | old=False local=False
+071 | 2022 | 10.1051/e3sconf/202234603006 | Optimal operation of multi-reservoir system for flood control and hydroelectric generation | E3S Web of Conferences | old=False local=False
+072 | 2022 | 10.3390/pr10112318 | RETRACTED: Application Research of CFD-MOEA/D Optimization Algorithm in Large-Scale Reservoir Flood Control Scheduling | Processes | old=False local=False
+073 | 2022 | 10.1038/s41598-022-06801-8 | Realizing the full reservoir operation potential during the 2020 Yangtze river floods | Scientific Reports | old=False local=True
+074 | 2022 | 10.1007/s11269-022-03184-3 | Reservoir Flood Season Segmentation and Risk–benefit Cooperative Decision of Staged Flood Limited Water Level | Water Resources Management | old=False local=False
+075 | 2022 | 10.1007/s11269-022-03188-z | Risk Analysis of Dynamic Water Level Setting of Reservoir in Flood Season Based on Multi-index | Water Resources Management | old=False local=False
+076 | 2022 | 10.1016/j.jhydrol.2021.127334 | Robust multiobjective reservoir operation and risk decision-making model for real-time flood control coping with forecast uncertainty | Journal of Hydrology | old=False local=False
+077 | 2022 | 10.1016/j.apm.2021.09.012 | Tracing design flood hydrograph uncertainty in reservoir flood control system | Applied Mathematical Modelling | old=False local=False
+078 | 2021 | 10.2118/205000-pa | A Deep-Learning-Based Approach for Reservoir Production Forecast under Uncertainty | SPE Journal | old=False local=False
+079 | 2021 | 10.1007/s11269-021-02795-6 | An Analytical Risk Analysis Method for Reservoir Flood Control Operation Considering Forecast Information | Water Resources Management | old=False local=False
+080 | 2021 | 10.1088/1755-1315/634/1/012148 | Availability analysis of precipitation forecast results in reservoir flood control operation in Anqiu | IOP Conference Series: Earth and Environmental Science | old=False local=False
+081 | 2021 | 10.1111/jfr3.12705 | Comparative analysis of routed flood frequency for reservoirs in parallel incorporating bivariate flood frequency and reservoir operation | Journal of Flood Risk Management | old=False local=False
+082 | 2021 | 10.1029/2020wr028112 | Designing With Information Feedbacks: Forecast Informed Reservoir Sizing and Operation | Water Resources Research | old=False local=False
+083 | 2021 | 10.12677/jwrr.2021.104040 | Dynamic Control of Operating Water Level in Flood Season at Lechangxia Reservoir | Journal of Water Resources Research | old=False local=False
+084 | 2021 | 10.36698/2304-5957-2021-3-8-15 | FORECAST OF WATER INFLOW TO THE KUREI RESERVOIR DURING THE SUMMER FLOOD | Астраханский вестник экологического образования | old=False local=False
+085 | 2021 | 10.3390/w13192737 | Investigation of Forecast Accuracy and its Impact on the Efficiency of Data-Driven Forecast-Based Reservoir Operating Rules | Water | old=False local=False
+086 | 2021 | 10.1038/s41598-021-03699-6 | Machine-learning algorithms for forecast-informed reservoir operation (FIRO) to reduce flood damages | Scientific Reports | old=False local=True
+087 | 2021 | 10.3390/w13020173 | Quantifying the Risks that Propagate from the Inflow Forecast Uncertainty to the Reservoir Operations with Coupled Flood and Electricity Curtailment Risks | Water | old=False local=False
+088 | 2021 | 10.3390/w13243576 | Research and Application of Key Technologies for Dynamic Control of Reservoir Water Level in Flood Season | Water | old=False local=False
+089 | 2021 | 10.32347/2524-0021.2021.37.4-12 | SLOPE STABILITY ASSESSMENT OF THE UPSTREAM SLOPE OF THE DRY MOUNTAIN FLOOD CONTROL RESERVOIR DURING THE FLOOD | Problems of Water supply, Sewerage and Hydraulic | old=False local=False
+090 | 2021 | 10.1061/(asce)wr.1943-5452.0001384 | Sensitivity of Forecast Value in Multiobjective Reservoir Operation to Forecast Lead Time and Reservoir Characteristics | Journal of Water Resources Planning and Management | old=False local=False
+091 | 2021 | 10.21015/vtcs.v9i1.1001 | Specification of Operating Rules for Water Reservoir to Manage Flood Using Z-Notation | VAWKUM Transactions on Computer Sciences | old=False local=False
+092 | 2020 | 10.1111/jfr3.12678 | A novel simulation–optimization strategy for stochastic‐based designing of flood control dam: A case study of Jamishan dam | Journal of Flood Risk Management | old=False local=False
+093 | 2020 | 10.1080/07900627.2020.1745159 | Forecast-informed reservoir operations to guide hydropower and agriculture allocations in the Blue Nile basin, Ethiopia | International Journal of Water Resources Development | old=False local=False
+094 | 2020 | 10.1061/(asce)wr.1943-5452.0001174 | Improved Risk-Assessment Model for Real-Time Reservoir Flood-Control Operation | Journal of Water Resources Planning and Management | old=False local=False
+095 | 2020 | 10.1061/(asce)wr.1943-5452.0001229 | Integration and Evaluation of Forecast-Informed Multiobjective Reservoir Operations | Journal of Water Resources Planning and Management | old=False local=False
+096 | 2020 | 10.2118/203828-pa | Support Vector Regression for Petroleum Reservoir Production Forecast Considering Geostatistical Realizations | SPE Reservoir Evaluation &amp; Engineering | old=False local=False
+097 | 2020 | 10.1007/s11269-020-02571-y | Two-Phase Risk Hedging Rules for Informing Conservation of Flood Resources in Reservoir Operation Considering Inflow Forecast Uncertainty | Water Resources Management | old=False local=False
+098 | 2019 | 10.1007/s11269-019-02267-y | A Forecast-Based Operation(FBO) Mode for Reservoir Flood Control Using Forecast Cumulative Net Rainfall | Water Resources Management | old=False local=False
+099 | 2019 | 10.1016/j.apm.2019.05.009 | A dynamic multi-objective optimization model with interactivity and uncertainty for real-time reservoir flood control operation | Applied Mathematical Modelling | old=False local=False
+100 | 2019 | 10.2166/hydro.2019.005 | Adaptive forecast-based real-time optimal reservoir operations: application to Lake Urmia | Journal of Hydroinformatics | old=False local=False
+101 | 2019 | 10.1088/1755-1315/344/1/012148 | Analysis of reservoir flood control risk considering forecast uncertainty | IOP Conference Series: Earth and Environmental Science | old=False local=False
+102 | 2019 | 10.1111/jfr3.12586 | Determining dynamic water level control boundaries for a multi‐reservoir system during flood seasons with considering channel storage | Journal of Flood Risk Management | old=False local=False
+103 | 2019 | 10.2208/jscejhe.75.2_i_151 | IMPLEMENTING RESERVOIR OPERATION IN A PROBABILISTIC FLOOD FORECAST SYSTEM AND ITS APPLICATION TO 2015 KINU RIVER FLOOD | Journal of Japan Society of Civil Engineers, Ser. B1 (Hydraulic Engineering) | old=False local=True
+104 | 2019 | 10.3390/w11091836 | Multi-Objective Optimal Scheduling Model of Dynamic Control of Flood Limit Water Level for Cascade Reservoirs | Water | old=False local=False
+105 | 2019 | 10.1007/s11269-019-02231-w | Optimal Reservoir Flood Control Operation Using a Hedging Model and Considering the Near-Field Vibrations Induced by Flood Release | Water Resources Management | old=False local=False
+106 | 2019 | 10.1016/j.jhydrol.2019.123954 | Real-time reservoir flood control operation for cascade reservoirs using a two-stage flood risk analysis method | Journal of Hydrology | old=False local=False
+107 | 2019 | 10.3390/w11061134 | Risks Analysis and Response of Forecast-Based Operation for Ankang Reservoir Flood Control | Water | old=False local=False
+108 | 2018 | 10.1061/(asce)wr.1943-5452.0000906 | Conditional Value-at-Risk for Nonstationary Streamflow and Its Application for Derivation of the Adaptive Reservoir Flood Limited Water Level | Journal of Water Resources Planning and Management | old=False local=False
+109 | 2018 | 10.1051/matecconf/201824601116 | Dynamic change of water level in flood season and sediment regulation in the Three Gorges Reservoir | MATEC Web of Conferences | old=False local=False
+110 | 2018 | 10.1016/j.aej.2017.03.012 | Dynamic operation rules of multi-purpose reservoir for better flood management | Alexandria Engineering Journal | old=False local=False
+111 | 2018 | 10.3390/w10101371 | Flood Mitigation through Optimal Operation of a Multi-Reservoir System by Using Model Predictive Control: A Case Study in Myanmar | Water | old=False local=False
+112 | 2018 | 10.3390/w10030340 | Real-Time Flood Control by Tree-Based Model Predictive Control Including Forecast Uncertainty: A Case Study Reservoir in Turkey | Water | old=False local=False
+113 | 2018 | 10.1088/1755-1315/128/1/012012 | Research on the dynamic control of the flood control level of Shimen Reservoir in the mode of pre-storage and pre-discharge regulation | IOP Conference Series: Earth and Environmental Science | old=False local=False
+114 | 2018 | 10.1051/matecconf/201824601055 | The Application and Research of Dynamic Control the Flood Limited Water Level of Wuqiangxi Reservoir | MATEC Web of Conferences | old=False local=False
+115 | 2017 | 10.3390/w9030152 | A Comparison of Flood Control Standards for Reservoir Engineering for Different Countries | Water | old=False local=False
+116 | 2017 | 10.3741/jkwra.2017.50.6.407 | A study on the measures to use Gunnam flood control reservoir through a reservoir simulation model | Journal of Korea Water Resources Association | old=False local=False
+117 | 2017 | 10.5194/hess-21-4841-2017 | Complex relationship between seasonal streamflow forecast skill and value in reservoir operations | Hydrology and Earth System Sciences | old=False local=False
+118 | 2017 | 10.1007/s11269-017-1599-4 | Improved Dynamic Programming for Reservoir Flood Control Operation | Water Resources Management | old=False local=False
+119 | 2017 | 10.24203/ajfam.v5i2.4668 | Nonstructural Flood Control using Multi-reservoir Operation | Asian Journal of Fuzzy and Applied Mathematics | old=False local=False
+120 | 2017 | 10.1007/s11269-017-1763-x | Optimal Allocation of Flood Control Capacity for Multi-Reservoir Systems Using Multi-Objective Optimization Approach | Water Resources Management | old=False local=False
+121 | 2017 | 10.5004/dwt.2017.20857 | Research on benefit of reservoir flood resources utilization based on the dynamic control of limited water level | Desalination and Water Treatment | old=False local=False
+122 | 2017 | 10.2166/hydro.2017.059 | Selection of criteria for multi-criteria decision making of reservoir flood control operation | Journal of Hydroinformatics | old=False local=False
+123 | 2017 | 10.1007/s11269-017-1828-x | Short Term Optimal Operation of Water Supply Reservoir under Flood Control Stress using Model Predictive Control | Water Resources Management | old=False local=False
+124 | 2017 | 10.1016/j.envpol.2017.01.010 | Water-level fluctuations influence sediment porewater chemistry and methylmercury production in a flood-control reservoir | Environmental Pollution | old=False local=False
+125 | 2016 | 10.1515/johh-2016-0012 | A stochastic approach to the operative control of flood flows through a reservoir | Journal of Hydrology and Hydromechanics | old=False local=False
+126 | 2016 | 10.1007/s12583-016-0615-6 | Assessing flood risk using reservoir flood control rules | Journal of Earth Science | old=False local=False
+127 | 2016 | 10.1007/s11269-016-1472-x | Optimal Pre-storm Flood Hedging Releases for a Single Reservoir | Water Resources Management | old=False local=False
+128 | 2016 | 10.1007/s11069-016-2202-7 | Optimization of gated spillways operation for flood risk management in multi-reservoir systems | Natural Hazards | old=False local=False
+129 | 2015 | 10.2166/hydro.2015.055 | A multi-criteria decision-making model dealing with correlation among criteria for reservoir flood control operation | Journal of Hydroinformatics | old=False local=False
+130 | 2015 | 10.2166/nh.2015.171 | Adaptive multi-objective simulation–optimization framework for dynamic flood control operation in a river–reservoir system | Hydrology Research | old=False local=False
+131 | 2015 | 10.1016/j.jhydrol.2015.09.012 | Credibility theory based dynamic control bound optimization for reservoir flood limited water level | Journal of Hydrology | old=False local=False
+132 | 2015 | 10.1061/(asce)he.1943-5584.0001151 | Reservoir Flood Season Segmentation and Optimal Operation of Flood-Limiting Water Levels | Journal of Hydrologic Engineering | old=False local=False
+133 | 2015 | 10.1061/(asce)wr.1943-5452.0000490 | Risk Analysis for Real-Time Flood Control Operation of a Reservoir | Journal of Water Resources Planning and Management | old=False local=False
+134 | 2015 | 10.1007/s00477-015-1032-6 | Risk analysis for the downstream control section in the real-time flood control operation of a reservoir | Stochastic Environmental Research and Risk Assessment | old=False local=False
+135 | 2015 | 10.1007/s11269-014-0899-1 | Short-Term Reservoir Optimization for Flood Mitigation under Meteorological and Hydrological Forecast Uncertainty | Water Resources Management | old=False local=True
+136 | 2015 | 10.1016/j.jhydrol.2014.11.073 | Stage-wise optimizing operating rules for flood control in a multi-purpose reservoir | Journal of Hydrology | old=False local=False
+137 | 2015 | 10.1007/s11269-015-1080-1 | Streamflow Forecast Errors and Their Impacts on Forecast-based Reservoir Flood Control | Water Resources Management | old=False local=False
+138 | 2015 | 10.1061/(asce)he.1943-5584.0000979 | Using a Bayesian Probabilistic Forecasting Model to Analyze the Uncertainty in Real-Time Dynamic Control of the Flood Limiting Water Level for Reservoir Operation | Journal of Hydrologic Engineering | old=False local=False
+139 | 2014 | 10.1007/s00477-014-0986-0 | A two-stage method of quantitative flood risk analysis for reservoir real-time operation using ensemble-based hydrologic forecasts | Stochastic Environmental Research and Risk Assessment | old=False local=False
+140 | 2014 | 10.3390/w6092717 | Comparing Simple Flood Reservoir Operation Rules | Water | old=False local=False
+141 | 2014 | 10.12677/jwrr.2014.35047 | Dynamic Control of Pankou Reservoir Water Level during Flood Season | Journal of Water Resources Research | old=False local=False
+142 | 2014 | 10.2118/162821-pa | Impact of Uncertainty in Estimation of Shale-Gas-Reservoir and Completion Properties on EUR Forecast and Optimal Development Planning: A Marcellus Case Study | SPE Reservoir Evaluation &amp; Engineering | old=False local=False
+143 | 2014 | 10.1007/s11269-014-0886-6 | Multi-objective Immune Algorithm with Preference-Based Selection for Reservoir Flood Control Operation | Water Resources Management | old=False local=False
+144 | 2014 | 10.1061/(asce)wr.1943-5452.0000432 | Optimal Hedging Rules for Reservoir Flood Operation from Forecast Uncertainties | Journal of Water Resources Planning and Management | old=False local=False
+145 | 2014 | 10.12677/jwrr.2014.34039 | Optimal Operation Methods of Baise Reservoir for Flood Control | Journal of Water Resources Research | old=False local=True
+146 | 2014 | 10.5539/esr.v4n1p21 | Research of Flood Control Regulation Based on Distributed Model in Luhun Reservoir, China | Earth Science Research | old=False local=False
+147 | 2014 | 10.4028/www.scientific.net/amm.641-642.88 | Reservoir Flood Forecast of NanSi Lake in China | Applied Mechanics and Materials | old=False local=False
+148 | 2013 | 10.2166/wst.2013.812 | A novel multi-objective electromagnetism-like mechanism algorithm with applications in reservoir flood control operation | Water Science and Technology | old=False local=False
+149 | 2013 | 10.4028/www.scientific.net/amr.726-731.3359 | Analysis of Flood Limited Water Level Determining Methods of Reservoir | Advanced Materials Research | old=False local=False
+150 | 2013 | 10.2166/nh.2013.391 | Decomposition–coordination model of reservoir group and flood storage basin for real-time flood control operation | Hydrology Research | old=False local=False
+151 | 2013 | 10.1007/s00477-013-0756-4 | Estimation of reservoir flood control operation risks with considering inflow forecasting errors | Stochastic Environmental Research and Risk Assessment | old=False local=False
+152 | 2013 | 10.1061/(asce)ir.1943-4774.0000577 | Flood Control with Model Predictive Control for River Systems with Water Reservoirs | Journal of Irrigation and Drainage Engineering | old=False local=False
+153 | 2013 | 10.12677/jwrr.2013.24035 | Real-Time and Dynamic Control of Water Level Operating Scheme during Flood Season for the Ankang Reservoir | Journal of Water Resources Research | old=False local=False
+154 | 2013 | 10.4028/www.scientific.net/amm.368-370.261 | Risk Analysis on Downstream of a Reservoir when the Flood Control Forecast Operation Method is Used - An Example of Shenwo Reservoir | Applied Mechanics and Materials | old=False local=False
+155 | 2013 | 10.4028/www.scientific.net/amr.864-867.2428 | Study on Flood Pre-Discharged Rule-Making for Xihe Reservoir Flood Control | Advanced Materials Research | old=False local=False
+156 | 2013 | 10.4028/www.scientific.net/amr.830.376 | Study on the Control Method of Flood Limited Water Level in Danjiangkou Reservoir | Advanced Materials Research | old=False local=False
+157 | 2013 | 10.1080/10402381.2013.775200 | Water levels shape fishing participation in flood-control reservoirs | Lake and Reservoir Management | old=False local=False
+158 | 2012 | 10.4028/www.scientific.net/amm.212-213.725 | Analysis of Inflow Design Flood for Liujiaxia Reservoir under Dynamic Operation of Flood Limited Water Level for Ten-Day Period | Applied Mechanics and Materials | old=False local=False
+159 | 2012 | 10.2118/144774-pa | History Matching and Production Forecast With Logs as Effective Completion and Reservoir-Managing Tools in Horizontal and Vertical Wells | SPE Reservoir Evaluation &amp; Engineering | old=False local=False
+160 | 2012 | 10.1029/2011wr010623 | Identifying effective forecast horizon for real‐time reservoir operation under a limited inflow forecast | Water Resources Research | old=False local=False
+161 | 2012 | 10.4028/www.scientific.net/amm.212-213.715 | Multi-Objective Decision Model of Reservoir Flood Control Operation | Applied Mechanics and Materials | old=False local=False
+162 | 2012 | 10.12677/jwrr.2012.13006 | Real-Time Dynamic Control of Reservoir Flood Limited Water Level Based on the Bayesian Probabilistic 
+Forecasting Processor | Journal of Water Resources Research | old=False local=False
+163 | 2012 | 10.1007/s11269-012-0246-3 | Reservoir Operation Incorporating Hedging Rules and Operational Inflow Forecasts | Water Resources Management | old=False local=False
+164 | 2012 | 10.4236/jwrr.2012.13006 | 基于贝叶斯概率预报的水库汛限水位实时动态控制研究&lt;br&gt;Real-Time Dynamic Control of Reservoir Flood Limited Water Level Based on the Bayesian Probabilistic Forecasting Processor | Journal of Water Resources Research | old=False local=False
+165 | 2011 | 10.4028/www.scientific.net/kem.467-469.625 | Optimal Control of Large Flood of Ankang Reservoir | Key Engineering Materials | old=False local=False
+166 | 2011 | 10.1007/s11431-011-4392-2 | Risk analysis of dynamic control of reservoir limited water level by considering flood forecast error | Science China Technological Sciences | old=False local=False
+167 | 2010 | 10.1007/s11269-009-9570-7 | Multi-objective Cultured Differential Evolution for Generating Optimal Trade-offs in Reservoir Flood Control Operation | Water Resources Management | old=False local=False
+168 | 2009 | 10.1007/s11269-009-9485-3 | Optimal Reservoir Operation for Flood Control Using Folded Dynamic Programming | Water Resources Management | old=False local=False
+169 | 2009 | 10.5194/nhess-9-1973-2009 | Optimum multi-objective reservoir operation with emphasis on flood control and ecology | Natural Hazards and Earth System Sciences | old=False local=True
+170 | 2008 | 10.1016/j.eswa.2006.08.021 | A fuzzy optimization method for multicriteria decision making: An application to reservoir flood control operation | Expert Systems with Applications | old=False local=False
+171 | 2008 | 10.1029/2008wr006978 | Determining forecast and decision horizons for reservoir operations under hedging policies | Water Resources Research | old=False local=False
+172 | 2008 | 10.3189/172756408787814988 | Use of a snowmelt model for weekly flood forecast for a major reservoir in Lithuania | Annals of Glaciology | old=False local=False
+173 | 2007 | 10.1016/j.jhydrol.2007.01.001 | A multipurpose reservoir real-time operation model for flood control during typhoon invasion | Journal of Hydrology | old=False local=False
+174 | 2007 | 10.1007/bf03241407 | Das HRB Schorndorf/Winterbach mit ökohydraulischem Durchlassbauwerk The flood control reservoir Schorndorf/Winterbach with its innovative flood control outlet work | WASSERWIRTSCHAFT | old=False local=False
+175 | 2007 | 10.3741/jkwra.2007.40.1.001 | Effects on Conservation and Flood Control Systems According In Normal Water Level Change from Daechung Multi-Purpose Reservoir | Journal of Korea Water Resources Association | old=False local=True
+176 | 2004 | 10.1023/b:warm.0000024705.63932.3c | Multi-Person Multiobjective Fuzzy Decision-Making Model for Reservoir Flood Control Operation | Water Resources Management | old=False local=False
+177 | 2002 | 10.2166/wst.2002.0035 | Stochastic generation and disaggregation of hourly rainfall series for continuous hydrological modelling and flood control reservoir design | Water Science and Technology | old=False local=False
+178 | 1998 | 10.1080/02626669809492119 | Flood forecast model for improved reservoir management in the Lenne River catchment, Germany | Hydrological Sciences Journal | old=False local=False
+179 | 1996 | 10.1080/02630259608970192 | A STOCHASTIC MODEL FOR RESERVOIR FLOOD OPERATION | Civil Engineering Systems | old=False local=False
+180 | 1996 | 10.2118/35359-pa | SACROC Unit CO2 Flood: Multidisciplinary Team Improves Reservoir Management and Decreases Operating Costs | SPE Reservoir Engineering | old=False local=False
+181 | 1992 | 10.2118/92-04-05 | Prediction Of Uncertainty In Reservoir Performance Forecast | Journal of Canadian Petroleum Technology | old=False local=False
+182 | 1991 | 10.1007/bf00940461 | Optimal control of single retention reservoir during flood: Solution of deterministic, continuous-time problems | Journal of Optimization Theory and Applications | old=False local=False
+183 | 1991 | 10.2118/18432-pa | Reservoir Studies With Geostatistics To Forecast Performance | SPE Reservoir Engineering | old=False local=False
+184 | 1990 | 10.1007/bf00429923 | Model for real-time optimal flood control operation of a reservoir system | Water Resources Management | old=False local=False
+185 | 1989 | 10.1007/bf01543426 | Basinwide flood control system by combining prediction and reservoir operation | Stochastic Hydrology and Hydraulics | old=False local=False
+186 | 1985 | 10.1016/s1474-6670(17)60421-x | Optimization of Flood Control and Power Generation Requirements in a Multi-Purpose Reservoir | IFAC Proceedings Volumes | old=False local=False
+187 | 1984 | 10.1029/wr020i011p01477 | Controllability conditions for reservoir flood control systems with applications | Water Resources Research | old=False local=False
+188 | 1982 | 10.1002/ecja.4391020122 | Optimal operation of a multi‐reservoir during flood periods | Electrical Engineering in Japan | old=False local=False
+189 | 1980 | 10.1016/s1474-6670(17)65094-8 | Low-Flow and Flood Control: Distributed Versus Lumped Reservoir Model | IFAC Proceedings Volumes | old=False local=False
+190 | 1976 | 10.1016/0022-1694(76)90070-6 | Developing optimal operating rules for flood protection reservoirs | Journal of Hydrology | old=False local=False
+191 | 1969 | 10.1016/0005-1098(69)90051-x | Optimal control of a storage reservoir during a flood season | Automatica | old=False local=False
+192 | 1959 | 10.1109/jrproc.1959.287316 | Design of Telemetering Networks for Flood-Control Reservoir Operation | Proceedings of the IRE | old=False local=False
+193 | 1954 | 10.2307/1930091 | The Hydrobiology of Atwood Lake, A Flood‐Control Reservoir | Ecology | old=False local=False

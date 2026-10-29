@@ -1,0 +1,70 @@
+{
+  "paper": "E32",
+  "patterns": {
+    "RP01": {"present": false},
+    "RP02": {
+      "present": true,
+      "small": ["RP02-A", "RP02-B", "RP02-G"],
+      "quote": "This paper considers the uncertainty of reservoir inﬂows and lateral inﬂows of the downstream control points arising from the forecast errors, reservoir storage capacity curve errors and reservoir discharge curve errors",
+      "where": "Section 3.3.2, p. 412-413"
+    },
+    "RP03": {"present": false},
+    "RP04": {
+      "present": true,
+      "small": ["RP04-A", "RP04-B"],
+      "quote": "In this study, we focus on the risk of reservoir overtopping and the risk of ﬂooding at downstream control points",
+      "where": "Section 3.3.2, Eqs. 10-11, p. 413"
+    },
+    "RP05": {"present": false},
+    "RP06": {"present": false},
+    "RP07": {"present": false},
+    "RP08": {
+      "present": true,
+      "small": ["RP08-A", "RP08-D"],
+      "quote": "As the relationship among the variables in the real-time ﬂood control operation of the multi-reservoir system is explicit, this study establishes the graph structures of the dynamic Bayesian networks by expert knowledge.",
+      "where": "Section 3.2.1, p. 412"
+    },
+    "RP09": {
+      "present": true,
+      "small": ["RP09-C", "RP09-E"],
+      "quote": "The diﬀerence is mainly due to the discretization precision of the continuous variables in the DBNs and the sample size of the MC method.",
+      "where": "Section 4.4.2, p. 417"
+    },
+    "EP01": {
+      "present": true,
+      "small": ["EP01-A", "EP01-B", "EP01-D"],
+      "quote": "We use an observed ﬂood in 2003 for the case study. Fig. 4 shows the inﬂows to the reservoirs and lateral inﬂows between reservoirs and downstream control points. The time interval is 1 h",
+      "where": "Section 4.2, p. 414"
+    },
+    "EP02": {"present": false},
+    "EP03": {
+      "present": true,
+      "small": ["EP03-A", "EP03-C", "EP03-F"],
+      "quote": "generate 1000 random samples of reservoir inﬂows and lateral inﬂows according to their probability distributions. In this paper, the forecast errors of reservoir inﬂows and lateral inﬂows are assumed to follow the normal distributions.",
+      "where": "Section 4.2, p. 414"
+    },
+    "EP04": {
+      "present": true,
+      "small": ["EP04-A", "EP04-B", "EP04-C", "EP04-D"],
+      "quote": "Obtain the samples of the ﬂood ﬂows at downstream control points through river ﬂood routing using the Muskingum method",
+      "where": "Section 3.1, p. 411"
+    },
+    "EP05": {"present": false},
+    "EP06": {"present": false},
+    "EP09": {"present": false},
+    "EP07": {
+      "present": true,
+      "small": ["EP07-A"],
+      "quote": "the risk of reservoir overtopping and the risk of ﬂooding at control points are calculated based on Eq. (12) and Eq. (13)",
+      "where": "Section 4.3.2, p. 415"
+    },
+    "EP08": {"present": false},
+    "EP10": {
+      "present": true,
+      "small": ["EP10-D", "EP10-F"],
+      "quote": "we compare the risks obtained by DBNs with the results from static BNs and Monte Carlo (MC) method.",
+      "where": "Section 4.4.2, p. 417"
+    },
+    "EP11": {"present": false}
+  }
+}

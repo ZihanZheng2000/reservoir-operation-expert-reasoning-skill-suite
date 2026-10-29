@@ -1,0 +1,69 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E7,E01,Quantify risk for each candidate decision/level,primary,EP07-E,,Four risk terms combined and compared with design-flood risk
+E01-E9,E01,Compare simulated schemes with the current rule,secondary,EP07-C,,"Spill, utilization, generation increments"
+E02-E5,E02,Calculate alternative-specific exceedance risks,primary,EP07-A,,Exceedance probability of maximum level and peak release per alternative
+E03-E14,E03,Evaluate water conservation and modelled flood risk,secondary,EP07-C,,Refill probability and annual conservation over 30 years
+E04-E10,E04,Estimate and compare extreme flood risk,primary,EP07-A,,Probability that maximum level exceeds 180.4 m
+E06-E8,E06,Calculate traditional threshold exceedance risk,primary,EP07-A,,Count of realizations above safe level or safe release
+E06-E9,E06,Calculate component and system entropy,primary,EP07-B,,Component and system entropy
+E07-E4,E07,Configure the EFO risk test,primary,EP07-A,,Fraction of members above storage threshold per forecast day
+E07-E5,E07,Simulate member trajectories under no release and detect risky horizons,secondary,EP07-A,,Risky horizon days detected from member trajectories
+E07-E10,E07,"Evaluate storage, releases, and downstream flood indicators",secondary,EP07-C,,"Storage distributions, release timing, downstream flow exceedance"
+E08-E5,E08,Perform prior risk inference,primary,EP07-A,,Prior exceedance probabilities from network
+E08-E6,E08,Perform posterior prediction or diagnosis,primary,EP07-A,,Posterior exceedance and diagnosed causes
+E08-E7,E08,Compare and interpret risk,secondary,EP07-D,,Risks compared across single and joint uncertainty sources
+E12-E5,E12,Simulate and compare,secondary,EP07-C,,"Level, peak, duration, resilience indicators per rule"
+E15-E5,E15,Evaluate five objectives under cascade dynamics,secondary,EP07-C,,"Generation, levels, storage use, navigation objectives"
+E16-E8,E16,Evaluate flood-pool robustness,secondary,EP07-A,,Maximum accumulated storage above TOCS per event
+E17-E4,E17,Define required flood pool and performance,primary,EP07-A,,Required flood pool and its reduction
+E19-E11,E19,Compute 50-event statistics and interpret indexes,secondary,EP07-C,,"Final storage, spill, outflow exceedance over 50 floods"
+E20-E6,E20,Extract maximum release and storage per event,primary,EP07-A,,Event maxima of release and storage
+E20-E7,E20,Estimate empirical distributions and release/storage risk indices,primary,EP07-B,,Expected annual damage from release and storage indices
+E20-E8,E20,Aggregate risk and select the balanced parameter set,secondary,EP07-D,,Release and storage indices summed into global risk
+E21-E4,E21,Generate candidate cooperation schemes,secondary,EP07-D,,Risk-benefit competition across cooperation schemes
+E22-E10,E22,"Compare release, storage, and safety outcomes",secondary,EP07-C,,"Peak release, maximum storage, compliance"
+E24-E2,E24,Compute uncertainty and expected damage,primary,EP07-B,,Expected levee-failure damage from Gaussian tails
+E25-E3,E25,Evaluate failure and expected damage,primary,EP07-B,,Expected damage from current and future failure
+E25-E4,E25,Categorize storms and simplify cost,primary,EP07-B,,"Category-specific expected cost for small, large, overwhelming storms"
+E26-E2,E26,Prepare uncertainty and risk functions,secondary,EP07-B,,"Damage-weighted upstream, downstream, shortage risk functions"
+E27-E7,E27,Summarize thresholds and interpret risk,primary,EP07-A,,Normal-tail probabilities above three levels
+E28-E5,E28,Convert and summarize level paths,secondary,EP07-A,,Level path distributions summarized
+E28-E6,E28,Compute design/check operation risk,primary,EP07-E,,Conditional exceedance times extreme-flood probability
+E29-E5,E29,Evaluate downstream safety,primary,EP07-A,,Days in downstream impact categories counted
+E29-E6,E29,Evaluate water-use and energy benefits,primary,EP07-C,,"Floodwater utilization, end level, hydropower"
+E30-E5,E30,Calculate temporal covariance and risk,primary,EP07-E,,Point and adjacent-pair exceedance combined over time
+E31-E4,E31,Recursively calculate level-error dependence and risks,primary,EP07-E,,Point and total union risk over flood duration
+E31-E7,E31,Produce decision-support interpretations,primary,EP07-A,,Exceedance probability reported against accepted risk
+E32-E5,E32,Run prediction inference and threshold risks,primary,EP07-A,,State probabilities above thresholds summed
+E32-E6,E32,Run diagnosis inference,primary,EP07-A,,Exceedance of inferred inflows in diagnosis
+E33-E3,E33,Evaluate stage-1 scenario failures,primary,EP07-A,,Binary failure per scenario in forecast lead time
+E33-E5,E33,Precompute the stage-2 risk relationship,primary,EP07-E,,Stage-2 risk as function of end levels
+E33-E6,E33,Combine the two risk stages,primary,EP07-E,,Two risk stages combined
+E34-E5,E34,Formulate MOSP scenario objectives and constraints,secondary,EP07-B,,"Expected scarcity, upstream, downstream loss ratios"
+E35-E10,E35,Evaluate flood-control and supply outcomes,primary,EP07-C,,"Maximum discharge, flood volume above 200 m3/s, storage index"
+E36-E6,E36,Extract scenario maximum levels,primary,EP07-A,,Scenario maximum levels collected
+E36-E7,E36,Fit POME density and check its form,primary,EP07-A,,Maximum-level density fitted for integration
+E36-E8,E36,Integrate risk and conduct sensitivity sweeps,primary,EP07-A,,Exceedance integrated and swept over accuracy and safe level
+E37-E5,E37,Generate CO Monte Carlo floods and route them,secondary,EP07-A,,Threshold exceedances counted under conventional operation
+E37-E6,E37,Generate FBO Monte Carlo forecasts and route actual inflow,secondary,EP07-A,,Threshold exceedances counted under forecast-based operation
+E37-E7,E37,Scale counts to risk rates and compare modes,primary,EP07-E,,Frequencies scaled to risk rates with occurrence probability
+E38-E6,E38,Calculate complementary risk indicators,primary,EP07-B,,"Mean, 99% CVaR, entropy per reservoir"
+E38-E7,E38,Aggregate reservoir indicators with AHP weights,primary,EP07-D,,Reservoir indicators aggregated with weights
+E39-E4,E39,Construct the hazard surface and single-hazard boundary,secondary,EP07-D,,Hazard surface for level and flow thresholds
+E39-E5,E39,Form UHE and IHE domains,primary,EP07-D,,Union and intersection hazard domains
+E39-E6,E39,Calculate joint density and integrate risk,primary,EP07-D,,Joint density integrated over hazard domain
+E39-E8,E39,Sweep FLWL and report operational implication,secondary,EP07-D,,Union/intersection probabilities across FLWL values
+E40-E3,E40,Count forecast-horizon failures,primary,EP07-A,,Scenario counted once if any lead-time crossing
+E40-E4,E40,Estimate post-horizon risk conditionally,primary,EP07-E,,Post-horizon risk from end levels
+E40-E5,E40,Combine the two risk stages,primary,EP07-E,,Lead-time and post-horizon risk combined
+E41-E5,E41,Form K and test feasibility,primary,EP07-E,,Credibility aggregated over 14 frequencies
+E41-E7,E41,Verify with extreme-risk rate,secondary,EP07-E,,Extreme-risk rate by frequency crossing
+E42-E6,E42,Count design-flood exceedance risk,primary,EP07-A,,Ensemble exceedances of design-flood discharge
+E42-E8,E42,Calculate curtailment and compare periods,primary,EP07-C,,Generation curtailment from forecast uncertainty
+E44-E4,E44,Compute two-stage flood risk,primary,EP07-E,,Two-stage risk from end-storage distribution
+E45-E1,E45,Define probability and loss measures,primary,EP07-B,,Stationary and nonstationary risk and VaR/CVaR
+E45-E2,E45,Aggregate CVaR over the planning horizon,primary,EP07-B,,CVaR over planning horizon
+E45-E3,E45,Establish Scheme A,secondary,EP07-E,,Baseline cumulative risk and CVaR over 2020-2039
+E48-E3,E48,Calculate the criterion matrix,secondary,EP07-D,,Reservoir and downstream criteria matrix
+E49-E4,E49,Calculate the six RMOO objectives,primary,EP07-B,,"Probability, CVaR, duration objectives"
+E50-E8,E50,Compare storage and flood-control outcomes,secondary,EP07-C,,"Normalized storage, May storage, maximum-release frequency"

@@ -1,0 +1,942 @@
+{
+  "indexed": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2026-03-26T14:15:51Z",
+    "timestamp": 1774534551452,
+    "version": "3.50.1"
+  },
+  "reference-count": 49,
+  "publisher": "Elsevier BV",
+  "license": [
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "tdm",
+      "delay-in-days": 0,
+      "URL": "https://www.elsevier.com/legal/tdmrep-license"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-017"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-037"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-012"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-029"
+    },
+    {
+      "start": {
+        "date-parts": [
+          [
+            2026,
+            5,
+            1
+          ]
+        ],
+        "date-time": "2026-05-01T00:00:00Z",
+        "timestamp": 1777593600000
+      },
+      "content-version": "stm-asf",
+      "delay-in-days": 0,
+      "URL": "https://doi.org/10.15223/policy-004"
+    }
+  ],
+  "funder": [
+    {
+      "DOI": "10.13039/501100012166",
+      "name": "National Key Research and Development Program of China",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "2022YFC3202804"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "2022YFC3202804"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100012166",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100014219",
+      "name": "National Science Fund for Distinguished Young Scholars",
+      "doi-asserted-by": "publisher",
+      "id": [
+        {
+          "id": "10.13039/501100014219",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    },
+    {
+      "DOI": "10.13039/501100005153",
+      "name": "National Science Fund for Distinguished Young Scholars",
+      "doi-asserted-by": "publisher",
+      "award": [
+        "52225901"
+      ],
+      "award-info": [
+        {
+          "award-number": [
+            "52225901"
+          ]
+        }
+      ],
+      "id": [
+        {
+          "id": "10.13039/501100005153",
+          "id-type": "DOI",
+          "asserted-by": "publisher"
+        }
+      ]
+    }
+  ],
+  "content-domain": {
+    "domain": [
+      "elsevier.com",
+      "sciencedirect.com"
+    ],
+    "crossmark-restriction": true
+  },
+  "short-container-title": [
+    "Journal of Hydrology"
+  ],
+  "published-print": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "DOI": "10.1016/j.jhydrol.2026.135282",
+  "type": "journal-article",
+  "created": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        9
+      ]
+    ],
+    "date-time": "2026-03-09T16:26:34Z",
+    "timestamp": 1773073594000
+  },
+  "page": "135282",
+  "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+  "source": "Crossref",
+  "is-referenced-by-count": 0,
+  "special_numbering": "C",
+  "title": [
+    "Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense"
+  ],
+  "prefix": "10.1016",
+  "volume": "671",
+  "author": [
+    {
+      "given": "Hao",
+      "family": "Ye",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "ORCID": "https://orcid.org/0000-0002-3777-6561",
+      "authenticated-orcid": false,
+      "given": "Pan",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Xiaojing",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Lei",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Weibo",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Qian",
+      "family": "Cheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Lei",
+      "family": "Guo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    },
+    {
+      "given": "Jing",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+        {
+          "role": "author",
+          "vocabulary": "crossref"
+        }
+      ]
+    }
+  ],
+  "member": "78",
+  "reference": [
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0005",
+      "doi-asserted-by": "crossref",
+      "first-page": "208",
+      "DOI": "10.1080/07900627.2020.1745159",
+      "article-title": "Forecast-informed reservoir operations to guide hydropower and agriculture allocations in the Blue Nile basin, Ethiopia",
+      "volume": "37",
+      "author": "Alexander",
+      "year": "2021",
+      "journal-title": "Int. J. Water Resour. Dev."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0010",
+      "doi-asserted-by": "crossref",
+      "first-page": "507",
+      "DOI": "10.1038/s43017-023-00468-z",
+      "article-title": "Deep learning and a changing economy in weather and climate prediction",
+      "volume": "4",
+      "author": "Bauer",
+      "year": "2023",
+      "journal-title": "Nat. Rev. Earth Environ."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0015",
+      "doi-asserted-by": "crossref",
+      "first-page": "47",
+      "DOI": "10.1038/nature14956",
+      "article-title": "The quiet revolution of numerical weather prediction",
+      "volume": "525",
+      "author": "Bauer",
+      "year": "2015",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0020",
+      "doi-asserted-by": "crossref",
+      "first-page": "15787",
+      "DOI": "10.1029/92JD01517",
+      "article-title": "GPS meteorology: Remote sensing of atmospheric water vapor using the global positioning system",
+      "volume": "97",
+      "author": "Bevis",
+      "year": "1992",
+      "journal-title": "J. Geophys. Res. Atmos."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0025",
+      "doi-asserted-by": "crossref",
+      "first-page": "1",
+      "DOI": "10.1016/j.jhydrol.2013.05.039",
+      "article-title": "Expected shortage based pre-release strategy for reservoir flood control",
+      "volume": "497",
+      "author": "Chou",
+      "year": "2013",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0030",
+      "article-title": "Forecast informed reservoir operations using ensemble streamflow predictions for a multipurpose reservoir in northern California",
+      "volume": "56",
+      "author": "Delaney",
+      "year": "2020",
+      "journal-title": "Water Resour. Philos. Phenomenol. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0035",
+      "doi-asserted-by": "crossref",
+      "first-page": "51",
+      "DOI": "10.1016/j.advwatres.2017.02.012",
+      "article-title": "Informing the operations of water reservoirs over multiple temporal scales by direct use of hydro-meteorological data",
+      "volume": "103",
+      "author": "Denaro",
+      "year": "2017",
+      "journal-title": "Adv. Water Resour."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0040",
+      "doi-asserted-by": "crossref",
+      "first-page": "1963",
+      "DOI": "10.1002/2016WR019452",
+      "article-title": "Multiobjective hedging rules for flood water conservation",
+      "volume": "53",
+      "author": "Ding",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0045",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2023.129202",
+      "article-title": "Flood risk quantification, transmission, and propagation analysis for flood water utilization of parallel reservoirs",
+      "volume": "618",
+      "author": "Ding",
+      "year": "2023",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0050",
+      "doi-asserted-by": "crossref",
+      "first-page": "4702",
+      "DOI": "10.1002/2015WR017127",
+      "article-title": "An analytical framework for flood water conservation considering forecast uncertainty and acceptable risk",
+      "volume": "51",
+      "author": "Ding",
+      "year": "2015",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0055",
+      "doi-asserted-by": "crossref",
+      "first-page": "3357",
+      "DOI": "10.1007/s00382-018-4327-8",
+      "article-title": "Precipitable water and CAPE dependence of rainfall intensities in China",
+      "volume": "52",
+      "author": "Dong",
+      "year": "2019",
+      "journal-title": "Clim. Dyn."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0060",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1111/jfr3.12586",
+      "article-title": "Determining dynamic water level control boundaries for a multi-reservoir system during flood seasons with considering channel storage",
+      "volume": "13",
+      "author": "Gong",
+      "year": "2020",
+      "journal-title": "J. Flood Risk Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0065",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2024.132256",
+      "article-title": "An analytical two-stage risk analysis model in the real-time reservoir operation",
+      "volume": "645",
+      "author": "Gong",
+      "year": "2024",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0070",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.atmosres.2023.106677",
+      "article-title": "Assimilating GNSS PWV and radiosonde meteorological profiles to improve the PWV and rainfall forecasting performance from the weather research and forecasting (WRF) model over the South China",
+      "volume": "286",
+      "author": "Gong",
+      "year": "2023",
+      "journal-title": "Atmos. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0075",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.energy.2024.134156",
+      "article-title": "Refining hydropower operation by dynamic control of cascade reservoir water levels with flood season segmentation",
+      "volume": "314",
+      "author": "He",
+      "year": "2025",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0080",
+      "doi-asserted-by": "crossref",
+      "first-page": "1999",
+      "DOI": "10.1002/qj.3803",
+      "article-title": "The ERA5 global reanalysis",
+      "volume": "146",
+      "author": "Hersbach",
+      "year": "2020",
+      "journal-title": "Q. J. R. Meteorol. Soc."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0085",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.atmosres.2022.106247",
+      "article-title": "High-precision GNSS PWV retrieval using dense GNSS sites and in-situ meteorological observations for the evaluation of MERRA-2 and ERA5 reanalysis products over China",
+      "volume": "276",
+      "author": "Huang",
+      "year": "2022",
+      "journal-title": "Atmos. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0090",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2024GL108681",
+      "article-title": "First PWV retrieval using MERSI-LL onboard FY-3E and cross validation with co-platform occultation and ground GNSS",
+      "volume": "51",
+      "author": "Jiang",
+      "year": "2024",
+      "journal-title": "Geophys. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0095",
+      "series-title": "Advanced GNSS Tropospheric Products for Monitoring Severe Weather Events and Climate: COST Action ES1206 Final Action Dissemination Report",
+      "year": "2020"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0100",
+      "doi-asserted-by": "crossref",
+      "first-page": "1402",
+      "DOI": "10.1002/grl.50334",
+      "article-title": "Probable maximum precipitation and climate change",
+      "volume": "40",
+      "author": "Kunkel",
+      "year": "2013",
+      "journal-title": "Geophys. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0105",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2019GL086721",
+      "article-title": "Observed climatological relationships of extreme daily precipitation events with precipitable water and vertical velocity in the contiguous United States",
+      "volume": "47",
+      "author": "Kunkel",
+      "year": "2020",
+      "journal-title": "Geophys. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0110",
+      "doi-asserted-by": "crossref",
+      "first-page": "6037",
+      "DOI": "10.1175/JCLI-D-16-0808.1",
+      "article-title": "Super-Clausius–Clapeyron scaling of extreme hourly convective precipitation and its relation to large-scale atmospheric conditions",
+      "volume": "30",
+      "author": "Lenderink",
+      "year": "2017",
+      "journal-title": "J. Clim."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0115",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2023WR034757",
+      "article-title": "Long-term capturability of atmospheric water on a global scale",
+      "volume": "60",
+      "author": "Li",
+      "year": "2024",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0120",
+      "doi-asserted-by": "crossref",
+      "first-page": "6385",
+      "DOI": "10.1109/TGRS.2015.2438395",
+      "article-title": "Multi-GNSS meteorology: Real-time retrieving of atmospheric water vapor from BeiDou, Galileo, GLONASS, and GPS observations",
+      "volume": "53",
+      "author": "Li",
+      "year": "2015",
+      "journal-title": "IEEE Trans. Geosci. Remote Sens."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0125",
+      "doi-asserted-by": "crossref",
+      "first-page": "124",
+      "DOI": "10.1016/j.jhydrol.2010.07.011",
+      "article-title": "Dynamic control of flood limited water level for reservoir operation by considering inflow uncertainty",
+      "volume": "391",
+      "author": "Li",
+      "year": "2010",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0130",
+      "doi-asserted-by": "crossref",
+      "first-page": "1587",
+      "DOI": "10.1175/2009MWR2968.1",
+      "article-title": "Development of an effective double-moment cloud microphysics scheme with prognostic cloud condensation nuclei (CCN) for weather and climate models",
+      "volume": "138",
+      "author": "Lim",
+      "year": "2010",
+      "journal-title": "Mon. Weather Rev."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0135",
+      "doi-asserted-by": "crossref",
+      "first-page": "1045",
+      "DOI": "10.1016/j.jhydrol.2015.05.055",
+      "article-title": "Optimal design of seasonal flood limited water levels and its application for the three Gorges Reservoir",
+      "volume": "527",
+      "author": "Liu",
+      "year": "2015",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0140",
+      "doi-asserted-by": "crossref",
+      "first-page": "1863",
+      "DOI": "10.1007/s00376-025-4328-6",
+      "article-title": "Environmental features of heavy precipitation under favorable synoptic patterns: a lesson from the 2021 Henan extreme precipitation event",
+      "volume": "42",
+      "author": "Lv",
+      "year": "2025",
+      "journal-title": "Adv. Atmos. Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0145",
+      "doi-asserted-by": "crossref",
+      "first-page": "559",
+      "DOI": "10.1038/s41586-024-07145-1",
+      "article-title": "Global prediction of extreme floods in ungauged watersheds",
+      "volume": "627",
+      "author": "Nearing",
+      "year": "2024",
+      "journal-title": "Nature"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0150",
+      "doi-asserted-by": "crossref",
+      "first-page": "269",
+      "DOI": "10.1016/j.jhydrol.2007.01.003",
+      "article-title": "Simulation and optimisation modelling approach for operation of the Hoa Binh reservoir, Vietnam",
+      "volume": "336",
+      "author": "Ngo",
+      "year": "2007",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0155",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2006GL026689",
+      "article-title": "Flooding on California’s Russian River: Role of atmospheric rivers",
+      "volume": "33",
+      "author": "Ralph",
+      "year": "2006",
+      "journal-title": "Geophys. Res. Lett."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0160",
+      "doi-asserted-by": "crossref",
+      "first-page": "5807",
+      "DOI": "10.1002/joc.7563",
+      "article-title": "Links between precipitation, circulation weather types and orography in central Italy",
+      "volume": "42",
+      "author": "Silvestri",
+      "year": "2022",
+      "journal-title": "Int. J. Climatol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0165",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1061/JWRMD5.WRENG-6471",
+      "article-title": "Variability, attributes, and drivers of optimal forecast-informed reservoir operating policies for water supply and flood control in California",
+      "volume": "150",
+      "author": "Taylor",
+      "year": "2024",
+      "journal-title": "J. Water Resour. Plan. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0170",
+      "doi-asserted-by": "crossref",
+      "first-page": "204",
+      "DOI": "10.1002/qj.785",
+      "article-title": "On the relationship between water vapour field evolution and the life cycle of precipitation systems",
+      "volume": "137",
+      "author": "Van Baelen",
+      "year": "2011",
+      "journal-title": "Q. J. R. Meteorol. Soc."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0175",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1029/2019WR026610",
+      "article-title": "Feedback between reservoir operation and floodplain development: implications for reservoir benefits and beneficiaries",
+      "volume": "56",
+      "author": "Wallington",
+      "year": "2020",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0180",
+      "first-page": "1",
+      "article-title": "An indoor microwave radiometer for measurement of tropospheric water",
+      "volume": "61",
+      "author": "Wang",
+      "year": "2023",
+      "journal-title": "IEEE Trans. Geosci. Remote Sens."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0185",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2023.130520",
+      "article-title": "Theory and practice of basin-wide floodwater utilization: typical implementing measures in China",
+      "volume": "628",
+      "author": "Wang",
+      "year": "2024",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0190",
+      "first-page": "1",
+      "article-title": "The WOA–CNN–LSTM–Attention model for predicting GNSS water vapor",
+      "volume": "62",
+      "author": "Yan",
+      "year": "2024",
+      "journal-title": "IEEE Trans. Geosci. Remote Sens."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0195",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1061/(ASCE)WR.1943-5452.0001229",
+      "article-title": "Integration and evaluation of forecast-informed multiobjective reservoir operations",
+      "volume": "146",
+      "author": "Yang",
+      "year": "2020",
+      "journal-title": "J. Water Resour. Plan. Manage."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0200",
+      "doi-asserted-by": "crossref",
+      "first-page": "3446",
+      "DOI": "10.1002/2016WR020301",
+      "article-title": "Multiobjective reservoir operating rules based on cascade reservoir input variable selection method",
+      "volume": "53",
+      "author": "Yang",
+      "year": "2017",
+      "journal-title": "Water Resour. Res."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0205",
+      "doi-asserted-by": "crossref",
+      "first-page": "3517",
+      "DOI": "10.5194/acp-23-3517-2023",
+      "article-title": "Characterisations of Europe’s integrated water vapour and assessments of atmospheric reanalyses using more than 2 decades of ground-based GPS",
+      "volume": "23",
+      "author": "Yuan",
+      "year": "2023",
+      "journal-title": "Atmos. Chem. Phys."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0210",
+      "doi-asserted-by": "crossref",
+      "first-page": "10044",
+      "DOI": "10.1002/2014JD021486",
+      "article-title": "Real-time retrieval of precipitable water vapor from GPS precise point positioning",
+      "volume": "119",
+      "author": "Yuan",
+      "year": "2014",
+      "journal-title": "J. Geophys. Res.-Atmos."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0215",
+      "doi-asserted-by": "crossref",
+      "first-page": "140",
+      "DOI": "10.1016/j.jhydrol.2018.04.051",
+      "article-title": "A back-fitting algorithm to improve real-time flood forecasting",
+      "volume": "562",
+      "author": "Zhang",
+      "year": "2018",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0220",
+      "article-title": "The temporal variations in runoff-generation parameters of the Xinanjiang model due to human activities: a case study in the upper Yangtze River Basin, China",
+      "volume": "37",
+      "author": "Zhang",
+      "year": "2021",
+      "journal-title": "J. Hydrol. Reg. Stud."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0225",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2019.123954",
+      "article-title": "Real-time reservoir flood control operation for cascade reservoirs using a two-stage flood risk analysis method",
+      "volume": "577",
+      "author": "Zhang",
+      "year": "2019",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0230",
+      "doi-asserted-by": "crossref",
+      "first-page": "561",
+      "DOI": "10.1029/2018RS006789",
+      "article-title": "Consistency evaluation of precipitable water vapor derived from ERA5, ERA-interim, GNSS, and radiosondes over China",
+      "volume": "54",
+      "author": "Zhang",
+      "year": "2019",
+      "journal-title": "Radio Sci."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0235",
+      "doi-asserted-by": "crossref",
+      "DOI": "10.1016/j.jhydrol.2022.128843",
+      "article-title": "Improving structure identifiability of hydrological processes by temporal sensitivity with a flexible modeling framework",
+      "volume": "616",
+      "author": "Zhou",
+      "year": "2023",
+      "journal-title": "J. Hydrol."
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0240",
+      "doi-asserted-by": "crossref",
+      "first-page": "785",
+      "DOI": "10.1016/j.energy.2017.11.035",
+      "article-title": "Methodology that improves water utilization and hydropower generation without increasing flood risk in mega cascade reservoirs",
+      "volume": "143",
+      "author": "Zhou",
+      "year": "2018",
+      "journal-title": "Energy"
+    },
+    {
+      "key": "10.1016/j.jhydrol.2026.135282_b0245",
+      "doi-asserted-by": "crossref",
+      "first-page": "248",
+      "DOI": "10.1016/j.jhydrol.2014.07.029",
+      "article-title": "Joint operation and dynamic control of flood limiting water levels for mixed cascade reservoir systems",
+      "volume": "519",
+      "author": "Zhou",
+      "year": "2014",
+      "journal-title": "J. Hydrol."
+    }
+  ],
+  "container-title": [
+    "Journal of Hydrology"
+  ],
+  "original-title": [],
+  "language": "en",
+  "link": [
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169426003793?httpAccept=text/xml",
+      "content-type": "text/xml",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    },
+    {
+      "URL": "https://api.elsevier.com/content/article/PII:S0022169426003793?httpAccept=text/plain",
+      "content-type": "text/plain",
+      "content-version": "vor",
+      "intended-application": "text-mining"
+    }
+  ],
+  "deposited": {
+    "date-parts": [
+      [
+        2026,
+        3,
+        26
+      ]
+    ],
+    "date-time": "2026-03-26T13:35:49Z",
+    "timestamp": 1774532149000
+  },
+  "score": 1,
+  "resource": {
+    "primary": {
+      "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0022169426003793"
+    }
+  },
+  "subtitle": [],
+  "short-title": [],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "references-count": 49,
+  "alternative-id": [
+    "S0022169426003793"
+  ],
+  "URL": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+  "relation": {},
+  "ISSN": [
+    "0022-1694"
+  ],
+  "issn-type": [
+    {
+      "value": "0022-1694",
+      "type": "print"
+    }
+  ],
+  "subject": [],
+  "published": {
+    "date-parts": [
+      [
+        2026,
+        5
+      ]
+    ]
+  },
+  "assertion": [
+    {
+      "value": "Elsevier",
+      "name": "publisher",
+      "label": "This article is maintained by"
+    },
+    {
+      "value": "Leveraging water vapor to extend forecast horizons for forecast-informed reservoir operations: a vapor-precipitation-streamflow three-line defense",
+      "name": "articletitle",
+      "label": "Article Title"
+    },
+    {
+      "value": "Journal of Hydrology",
+      "name": "journaltitle",
+      "label": "Journal Title"
+    },
+    {
+      "value": "https://doi.org/10.1016/j.jhydrol.2026.135282",
+      "name": "articlelink",
+      "label": "CrossRef DOI link to publisher maintained version"
+    },
+    {
+      "value": "article",
+      "name": "content_type",
+      "label": "Content Type"
+    },
+    {
+      "value": "© 2026 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+      "name": "copyright",
+      "label": "Copyright"
+    }
+  ],
+  "article-number": "135282"
+}

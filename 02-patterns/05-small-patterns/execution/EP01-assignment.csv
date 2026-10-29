@@ -1,0 +1,39 @@
+﻿step_key,paper_id,step_title,pattern_status,family,secondary_family,assignment_rationale
+E01-E1,E01,Assemble the TGR case and current-rule baseline,primary,EP01-C,,Current annual rule and historical baseline simulation
+E02-E1,E02,Configure the case study and horizon,primary,EP01-B,,"Reservoir, control point, curves fitted"
+E03-E1,E03,"Set the flood-season state, boundaries, and targets",primary,EP01-D,,"Two-stage horizon, balances, terminal storage"
+E04-E1,E04,Assemble the TGR forecast-operation data,primary,EP01-A,,Observed and forecast inflow series with update schedule
+E05-E1,E05,Set up the two-stage reservoir representation,primary,EP01-D,,Two-stage representation and simplifying assumptions
+E06-E1,E06,Configure TGR case and operating thresholds,primary,EP01-B,,Case levels and operating thresholds
+E07-E2,E07,Assemble hindcast and common operational inputs,primary,EP01-A,,26-year hindcast ensembles and common operational inputs
+E13-E1,E13,Assemble case data and operating context,primary,EP01-A,,Case observations adjusted for local flow
+E14-E1,E14,Assemble and classify the case data,primary,EP01-A,,Rainfall and inflow records collected and events classified
+E16-E1,E16,"Assemble Oroville forecasts, inflows, and constraints",primary,EP01-D,,Initial relative storage and simulation window around peaks
+E17-E1,E17,Assemble six-site event and forecast inputs,primary,EP01-D,,Common test event and normalization
+E18-E2,E18,Establish site baseline and operating constraints,primary,EP01-C,,Current manual operations as baseline
+E19-E1,E19,Define the reservoir and seasonal operating context,primary,EP01-B,,"Reservoir size, purposes, flood-season levels"
+E19-E2,E19,"Assemble atmospheric, hydrologic, and reservoir data",primary,EP01-A,,"Reanalysis vapor, gauge rainfall, reservoir records synchronized"
+E19-E3,E19,Set idealized forecast horizons for scheme comparison,primary,EP01-D,,Idealized perfect forecasts to isolate information timing
+E20-E1,E20,Define case reservoir and risk thresholds,primary,EP01-B,,"Catchment, capacity, flood-control level, downstream channel capacity"
+E20-E3,E20,Set model inputs and initial state,primary,EP01-D,,Event inputs and fixed initial level
+E21-E1,E21,Acquire and manage basin data,primary,EP01-A,,Basin-wide data system with station network
+E22-E1,E22,Set the Dez Dam case and operation data,primary,EP01-B,,"Dam storage, crest, operating elevation, purposes"
+E24-E1,E24,Specify two-stage water balance and forecast variables,primary,EP01-D,,Stage storages and forecast variables
+E25-E1,E25,Parameterize forecast ensemble and reservoir state,primary,EP01-D,,"Initial storage, antecedent flow, forecast period, storm set"
+E26-E1,E26,Build phase-wise inputs and benchmark rules,primary,EP01-C,,Benchmark flood-control and capacity-constrained rules
+E27-E3,E27,Select and parameterize forecast rule,secondary,EP01-C,,Forecast-based piecewise rule parameterized
+E28-E3,E28,Specify flood input and operating rules,primary,EP01-C,,Prerelease and release-cap rules specified
+E32-E1,E32,Define the multi-reservoir case and variables,primary,EP01-B,,"Reservoirs, control points, and node variables"
+E33-E4,E33,Construct aligned stage-2 design-event inputs,secondary,EP01-D,,Design events aligned beyond forecast horizon
+E35-E1,E35,Define the design event and hindcast frame,primary,EP01-D,,"Design event, initial state, hindcast period, lead time"
+E37-E4,E37,Construct CO comparison operation,primary,EP01-C,,Conventional operation rule as comparator
+E39-E1,E39,Establish case thresholds and operating rules,primary,EP01-B,,"Design/check standards, safe flows, allowable levels"
+E41-E1,E41,Divide the flood season and prepare design floods,primary,EP01-D,,Season divided and design floods at 14 frequencies
+E43-E1,E43,Assemble hydrologic and hydraulic inputs,primary,EP01-A,,"Rainfall, DEM, cross-sections, reservoir and operating data"
+E44-E1,E44,Form aggregation reservoirs,primary,EP01-B,,Reservoirs and channel storage aggregated per control station
+E45-E3,E45,Establish Scheme A,primary,EP01-C,,Conventional FLWL scheme as benchmark
+E48-E1,E48,Define the cascade case and flood inputs,primary,EP01-B,,Cascade and protected region defined
+E49-E3,E49,Set XHD operation parameters and thresholds,primary,EP01-B,,"Level, storage, release bounds and safety thresholds"
+E50-E1,E50,Set the multireservoir case and daily baseline data,primary,EP01-A,,Multi-reservoir daily inflow and release records
+E50-E2,E50,Implement baseline release rules and constraints,primary,EP01-C,,Baseline release rule with hedging and flood-pool logic
+E50-E3,E50,Specify infrastructure and hydrologic inputs,primary,EP01-B,,"Flood-pool limits, ramping, max release, capacity assigned consistently"
